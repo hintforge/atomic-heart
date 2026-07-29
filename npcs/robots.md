@@ -291,7 +291,9 @@ Icons in `sprites/icons/` are game-extracted PNGs. To reproduce: install [FModel
 
 ### Backup web-source images
 
-Some enemies have a second web-sourced image: `sprites/belyash_2.jpg`, `sprites/lab_tech_2.jpg`, `sprites/mutant_2.jpg`, `sprites/natasha_2.jpg`, `sprites/rotorobot_2.jpg`, `sprites/mother_2.jpg`.
+Some enemies have a second web-sourced image: `sprites/belyash_2.jpg`, `sprites/mutant_2.jpg`, `sprites/natasha_2.jpg`, `sprites/rotorobot_2.jpg`, `sprites/mother_2.jpg`.
+
+> **No `lab_tech_2` backup image (2026-07-29).** The fetch attempted for it landed on a dead link: the saved file was a 243KB HTML "Page not found" error page from `guided.news` with a `.jpg` extension, not an image, so it was removed. The primary `sprites/lab_tech.jpg` is a valid JPEG and is unaffected. Do not "restore" this file from the original source -- the link is gone. Re-source from a live page if a second Lab Tech image is ever wanted.
 
 ### Material drop quick-reference
 
