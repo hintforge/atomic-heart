@@ -16,7 +16,7 @@ _source: P1 deep research 2026-05-08 · capture: web_fetch · confidence: high �
 
 | Item / event | Location | Notes |
 |---|---|---|
-| **Hall of Fame chest** (VDNH Tokamak door) | `vdnh_pavilion` — behind the 8-pad keypad door | **missable: yes** — door code is on the blackboard in the opposite office; see `puzzles/tokamak_door.md`. Chest contains Snowball blueprint (alternate acquisition) and a Large Neuromed Capsule |
+| **Hall of Fame chest** (VDNH Tokamak door) | `vdnh_pavilion` — behind the 8-pad keypad door | **missable: yes** — door code is on the blackboard in the opposite office; see `puzzles/combination_locks.md`. Chest contains Snowball blueprint (alternate acquisition) and a Large Neuromed Capsule |
 | **All VDNH Chirpers** ("Burning Ears") | Throughout both VDNH zones | Scan every room |
 | **All VDNH Talking Corpses** ("The Necromancer") | Throughout both VDNH zones | Interact with green-tagged corpses |
 
@@ -27,7 +27,7 @@ _source: P1 deep research 2026-05-08 · capture: web_fetch · confidence: high �
 
 ## Puzzles
 
-- **Tokamak door** (8-pad keypad) — see `puzzles/tokamak_door.md` for hint ladder. Puzzle tier 1: this is a code-entry puzzle; the code is written on a blackboard in the zone.
+- **Tokamak door** (8-pad keypad) — see `puzzles/combination_locks.md` for hint ladder. Puzzle tier 1: this is a code-entry puzzle; the code is written on a blackboard in the zone.
 - **Magnetic-coil puzzles** — multiple in `vdnh_pavilion`. Puzzle tier 1: these are orientation/rotation puzzles using magnetic coils to align conduits. Mass Telekinesis "Increased Power" (if unlocked) can brute-force some of them.
 - **Tereshkova arm quest** — fetch quest that opens the Tokamak room; follow the scanner objective marker.
 

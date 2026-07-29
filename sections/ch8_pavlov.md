@@ -18,7 +18,7 @@ _source: P1 deep research 2026-05-08 · capture: web_fetch · confidence: high �
 |---|---|---|
 | **Chirpers #54–63** ("Burning Ears") | Throughout all Pavlov zones | Scan every room |
 | **Talking Corpses #38–43** ("The Necromancer") | Throughout all Pavlov zones | Interact with green-tagged corpses |
-| **Pavlov optional code-locked door** | `pavlov_hospital` | Community-found alignment optical illusion puzzle; not a story code; see `puzzles/pavlov_code.md`. **Missable** if you leave Pavlov without solving it. |
+| **Pavlov optional code-locked door** | `pavlov_hospital` | Community-found alignment optical illusion puzzle; not a story code; see `puzzles/combination_locks.md`. **Missable** if you leave Pavlov without solving it. |
 | **Hospital ward 5-chest secret room** | `pavlov_hospital` — behind Blood Courier door | Opened by solving the Blood Courier door puzzle. **Permanently locked** once you descend the Morgue elevator (edge E45). Clear this room before going down. See DEP-011. |
 | **Polymer Jelly and Biomaterials** | Chests and cabinets throughout | Pavlov is organic-enemy-rich — more Polymer Jelly here than open world. Sweep everything before the exit elevator. |
 
@@ -29,9 +29,9 @@ _source: P1 deep research 2026-05-08 · capture: web_fetch · confidence: high �
 
 ## Puzzles
 
-- **Blood Courier door code** (`pavlov_infirmary`) — positional code based on colored hospital curtains and a hole-in-wall sight line. Puzzle tier 1: this is an orientation/position puzzle. See `puzzles/blood_courier_door.md`.
+- **Blood Courier door code** (`pavlov_infirmary`) — positional code based on colored hospital curtains and a hole-in-wall sight line. Puzzle tier 1: this is an orientation/position puzzle. See `puzzles/combination_locks.md`.
 - **Section-7 light puzzle, color-dot puzzle, snap-timing door, keycard door** — four distinct lock styles in `pavlov_hospital`. All solvable via in-zone observation; puzzles/files to be created live-observed.
-- **Pavlov optional code door** — community-found alignment optical illusion; not solvable from in-game info alone. See `puzzles/pavlov_code.md`.
+- **Pavlov optional code door** — community-found alignment optical illusion; not solvable from in-game info alone. See `puzzles/combination_locks.md`.
 
 ## Cookie-key mechanic
 

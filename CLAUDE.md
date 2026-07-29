@@ -17,7 +17,6 @@ Spoiler-controlled, NORA-or-Charles-flavored reference for P-3's Atomic Heart pl
 - `puzzles/combination_locks.md` — 10 base + 3 DLC puzzles consolidated.
 - `sections/ch0–ch10.md` — per-chapter walkthroughs (missables, collectibles, build notes).
 - `optional_zones/polygons.md` — all 12 Polygons.
-- `testing_grounds/index.md` — TG access + reward table.
 - `items/` — weapons, abilities, builds, upgrades, consumables, crafting_materials.
 - `npcs/bosses.md`, `mechanics.md` — boss tactics + core mechanics.
 - `controls.md`, `settings.md`, `persona.md` (NORA active), `limitations.md`, `warning_tiers.md`.

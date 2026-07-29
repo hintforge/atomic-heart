@@ -27,8 +27,8 @@ _source: P1 deep research 2026-05-08 · capture: web_fetch · confidence: high �
 
 ## Puzzles
 
-- **Theatre door code** — Engineer's paper in Coat Check. Puzzle tier 1: a code-entry puzzle using a paper document found in the zone. See `puzzles/theatre_door.md`. [missable: yes]
-- **Ballerina / pose-sequence puzzle** — in `lastochkin_theatre_main`. Puzzle tier 1: a sequence-matching puzzle where you replicate ballet positions shown on stage displays. See `puzzles/ballerina.md`.
+- **Theatre door code** — Engineer's paper in Coat Check. Puzzle tier 1: a code-entry puzzle using a paper document found in the zone. See `puzzles/combination_locks.md`. [missable: yes]
+- **Ballerina / pose-sequence puzzle** — in `lastochkin_theatre_main`. Puzzle tier 1: a sequence-matching puzzle where you replicate ballet positions shown on stage displays. See `puzzles/combination_locks.md`.
 
 ## Build note — Fat Boy
 
