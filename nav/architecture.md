@@ -10,7 +10,7 @@
 
 ## Hintforge manifest
 
-corpus-core-version: 5
+corpus-core-version: 6
 game-version: "1.16.3.0 (build 23005793)"
 game-version-platform: "PC / Steam"
 game-version-as-of: 2026-05-27

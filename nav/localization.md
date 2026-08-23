@@ -6,6 +6,8 @@
 
 > This file answers: "When P-3 says they're somewhere, how does the guide confirm or narrow down their location without a screenshot?" Landmarks in this file are tier-0 visible — they are definitional anchors, not spoilers.
 
+**Terminology flexibility:** transliteration variants are common (`Kollektiv` / `Collectiv`, `NORA` / `Nora`, and similar Russian/Soviet names). Accept the player's spelling and prefer the canonical in-game English form in guide output.
+
 _source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confidence: medium-high per entry · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
 
 ---
