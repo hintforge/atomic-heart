@@ -1,14 +1,19 @@
 # Atomic Heart — Polymer Glove Abilities (CHAR-1)
 
-**status:** research-integrated (converged main + sandbox 2026-05-09)
-**last_updated:** 2026-05-09
-**research_run:** P1 deep research 2026-05-08 (sandbox base) + P3 deep research 2026-05-09 (DLC + main-side flags)
+**status:** research-integrated; all seven base-game trees cost-and-prerequisite complete (2026-09-16)
+**last_updated:** 2026-09-16
+**research_run:** P1 deep research 2026-05-08 (sandbox base) + P3 deep research 2026-05-09 (DLC + main-side flags) + node-cost pass 2026-09-16
+
+_source: Atomic Heart Fandom wiki, Skills page (costs + prerequisites) cross-checked against in-game skill-screen screenshots on IGN, All Powers and Upgrades (branch shape) · capture: web_clip 2026-09-16 · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
+[Confirmed: 2 sources, independently cross-validated against the 13 Character costs already in `upgrades.md` (Twinfinite + GameRant, P3)]
 
 ---
 
 ## Overview
 
-**8 skill trees total** (correction from pre-research signal of 3): six Polymer Glove ability lines + Energy Management + Character tree. The Character tree is in `upgrades.md`.
+**8 skill trees total** (correction from pre-research signal of 3) — but **seven of them are in the base game and the eighth is DLC-only**. The base-game seven are five Polymer Glove ability lines (Shok, Frostbite, Mass Telekinesis, Polymeric Jet, Polymeric Shield) plus Energy Management and Character. Techno-Stasis, in *Annihilation Instinct*, is the eighth. The Character tree is in `upgrades.md`.
+
+> **Corrected 2026-09-16.** P1 recorded "six Polymer Glove ability lines" and this file then only ever named five. There is no sixth base-game glove line: the skill screen's own tree list, legible in IGN's in-game screenshots, reads Shok · Character · Frostbite · Mass Telekinesis · Polymeric Jet · Polymeric Shield · Energy Management and stops there.
 
 **Slot system:** Two abilities can be slotted at any time (swap with D-Pad ↑ / F key). **Shok is permanently equipped as a free third ability** — it does not occupy a slot and is always active. Respecs cost nothing at NORA stations.
 
@@ -17,7 +22,11 @@ All upgrades purchased at NORA stations with **Neuropolymer** (a separate curren
 _source: P1 deep research 2026-05-08 · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
 [Confirmed: 6 sources — DenOfGeek, SegmentNext, GameRant, GBTimes, dotesports, TheGamer; ru: StopGame, VGTimes]
 
-**Note on Polymer cost precision:** Exact Neuropolymer costs cited below are ±10%. Russian community sources (StopGame, VGTimes) tend to be more precise than English guides. Treat all costs as approximate until verified in-game. (See also `upgrades.md` for canonical P3-confirmed values.)
+**Note on Polymer costs — upgraded from "±10%" to sourced, 2026-09-16.** Every node cost and prerequisite below now comes from the Atomic Heart Fandom wiki *Skills* page, with each tree's branch shape checked against the in-game screenshots on IGN's *All Powers and Upgrades*. The cross-check is strong: all 13 Character-tree costs match the figures in `upgrades.md`, which P3 confirmed independently against Twinfinite and GameRant.
+
+**The standing caveat is patch drift, not source quality.** Mundfish changed upgrade values silently in patches 1.6, 1.8 and 1.9.2, and the wiki reflects some version of the game rather than necessarily yours. If a NORA terminal disagrees with a number here, the terminal is right.
+
+**Reading the tables below:** each tree lists every node with its cost and the node that unlocks it. Because most nodes sit behind a chain, a node's price and what it actually costs you to reach are different numbers — the per-tree notes call out the cases where that gap is large enough to change a buying decision.
 
 ---
 
@@ -28,9 +37,9 @@ Cross-language consensus (English + Russian community; 5+ sources, 2 languages).
 | Tier | Ability | Key upgrades | Notes |
 |---|---|---|---|
 | S | **Mass Telekinesis** | Forced Fall Acceleration, Increased Power (lift heavyweights), Energy Vampire | Best single-target/AoE crowd-control; dominant counter to lab-tech swarms. **Energy Vampire is near-required for Armageddon difficulty** (final boss). RU community agrees with EN consensus. |
-| S | **Frostbite** | Absolute Zero (DoT on frozen targets), Drastic Measures (HP-for-ammo) | Must-have for mid-game survival; vgtimes.ru calls it the top upgrade after early HP nodes. |
+| S | **Frostbite** | Absolute Zero (DoT on frozen targets, 333 to reach), Drastic Measure (HP-for-ammo, 58 to reach) | Must-have for mid-game survival; vgtimes.ru calls it the top upgrade after early HP nodes. |
 | A (always-on) | **Shok** | Chain Lightning, Extended Topology, Full Contact | Passive / always-equipped — does not use an ability slot. Max early; free third ability. |
-| A (boss/situational) | **Polymeric Shield** | Sponge Effect (energy-on-hit), Kinetic Reflector (reflect ranged), Med Unit Feedback (HP-on-hit) | Slot in only for boss fights (Hedgehog, Belyash, Natasha). Swap back out post-boss. |
+| A (boss/situational) | **Polymeric Shield** | Sponge Effect (melee-to-energy), Neuro-Polymer Reflector (reflect ranged), Med Unit Feedback (HP-on-hit) | Slot in only for boss fights (Hedgehog, Belyash, Natasha). Swap back out post-boss. **Ranged reflection is Neuro-Polymer Reflector, not Kinetic Reflector** — see Tree 5. |
 | B (synergy) | **Polymeric Jet** | — | Inefficient unless paired with electric or fire cartridges. RU forum users (playground.ru) rate it lower than EN guides. |
 | A (build-enabling) | **Energy Management tree** | Energy Density nodes (×3) | Top priority for Dominator/Electro/Railgun builds — doubles energy reserve. |
 
@@ -40,16 +49,24 @@ Cross-language consensus (English + Russian community; 5+ sources, 2 languages).
 
 ## Tree 1 — Shok (permanently equipped, no slot cost)
 
-| Skill | Effect | Community priority |
-|---|---|---|
-| **Power Amplifier** | Shok pushes enemies back + damage bonus | 1st |
-| **Electrization** | Shok applies electrification DoT + stun | 2nd |
-| **Chain Lightning** | Arc jumps to 3 targets | 3rd |
-| **Extended Topology** | Larger arc radius | 4th |
-| **Full Contact** | Secondary arc jumps deal full damage (not reduced) | 5th |
-| **Neuro-polymer Acceleration** (shared) | Reduces Shok cooldown | last |
+**Full tree: 560 Neuropolymer, 10 nodes.** Two branches off the free root.
 
-**Community priority:** Power Amplifier → Electrization → Chain Lightning → Full Contact. Fill Extended Topology + Neuro-polymer Acceleration last — Shok is effective at base levels, and the other trees give more value per Neuropolymer early. [Confirmed: PrimaGames, GamesRadar, PCGamesN]
+| Skill | Cost | Unlocked by | Effect |
+|---|---|---|---|
+| **Shok** | 0 | story | Electromagnetic discharge; robots are especially vulnerable |
+| **Amplified Modulator** | 26 | Shok | Increases effective range |
+| **Chain Lightning** | 69 | Amplified Modulator | Part of the discharge bounces to an additional target |
+| **Extended Topology** | 75 | Chain Lightning | Chain Lightning hits one more target |
+| **Full Contact** | 95 | Extended Topology | Secondary Chain Lightning targets take full damage |
+| **Electrization** | 32 | Shok | Shok electrifies enemies |
+| **Power Amplifier** | 40 | Electrization | More damage; pushes enemies back |
+| **Resister Malfunction** | 61 | Power Amplifier | Electrified targets take increased damage |
+| **Neuro-Polymer Accelerator** | 75 | Resister Malfunction | Reduces Shok cooldown |
+| **Powerful Electrization** | 87 | Neuro-Polymer Accelerator | Repeated hits stack Electrified and shatter low-HP polymerized enemies |
+
+> **Corrected 2026-09-16 — the old priority order was impossible.** This file previously recommended "Power Amplifier → Electrization". Electrization is Power Amplifier's *prerequisite*, so that order cannot be bought. The cheapest real route into Shok is **Amplified Modulator (26) → Electrization (32) → Power Amplifier (40)** — 98 Neuropolymer for the three nodes the community rates highest. The old list also named "Neuro-polymer Acceleration"; the node is **Neuro-Polymer Accelerator**, and a node by that name appears in five separate trees.
+
+**Community priority, corrected to the real chain:** Electrization → Power Amplifier first (the damage-and-stagger core), then Chain Lightning via Amplified Modulator. Full Contact and Powerful Electrization last — Shok is effective at base level and the other trees give more value per Neuropolymer early. [Confirmed: PrimaGames, GamesRadar, PCGamesN]
 
 **Best vs.:** robots (Vovas, Pchelas). Weaker vs. organic mutants (mutants are Shok-resistant) — switch to Fire cartridge or Fat Boy for organic enemies.
 
@@ -59,13 +76,24 @@ Cross-language consensus (English + Russian community; 5+ sources, 2 languages).
 
 ## Tree 2 — Frostbite (slot ability)
 
-| Skill | Effect |
-|---|---|
-| **Absolute Zero** | Heavy damage-over-time vs. frozen targets; also enables melee shatter kills |
-| **Careful Disassembly** | Frozen enemies drop bonus loot/materials when killed |
-| **Increased Polymer Generation** (shared) | More suit energy generated passively |
-| **Frost Density** | Larger Frostbite AoE |
-| **Drastic Measures** | HP-for-ammo conversion |
+**Full tree: 639 Neuropolymer, 12 nodes.** Three branches off High Pressure.
+
+| Skill | Cost | Unlocked by | Effect |
+|---|---|---|---|
+| **Cryo Jet** | 12 | story | Jet of cryopolymer; frozen enemies cannot move |
+| **High Pressure** | 11 | Cryo Jet | Increases maximum range |
+| **Drastic Measure** | 35 | High Pressure | Fires from your bloodstream when reserves are empty, at the cost of health |
+| **Forced Defrost** | 34 | High Pressure | Frozen targets take extra damage when the freeze ends |
+| **Careful Disassembly** | 66 | Forced Defrost | Increased loot from frozen kills |
+| **Neuro-Polymer Accelerator** | 70 | Careful Disassembly | Reduces cooldown |
+| **Increased Polymer Generation** | 101 | Neuro-Polymer Accelerator | Cryo Jet fires for longer |
+| **Fire Extinguisher** | 22 | High Pressure | The spray neutralizes incoming fire damage |
+| **Intensive Spraying** | 48 | Fire Extinguisher | Freezes enemies faster |
+| **Diffuse Spray Head** | 48 | Intensive Spraying | Spray in a cone |
+| **Cryo Sleep** | 88 | Diffuse Spray Head | Longer freeze duration |
+| **Absolute Zero** | 104 | Cryo Sleep | Damage every second to frozen targets |
+
+> **Corrected 2026-09-16.** "Frost Density" does not exist in either source — the AoE node is **Diffuse Spray Head**. The HP-for-ammo node is **Drastic Measure**, singular. **Absolute Zero is not an early buy:** it sits at the far end of the Fire Extinguisher branch, so reaching it costs 12+11+22+48+48+88+104 = **333 Neuropolymer**, not the ~104 a flat list implies. The whole Fire Extinguisher chain was missing from this file.
 
 **Synergies:** Frost → freeze → Pashtet melee → shatter kill. This is the core of Build A (Melee/Cryo), the consensus best build for Armageddon.
 
@@ -77,13 +105,21 @@ Cross-language consensus (English + Russian community; 5+ sources, 2 languages).
 
 ## Tree 3 — Mass Telekinesis (slot ability)
 
-| Skill | Effect |
-|---|---|
-| **Forced Fall Acceleration** | Lifted enemies take heavy impact damage when slammed to the ground |
-| **Increased Power** | Lifts heavy and boss-class enemies (otherwise only lighter enemies) |
-| **Extended Range** | Wider grab radius |
-| **Energy Vampire** | Drains energy from lifted target — **near-required for Armageddon** (final boss) |
-| **Linked Souls** (community-translated name) | Links two enemies — damage dealt to one is shared to the other |
+**Full tree: 1,207 Neuropolymer, 9 nodes — the most expensive tree in the game and the most back-loaded.**
+
+| Skill | Cost | Unlocked by | Effect |
+|---|---|---|---|
+| **Mass Telekinesis** | 66 | story | Lifts every enemy in the area into the air |
+| **Forced Fall Acceleration** | 70 | Mass Telekinesis | Dropped enemies are accelerated and take fall damage |
+| **Amplified Modulator** | 79 | Mass Telekinesis | Wider area of effect |
+| **Barotrauma** | 93 | Amplified Modulator | More per-second damage |
+| **Drastic Measure** | 144 | Barotrauma | Runs on your ATP when reserves are empty, at the cost of health |
+| **Increased Impact** | 210 | Drastic Measure | Enemies are held aloft longer |
+| **Increased Power** | 144 | Amplified Modulator | Lifts heavyweight enemies |
+| **Neuro-Polymer Accelerator** | 175 | Increased Power | Reduces cooldown |
+| **Energy Vampire** | 226 | Neuro-Polymer Accelerator | Drains energy from gripped enemies; needs one Power Cell |
+
+> **Corrected 2026-09-16.** "Extended Range" is **Amplified Modulator**; "Linked Souls" appears in neither source and is dropped. **The costs matter for planning:** Energy Vampire is the single priciest node in the game at 226, and reaching it means buying the whole chain — 66+79+144+175+226 = **690 Neuropolymer**. Calling it "near-required for Armageddon" without that number badly understates the commitment. Increased Power alone (boss lifting) is 66+79+144 = **289**.
 
 **Community priority:** Forced Fall Acceleration → Increased Power (enables boss lifting) → Energy Vampire if going Armageddon. [Confirmed: GameRant, TheGamer]
 
@@ -95,11 +131,21 @@ Cross-language consensus (English + Russian community; 5+ sources, 2 languages).
 
 ## Tree 4 — Polymeric Jet (slot ability)
 
-| Skill | Effect |
-|---|---|
-| **High Viscosity** | Slows enemies caught in the jet stream |
-| **Mixture Efficacy** | Damage bonus to enemies in the jet |
-| **Increased Chemical Reactive Distance** | Wider jet AoE |
+**Full tree: 506 Neuropolymer, 9 nodes — the cheapest tree to finish.**
+
+| Skill | Cost | Unlocked by | Effect |
+|---|---|---|---|
+| **Polymeric Jet** | 20 | story | Sprays combat polymer that can then be ignited, electrified or frozen |
+| **High Pressure** | 23 | Polymeric Jet | Increases maximum range |
+| **Environmental Resistance** | 52 | High Pressure | Applied polymer lasts longer |
+| **Neuro-Polymer Air Defense** | 85 | Environmental Resistance | Slows rotors to bring down airborne enemies |
+| **Increased Polymer Generation** | 89 | Neuro-Polymer Air Defense | Fires for longer |
+| **Increased Chemical Reactivity Distance** | 39 | High Pressure | Polymer on one target affects nearby enemies |
+| **Mixture Efficacy** | 46 | Increased Chemical Reactivity Distance | Fire and electrification reactions hit harder |
+| **High Viscosity** | 63 | Mixture Efficacy | Polymer slows targets |
+| **Neuro-Polymer Accelerator** | 89 | High Viscosity | Reduces cooldown |
+
+> **Corrected 2026-09-16.** The node is "Increased Chemical Reactivity Distance" (not "Reactive"), and Mixture Efficacy improves the *elemental reaction*, not raw jet damage. The Environmental Resistance / Air Defense branch was missing entirely. At 506 to complete, this is the cheapest slot tree by a wide margin — worth weighing against the corpus's low tier rating, since "inefficient without a cartridge" and "cheap to max" pull in opposite directions.
 
 **Synergies:** Polymeric Jet + Fire cartridge = fire-ignite on enemies slowed in polymer. Pairs well with KS-23 or Kalash + fire cartridge socket.
 
@@ -107,13 +153,27 @@ Cross-language consensus (English + Russian community; 5+ sources, 2 languages).
 
 ## Tree 5 — Polymeric Shield (slot ability)
 
-| Skill | Effect |
-|---|---|
-| **Med Unit Feedback** | Blocked damage converts to HP regeneration |
-| **Sponge Effect** | Blocked damage converts to suit Energy instead of HP |
-| **Kinetic Reflector** | Reflects incoming projectiles back at enemies |
+**Full tree: 948 Neuropolymer, 11 nodes.** One lone node off the root, then two long chains off Overload and Destabilize.
 
-**Note on Kinetic Reflector:** reliably reflects bullets; behavior vs. laser sweeps (e.g., Dewdrop spider boss) is inconsistent — reports of partial/no reflection. [Confirmed but contested: multiple Reddit reports] [Contradicted — treat as: bullets yes, beams unreliably]
+| Skill | Cost | Unlocked by | Effect |
+|---|---|---|---|
+| **Polymeric Shield** | 28 | story | Blocks melee and ranged damage; feeds some absorbed energy back. Does **not** stop critical attacks |
+| **Absorption Coefficient** | 46 | Polymeric Shield | Faster recirculation-chamber refill |
+| **Overload and Destabilize** | 43 | Polymeric Shield | Retracting a full shield explodes, spraying combat polymer |
+| **Sponge Effect** | 82 | Overload and Destabilize | Melee attacks recharge your energy meter |
+| **Kinetic Reflector** | 98 | Sponge Effect | Doubles incoming **melee** damage and reflects it |
+| **Neuro-Polymer Accelerator** | 96 | Kinetic Reflector | Reduces cooldown |
+| **Kinetic Reflector Upgrade** | 145 | Neuro-Polymer Accelerator | More reflected damage; blocks even critical attacks |
+| **Reflective Surface** | 82 | Overload and Destabilize | Reflects **laser** attacks |
+| **Neuro-Polymer Reflector** | 98 | Reflective Surface | Reflects **all ranged** attacks |
+| **Increased Polymer Generation** | 106 | Neuro-Polymer Reflector | Shield lasts longer |
+| **Med Unit Feedback** | 124 | Increased Polymer Generation | Redirects part of incoming damage to the Med Unit, restoring health |
+
+> **RESOLVED 2026-09-16 — the long-standing Kinetic Reflector contradiction.** This file carried a `[Contradicted]` marker reading "bullets yes, beams unreliably", built on Reddit reports of inconsistent reflection against laser sweeps like the Dewdrop spider boss. Both sources agree the reports were describing the wrong node. **Kinetic Reflector is melee-only** — it doubles and returns incoming *melee* damage. Ranged reflection is a separate branch that players were conflating with it: **Reflective Surface** (82) handles lasers and **Neuro-Polymer Reflector** (98) handles all ranged attacks. Players reporting "no reflection" against beams had bought the melee branch. The marker is retired.
+>
+> **Practical consequence:** the two branches are near-exclusive in practice. Beam-reflection costs 28+43+82+98 = **251**; the melee-reflection line to Kinetic Reflector costs 28+43+82+98 = **251** as well, and Med Unit Feedback — the HP-return node the tier list calls out — is the *last* node on the ranged branch at 28+43+82+98+106+124 = **481**.
+>
+> **Sponge Effect is also mis-described above the table:** it converts *melee attacks* into energy, not blocked damage.
 
 **Crucial on Armageddon difficulty.** Sponge Effect + shield-up-vs-Ivy whip damage is a documented Armageddon-survival technique for Pavlov (Ch.8).
 
@@ -121,13 +181,23 @@ Cross-language consensus (English + Russian community; 5+ sources, 2 languages).
 
 ## Tree 6 — Energy Management (passive tree)
 
-| Skill | Effect | Ranks |
-|---|---|---|
-| **Energy Density** | Increases suit Power Cell capacity | ×3 (buy all three) |
-| **Greedy Guts** | Melee hits restore suit energy | 1 |
-| **Recycling** | Reduces ability activation cost | 1 |
+**Full tree: 789 Neuropolymer, 7 nodes.** One chain with two terminal branches.
 
-**Priority:** Energy Density ×1 early, ×2–×3 as you build toward energy-weapon loadout. Greedy Guts pairs with Fox (energy-on-hit) for near-infinite energy sustain in melee.
+| Skill | Cost | Unlocked by | Effect |
+|---|---|---|---|
+| **Energy Density I** | 0 | story | Adds a Power Cell to the recirculation chamber |
+| **ATP Recycling** | 82 | Energy Density I | Lost health is recycled into energy |
+| **Energy Density II** | 34 | ATP Recycling | Adds another Power Cell |
+| **Greedy Guts** | 146 | Energy Density II ⚠ | Melee attacks restore more energy |
+| **Energy Density III** | 104 | Energy Density II | Adds another Power Cell |
+| **Thrift** | 184 | Energy Density III ⚠ | Ranged attacks consume less chamber power |
+| **Energy Containment** | 239 | Thrift | Faster energy regeneration |
+
+> **Corrected 2026-09-16.** "Recycling" does not exist — the ability-cost node is **Thrift**, and it reduces *ranged weapon* draw, not ability activation cost. The three Energy Density ranks are **not the same price**: 0, then 34, then 104.
+>
+> ⚠ **Two prerequisites are inferred, not sourced.** The wiki lists the parents of Greedy Guts and Thrift only as "Energy Density", and three nodes share that name, so the table cannot say which rank. The chain above is the reading that matches the in-game layout (a five-node row with one branch up off the left end and one down off the right). Verify at a terminal and correct if wrong.
+
+**Priority:** Energy Density I is free — take it the moment the tree opens. Ranks II and III come cheap-then-dear (34, then 104) and gate every energy-weapon build. Greedy Guts pairs with Fox (energy-on-hit) for near-infinite melee sustain, but at 146 behind a 116-cost run-up it is a mid-game purchase, not an early one.
 
 ---
 
@@ -135,18 +205,26 @@ Cross-language consensus (English + Russian community; 5+ sources, 2 languages).
 
 From community consensus across 6 sources [Confirmed: DenOfGeek, SegmentNext, GameRant, GBTimes, dotesports, TheGamer; ru: StopGame]:
 
-1. **Wild Boar** (Character — see `upgrades.md`) — cheapest HP boost; gets you through Vavilov
-2. **Second Wind** (Character) — extra dodge for ~8 Neuropolymer; best value in tree
-3. **Juggler** (Character) — use Neuromed without lowering weapon; sustained combat survivability
-4. **Sleazeball** (Character) — i-frames during dodge; ~62 Neuropolymer but game-changing on Armageddon
-5. **Energy Density ×1** — first Power Cell capacity bump
-6. **Frostbite: Absolute Zero** — enables freeze-shatter combo; defines the build pivot
-7. **Shok: Power Amplifier** — now that basics are covered
-8. **Forced Fall Acceleration** (TK) — ground-slam damage
-9. **Med Unit Upgrade** (Character) — passive HP regen
-10. **Mass TK: Increased Power** — boss lifting
+Costs added and two errors fixed 2026-09-16. The **reach cost** column is what the node actually costs including every prerequisite you must buy to get to it — which is the number that decides an early-game order, and which the original list omitted.
 
-**Where guides disagree:** TheGamer (EN) pushes Shok upgrades first; StopGame + VGTimes (RU) push Frostbite + melee as the early-Armageddon answer. **Reconciliation:** Shok is best vs. mechanical robots (Vovas, Pchelas); Frost is best vs. all organic bosses except Hedgie.
+| # | Skill | Node cost | Reach cost | Why |
+|---|---|---|---|---|
+| 1 | **Wild Boar** (Character) | 37 | 37 | Cheapest HP boost; gets you through Vavilov |
+| 2 | **Second Wind** (Character) | 38 | 75 | An extra dodge charge; best value in the tree |
+| 3 | **Energy Density I** | 0 | 0 | Free. Take it the moment the tree opens |
+| 4 | **Sleazeball** (Character) | 62 | 137 | I-frames while dodging; game-changing on Armageddon |
+| 5 | **Shok: Power Amplifier** | 40 | 72 | Via Electrization (32) — the damage-and-stagger core |
+| 6 | **Med Unit Upgrade** (Character) | 57 | 121 | Via Photon Silk (27); passive HP regen |
+| 7 | **Juggler** (Character) | 87 | 318 | Neuromed one-handed — but it sits behind Musclehead, so it is a mid-game buy, not a third purchase |
+| 8 | **Forced Fall Acceleration** (TK) | 70 | 136 | Ground-slam damage |
+| 9 | **Frostbite: Absolute Zero** | 104 | 333 | Enables freeze-shatter; the build pivot — and far dearer to reach than it looks |
+| 10 | **Mass TK: Increased Power** | 144 | 289 | Boss lifting |
+
+> **Two corrections.** "Second Wind for ~8 Neuropolymer" was wrong by roughly 5× — it costs **38**, matching `upgrades.md`. And **Juggler cannot be the third purchase**: it requires Musclehead, which requires Med Unit Upgrade, which requires Photon Silk, so it costs 318 to reach. It has been moved down accordingly.
+>
+> **The general lesson for this tree:** flat "buy this first" lists hide prerequisite chains. Absolute Zero reads as a 104-cost node and is really a 333-cost commitment; Juggler reads as 87 and is really 318. Use the reach column, not the node price, when deciding what to buy next.
+
+**Where guides disagree:** TheGamer (EN) pushes Shok upgrades first; StopGame + VGTimes (RU) push Frostbite + melee as the early-Armageddon answer. **Reconciliation:** Shok is best vs. mechanical robots (Vovas, Pchelas); Frost is best vs. all organic bosses except Hedgie. **The costs favour Shok early on their own merits** — Power Amplifier is reachable for 72 against Absolute Zero's 333.
 
 ---
 
