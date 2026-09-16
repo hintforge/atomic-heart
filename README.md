@@ -2,6 +2,10 @@
 
 ![Atomic Heart companion status — coverage, live-game verification, spoiler control, and save reader](assets/readme-status-card.svg)
 
+![Skill-tree planner built on this corpus — four trees compared side by side, each node showing its Neuropolymer cost and prerequisite, with a purchase order and loadout totals for a 300-polymer balance](assets/readme-skill-planner.png)
+
+*A planner built directly on this guide's skill data: every node's cost and what unlocks it, four trees compared at once, and what the Neuropolymer in your pocket actually buys. The corpus behind it is in this repo; the planner itself is a personal tool and isn't distributed here.*
+
 A spoiler-controlled hint companion for **Atomic Heart**, the first-person action-RPG set in an alternate 1955 USSR. Built in the [Hintforge](https://github.com/hintforge/builder) format: a loyal sidekick that answers only from these guide files — never from guesswork — at the spoiler level you set, and that tracks where you are so you can step away and pick back up.
 
 ## Use it
@@ -25,4 +29,4 @@ The one place spoilers are genuinely hard to contain is the **save-state reader*
 
 ## What's inside
 
-A structured Markdown corpus — mechanics, zone navigation, enemies/NPCs, items, puzzles, optional zones, and all 82 achievements (base game + DLC) — plus a save-state watcher (`save_watcher.py`) that reports your position spoiler-safely. Interactive planners (skill-tree, weapon-upgrade) are on the roadmap, not yet built. The companion reads and writes only the files you control.
+A structured Markdown corpus — mechanics, zone navigation, enemies/NPCs, items, puzzles, optional zones, and all 82 achievements (base game + DLC) — plus a save-state watcher (`save_watcher.py`) that reports your position spoiler-safely. The skill data is complete to the node: all 77 base-game skills across seven trees, each with its Neuropolymer cost and the node that unlocks it, which is what the planner pictured above is built on. A weapon-upgrade planner is still on the roadmap. The companion reads and writes only the files you control.
