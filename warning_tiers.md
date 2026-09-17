@@ -45,10 +45,10 @@ To change: "set enemy warning to tier N" / "set puzzle tier to N." Update this s
 
 The hint ladder (Lvl 1 nudge → Lvl 2 more → Lvl 3 step-by-step) is **request-based** — P-3 asks for what they want. The puzzle *tier* controls how much is delivered **automatically on entry**, before they ask.
 
-### Tier 0 — Silent
+### Tier 0 — Silent ← **current setting**
 - No puzzle info preempted. P-3 asks for everything via the Lvl 1/2/3 ladder.
 
-### Tier 1 — Mechanic identified ← **current setting**
+### Tier 1 — Mechanic identified
 - On entry to a puzzle, name the puzzle type and core mechanic in one short sentence.
 - Examples: "this is a combination lock — rotate the dials to match the code," "this is a Tetris-block relay — orient the pieces to complete the circuit."
 - Don't deliver Lvl 1 nudge unless asked.
