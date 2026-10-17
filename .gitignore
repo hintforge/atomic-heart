@@ -30,6 +30,15 @@
 !README.md
 !assets/**
 
+# --- Collectible map: a reusable tool (publishing the map cleared 2026-10-15) ---
+# The page is built with no taken marks; item_status.json is the player's own marks and never ships.
+!artifacts/full_map.html
+!artifacts/artifacts.json
+!artifacts/shots/ah_open_world.jpg
+!extract_tools/collectible_map.json
+!extract_tools/collectible_catalog.json
+!extract_tools/map_positions.json
+
 # --- Declared vector-extensions (one !<ext>/** per manifest entry) ---
 !puzzles/**
 !npcs/**

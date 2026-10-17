@@ -1,0 +1,64 @@
+{
+ "format": "hintforge-collectible-map-1",
+ "guide": "atomic_heart",
+ "catalog": "extract_tools/collectible_catalog.json",
+ "status": "extract_tools/item_status.json",
+ "out": "artifacts/full_map.html",
+ "storage_key": "hf-atomic-heart-full-map-marks",
+ "image": {"file": "artifacts/shots/ah_open_world.jpg", "size": [3585, 1979]},
+ "coords": {"kind": "pixels", "positions": "extract_tools/map_positions.json"},
+ "numbering": {"mode": "source"},
+ "categories": [
+  {"category": "Chirper", "letter": "C", "name": "Chirper (Neuromed audio log)", "color": [110, 200, 255], "title": "{cat_short} #{number}"},
+  {"category": "Talking Corpse", "letter": "D", "name": "Talking corpse", "color": [190, 150, 255], "title": "{cat_short} #{number}"},
+  {"category": "Talking Animal", "letter": "A", "name": "Talking animal", "color": [255, 175, 90], "title": "{cat_short} #{number}"},
+  {"category": "Testing Ground", "letter": "T", "name": "Testing Ground", "color": [255, 210, 90], "shape": "square",
+   "title": "Testing Ground {number}", "where_label": "How to open it"},
+  {"category": "Lootyagin", "letter": "L", "name": "Lootyagin chest", "color": [120, 230, 200],
+   "code": "{letter}{number}{tier:.1}", "title": "Lootyagin chest, {tier!l}, Testing Ground {number}", "where_label": "How to get it",
+   "orbit": {"field": "tier", "slots": {"Bronze": -1, "Silver": 0, "Gold": 1}, "scale": 0.85}}
+ ],
+ "fields": {"number": "number", "open_world": "open_world", "window": "window", "source_url": "source_url"},
+ "spoilers": [
+  {"when": {"category": ["Lootyagin"]}, "action": "fold", "why": "a puzzle solution"},
+  {"when": {"field": "where", "regex": "(?i)\\b(enem(?:y|ies)|boss(?:es)?|hog-?7|hedgie|plyusch|natasha|belyash|claire|rosa|twins?|ballerinas?|mutants?|robots?|drill ?bot|vovchik|pchela|dandelion|fight|defeat\\w*|kill\\w*)\\b"}, "action": "fold", "why": "an enemy or boss"},
+  {"when": {"field": "where", "regex": "(?i)\\b(theat(?:er|re)|theather|infirmary|hospital|pavlov|lighthouse|whale|petrov of opera|sky'?s the limit|bridge pon?r)\\b"}, "action": "fold", "why": "a later story place"}
+ ],
+ "detail_shows_where": true,
+ "row_text_max": 90,
+ "groups": {
+  "hidden_why": "a later story place",
+  "rules": [
+   {"when": {"category": ["Testing Ground", "Lootyagin"]}, "name": "Testing Grounds", "rank": 1},
+   {"when": {"truthy": "open_world"}, "name": "Open world, {location}", "rank": 0, "order_field": "location",
+    "order": ["Sector 03", "Sector 06", "Sector 04", "Sector 07", "Sector 05", "Sector 01"], "missing": 9},
+   {"name": "{location}", "rank": 2, "order_field": "location",
+    "order": ["Facility 3826", "Forester", "Exhibition Center Electromagnetic Mirror Facility", "Exhibition Center",
+              "Computational Center", "Theater", "Infirmary", "Pavlov Complex", "Lighthouse"], "missing": 99,
+    "hidden": ["Theater", "Infirmary", "Pavlov Complex", "Lighthouse"], "hidden_name": "Story location {n}"}
+  ]
+ },
+ "sort": ["group", {"category_first": ["Testing Ground"]}, "number", {"field": "tier", "order": ["Bronze", "Silver", "Gold"]}],
+ "no_position": [
+  {"when": {"truthy": "open_world"}, "text": "its map screenshot could not be stitched in"},
+  {"text": "inside a story location"}
+ ],
+ "views": [
+  {"label": "Whole map", "box": "image"},
+  {"label": "Items", "box": {"items_pad": 220}}
+ ],
+ "start_view": "Items",
+ "zoom_limits": [120, 6000],
+ "style": {"sidebar_width": 360, "map_bg": "#16191e", "code_min_width": 42},
+ "text": {
+  "title": "Atomic Heart collectible map",
+  "subtitle": "Open world stitched from in-game map screenshots. Codes follow the 100pguides numbering: C = Chirper, D = talking corpse, A = talking animal, T = Testing Ground (square), L = Lootyagin chest (L8G = Testing Ground 8, gold), drawn above its Testing Ground. Green ring and tick = taken; a dashed outline means the position is approximate. Scroll or pinch to zoom, drag to pan. Click a dot to see what it is; mark it taken in the side panel (Mark taken button or the list tick boxes). Items with no spot on this map are in the list, grouped by place.",
+  "credit": "Item list, numbering and location text: 100pguides, \"Atomic Heart All Collectible Locations\" and its Testing Ground walkthroughs. Map picture: in-game map screenshots from the same guide. Third party, for your own use. Sectors are named after the nearest HAWK, as that guide does.",
+  "source_link": "Source entry on 100pguides"
+ },
+ "test": {
+  "hidden_words": ["Theater", "Infirmary", "Pavlov", "Lighthouse"],
+  "folded_words": ["Hog-7", "Hedgie", "Natasha", "Plyusch", "Belyash", "Claire", "Rosa", "Twins", "Ballerina"],
+  "min_nopos_rows": 100
+ }
+}

@@ -1,0 +1,303 @@
+{
+ "image": "shots/ah_open_world.jpg",
+ "size": [
+  3585,
+  1979
+ ],
+ "positions": {
+  "100p:corpse-42": {
+   "x": 1168.4,
+   "y": 831.9,
+   "via": "player marker, corpse-42_0",
+   "approx": false
+  },
+  "100p:chirper-64": {
+   "x": 1158.6,
+   "y": 795.0,
+   "via": "player marker, chirper-64_0",
+   "approx": false
+  },
+  "100p:corpse-43": {
+   "x": 979.9,
+   "y": 714.0,
+   "via": "player marker, corpse-43_0",
+   "approx": false
+  },
+  "100p:chirper-65": {
+   "x": 1076.3,
+   "y": 865.0,
+   "via": "player marker, chirper-65_0",
+   "approx": false
+  },
+  "100p:chirper-66": {
+   "x": 1070.9,
+   "y": 940.6,
+   "via": "player marker, chirper-66_0",
+   "approx": false
+  },
+  "100p:chirper-67": {
+   "x": 1304.8,
+   "y": 1171.8,
+   "via": "player marker, chirper-67_0",
+   "approx": false
+  },
+  "100p:animal-1": {
+   "x": 1142.0,
+   "y": 1156.7,
+   "via": "player marker, animal-1_0",
+   "approx": false
+  },
+  "100p:chirper-68": {
+   "x": 799.1,
+   "y": 1349.2,
+   "via": "player marker, chirper-68_0",
+   "approx": false
+  },
+  "100p:corpse-44": {
+   "x": 750.0,
+   "y": 1338.4,
+   "via": "player marker, corpse-44_0",
+   "approx": false
+  },
+  "100p:corpse-45": {
+   "x": 1432.0,
+   "y": 1288.2,
+   "via": "player marker, corpse-45_0",
+   "approx": false
+  },
+  "100p:chirper-69": {
+   "x": 1579.7,
+   "y": 1324.0,
+   "via": "player marker, chirper-69_0",
+   "approx": false
+  },
+  "100p:chirper-70": {
+   "x": 1352.7,
+   "y": 1529.5,
+   "via": "player marker, chirper-70_0",
+   "approx": false
+  },
+  "100p:corpse-46": {
+   "x": 1366.4,
+   "y": 1556.0,
+   "via": "player marker, corpse-46_0",
+   "approx": false
+  },
+  "100p:corpse-47": {
+   "x": 1848.4,
+   "y": 793.4,
+   "via": "player marker, corpse-47_0",
+   "approx": false
+  },
+  "100p:animal-2": {
+   "x": 2053.9,
+   "y": 762.4,
+   "via": "player marker, animal-2_0",
+   "approx": false
+  },
+  "100p:corpse-48": {
+   "x": 2148.6,
+   "y": 806.0,
+   "via": "player marker, corpse-48_0",
+   "approx": false
+  },
+  "100p:corpse-49": {
+   "x": 2155.3,
+   "y": 727.0,
+   "via": "player marker, corpse-49_0",
+   "approx": false
+  },
+  "100p:corpse-50": {
+   "x": 2176.3,
+   "y": 733.4,
+   "via": "player marker, corpse-50_0",
+   "approx": false
+  },
+  "100p:chirper-71": {
+   "x": 2616.7,
+   "y": 571.6,
+   "via": "player marker, chirper-71_0",
+   "approx": true
+  },
+  "100p:chirper-72": {
+   "x": 2707.9,
+   "y": 745.8,
+   "via": "player marker, chirper-72_0",
+   "approx": true
+  },
+  "100p:animal-3": {
+   "x": 2829.8,
+   "y": 796.7,
+   "via": "player marker, animal-3_0",
+   "approx": true
+  },
+  "100p:tg-1": {
+   "x": 967.7,
+   "y": 852.1,
+   "via": "labelled icon in tg-1_0",
+   "approx": false
+  },
+  "100p:tg-2": {
+   "x": 2189.4,
+   "y": 649.8,
+   "via": "labelled icon in tg-2_0",
+   "approx": false
+  },
+  "100p:tg-6": {
+   "x": 1283.5,
+   "y": 1088.1,
+   "via": "labelled icon in tg-6_0",
+   "approx": false
+  },
+  "100p:tg-8": {
+   "x": 1519.2,
+   "y": 690.1,
+   "via": "labelled icon in tg-8_0",
+   "approx": false
+  },
+  "100p:tg-9": {
+   "x": 1408.7,
+   "y": 1486.4,
+   "via": "labelled icon in tg-9_0",
+   "approx": false
+  },
+  "100p:tg-10": {
+   "x": 1911.6,
+   "y": 722.9,
+   "via": "labelled icon in tg-10_0",
+   "approx": false
+  },
+  "100p:tg-11": {
+   "x": 2694.1,
+   "y": 666.5,
+   "via": "labelled icon in chirper-72_0",
+   "approx": true
+  },
+  "100p:lootyagin-1-bronze": {
+   "x": 967.7,
+   "y": 852.1,
+   "via": "at Testing Ground 1",
+   "approx": false
+  },
+  "100p:lootyagin-1-silver": {
+   "x": 967.7,
+   "y": 852.1,
+   "via": "at Testing Ground 1",
+   "approx": false
+  },
+  "100p:lootyagin-1-gold": {
+   "x": 967.7,
+   "y": 852.1,
+   "via": "at Testing Ground 1",
+   "approx": false
+  },
+  "100p:lootyagin-2-bronze": {
+   "x": 2189.4,
+   "y": 649.8,
+   "via": "at Testing Ground 2",
+   "approx": false
+  },
+  "100p:lootyagin-2-silver": {
+   "x": 2189.4,
+   "y": 649.8,
+   "via": "at Testing Ground 2",
+   "approx": false
+  },
+  "100p:lootyagin-2-gold": {
+   "x": 2189.4,
+   "y": 649.8,
+   "via": "at Testing Ground 2",
+   "approx": false
+  },
+  "100p:lootyagin-6-bronze": {
+   "x": 1283.5,
+   "y": 1088.1,
+   "via": "at Testing Ground 6",
+   "approx": false
+  },
+  "100p:lootyagin-6-silver": {
+   "x": 1283.5,
+   "y": 1088.1,
+   "via": "at Testing Ground 6",
+   "approx": false
+  },
+  "100p:lootyagin-6-gold": {
+   "x": 1283.5,
+   "y": 1088.1,
+   "via": "at Testing Ground 6",
+   "approx": false
+  },
+  "100p:lootyagin-8-bronze": {
+   "x": 1519.2,
+   "y": 690.1,
+   "via": "at Testing Ground 8",
+   "approx": false
+  },
+  "100p:lootyagin-8-silver": {
+   "x": 1519.2,
+   "y": 690.1,
+   "via": "at Testing Ground 8",
+   "approx": false
+  },
+  "100p:lootyagin-8-gold": {
+   "x": 1519.2,
+   "y": 690.1,
+   "via": "at Testing Ground 8",
+   "approx": false
+  },
+  "100p:lootyagin-9-bronze": {
+   "x": 1408.7,
+   "y": 1486.4,
+   "via": "at Testing Ground 9",
+   "approx": false
+  },
+  "100p:lootyagin-9-silver": {
+   "x": 1408.7,
+   "y": 1486.4,
+   "via": "at Testing Ground 9",
+   "approx": false
+  },
+  "100p:lootyagin-9-gold": {
+   "x": 1408.7,
+   "y": 1486.4,
+   "via": "at Testing Ground 9",
+   "approx": false
+  },
+  "100p:lootyagin-10-bronze": {
+   "x": 1911.6,
+   "y": 722.9,
+   "via": "at Testing Ground 10",
+   "approx": false
+  },
+  "100p:lootyagin-10-silver": {
+   "x": 1911.6,
+   "y": 722.9,
+   "via": "at Testing Ground 10",
+   "approx": false
+  },
+  "100p:lootyagin-10-gold": {
+   "x": 1911.6,
+   "y": 722.9,
+   "via": "at Testing Ground 10",
+   "approx": false
+  },
+  "100p:lootyagin-11-bronze": {
+   "x": 2694.1,
+   "y": 666.5,
+   "via": "at Testing Ground 11",
+   "approx": true
+  },
+  "100p:lootyagin-11-silver": {
+   "x": 2694.1,
+   "y": 666.5,
+   "via": "at Testing Ground 11",
+   "approx": true
+  },
+  "100p:lootyagin-11-gold": {
+   "x": 2694.1,
+   "y": 666.5,
+   "via": "at Testing Ground 11",
+   "approx": true
+  }
+ }
+}

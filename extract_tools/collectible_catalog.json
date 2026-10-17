@@ -1,0 +1,2247 @@
+{
+ "format": "atomic-heart-collectible-catalog-1",
+ "pulled": "2026-10-15",
+ "source": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations (100pguides; third-party, not official) + its per-Testing-Ground walkthrough pages",
+ "coverage": "All Chirpers, Talking Corpses, Talking Animals and Lootyagins as 100pguides lists them; Testing Grounds 1-12 from optional_zones/polygons.md. 'where' text is the source's own wording (typos kept), private reference only -- paraphrase before any corpus or public use.",
+ "counts": {
+  "Chirper": 72,
+  "Talking Corpse": 50,
+  "Talking Animal": 3,
+  "Testing Ground": 12,
+  "Lootyagin": 24
+ },
+ "entries": [
+  {
+   "id": "100p:chirper-1",
+   "category": "Chirper",
+   "number": 1,
+   "location": "Facility 3826",
+   "open_world": false,
+   "where": "Just after meeting Granny you will fall in to Facility 3826. The first thing you have to do here is get a valve to open the door. The Chirper is on the ground next to the valve.",
+   "source_label": "Chirper #1",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/3605513e-d8da-4b51-a532-dd744fd7f5e4/1.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:chirper-2",
+   "category": "Chirper",
+   "number": 2,
+   "location": "Facility 3826",
+   "open_world": false,
+   "where": "After using the valve to open the door you will encounter an enemy that breaks through a glass window on your left. Jump through this window to find the Chirper on a desk in this room.",
+   "source_label": "Chirper #2",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676661289270-M1HQFFA9PIRXJB6URCIR/2a.jpg",
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676661289822-4MCTFCHVZ9DEQ33YD8EC/2b.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:chirper-3",
+   "category": "Chirper",
+   "number": 3,
+   "location": "Facility 3826",
+   "open_world": false,
+   "where": "Leave the room where the previous Chirper was found. You will now be in an area with multiple round windows. Enter the room on your right to find a Chirper on the desk next to the robot you can stealth kill.",
+   "source_label": "Chirper #3",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676661308851-E8ODLFHDRZZX9755665C/3a.jpg",
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676661308858-KN056W1Z5B20MOFSLZ9N/3b.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:chirper-4",
+   "category": "Chirper",
+   "number": 4,
+   "location": "Facility 3826",
+   "open_world": false,
+   "where": "Exit the room where the previous Chirper was. You will now find yourself in a big open area with columns in the middle. The Chirper will be on a table in the middle of the area.",
+   "source_label": "Chirper #4",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/8e65f55f-f792-49bc-9173-d9ce85e5ea66/4.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:chirper-5",
+   "category": "Chirper",
+   "number": 5,
+   "location": "Facility 3826",
+   "open_world": false,
+   "where": "On the left side of the same area you will see an open door to a bathroom. Here you will find the Cirpher on the floor behind the last door.",
+   "source_label": "Chirper #5",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676661349372-S8G696ZP2E582CXBUC90/5a.jpg",
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676661349385-92JTCLN2FBTYJ7VQ23VZ/5b.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:chirper-6",
+   "category": "Chirper",
+   "number": 6,
+   "location": "Facility 3826",
+   "open_world": false,
+   "where": "On a small wooden box in front of you as soon as you leave the room where you meet NORA for the first time.",
+   "source_label": "Chirper #6",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676661375289-SS7A11NZBBM6H13G5FYX/6a.jpg",
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676661374942-UYTA6N757W64T28UA5EK/6b.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:chirper-7",
+   "category": "Chirper",
+   "number": 7,
+   "location": "Facility 3826",
+   "open_world": false,
+   "where": "After picking up the key to the administration's service you will see a second Dandelion security camera. The Chirper can be found on a desk in to the room through the hole in the wall to your left.",
+   "source_label": "Chirper #7",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/fd8b5970-5f21-4c58-9d3b-e15a90016581/7.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:corpse-1",
+   "category": "Talking Corpse",
+   "number": 1,
+   "location": "Facility 3826",
+   "open_world": false,
+   "where": "The first dead you can talk to is found on the ground just after you examine the new type of combination lock (story related). Just press the R1/RB to talk to him.",
+   "source_label": "Talking Corpse #1",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/2e09b5da-5f5b-46e1-813b-617820bb9f0a/8.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:corpse-2",
+   "category": "Talking Corpse",
+   "number": 2,
+   "location": "Facility 3826",
+   "open_world": false,
+   "where": "After the cable car chases with you on it, you will have to do some climbing and platforming while avoiding the drill bot. After that, you will go through a tunnel on the left. The talking corpse will be in the middle of the next room.",
+   "source_label": "Talking Corpse #2",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/e704c873-2a71-4b29-b787-649327bba543/9.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:chirper-8",
+   "category": "Chirper",
+   "number": 8,
+   "location": "Facility 3826",
+   "open_world": false,
+   "where": "After a cutscene with Vicktor you will be in a room with a big white birchtree in the middle. The Chirper is next to the tree.",
+   "source_label": "Chirper #8",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/fc70ee5e-01cd-4602-b23a-02c549df07d3/10.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:corpse-3",
+   "category": "Talking Corpse",
+   "number": 3,
+   "location": "Facility 3826",
+   "open_world": false,
+   "where": "After picking up the previous Chirper you will have to go up some stairs on the side of the area. You will then enter a room. The dead can be found to your right in this room.",
+   "source_label": "Talking Corpse #3",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676662934359-HSO7U11OEY2TJ5SOM8R4/1a.jpg",
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676662934384-G70TNY4EN7F51V1FZ3RF/1b.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:chirper-9",
+   "category": "Chirper",
+   "number": 9,
+   "location": "Facility 3826",
+   "open_world": false,
+   "where": "After the talking corpse you will crawl through a vent to get to the room where the \"candle\" is found (main objective). The Chirper will be on the table next to the \"candle\".",
+   "source_label": "Chirper #9",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/f0cd0db1-9aee-4d72-b6a7-17fbbb0df51d/2.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:chirper-10",
+   "category": "Chirper",
+   "number": 10,
+   "location": "Facility 3826",
+   "open_world": false,
+   "where": "After using Polymer to get to the floor above the room with the out of control cargo bots, you will find the Chirper on the shelf near the door that you have ot take to exit this room.",
+   "source_label": "Chirper #10",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676662972517-QU2XKSEEPEMM3JAGY6UO/3a.jpg",
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676662972291-U7UX82FL33JD3B68YS0G/3b.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:chirper-11",
+   "category": "Chirper",
+   "number": 11,
+   "location": "Facility 3826",
+   "open_world": false,
+   "where": "On the box next to Petrov's corpse (story objective).",
+   "source_label": "Chirper #11",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/ad1298d0-2237-4ffa-9f24-53bea1b302fa/4.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:chirper-12",
+   "category": "Chirper",
+   "number": 12,
+   "location": "Facility 3826",
+   "open_world": false,
+   "where": "After returning to the birchtree with the 2 candles you will now have to retrieve 4 canisters. First go through the door that takes you to the Hot Workshop & the Algae Workshop. As soon as you enter the hall on the other side of the door look for the Chirper on the boxes to your right.",
+   "source_label": "Chirper #12",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676663012476-VNDKDHQQ2ZPM50CQW649/5a.jpg",
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676663012306-GLZ2WJ8HDE96R8P9XJHI/5b.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:chirper-13",
+   "category": "Chirper",
+   "number": 13,
+   "location": "Facility 3826",
+   "open_world": false,
+   "where": "From the previous collectible, go down the hall on the right to enter a room with red walls. Here, go up the stairs at the other end. Then, continue on this path to get to the boiler room. Now, go through the door on the other side of the boiler room (this is the room where you can insert the cryo candles in to the tube). The Chirper will be on a desk in this room.",
+   "source_label": "Chirper #13",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676663034028-FR0DB7EE1IEBQPD334E0/6a.jpg",
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676663033997-648HBKWDBFOHZJRB8E28/6b.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:chirper-14",
+   "category": "Chirper",
+   "number": 14,
+   "location": "Facility 3826",
+   "open_world": false,
+   "where": "After solving the boiler room puzzle and cooling all 3 boilers, go up the stairs to the right of the door that takes you to the room where the previous collectible was. At the top go down the hall to the right and look out for a box on your left with the chirper on it.",
+   "source_label": "Chirper #14",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676663056267-FK9YT9VV9I3XQW2BE6AL/7a.jpg",
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676663056148-5EZSDUZ6YUMMXVQG1RWJ/7b.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:chirper-15",
+   "category": "Chirper",
+   "number": 15,
+   "location": "Facility 3826",
+   "open_world": false,
+   "where": "Continue to the end of the hall (where the safe room door is) and take a left. In the big room, use the cargo bot and platforms to get to the canister. The Chirper will be on the same platform as the canister.",
+   "source_label": "Chirper #15",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/64278313-84f0-43ee-86c4-a770e218dc7f/8.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:chirper-16",
+   "category": "Chirper",
+   "number": 16,
+   "location": "Facility 3826",
+   "open_world": false,
+   "where": "After placing the Hot Canister back at the birchtree, go back down the Algae Workshop & Hot Workshop hall. Go to the end (you should have a safe room to your left) and go through the door on your right. Then, enter the room on your left. You will find a Chirper on one of the tables near the middle of the room.",
+   "source_label": "Chirper #16",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/2c5eb7a9-6d54-463a-be4e-0470f8fcc696/9.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:corpse-4",
+   "category": "Talking Corpse",
+   "number": 4,
+   "location": "Facility 3826",
+   "open_world": false,
+   "where": "Go through the door straight in front of you (standing where the previous collectible was). Then, go all the way down to the end of the hall. Here, turn right to find the dead at the end trapped upder some boxes.",
+   "source_label": "Talking Corpse #4",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676663110663-DZYT60ETB4PYETXPZPPW/10a.jpg",
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676663110418-0X8WH0S6V0D34XFOQ4MM/10b.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:corpse-5",
+   "category": "Talking Corpse",
+   "number": 5,
+   "location": "Facility 3826",
+   "open_world": false,
+   "where": "On the same platform where you find the empty canister in the Algae Workshop.",
+   "source_label": "Talking Corpse #5",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/b97a9ab8-bb5b-4576-911f-7fca7e0b880d/1.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:chirper-17",
+   "category": "Chirper",
+   "number": 17,
+   "location": "Facility 3826",
+   "open_world": false,
+   "where": "Found on a box next to the device that you use to fill the canister in the Algae Workshop.",
+   "source_label": "Chirper #17",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/5c2f3933-91ce-470e-85e3-ffd1e4489516/2.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:corpse-6",
+   "category": "Talking Corpse",
+   "number": 6,
+   "location": "Facility 3826",
+   "open_world": false,
+   "where": "Once you return the first 2 canisters to the birchtree, you will now have access to the hall on the other side of the room that goes to the Pesticide Workshop & Cold Workshop. Go to the end of the first hall to find the dead corpse.",
+   "source_label": "Talking Corpse #6",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676665022507-JFLY6JEJ2U4JIA4RRECX/3a.jpg",
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676665022385-6Q7MYEL67FDAB8U50G24/3b.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:corpse-7",
+   "category": "Talking Corpse",
+   "number": 7,
+   "location": "Facility 3826",
+   "open_world": false,
+   "where": "From the previous corpse, go right and continue through the Cold Workshop until you have to climb in to a vent, just before the vent you will see the corpse.",
+   "source_label": "Talking Corpse #7",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/f9043b48-1018-48c2-9f5e-e083afb1be10/4.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:chirper-18",
+   "category": "Chirper",
+   "number": 18,
+   "location": "Facility 3826",
+   "open_world": false,
+   "where": "After going through the vent after the talking corpse, go left to find the chirper on the table in the corner.",
+   "source_label": "Chirper #18",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676665072254-T3XU1GORWZSRLU2Q0F6B/5a.jpg",
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676665072354-DZSIHSN9JTK54PX7LLXT/5b.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:chirper-19",
+   "category": "Chirper",
+   "number": 19,
+   "location": "Facility 3826",
+   "open_world": false,
+   "where": "After solving the animal puzzle, you will enter a massive room with plants in it (same room where you have to wait until the canister fills up). Here you will find a chirper near the plants at the bottom of the stairs.",
+   "source_label": "Chirper #19",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1556b75c-76a9-4bc6-a929-ccbc5f61621d/6.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:chirper-20",
+   "category": "Chirper",
+   "number": 20,
+   "location": "Facility 3826",
+   "open_world": false,
+   "where": "After talking to the scientist in the Pesticide Workshop, continue and walk past a safe room. On this same catwalk you will see a chest. Next to the chest you will see a corpse with a Chirper next to it.",
+   "source_label": "Chirper #20",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676665120273-KVEJLORVGJN0MQOD5BA3/7a.jpg",
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676665120499-T2R2DZOIR9W7LUFGE6EF/7b.jpg",
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676665121660-HKUFEDYJCO3M7CLZ940G/7c.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:corpse-8",
+   "category": "Talking Corpse",
+   "number": 8,
+   "location": "Facility 3826",
+   "open_world": false,
+   "where": "From the previous collectible, go down the stairs. At the bottom look for an arch covered in plants that has the number 4 above it. The talking corpse will be under the arch.",
+   "source_label": "Talking Corpse #8",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/e11b8663-d73c-4f1c-993f-a6c7491e4368/8.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:chirper-21",
+   "category": "Chirper",
+   "number": 21,
+   "location": "Facility 3826",
+   "open_world": false,
+   "where": "Follow the rails until you see a big green door in front of you. Here jump up to the metal stairway on your right. The chirper will be close to the dead body at the top.",
+   "source_label": "Chirper #21",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/38cd204b-d4d0-4a03-93a2-bc5b7819cdc5/1.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:chirper-22",
+   "category": "Chirper",
+   "number": 22,
+   "location": "Facility 3826",
+   "open_world": false,
+   "where": "Continue through the area until you enter the room with the massive canister (main objective). Here, go through to the room on the other side. The Crirper will be on a corpse near a spinning platform with a winged container on it.",
+   "source_label": "Chirper #22",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676665198565-RSNKCDQIVZW4W0I5PRIR/9a.jpg",
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676665199025-IKOYXOH1UH1805E32TW5/9b.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:corpse-9",
+   "category": "Talking Corpse",
+   "number": 9,
+   "location": "Facility 3826",
+   "open_world": false,
+   "where": "On the metal catwalk above the previous Chirper. To get there, climb the stairs behind where the big yellow canister on tracks starts (main objective) and jump across to the first magnetic platform. Then, move the next platfrom allowing you to jump back in to the upper level of the room where the previous Chirper was. Jump across the platforms to get to the catwalk where the talking corpse is found.",
+   "source_label": "Talking Corpse #9",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676665225568-8LM0GK06G1OTJ81KOGL8/10a.jpg",
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676665225454-XJQY784R5WVZAD7MIYI5/10b.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:chirper-23",
+   "category": "Chirper",
+   "number": 23,
+   "location": "Facility 3826",
+   "open_world": false,
+   "where": "Found under a piece of metal next to the NORA behind you after the cutscene where you blow up the massive plant (This collectible may be bugged at the moment, the metal prevents the player from picking the chirper up. If anyone has any idea on how to get this, please leave a comment below).",
+   "source_label": "Chirper #23",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676990451132-UM7LALZMA6XDPNFDLHMR/a.jpg",
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676990449412-A6UR0U8WLYNGGSJVMDBE/b.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:chirper-24",
+   "category": "Chirper",
+   "number": 24,
+   "location": "Forester",
+   "open_world": false,
+   "where": "Once you leave Facility 3826 you will be in a small town. Here go up a hill to the left of the red building you emerge from to find the Chirper on a corpse in a wooden barn.",
+   "source_label": "Chirper #24",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676665244280-R7IMUUHBYKQ5VDOKA89U/11a.jpg",
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676665244246-3RAUER8LHYU75831B34R/11b.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:chirper-25",
+   "category": "Chirper",
+   "number": 25,
+   "location": "Forester",
+   "open_world": false,
+   "where": "Found under a scarecrow in the field. You will have to hit the scarcrow to be able to collect the chirper.",
+   "source_label": "Chirper #25",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676896144242-ARCQ7R00R7ITSH7W2GAJ/1A.jpg",
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676896144499-LYCH801MRAHCOKU3RTZC/1b.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:chirper-26",
+   "category": "Chirper",
+   "number": 26,
+   "location": "Forester",
+   "open_world": false,
+   "where": "Near a statue of a dog.",
+   "source_label": "Chirper #26",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1677490859972-A1CUUCMS2PAM029JVD55/1a.jpg",
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1677490860812-5JY3VW7N46E0VLHLMQFM/1b.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:chirper-27",
+   "category": "Chirper",
+   "number": 27,
+   "location": "Forester",
+   "open_world": false,
+   "where": "Found in the tower where the Volan is. You will go here during the story. Once as soon as you get to the village and once after talking to granny to get the codes to the Volan.",
+   "source_label": "Chiper #27",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/7574bd10-0b24-4d09-a3c5-c600bd67c497/1.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:chirper-28",
+   "category": "Chirper",
+   "number": 28,
+   "location": "Forester",
+   "open_world": false,
+   "where": "Found on a table on the right just before you exit through the gates to leave the village.",
+   "source_label": "Chirper #28",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676902219909-CMDQNU9ML78CY7M8YQCX/1a.jpg",
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676902220194-RF19M7C5VP13OYL12C9J/1b.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:corpse-10",
+   "category": "Talking Corpse",
+   "number": 10,
+   "location": "Forester",
+   "open_world": false,
+   "where": "Once you try and get on the train you will have to look for a ticket. There will now be 4 talking corpses around the area marked as main objectives. Talk to all 4 of them.",
+   "source_label": "Talking Corpse #10-13",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/34cc3ce4-f150-4b8f-9288-6626eafa3375/1.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:corpse-11",
+   "category": "Talking Corpse",
+   "number": 11,
+   "location": "Forester",
+   "open_world": false,
+   "where": "Once you try and get on the train you will have to look for a ticket. There will now be 4 talking corpses around the area marked as main objectives. Talk to all 4 of them.",
+   "source_label": "Talking Corpse #10-13",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/34cc3ce4-f150-4b8f-9288-6626eafa3375/1.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:corpse-12",
+   "category": "Talking Corpse",
+   "number": 12,
+   "location": "Forester",
+   "open_world": false,
+   "where": "Once you try and get on the train you will have to look for a ticket. There will now be 4 talking corpses around the area marked as main objectives. Talk to all 4 of them.",
+   "source_label": "Talking Corpse #10-13",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/34cc3ce4-f150-4b8f-9288-6626eafa3375/1.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:corpse-13",
+   "category": "Talking Corpse",
+   "number": 13,
+   "location": "Forester",
+   "open_world": false,
+   "where": "Once you try and get on the train you will have to look for a ticket. There will now be 4 talking corpses around the area marked as main objectives. Talk to all 4 of them.",
+   "source_label": "Talking Corpse #10-13",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/34cc3ce4-f150-4b8f-9288-6626eafa3375/1.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:corpse-14",
+   "category": "Talking Corpse",
+   "number": 14,
+   "location": "Exhibition Center Electromagnetic Mirror Facility",
+   "open_world": false,
+   "where": "After defeating the Hog-7 boss you will have to enter an electromagnetic facility to fix a mirror. The talking corpse can be found in the big room with the magnets on the ceiling.",
+   "source_label": "Talking Corpse #14",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676781705208-RKCNH7Y2HGO9R0Y26VID/1a.jpg",
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676781704888-44DDNJYXOAL6LZWQOUB0/1b.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:corpse-15",
+   "category": "Talking Corpse",
+   "number": 15,
+   "location": "Exhibition Center Electromagnetic Mirror Facility",
+   "open_world": false,
+   "where": "From the previous corpse, continue through the facility until you get to a second big room with magnets on the ceiling. The corpse will be in the corner of the lower level in this room.",
+   "source_label": "Talking Corpse #15",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/ea590113-0872-4383-9a5f-fc4a62dd93d0/2.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:corpse-16",
+   "category": "Talking Corpse",
+   "number": 16,
+   "location": "Exhibition Center",
+   "open_world": false,
+   "where": "As soon as you enter the exhibition building, follow the room around to the left until you see an open door on your left. Inside you will find the talking corpse.",
+   "source_label": "Talking Corpse #16",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/97b3c695-865d-430e-8613-17571fa7d405/3.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:chirper-29",
+   "category": "Chirper",
+   "number": 29,
+   "location": "Exhibition Center",
+   "open_world": false,
+   "where": "Exit the room with the corpse to find a combination lock on the door in front of you (the combination can be found on the board in the room where the corpse was). Open the door to find the chirper on the plaza model in this room.",
+   "source_label": "Chirper #29",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676781821436-FE91D6EAV24FYXMTKVI4/4a.jpg",
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676781821424-L93VYH4S789M7QBDFB0W/4b.jpg",
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676781823238-BROLUS24YKC6NZFL5P7W/4c.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:chirper-30",
+   "category": "Chirper",
+   "number": 30,
+   "location": "Exhibition Center",
+   "open_world": false,
+   "where": "On a desk In the room where you get Tereshkoba’s arm.",
+   "source_label": "Chirper #30",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/5c92f8ee-ef79-464e-8ca6-6ef6447ea448/5.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:corpse-17",
+   "category": "Talking Corpse",
+   "number": 17,
+   "location": "Exhibition Center",
+   "open_world": false,
+   "where": "In the area where you have to do the Darwin Test, go through the door on the left to find the talking corpse.",
+   "source_label": "Talking Corpse #17",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676781898847-X5UYVBHFSCS4GKYQGFZD/6a.jpg",
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676781898425-00ZH17KMUCNIW4RLYMY0/6b.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:chirper-31",
+   "category": "Chirper",
+   "number": 31,
+   "location": "Exhibition Center",
+   "open_world": false,
+   "where": "In the safe room to your left when following Tereshkoba down the hall after the Darwin test.",
+   "source_label": "Chirper #31",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/06d19d23-49d7-42bb-bcae-d73bd48ced35/c.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:corpse-18",
+   "category": "Talking Corpse",
+   "number": 18,
+   "location": "Exhibition Center",
+   "open_world": false,
+   "where": "Once you get to the 3 floor area where you have to find Claire’s parts, go to the other end of the top floor (the floor you start on) to find the corpse near a chest.",
+   "source_label": "Talking Corpse #18",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/09d5d36e-21b5-415f-8cda-43f3975348cc/7.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:corpse-19",
+   "category": "Talking Corpse",
+   "number": 19,
+   "location": "Exhibition Center",
+   "open_world": false,
+   "where": "From the previous corpse, head down 2 floors. Then, stick to the left side to find another talking corpse.",
+   "source_label": "Talking Corpse #19",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/fb75d685-b5cc-4abc-aced-4de639d1a8d5/8.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:corpse-20",
+   "category": "Talking Corpse",
+   "number": 20,
+   "location": "Exhibition Center",
+   "open_world": false,
+   "where": "On the same floor as the previous corpse, head across to the opposite side where you will find a lunar lock. Enter the door on the left to find the corpse in this room",
+   "source_label": "Talking Corpse #20",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676781972145-TCRO99IUTOBFG8ZQBIET/9a.jpg",
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676781972021-I1UGU3LU3PJEIVE3G828/9b.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:corpse-21",
+   "category": "Talking Corpse",
+   "number": 21,
+   "location": "Exhibition Center",
+   "open_world": false,
+   "where": "After talking to the previous corpse, the door next to you should open. Go through and up some stairs to find this corpse on your left.",
+   "source_label": "Talking Corpse #21",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/0699e8f9-2d53-48b0-bd87-0060307c41b3/10.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:chirper-32",
+   "category": "Chirper",
+   "number": 32,
+   "location": "Exhibition Center",
+   "open_world": false,
+   "where": "You will now have to get the 3 canisters to open the lunar lock. The first can be found in the next room after the previous talking corpse. The second can be found next to talking corpse #20 and the final canister is found in the plant right in front of the lunar lock. Once you insert all 3 canister enter the door to the right to find the chirper next to a corpse.",
+   "source_label": "Chirper #32",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676782025656-V81DWKEUJ1L1AUKSX1XT/11a.jpg",
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676782024773-NWJ6T2QJFL19JGAW3ZJZ/11b.jpg",
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676782027204-42C2TZDJZOGTFXKWIC95/11c.jpg",
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676782027899-YD8FFT6LNNA1LXSQ88MV/11d.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:chirper-33",
+   "category": "Chirper",
+   "number": 33,
+   "location": "Exhibition Center",
+   "open_world": false,
+   "where": "Go down to the bottom floor to find the chirper on a red chair.",
+   "source_label": "Chirper #33",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/42a65b12-6c2d-4c28-8285-f6b4c465160e/1.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:chirper-34",
+   "category": "Chirper",
+   "number": 34,
+   "location": "Exhibition Center",
+   "open_world": false,
+   "where": "After “talking” to Claire on the bottom floor, you will now have access to the other doors in the area. Take the door on the opposite end of the bottom floor. Then, continue on the only possible path until you see a door in front of you and another to your right. For this chirper, take the door in front of you to enter a room filled with enemies. Here you will find the chirper near the doll watching TV.",
+   "source_label": "Chirper #34",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676782879190-61YXHEUSF5Y9J82U30J9/2a.jpg",
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676782879402-4YRS90QKEZ85H9K3WBOF/2b.jpg",
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676782881264-ZOZ233OAZF1QESQ1ZOL5/2c.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:chirper-35",
+   "category": "Chirper",
+   "number": 35,
+   "location": "Exhibition Center",
+   "open_world": false,
+   "where": "This one can be found by going through the door on the 3rd floor (where the Claire’s left arm is found). Continue on the only possible path until you get to a room with a massive see through whale. The chirper will be on the table in front of you.",
+   "source_label": "Chirper #35",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676782926343-FKZTOBU6V00L4OPXO1SG/3a.jpg",
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676782926447-5Y3DI7MJEHRK8BTNWSWW/3b.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:corpse-22",
+   "category": "Talking Corpse",
+   "number": 22,
+   "location": "Exhibition Center",
+   "open_world": false,
+   "where": "To you right after picking up the previous collectible.",
+   "source_label": "Talking Corpse #22",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/09bb700c-228a-4420-84cd-f73d04fdfbd4/4.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:chirper-36",
+   "category": "Chirper",
+   "number": 36,
+   "location": "Exhibition Center",
+   "open_world": false,
+   "where": "In the arena where you fight the Plyusch boss under the massive whale.",
+   "source_label": "Chirper #36",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/c58d396c-02f4-4a64-a00b-3784d6e4c1e1/5.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:corpse-23",
+   "category": "Talking Corpse",
+   "number": 23,
+   "location": "Exhibition Center",
+   "open_world": false,
+   "where": "After defeating the Plysch boss, exit the room through the door on the bottom floor. Go past a safe room and in to a room with enemies. The corpse will be in this room.",
+   "source_label": "Talking Corpse #23",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/3c0f7242-3316-41fa-b263-06b9210ff0d9/6.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:corpse-24",
+   "category": "Talking Corpse",
+   "number": 24,
+   "location": "Exhibition Center",
+   "open_world": false,
+   "where": "From the middle room (where Claire is), go to the very top floor and enter the door that takes you on the path to get her head. Follow the path until you go through a hole to get to the room with the submarine hanging from the ceiling. The corpse will be in the corner of this room.",
+   "source_label": "Talking Corpse #24",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676783016022-9T2YNKJR3ST18XPYCFEE/7a.jpg",
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676783016243-2JGLI56SVSR2FN1KS6BU/7b.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:corpse-25",
+   "category": "Talking Corpse",
+   "number": 25,
+   "location": "Exhibition Center",
+   "open_world": false,
+   "where": "At the top of the area where you have to restore the neurolink in a satellite. The corpse will be right next to the puzzle you have to solve inside (puzzle is story objective).",
+   "source_label": "Talking Corpse #25",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/ba3711cb-13bf-4d0f-9dbe-12836b9558a1/8.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:corpse-26",
+   "category": "Talking Corpse",
+   "number": 26,
+   "location": "Exhibition Center",
+   "open_world": false,
+   "where": "After returning to the room with the submarine you will have to press the button to crash it. This will allow you to get to the top floor where this talking corpse is found.",
+   "source_label": "Talking Corpse #26",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/478511ea-ee97-454a-8118-1b6a1b12c0ae/9.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:corpse-27",
+   "category": "Talking Corpse",
+   "number": 27,
+   "location": "Computational Center",
+   "open_world": false,
+   "where": "As soon as you enter the building, go left to find a door to a bathroom. The corpse is inside.",
+   "source_label": "Talking Corpse #27",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676783085407-39GOZYECQSYSUDCM3WQB/10a.jpg",
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676783084734-W65RAWDT8AH0VM6JDRIX/10b.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:chirper-37",
+   "category": "Chirper",
+   "number": 37,
+   "location": "Theater",
+   "open_world": false,
+   "where": "On the table in the very first room after the Belyash boss.",
+   "source_label": "Chirper #37",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676783110828-5UNSEG5ZKNTCQKNU8BJ6/11a.jpg",
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676783110711-RAWG7KY0OLLO0R6ILL90/11b.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:corpse-28",
+   "category": "Talking Corpse",
+   "number": 28,
+   "location": "Theater",
+   "open_world": false,
+   "where": "After the previous collectible you will take a lift down to the theater. As soon as you exit the lift, go right to find the corpse.",
+   "source_label": "Talking Corpse #28",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/7b31703c-980d-47d4-a916-1da1db4243a1/12.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:chirper-38",
+   "category": "Chirper",
+   "number": 38,
+   "location": "Theater",
+   "open_world": false,
+   "where": "You will soon go through a hall with display robots dancing in the middle (the ones with buttons that you can press next to them). Go all the way to the end of the hall and use the door to the right to get out of the hall. In the next area you will see a safe room. Go to the left of the door to the safe room to find the chirper on the fridge.",
+   "source_label": "Chirper #38",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676783446434-I3492JSD7Z1ZT1N314N4/13a.jpg",
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676783447106-17J56KM86CKCYZKNKJ4Z/13b.jpg",
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676783451831-VG52A2I95B39G8RK4A9K/13c.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:chirper-39",
+   "category": "Chirper",
+   "number": 39,
+   "location": "Theater",
+   "open_world": false,
+   "where": "After defeating a Plyusch you will have to go through a long vent. Once you come out the other side, go right to find the chirper on a table next to the main objective puzzle.",
+   "source_label": "Chirper #39",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/f943427a-d305-4196-9415-a07848777b28/14.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:chirper-40",
+   "category": "Chirper",
+   "number": 40,
+   "location": "Theater",
+   "open_world": false,
+   "where": "After solving the puzzle in the room where the previous chirper was, enter the elevator and press the top button. As soon as you get off the elevator, go right to find the chirper near a dancing display robot.",
+   "source_label": "Chirper #40",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676783507394-LWHXLDFECL4PD547J1PU/15a.jpg",
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676783506077-7XCIHFG12ZAN8A67KE99/15b.jpg",
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676783510975-9SXCCVEDS9E9S2BC5U8L/15c.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:corpse-29",
+   "category": "Talking Corpse",
+   "number": 29,
+   "location": "Theater",
+   "open_world": false,
+   "where": "Next to the previous collectible, you will see a hole in the wall where you can access multiple floors. Jump to the top floor (look for a yellow marker on the wall) to find this corpse.",
+   "source_label": "Talking Corpse #29",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/972b3d64-0cb3-43f1-ac99-ecea9e4e5348/1.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:corpse-30",
+   "category": "Talking Corpse",
+   "number": 30,
+   "location": "Theater",
+   "open_world": false,
+   "where": "In the room below the previous corpse (potentially bugged, this corpse will glow green when scanned, however you will not be able to interact with it).",
+   "source_label": "Talking Corpse #30",
+   "images": [],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:chirper-41",
+   "category": "Chirper",
+   "number": 41,
+   "location": "Theater",
+   "open_world": false,
+   "where": "Found near the TV in the room below the previous talking corpse.",
+   "source_label": "Chirper #41",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/466f75a3-de0b-4e1b-8764-689dc569059d/3.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:chirper-42",
+   "category": "Chirper",
+   "number": 42,
+   "location": "Theater",
+   "open_world": false,
+   "where": "Exit the room where the previous collectibles where found by hacking the lock on the door. Then, take the elevator back up to the top floor. This time go left and jump across the gap to stay on the top floor. Enter the room at the end to find the chirper near the robot looking in the mirror.",
+   "source_label": "Chirper #42",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676874289807-XFGW6UWIDV8XDB7CLC6P/4a.jpg",
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676874289645-72Z8OLXM274ULHTSPWQ0/4b.jpg",
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676874291127-DN7JW2HEPGWO8Y52RTJV/4c.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:chirper-43",
+   "category": "Chirper",
+   "number": 43,
+   "location": "Theater",
+   "open_world": false,
+   "where": "In the same room as the previous chirper, climb through the vent to the right of the mirror. You will find the chirper in the room on the other side.",
+   "source_label": "Chirper #43",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1677156224065-T8N7XDX7PRA58TGTTZPO/1.jpg",
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1677156224177-MYOV6L3G7LZO22K8MMIJ/2.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:chirper-44",
+   "category": "Chirper",
+   "number": 44,
+   "location": "Theater",
+   "open_world": false,
+   "where": "Exit the room where the ballerina and the mirror was. Then jump down to the area below. Here look for a door on the left. The chirper will be on the bar inside.",
+   "source_label": "Chirper #44",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676874315815-SO500ZIL9NXRBT1DDALA/5a.jpg",
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676874316251-8OBJK6NJ6Y5K64RFDT26/5b.jpg",
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676874317222-F1SYKY5UMW8T894E8HKC/5c.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:corpse-31",
+   "category": "Talking Corpse",
+   "number": 31,
+   "location": "Theater",
+   "open_world": false,
+   "where": "Hack the lock on the door in the same room as the previous collectible to find the talking corpse on the other side.",
+   "source_label": "Talking Corpse #31",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/ddf503ae-9a02-4915-82ae-01e2e7b747be/6.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:corpse-32",
+   "category": "Talking Corpse",
+   "number": 32,
+   "location": "Theater",
+   "open_world": false,
+   "where": "Return to the room that you jumped down to. Now, go down the hall on the opposite side (story path) until you see a bar on your left. The corpse will be behind the counter.",
+   "source_label": "Talking Corpse #32",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676874351840-YO1ZKDOI1C4B3S2Y2062/7a.jpg",
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676874351834-LFLF6HKS27WNS9EMFD64/7b.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:corpse-33",
+   "category": "Talking Corpse",
+   "number": 33,
+   "location": "Theater",
+   "open_world": false,
+   "where": "You will now be in an open area with some destroyed stairs in the middle. Go through the door on the right (the one next to the semicircle shaped wood). The corpse will be on your right once you get to a room with a robot in it (there are actually 2 corpses together, however they both say the same things).",
+   "source_label": "Talking Corpse #33",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/5074b493-a94d-49c6-94fe-b1a9cfc08fa7/8a.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:chirper-45",
+   "category": "Chirper",
+   "number": 45,
+   "location": "Theater",
+   "open_world": false,
+   "where": "Head back to the room whith the destroyed stairs. Head up the stairs and go right to find the chirper on a table in the corner.",
+   "source_label": "Chirper #45",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/f2e5ec5a-0b55-41f7-bb10-1e0ddef2153d/9.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:corpse-34",
+   "category": "Talking Corpse",
+   "number": 34,
+   "location": "Theater",
+   "open_world": false,
+   "where": "Turn around and go past the stairs you used to get to this floor to find the corpse near a door with a combination lock on it.",
+   "source_label": "Talking Corpse #34",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/c6677753-1a15-4dce-8d44-91d03072889e/10.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:chirper-46",
+   "category": "Chirper",
+   "number": 46,
+   "location": "Theater",
+   "open_world": false,
+   "where": "Found on a table on the other side of the door with a combination lock near the previous corpse (look at the screenshots below for the correct combination).",
+   "source_label": "Chirper #46",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676874474203-2KIULT6AFJ95V89A8JUS/11a.jpg",
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676874474099-WD8ZRKCDGRHELX1NC9AC/11b.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:chirper-47",
+   "category": "Chirper",
+   "number": 47,
+   "location": "Theater",
+   "open_world": false,
+   "where": "Solve the puzzle on the wall in the same room as the previous collectible. Then, interact with the computer in the same room to start the show (story objective). The chirper can be found on the stand where the ballerina is performing.",
+   "source_label": "Chirper #47",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/515e5719-e38c-4900-a128-de988828e527/12.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:chirper-48",
+   "category": "Chirper",
+   "number": 48,
+   "location": "Theater",
+   "open_world": false,
+   "where": "After getting the ball from the ballerina and opening the door with it, take the first door on the left. Continue through a few rooms until you find the chirper in the hands of a robot in a red hole",
+   "source_label": "Chirper #48",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676874527234-567LA90MWH43NQ9KJ2RA/13a.jpg",
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676874526898-64TKAT3DJCLWMOZ6LLDA/13b.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:chirper-49",
+   "category": "Chirper",
+   "number": 49,
+   "location": "Theater",
+   "open_world": false,
+   "where": "Head back out and continue down the big hall with the ballerina puzzle until you see a chirper on the red chairs to the right.",
+   "source_label": "Chirper #49",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/c6dcab73-2a61-41a4-bf08-1b9d03580b82/14.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:corpse-35",
+   "category": "Talking Corpse",
+   "number": 35,
+   "location": "Theater",
+   "open_world": false,
+   "where": "In the same area as you fight the Natasha boss.",
+   "source_label": "Talking Corpse #35",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/d2614f4e-b9d8-4a50-8a46-67ebe70252e7/15.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:chirper-50",
+   "category": "Chirper",
+   "number": 50,
+   "location": "Theater",
+   "open_world": false,
+   "where": "On the ground in the Natasha boss arena.",
+   "source_label": "Chirper #50",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1ae54ff7-6a46-45c6-9cc3-dd0d3f7ed979/16.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:chirper-51",
+   "category": "Chirper",
+   "number": 51,
+   "location": "Theater",
+   "open_world": false,
+   "where": "On a chair around the Natasha boss arena.",
+   "source_label": "Chirper #51",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/96712121-c3c8-4b45-ab3a-85de7b6ec955/17.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:chirper-52",
+   "category": "Chirper",
+   "number": 52,
+   "location": "Infirmary",
+   "open_world": false,
+   "where": "On the receptionist desk as soon as you enter.",
+   "source_label": "Chirper #52",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676877825321-3W6M5KRQ1OAFRBFF3DDA/1a.jpg",
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676877823998-Z5QA3QNLWDBZZX9DPULV/1b.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:corpse-36",
+   "category": "Talking Corpse",
+   "number": 36,
+   "location": "Infirmary",
+   "open_world": false,
+   "where": "From the reception desk, head down the hall to your right until you see a door on your left. Go throught it, then through another room to find the corpse.",
+   "source_label": "Talking Corpse #36",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/f90caccb-989d-46d5-849d-ac4d6fe50d03/2.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:corpse-37",
+   "category": "Talking Corpse",
+   "number": 37,
+   "location": "Infirmary",
+   "open_world": false,
+   "where": "Leave the room with the previous corpse through the door on the left. Then, turn right to see a small blue room in front of you. The corpse will be in this room.",
+   "source_label": "Talking Corpse #37",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/b7cad2fa-34c2-4cb3-a1a9-482ca7c58dea/3.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:chirper-53",
+   "category": "Chirper",
+   "number": 53,
+   "location": "Infirmary",
+   "open_world": false,
+   "where": "On the medical bed in the next room.",
+   "source_label": "Chirper #53",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/8f9c4ebd-3093-477a-bfe0-059e7b540229/4.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:chirper-54",
+   "category": "Chirper",
+   "number": 54,
+   "location": "Infirmary",
+   "open_world": false,
+   "where": "Return to the entrance and go up the stairs to the top floor to find the chirper on a bed.",
+   "source_label": "Chirper #54",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676877889088-L4NIRWQC4EDAN0PUHF4D/5a.jpg",
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676877889416-K8IF10ERIBNWW8QW8PN3/5b.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:corpse-38",
+   "category": "Talking Corpse",
+   "number": 38,
+   "location": "Infirmary",
+   "open_world": false,
+   "where": "In the corner on the same floor as the previous collectible. This corpse can be a little bugged. If you don’t get the R1/RB prompt, crouch and then approach the corpse.",
+   "source_label": "Talking Corpe #38",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/9fa83383-a8f9-4ae0-82e3-39594433581b/6.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:chirper-55",
+   "category": "Chirper",
+   "number": 55,
+   "location": "Pavlov Complex",
+   "open_world": false,
+   "where": "In the first room of the Pavlov complex, go around the left side of the hole in the middle of the room to find the chirper on a desk.",
+   "source_label": "Chirper #55",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/edb3640f-39aa-4ecc-a8ec-dc785c705204/7.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:chirper-56",
+   "category": "Chirper",
+   "number": 56,
+   "location": "Pavlov Complex",
+   "open_world": false,
+   "where": "Now take the nearby stairs all the way down to the bottom floor. Here, follow the only possible path to the end. In one of the bathroom stalls you will find the collectible.",
+   "source_label": "Chirper #56",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676878030190-MLXPUXQXBCA6M9H6JC4T/8a.jpg",
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676878029745-QRCS2KHUCTJFG90LCE6Y/8b.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:chirper-57",
+   "category": "Chirper",
+   "number": 57,
+   "location": "Pavlov Complex",
+   "open_world": false,
+   "where": "Return to the stairs and go up to the middle floor (next floor up). Here, enter the room straigh in front of you to find the chirper to your right.",
+   "source_label": "Chirper #57",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/b8099d14-74a3-4a5c-80fb-8a1c023e00fe/9.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:chirper-58",
+   "category": "Chirper",
+   "number": 58,
+   "location": "Pavlov Complex",
+   "open_world": false,
+   "where": "Continue through the complex until you open a door with a key disc. The chirper will be on a bed in the next room.",
+   "source_label": "Chiper #58",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676878069414-QROP3BX6BWBZFVLSG18J/10a.jpg",
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676878069122-JTYVWLPPA76VU4T6MBAC/10b.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:corpse-39",
+   "category": "Talking Corpse",
+   "number": 39,
+   "location": "Pavlov Complex",
+   "open_world": false,
+   "where": "In the same room as the previous collectible.",
+   "source_label": "Talking Corpse #39",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/6b835a08-2bf7-46cd-9cb2-c337fcd0418e/11.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:chirper-59",
+   "category": "Chirper",
+   "number": 59,
+   "location": "Pavlov Complex",
+   "open_world": false,
+   "where": "After the previous collectible you will have to go down an elevator. The chirper will be to your right as soon as you get off the elevator.",
+   "source_label": "Chirper #59",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676878122745-A4N8E134Q0648UYXWQ0R/12a.jpg",
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676878121987-HRIY0BP0YSBMR6FHVO8O/12b.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:corpse-40",
+   "category": "Talking Corpse",
+   "number": 40,
+   "location": "Pavlov Complex",
+   "open_world": false,
+   "where": "Follow the quest marker through the morgue until you go up some stairs to the 3rd floor. Here you will find the corpse in plain sight near the door with the quest marker.",
+   "source_label": "Talking Corpse #40",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676878150324-EWKWB8KY4CLRK8VWY7WS/13a.jpg",
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676878150504-WC1F6QTTE5ASW7GACN2U/13b.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:chirper-60",
+   "category": "Chirper",
+   "number": 60,
+   "location": "Pavlov Complex",
+   "open_world": false,
+   "where": "Go through the door with the mision marker on it. Then, go right and open another door. Here go straight and then take the door on your right to an open dining area. The chirper will be on a table on the left side of the room.",
+   "source_label": "Chirper #60",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/7f3047d8-f8d8-4111-96e6-6ae8b2398cc8/14.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:corpse-41",
+   "category": "Talking Corpse",
+   "number": 41,
+   "location": "Pavlov Complex",
+   "open_world": false,
+   "where": "From the previous collectible, hack the lock on the door at the end of the dining area. Then, go up the stairs to find the corpse next to the statue.",
+   "source_label": "Talking Corpse #41",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/20647a14-7e1f-4cb8-9572-598744f111c3/15.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:chirper-61",
+   "category": "Chirper",
+   "number": 61,
+   "location": "Pavlov Complex",
+   "open_world": false,
+   "where": "Go up the stairs in the same room as the previous collectible to find the chirper.",
+   "source_label": "Chirper #61",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676878210841-BZVZAZNB7DYPU7ODQMUN/16a.jpg",
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676878210830-2FZUMFV827IKSGPHCEKH/16b.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:chirper-62",
+   "category": "Chirper",
+   "number": 62,
+   "location": "Pavlov Complex",
+   "open_world": false,
+   "where": "In the area with the red polymer animals, go to the 3rd animal (bear to find the chirper near a corpse).",
+   "source_label": "Chirper #62",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/27985d23-ee8f-4e69-9574-249f88e8f574/17.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:chirper-63",
+   "category": "Chirper",
+   "number": 63,
+   "location": "Lighthouse",
+   "open_world": false,
+   "where": "On a desk in the first room after climbing through the lighthouse window.",
+   "source_label": "Chirper #63",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/c65bd147-a979-4656-b71b-49d45ee27ae9/18.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:corpse-42",
+   "category": "Talking Corpse",
+   "number": 42,
+   "location": "Sector 03",
+   "open_world": true,
+   "where": "The Talking Corpse can be found at the end of the monorail platform that you start on after the monorail crashes near the start of the game.",
+   "source_label": "Talking Corpse #42",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676878492257-QJTUCNXP4F2OAHHGWC74/19a.jpg",
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676878491098-9241Z5L6CKOY80MY5R6X/19b.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:chirper-64",
+   "category": "Chirper",
+   "number": 64,
+   "location": "Sector 03",
+   "open_world": true,
+   "where": "On a table below the monorail platform.",
+   "source_label": "Chirper #64",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676878538685-I01YMPIF3UL0VMO3RCJL/20a.jpg",
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676878535851-T1CJWQH2U7S1PIZS1FBJ/20b.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:corpse-43",
+   "category": "Talking Corpse",
+   "number": 43,
+   "location": "Sector 03",
+   "open_world": true,
+   "where": "In a field to the north west of the station.",
+   "source_label": "Talking Corpse #43",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676973155523-J2Q57Y5BXFAV500I45B9/e1.jpg",
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676973156134-UC47LE4YVOILC19SSSOC/e2.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:chirper-65",
+   "category": "Chirper",
+   "number": 65,
+   "location": "Sector 03",
+   "open_world": true,
+   "where": "Under a pole near the entrance to the arena.",
+   "source_label": "Chirper #65",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676965591521-6MU1IW21T09B1OUOCBLH/1a.jpg",
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676965588732-JOYT92BWK9MXU5B7NFK6/1b.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:chirper-66",
+   "category": "Chirper",
+   "number": 66,
+   "location": "Sector 03",
+   "open_world": true,
+   "where": "In the area where you fight the Hog-7 Hedgie boss.",
+   "source_label": "Chirper #66",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676878569776-EQ9BYOB0S43E8AILTT7B/21a.jpg",
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676878567140-DTG7KQJH096AJA3X4C35/21b.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:chirper-67",
+   "category": "Chirper",
+   "number": 67,
+   "location": "Sector 06",
+   "open_world": true,
+   "where": "Near the safe room in the lake.",
+   "source_label": "Chirper #67",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676965135031-RCL917R31UUWKE052ZHE/1a.jpg",
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676965134493-SGXYRSGLJGY2Z7O24ECI/1b.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:animal-1",
+   "category": "Talking Animal",
+   "number": 1,
+   "location": "Sector 06",
+   "open_world": true,
+   "where": "In the field on the west bank of the lake.",
+   "source_label": "Talking Animal #1 (Cow)",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676965153537-8IDJOL062FVYHIZGYCGU/2a.jpg",
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676965154389-LYQ3OGGD8TY067V1GJ0Q/2b.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations",
+   "animal": "Cow"
+  },
+  {
+   "id": "100p:chirper-68",
+   "category": "Chirper",
+   "number": 68,
+   "location": "Sector 06",
+   "open_world": true,
+   "where": "In a small hut to the south west of sector 06.",
+   "source_label": "Chirper #68",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676965639478-MU5K70UH0MS5H7126FKV/3a.jpg",
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676965640334-44R1YKAM5Q282YGQ8TPU/3b.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:corpse-44",
+   "category": "Talking Corpse",
+   "number": 44,
+   "location": "Sector 06",
+   "open_world": true,
+   "where": "Found on the road to the south west of sector 6 (potentially bugged, this corpse will glow green when scanned, however you will not be able to interact with it).",
+   "source_label": "Talking Corpse #44",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1677052781538-8SBZ9BHGBKFHMZVPI7U1/1.jpg",
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1677052784348-OJDN8F7VWIHKCEPI8T33/2.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:corpse-45",
+   "category": "Talking Corpse",
+   "number": 45,
+   "location": "Sector 04",
+   "open_world": true,
+   "where": "In a crater in the field outside the big building.",
+   "source_label": "Talking Corpse #45",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676966050938-93KR69IG41K41E4ZKP8X/1a.jpg",
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676966051564-9QCL4DDT6B5U4KOFAWDO/1b.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:chirper-69",
+   "category": "Chirper",
+   "number": 69,
+   "location": "Sector 04",
+   "open_world": true,
+   "where": "On a table just outside the Kollektiv Complex building.",
+   "source_label": "Chirper #69",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1677242977184-LIQ5WBW6F8ZFQBCBN6HH/1a.jpg",
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1677242977058-Y6G0RG5WVYXSI8IAQZRM/1b.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:chirper-70",
+   "category": "Chirper",
+   "number": 70,
+   "location": "Sector 04",
+   "open_world": true,
+   "where": "Near a tree in the village.",
+   "source_label": "Chirper #70",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676966070792-3AS0Y2NII47POPV3A2LK/2a.jpg",
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676966071624-R8EW7R6K65WW1FTOXCFM/2b.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:corpse-46",
+   "category": "Talking Corpse",
+   "number": 46,
+   "location": "Sector 04",
+   "open_world": true,
+   "where": "On the wooden deck of the building near the water.",
+   "source_label": "Talking Corpse #46",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676966095244-MKGLAYD7V1NKSZ8WN6OT/3a.jpg",
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676966095675-2WBDC0TCO0WK3S23J24X/3b.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:corpse-47",
+   "category": "Talking Corpse",
+   "number": 47,
+   "location": "Sector 07",
+   "open_world": true,
+   "where": "Near some hay stacks.",
+   "source_label": "Talking Corpse #47",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676966581577-PFC4I2JZUKE2P68W261Y/1a.jpg",
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676966582697-F8ECFHIS43B89HXFHI7R/1b.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:animal-2",
+   "category": "Talking Animal",
+   "number": 2,
+   "location": "Sector 07",
+   "open_world": true,
+   "where": "Near the farm house.",
+   "source_label": "Talking Animal #2 (Pig)",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676966598060-5AW2ESA4PP4COZJS5ZZS/2a.jpg",
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676966598620-0H6EAJRQZMZKS5M4WAH0/2b.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations",
+   "animal": "Pig"
+  },
+  {
+   "id": "100p:corpse-48",
+   "category": "Talking Corpse",
+   "number": 48,
+   "location": "Sector 07",
+   "open_world": true,
+   "where": "Near some more hay stacks.",
+   "source_label": "Talking Corpse #48",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676966617536-OYBBUZVEFQD69O6596T8/3a.jpg",
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676966618090-7RX85GDO73BZJUS7NZ7J/3b.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:corpse-49",
+   "category": "Talking Corpse",
+   "number": 49,
+   "location": "Sector 07",
+   "open_world": true,
+   "where": "In the middle of the dirt road.",
+   "source_label": "Talking Corpse #49",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676966633419-0VI1EBMJCUOLMLUNVCZP/4a.jpg",
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676966634146-0LETCJF1RFKXKR1AU3N2/4b.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:corpse-50",
+   "category": "Talking Corpse",
+   "number": 50,
+   "location": "Sector 05",
+   "open_world": true,
+   "where": "On the ground near the spiral stair tower.",
+   "source_label": "Talking Corpse #50",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676968371069-9KU4GHSI6G8T1B1L6VJZ/1a.jpg",
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676968375194-GCAEHHI5PFAIR6EA8CS8/1b.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:chirper-71",
+   "category": "Chirper",
+   "number": 71,
+   "location": "Sector 01",
+   "open_world": true,
+   "where": "Found on the train tracks.",
+   "source_label": "Chirper #71",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676968418826-X766PZF5Y3MPZGA9LS0A/2a.jpg",
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676968418599-VDCDGDE69GNRQ3WD96VF/2b.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:chirper-72",
+   "category": "Chirper",
+   "number": 72,
+   "location": "Sector 01",
+   "open_world": true,
+   "where": "Found near a chest on top of the red car on the road.",
+   "source_label": "Chirper #72",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1677891365114-UO7MNEKMKX8076OT1W3V/1a.jpg",
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1677891364529-AE9J49QT22AD513SHLJ3/1b.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations"
+  },
+  {
+   "id": "100p:animal-3",
+   "category": "Talking Animal",
+   "number": 3,
+   "location": "Sector 01",
+   "open_world": true,
+   "where": "Near the safe house before the bridge.",
+   "source_label": "Talking Animal #3 (Chicken)",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676968459235-RB3YM7JN2Z4XCPYXMTSS/3a.jpg",
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676968459907-VWN28QVU6TLFXQST5ISI/3b.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-all-collectible-locations",
+   "animal": "Chicken"
+  },
+  {
+   "id": "100p:tg-1",
+   "category": "Testing Ground",
+   "number": 1,
+   "location": "Testing Ground 1",
+   "open_world": true,
+   "where": "Volan camera hack (white spiral staircase tower → aim at blue-roof bunker hatch)",
+   "window": "Ch.3+",
+   "failure": "always-available",
+   "notes": "Do at VDNH outdoor (Ch.3) or early Ch.5. NW of arena.",
+   "access_100p": "To access this testing ground you will first have to open the door to the blue circular building. To do this, climb the nearby tower with spiral stairs and go to the top. Here you can interact with the pod to control the camera facing the door. Press the R1/RB button to open it.",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676885094586-5599LLKT8S9SH7TH85VL/1a.jpg",
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676885094826-LCZ9Y0SGPC8BPV56JZCS/1b.jpg",
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676885096522-LTGHM73WGAR3NFTV20WD/1c.jpg",
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676885097289-VL5ACGABVI8FVMXXOIHJ/1d.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-testing-ground-1-walkthrough-all-lootyagin-locations",
+   "lootyagins": true
+  },
+  {
+   "id": "100p:tg-2",
+   "category": "Testing Ground",
+   "number": 2,
+   "location": "Testing Ground 2",
+   "open_world": true,
+   "where": "Volan camera hack (camera tower opens sewer pipe entrance near Boat Station)",
+   "window": "Ch.3+",
+   "failure": "always-available",
+   "notes": "Do in Ch.5",
+   "access_100p": "Getting into this testing ground is simple. Just climb the spiral tower and use the Volan to control a camera. Use the camera to open the door to the blue building where the testing ground is found.",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1677065982433-677TYW6LM62L5FF4EYDG/1a.jpg",
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1677065982880-O2VWKQ2KJFZ0GF5EORLB/1b.jpg",
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1677065984786-S76NG67T2JXWFWRH15ER/1c.jpg",
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1677065985445-TIIJBE9NTK7JORRT6UFE/1d.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-testing-ground-2-walkthrough-all-lootyagin-locations",
+   "lootyagins": true
+  },
+  {
+   "id": "100p:tg-3",
+   "category": "Testing Ground",
+   "number": 3,
+   "location": "Testing Ground 3",
+   "open_world": true,
+   "where": "Open",
+   "window": "Ch.3+",
+   "failure": "always-available",
+   "notes": "Any time in Ch.5",
+   "access_100p": "",
+   "images": [],
+   "source_url": "optional_zones/polygons.md",
+   "lootyagins": false
+  },
+  {
+   "id": "100p:tg-4",
+   "category": "Testing Ground",
+   "number": 4,
+   "location": "Testing Ground 4",
+   "open_world": true,
+   "where": "Open",
+   "window": "Ch.3+",
+   "failure": "always-available",
+   "notes": "Any time in Ch.5",
+   "access_100p": "",
+   "images": [],
+   "source_url": "optional_zones/polygons.md",
+   "lootyagins": false
+  },
+  {
+   "id": "100p:tg-5",
+   "category": "Testing Ground",
+   "number": 5,
+   "location": "Testing Ground 5",
+   "open_world": true,
+   "where": "Open",
+   "window": "Ch.3+",
+   "failure": "always-available",
+   "notes": "Any time in Ch.5",
+   "access_100p": "",
+   "images": [],
+   "source_url": "optional_zones/polygons.md",
+   "lootyagins": false
+  },
+  {
+   "id": "100p:tg-6",
+   "category": "Testing Ground",
+   "number": 6,
+   "location": "Testing Ground 6",
+   "open_world": true,
+   "where": "Volan camera hack (camera tower across the lake)",
+   "window": "Ch.3+",
+   "failure": "always-available",
+   "notes": "One of the easier TGs. Do in Ch.5.",
+   "access_100p": "To access this testing ground all you have to do is climb the tower on the other side of the river and control the camera near the entrance to open the door.",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1679018363415-PY81KLK8NKGK2Z6PF1JZ/1.jpg",
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1679018362646-5YMN1RNX5QEMJIL5G62T/1b.jpg",
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1679018368552-AIHCF04HSKMOE0RQR0RS/1c.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-testing-ground-6-walkthrough-all-lootyagin-locations",
+   "lootyagins": true
+  },
+  {
+   "id": "100p:tg-7",
+   "category": "Testing Ground",
+   "number": 7,
+   "location": "Testing Ground 7",
+   "open_world": true,
+   "where": "Open",
+   "window": "Ch.3+",
+   "failure": "always-available",
+   "notes": "Any time in Ch.5",
+   "access_100p": "",
+   "images": [],
+   "source_url": "optional_zones/polygons.md",
+   "lootyagins": false
+  },
+  {
+   "id": "100p:tg-8",
+   "category": "Testing Ground",
+   "number": 8,
+   "location": "Testing Ground 8",
+   "open_world": true,
+   "where": "\"Bug in the System\" started (CONFIRMED — 3 Volan/camera unlocks only become interactable once mission is active; NOT freely accessible)",
+   "window": "Ch.5–8",
+   "failure": "**⚠️ MISSABLE** — must complete before E36 (Theater interior entry). \"Petrov flees\" cutscene (E35) does NOT close TG8 — confirmed live 2026-05-12.",
+   "notes": "Do while \"Bug in the System\" is active, before entering the Theater interior. See `puzzles/combination_locks.md` for three-Volan method.",
+   "access_100p": "First you will have to climb on to the roof of the building where the testing ground is. On the roof you will find to the Volan. You will now have to access each of the 3 cameras around the building and search for the 3 hidden buttons that can be found by looking around with these cameras (check the screenshots below). Once you have activated all 3 buttons, enter the building and take the lift on your right to go to the testing ground (please note that you will need to advance the story to enter the building).",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1679029376017-ZB662WAN1PO31QVW6N8F/1.jpg",
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1679029376302-O6M06QP41G1CMCUZ5VXI/1b.jpg",
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1679029377926-S6Q7HLXT5SR4N851PAZZ/1c.jpg",
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1679029486514-7QZP1UNSLNSAT188J0IF/2a.jpg",
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1679029486507-HYDEPWGS4G7LVIK0FVVO/2b.jpg",
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1679029488844-T4N6UIRK5UWFUZZP8OMI/2c.jpg",
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/62a9ca9c-0a88-44f0-8d10-be77edd4b995/3.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-testing-ground-8-walkthrough-all-lootyagin-locations",
+   "lootyagins": true
+  },
+  {
+   "id": "100p:tg-9",
+   "category": "Testing Ground",
+   "number": 9,
+   "location": "Testing Ground 9",
+   "open_world": true,
+   "where": "HAWK reactivation (clear sprout infestation via 4 sewer boilers via manhole) + camera hijack reveals shack near Lenin statue",
+   "window": "Ch.3+",
+   "failure": "always-available",
+   "notes": "Candle-throwing platform puzzle inside. NORA booth present. Kollektiv village area.",
+   "access_100p": "Accessing this testing ground can be a little more tricky than the rest. You will first have to get the Hawk back in the air. To do this, go down the hole near the downed hawk (location in screenshot below). Once down the hole, continue on through the pipes until you get to a boiler room. Here go into the door on the right to find the cryo candles. You will now have to place the candles in the pipes to cool every one of the boilers (just like one of the first puzzles in the game). Once you have done that, continue through the tunnels until you get aoutside again. You will now be able to use the volan to control the camera to press the button on the statue and open the door to the testing ground.",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1679085050891-AK77I6VCVIBMDTJ7NCAB/1.jpg",
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1679085050826-MGMSR0D7N8RZQFPTNG9A/1b.jpg",
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1679085222152-K8MO970WU5HOKTOLGYJX/2a.jpg",
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1679085224349-ID8V2DMRN2AUPY8AUAO3/2b.jpg",
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1679085231111-5SQPNJP3NDPF6SKHDWRX/2c.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-testing-ground-9-walkthrough-all-lootyagin-locations",
+   "lootyagins": true
+  },
+  {
+   "id": "100p:tg-10",
+   "category": "Testing Ground",
+   "number": 10,
+   "location": "Testing Ground 10",
+   "open_world": true,
+   "where": "Volan camera tower hack",
+   "window": "Ch.5",
+   "failure": "always-available",
+   "notes": "One of the easier TGs.",
+   "access_100p": "To access this testing ground all you have to do is climb on the roof near the barn to use the Volan. With it, control the camera and aim it it at the wooden structure to open the testing ground.",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1679092652922-683DN0EINIXQTTQW37BG/1.jpg",
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1679092651596-R12VCTBD2UNDR16PK84J/1b.jpg",
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1679092659729-6YY0JSU3T9Y2VMSNCB83/1c.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-testing-ground-10-walkthrough-all-lootyagin-locations",
+   "lootyagins": true
+  },
+  {
+   "id": "100p:tg-11",
+   "category": "Testing Ground",
+   "number": 11,
+   "location": "Testing Ground 11",
+   "open_world": true,
+   "where": "Key Disk from walled compound NW of TG11 (HAWK maintenance → zipline in) + combination lock",
+   "window": "Ch.4+ (post-Theater stage, before bridge PoNR)",
+   "failure": "always-available",
+   "notes": "Reachable from Solnechnaya side; do before crossing bridge or in Open World 2. Across from Theater.",
+   "access_100p": "Getting into this testing ground can be a little more tricky than normal. First, climb the tower and use the Volan to access the camera and ipen the green hut. Here bring down the hawk for maintenance. Climb on to it and use the zipline to get into the walled off area. Here pick the lock on the wooden hut at the end to find the cookie key. This key can be used to open the testing ground building on the beach.",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1679103344479-OTLH4A5NID8945HZBOGJ/1a.jpg",
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1679103341629-JFE0B0Z6Y6TAD9ZH9BA2/1b.jpg",
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1679103351839-X6IALZ15W0LIRIRO5T05/1c.jpg",
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1679103352301-UUCRFZ5Y7PSP20HSOJ0A/1d.jpg",
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1679103359370-2MBNF9SDPTOKPVL9VO2G/2.jpg",
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1679103359817-2NZSP3GF7P6MPOR7AYQS/2b.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-testing-ground-11-walkthrough-all-lootyagin-locations",
+   "lootyagins": true
+  },
+  {
+   "id": "100p:tg-12",
+   "category": "Testing Ground",
+   "number": 12,
+   "location": "Testing Ground 12",
+   "open_world": true,
+   "where": "\"Petrov of Opera\" quest complete",
+   "window": "Ch.7+ (post-Theatre)",
+   "failure": "**⚠️ MISSABLE** — energy barrier drops during Hospital quest (Ch.5 only window for beach cave entrance)",
+   "notes": "NE side near Infirmary; Open World 2 only. Boss inside: Natasha-class [enemy-tier: 1]. See DEP-010.",
+   "access_100p": "This testing ground is one of the easiest to access. Just go through the cave on the beach to enter the testing grounds. To get to this part of the map you will need to advance through the story until it sends you here.",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1679131245669-57KQX8ZAQ3H7PSA6KYBM/1a.jpg",
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1679131247287-EECY2XWH2P3KXZJJFNMZ/1b.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-testing-ground-12-walkthrough-all-lootyagin-locations",
+   "lootyagins": true
+  },
+  {
+   "id": "100p:lootyagin-1-bronze",
+   "category": "Lootyagin",
+   "number": 1,
+   "tier": "Bronze",
+   "location": "Testing Ground 1",
+   "open_world": true,
+   "where": "Solving the first puzzle in this testing ground is easy. Just jump down and stand on the single line of blue magnets. Then, look up and zap the magnets on the ceiling. You will now be able to jump to the door. Continue on the only path possible until you crawl through some vents. Once you com out the other side, go down the hall on the left to find the Bronze Lootyagin inside the room on the left.",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676885115463-T59MSNVU9BTU3IAHU05K/2a.jpg",
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676885115323-H3WHTUY8YRRXSVHELZ28/2b.jpg",
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676885116620-UNVJ0Q03VF9P5F8K50TA/2c.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-testing-ground-1-walkthrough-all-lootyagin-locations",
+   "where_found": true
+  },
+  {
+   "id": "100p:lootyagin-1-silver",
+   "category": "Lootyagin",
+   "number": 1,
+   "tier": "Silver",
+   "location": "Testing Ground 1",
+   "open_world": true,
+   "where": "Continue through the testing ground, past a big room where you have to kill some enemies to advance. After this, you will have to zap some magnets on the wall to open a horizontal metal door. As soon as you get to the other side, enter the door in front of you to find the silver Lootyagin.",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676885142220-7MEPL09T6JOV2NNQ1X56/3a.jpg",
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676885142058-KNDEWZNZM8XQ8H6ZLV7S/3b.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-testing-ground-1-walkthrough-all-lootyagin-locations",
+   "where_found": true
+  },
+  {
+   "id": "100p:lootyagin-1-gold",
+   "category": "Lootyagin",
+   "number": 1,
+   "tier": "Gold",
+   "location": "Testing Ground 1",
+   "open_world": true,
+   "where": "Go back to the horizontal metal door and zap the magnets again to open the path on the right side. You will now have to solve a final magnetic puzzle. FIrst zap the magnets on the ceiling and make you way across the platforms until you get to the red platform below the door on the other side. Here you will have to solve a LED color puzzle. To solve it, spin the middle bottom and bottom left panels. Finally, go around to the blue platform behind the puzzle and zap the magnets on the ceiling to rise the platform and reach the final door. The gold Gold Lootyagin can be found through the door on the left once you reach the lift.",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676885164287-EYWE9S3D5U445JZTHECL/4a.jpg",
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676885164182-JF7ID7XBTQ0PKZJ9RQNU/4b.jpg",
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1676885165665-XUN5H1XGO329GV5FHZR9/4c.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-testing-ground-1-walkthrough-all-lootyagin-locations",
+   "where_found": true
+  },
+  {
+   "id": "100p:lootyagin-2-bronze",
+   "category": "Lootyagin",
+   "number": 2,
+   "tier": "Bronze",
+   "location": "Testing Ground 2",
+   "open_world": true,
+   "where": "The first puzzle in this testing ground is a Perspective puzzle. First, turn the valve until the white arrow on the rotating platform is pointing up. Then, wait for the left platform to rotate so that you can run through to the other side. Here use the valve to spin the platform so that the green draws with the white arrow are on top of the platform. You will now be able to go behind it to find the lootyagin in the door to the right.",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1677066016593-H8XHV1A5N3F2H803T9WA/2a.jpg",
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1677066016938-9HSJL5W6PFGT0TYP7YPH/2b.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-testing-ground-2-walkthrough-all-lootyagin-locations",
+   "where_found": true
+  },
+  {
+   "id": "100p:lootyagin-2-silver",
+   "category": "Lootyagin",
+   "number": 2,
+   "tier": "Silver",
+   "location": "Testing Ground 2",
+   "open_world": true,
+   "where": "The second puzzle in this testing ground is a magnetic puzzle. First, jump down to the bottom to find that one of the platforms on the right has some metal you can grab onto. Before grabbing onto the platform, zap the magnets on the ceiling and quickly grab the ledge before it goes up. Climb across until you can jump to a red platform. Here, zap the magnets on the roof to climb to the next platform. From here, jump down to the red platform below. Then, zap the magnets. From here climb across the side of the platforms to get to the blue platform in front of you. Use the magnets again to jump to the metal on the wall and get to the next platform. Zap the ceiling one more time to climb to the platform above. Here get on to the horizontally moving platform and zap the magnets on the side to finally get to the door. After going through the vents you will find the lootyagin in the room to the right.",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1677066050972-PIC10CS4WPMN1VX1SH68/3a.jpg",
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1677066050297-QITC7E4UCMTTUCR5X0IA/3b.jpg",
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1677066051983-WBSWHNUY19278UG1FPFZ/3c.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-testing-ground-2-walkthrough-all-lootyagin-locations",
+   "where_found": true
+  },
+  {
+   "id": "100p:lootyagin-2-gold",
+   "category": "Lootyagin",
+   "number": 2,
+   "tier": "Gold",
+   "location": "Testing Ground 2",
+   "open_world": true,
+   "where": "After opening the horizontal door with the magnets you will reach the final puzzle in the testing ground. First, zap the ceiling magnets and jump over the metal structure to your right and land on the blue platform. Now zap the ceiling to go up. Jump across the platforms until you are on the long blue one. Finally, zap the ceiling to go down. As you do so, jump under the metal to get onto the blue platform. Drop down to the door to finish the puzzle and testing ground.",
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1677066075501-1R5QL7XLNUTXJZCSY3T0/4a.jpg",
+    "https://images.squarespace-cdn.com/content/v1/60cb14f95f1f8c5346a99c66/1677066075501-E44POJO6P8M6AE33RXJN/4b.jpg"
+   ],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-testing-ground-2-walkthrough-all-lootyagin-locations",
+   "where_found": true
+  },
+  {
+   "id": "100p:lootyagin-6-bronze",
+   "category": "Lootyagin",
+   "number": 6,
+   "tier": "Bronze",
+   "location": "Testing Ground 6",
+   "open_world": true,
+   "where": "The first puzzle is a perspective puzzle. First, go to the valve an place the 2 dots at the top. Stand on the spinning platform on the right to find another valve. Turn this valve so that the 2 dots are at the top and return to the first valve. Spin this valve so that 1 dot is at the top. Now, climb to the top of the spinning platform on the left and jump to the platform on the right where you can now hack the door below you. Return to the first valve and place the 2 dots at the top to access the valve on the spinning platform on the left. Spin it until the 4 dots are at the top. Now, climb the platform on the left to jump to the door and go through the hole. In the next room go left and go through the hole in the wall to enter a large room. The Lootyagin can be found in the door on the other side.",
+   "images": [],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-testing-ground-6-walkthrough-all-lootyagin-locations",
+   "where_found": true
+  },
+  {
+   "id": "100p:lootyagin-6-silver",
+   "category": "Lootyagin",
+   "number": 6,
+   "tier": "Silver",
+   "location": "Testing Ground 6",
+   "open_world": true,
+   "where": "Now head up the stairs and enter the circular room. Here you will just have to kill some enemies. Once the enemies are gone, drop down the hole in the middle of the room. Then, take a left and then another left to climb out the other end of the hole. Here you will find the lootyagin in the room straight in front of you.",
+   "images": [],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-testing-ground-6-walkthrough-all-lootyagin-locations",
+   "where_found": true
+  },
+  {
+   "id": "100p:lootyagin-6-gold",
+   "category": "Lootyagin",
+   "number": 6,
+   "tier": "Gold",
+   "location": "Testing Ground 6",
+   "open_world": true,
+   "where": "The final challenge will be another perspective puzzle. Climb up the left side of the spinning platform and jump to the platform on the left. Then, drop down the hole to get to the valve. Here, hack the door to get back to the 1st valve and place the 3 dots at the top. Now, go back through the door and place the 3 dots at the top on the other valve. Exit the door and go right to find some stairs that go down. At the bottom use the yellow platforms to the left to get to the other side of the rotating platforms. From here, jump to the yellow pipe to get to the final valves. Place 2 dots at thee top on the right valve. Then, 3 at the top on the left. Finally, 1 on the right. You should now be able to climb on to the yellow pipe and get to the top platform. The lootyagin will be in the room to the left of the final lift.",
+   "images": [],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-testing-ground-6-walkthrough-all-lootyagin-locations",
+   "where_found": true
+  },
+  {
+   "id": "100p:lootyagin-8-bronze",
+   "category": "Lootyagin",
+   "number": 8,
+   "tier": "Bronze",
+   "location": "Testing Ground 8",
+   "open_world": true,
+   "where": "The first puzzle is a magnetic room puzzle. To get to the other side, drop down to the blue platform and activate the magnets on the ceiling. Now grab on to the platform on your right and climb around the room until you can jump to the blue platform against the left side wall. Now get on the thin grey platform, go to the other end and jump on to the square grey platform. Zap the ceiling to reveal the platforms that will take you to the exit. The lootyagin can be found by goinf through the door in front of you and then to your right.",
+   "images": [],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-testing-ground-8-walkthrough-all-lootyagin-locations",
+   "where_found": true
+  },
+  {
+   "id": "100p:lootyagin-8-silver",
+   "category": "Lootyagin",
+   "number": 8,
+   "tier": "Silver",
+   "location": "Testing Ground 8",
+   "open_world": true,
+   "where": "For the second challenge you will just have to clear the room of enemies. Once that is done, climb the boxes to get to the stairs that will take you to the exit door. The lootyagin can be found in the door to your left in the next hall.",
+   "images": [],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-testing-ground-8-walkthrough-all-lootyagin-locations",
+   "where_found": true
+  },
+  {
+   "id": "100p:lootyagin-8-gold",
+   "category": "Lootyagin",
+   "number": 8,
+   "tier": "Gold",
+   "location": "Testing Ground 8",
+   "open_world": true,
+   "where": "Continue on the only path possible until you get to a room with loads of candles falling down. Here, drop down the hole to find a room where you have to place 5 candles above the door. You can do this by throwing candles. To do this, hold R1/RB and then release it. Once all 5 are places, go into the side room and press the button. Inb the next area, go through the door under the stairs, up the ramp and grab the candle. Go back through the door and up the stairs to place the candle. The platform will move towards you, allowing you to climb around the room. Once you get to another platform with a ramp on it. Go to the top and grab the same candle as before. Then, place it in the slot on this platform. Continue climbing around the room until you are standing on a glass platform. From here, grab the previous candle again and drop it. This will allow you to drop down to the wood below, jump to the wall and climb to the exit. The lootyagin can be found right in front of you.",
+   "images": [],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-testing-ground-8-walkthrough-all-lootyagin-locations",
+   "where_found": true
+  },
+  {
+   "id": "100p:lootyagin-9-bronze",
+   "category": "Lootyagin",
+   "number": 9,
+   "tier": "Bronze",
+   "location": "Testing Ground 9",
+   "open_world": true,
+   "where": "To open the first door inside the testing ground you will have to zap the polimer on the ground. This will quickly activate the switch that opens the door. If you miss it the first time you will have to place new polimer with the Polimeric Jet ability. In the next room, get the candle and place it to the right of the door to open it. Go through and take the door on the left to find the lootyagin.",
+   "images": [],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-testing-ground-9-walkthrough-all-lootyagin-locations",
+   "where_found": true
+  },
+  {
+   "id": "100p:lootyagin-9-silver",
+   "category": "Lootyagin",
+   "number": 9,
+   "tier": "Silver",
+   "location": "Testing Ground 9",
+   "open_world": true,
+   "where": "Now, go down the stairs and press the button in the next room. Now, return to the area where you got the first candle. Jump in the water and get the candle in the crate. With this new candle, crawl under the door and place the candle on the other side. This will allow you to go back to the other side and bring the other candle to this side. Now use the 2 candles to open the other door in this room. Go through the door and enter the room to the right. Press the button and return to where you left the candles. Use one to open the first door again and grab the other one. Take this one to the other side of the door and leave it in the slot to keep the door open. Return to the other side and bring the other candle out. Finally, use both candles to open the door on the right side of the area. In the next room, defeat the enemies to open the door. The lootyagin can be found in the room to the right at the bottom of the stairs.",
+   "images": [],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-testing-ground-9-walkthrough-all-lootyagin-locations",
+   "where_found": true
+  },
+  {
+   "id": "100p:lootyagin-9-gold",
+   "category": "Lootyagin",
+   "number": 9,
+   "tier": "Gold",
+   "location": "Testing Ground 9",
+   "open_world": true,
+   "where": "To solve the final puzzle, go left and zap the ceiling to get on the platform. Now zap again to go up and get the candle. Now use this candle and the one near the platforms to get to the top. You will have to throw them in the different slots to get the platforms to come out once by one. Once you reach the top grab the closest candle to open the door.",
+   "images": [],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-testing-ground-9-walkthrough-all-lootyagin-locations",
+   "where_found": true
+  },
+  {
+   "id": "100p:lootyagin-10-bronze",
+   "category": "Lootyagin",
+   "number": 10,
+   "tier": "Bronze",
+   "location": "Testing Ground 10",
+   "open_world": true,
+   "where": "Once you enter the testing ground you will first have to open a door by zapin the polimer near the switch in the other room. If you fail the first time you will have to use the polimeric jet skill to zap the switch again. In the next room, grab the candle and place it in the slot on the ceiling. Then, zap the magnets on the ceiling to get another candle. Place both candles next to the door and press the button to open it. In the next room, grab the candle on the left and place it in the slot on the left of the ceiling. Then, zap the magnets, grab the candle again and place it in the slot on the ceiling to the right. Now zap the magnets on this side, allowing you to cross to the other side. Here, zap the ceiling again to get to the candle on this side. Throw this candle to the other side and zap the magnets to get back across. Place the candles near the door and press the switch to open it. Go through to find the lootyagin in the door in front of you.",
+   "images": [],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-testing-ground-10-walkthrough-all-lootyagin-locations",
+   "where_found": true
+  },
+  {
+   "id": "100p:lootyagin-10-silver",
+   "category": "Lootyagin",
+   "number": 10,
+   "tier": "Silver",
+   "location": "Testing Ground 10",
+   "open_world": true,
+   "where": "In the next room you will have to place polimer near the 2 switches (one on the right and one on the left). First, zap the one on the left. Wait a few seconds and zap the one on the right. You should now have time to go through both doors. In the next room, stick to the right side to make your way around the room. On the other side you will find a hole. Go down the hole and through the door on the left to find the lootyagin.",
+   "images": [],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-testing-ground-10-walkthrough-all-lootyagin-locations",
+   "where_found": true
+  },
+  {
+   "id": "100p:lootyagin-10-gold",
+   "category": "Lootyagin",
+   "number": 10,
+   "tier": "Gold",
+   "location": "Testing Ground 10",
+   "open_world": true,
+   "where": "The final challenge is a magnetic one. FIrst, jump to the platform on your right and zap the ceiling. This will allow you to jump to the platform in front of you. Next, jump to the platform on the left. Then, to the one on your right. Turn around and jump to the ledge around the platform. Turn around again and jump to the platform with the button on it. Next, jump to the red platform in the middle of the area and zap the ceiling. Drop down and get on the blue platform surrounded by walls. Zap the ceiling to get to the exit.",
+   "images": [],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-testing-ground-10-walkthrough-all-lootyagin-locations",
+   "where_found": true
+  },
+  {
+   "id": "100p:lootyagin-11-bronze",
+   "category": "Lootyagin",
+   "number": 11,
+   "tier": "Bronze",
+   "location": "Testing Ground 11",
+   "open_world": true,
+   "where": "For the first challenge, turn the valve so that the 1 dot is at the top. As it spins, drop down to the bottom floor, go through to the other side and zap the ceiling. Get on the platform and zap the ceiling again to go up. Now go across the narrow blue platform and zap the magnets on the other side of the metal grate. Jump across to the next valve and place the 1 dot at the top. Zap the magnets on this side of the grate and jump to the narrow platform again. Zap the magnets on the other side of the grate to go up and cross to the other side. From here, jump through the door. Go to the end and look right to find a blue platform. Get on it and zap the magnets above you to cross to the other side of the metal grate. Here, zape the ceiling on this side and jump to the narrow blue platform against the wall. Zap the ceiling and jump through the hole in the grate where the 3 arrows are to get to the red platform. From here, drop down and go through the door under the spinning platform. Look for a platform on your left. Zap the ceiling to get to the exit. The lootyagin will be in the door on the right down the hall.",
+   "images": [],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-testing-ground-11-walkthrough-all-lootyagin-locations",
+   "where_found": true
+  },
+  {
+   "id": "100p:lootyagin-11-silver",
+   "category": "Lootyagin",
+   "number": 11,
+   "tier": "Silver",
+   "location": "Testing Ground 11",
+   "open_world": true,
+   "where": "The next challenge will be a massive boiler room. Just watch out for the robots, they are not all dead. Here you will have to guide 2 candles through 2 tubes. The first candle and tube can be found to the left of the area in plain sight. For the second, jump up the the roof of the building to your right (from where you enter this area for the first time) and use the wooden plaform to get to the roof of the second building. Here, drop down in to the house to find the candles and tube. After going through the hatch at the end, the lootyagin can be found in the door on the left.",
+   "images": [],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-testing-ground-11-walkthrough-all-lootyagin-locations",
+   "where_found": true
+  },
+  {
+   "id": "100p:lootyagin-11-gold",
+   "category": "Lootyagin",
+   "number": 11,
+   "tier": "Gold",
+   "location": "Testing Ground 11",
+   "open_world": true,
+   "where": "Now, head in to the vent. First, go right. Then, left to reach the next puzzle. Here, go right and then down the hall to the left. Here pick up the candle on the other side of the rotating platform. Take the candle to the spinning platforms on the left and throw it across to one of the slots. Return to the platforms on the right where you got the candle from, jump over the metal grate and go through the door to find another candle. Throw it over the grate you just jumped over and then pick it up. Now throw it in to the empty slot where you placed the other one. This will slow the platform down, allowing you to cross to the final lootyagin.",
+   "images": [],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-testing-ground-11-walkthrough-all-lootyagin-locations",
+   "where_found": true
+  },
+  {
+   "id": "100p:lootyagin-12-bronze",
+   "category": "Lootyagin",
+   "number": 12,
+   "tier": "Bronze",
+   "location": "Testing Ground 12",
+   "open_world": true,
+   "where": "In the first room, turn the valve once and zap the magnets on the bottom of the spinning platform. Now, turn the valve again and zap the magnets again. You will now be able to cross over to the other side. Hack the door and enter the big room with pistons. The Lootyagin will be in the door on the right.",
+   "images": [],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-testing-ground-12-walkthrough-all-lootyagin-locations",
+   "where_found": true
+  },
+  {
+   "id": "100p:lootyagin-12-silver",
+   "category": "Lootyagin",
+   "number": 12,
+   "tier": "Silver",
+   "location": "Testing Ground 12",
+   "open_world": true,
+   "where": "For the second challenge you will have to defeat the Natasha boss again. Once you have done that, use the magnets to get up to the area above. Go through the hall and around the corner to the right. The lootyagin will be in the room to your left.",
+   "images": [],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-testing-ground-12-walkthrough-all-lootyagin-locations",
+   "where_found": true
+  },
+  {
+   "id": "100p:lootyagin-12-gold",
+   "category": "Lootyagin",
+   "number": 12,
+   "tier": "Gold",
+   "location": "Testing Ground 12",
+   "open_world": true,
+   "where": "In the next room, zap the magnets on the left to go through the right side. Here, grab the candle and place it in the slot above. Zap the ceiling on the left and grab the candle again. Now place it in the new slot to the left to start spinning the platform. Remove it so that the platform stops moving where there is an opening on the other side. Place the cnadle in the top slot again and zap the magnets to cross to the other side. Climb the boxes on the right to get to the top corridor. Here, move the sliding window to see the candle from here. First, zap the magnets to reveal the other slot for the candle. Now grab the candle and place it in the new slot to spin the platform until the platform on the other side of the area has an opening on the left side. Now go back down the hall and zap the magnets. You should now be able to walk over the other spinning platform and through the opening. Here, look up and zap the magnets to continue. You will now have to climb up the boxes on the left and move the sliding window. Through this window you should be able to grab the candle and use it on the final door.",
+   "images": [],
+   "source_url": "https://www.100pguides.com/guides/atomic-heart-testing-ground-12-walkthrough-all-lootyagin-locations",
+   "where_found": true
+  }
+ ]
+}
