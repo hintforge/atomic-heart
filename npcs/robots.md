@@ -261,7 +261,7 @@ _source: GamingBolt DLC review · capture: web_fetch · confidence: low · enemy
 
 ### FModel icon extraction
 
-Icons in `sprites/icons/` are game-extracted PNGs. To reproduce: install [FModel](https://fmodel.app/) (.NET 10 required); add game directory `E:\SteamLibrary\steamapps\common\Atomic Heart`, set UE version to 4.27; search for `InfoIcons`; navigate to `AtomicHeart/Content/Development/UI/Textures/AI/InfoIcons/`; select all, right-click → Save Textures. Exports to FModel's `Output/Exports/` folder. Copy the 19 PNGs into `sprites/icons/`.
+Icons in `sprites/icons/` are game-extracted PNGs. To reproduce: install [FModel](https://fmodel.app/) (.NET 10 required); add the game directory (your Steam library's `steamapps\common\Atomic Heart` folder), set UE version to 4.27; search for `InfoIcons`; navigate to `AtomicHeart/Content/Development/UI/Textures/AI/InfoIcons/`; select all, right-click → Save Textures. Exports to FModel's `Output/Exports/` folder. Copy the 19 PNGs into `sprites/icons/`.
 
 ### Icon file mapping
 

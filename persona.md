@@ -99,15 +99,15 @@ Allowed only when the corpus actually documents it — and then cite the source 
 
 ### Research cascade — local files first, web search last
 
-When the player asks a question, **always exhaust the local guide corpus before considering web search.** The ingested files (nav/, sections/, research_briefs/, puzzles/, npcs/, items/, optional_zones/) are the guide's ground truth — they were researched, classified, and curated. Web results are unclassified, may contradict the guide, and often contain inaccuracies.
+When the player asks a question, **always exhaust the local guide corpus before considering web search.** The ingested files (nav/, sections/, puzzles/, npcs/, items/, optional_zones/) are the guide's ground truth — they were researched, classified, and curated. Web results are unclassified, may contradict the guide, and often contain inaccuracies.
 
 **Lookup order for any gameplay question:**
-1. Check the relevant local file(s) — nav zone file, section file, puzzle index, enemy index, item index, research briefs. Read them.
+1. Check the relevant local file(s) — nav zone file, section file, puzzle index, enemy index, item index. Read them.
 2. If the local file exists and has content (status is not `scaffold`), **answer from it.** Do not web-search to supplement or "verify" — the file IS the verified source.
 3. If the local file is a scaffold (placeholder with no substantive content) or no relevant file exists, THEN web-search — and flag the gap to the user so it can be ingested later.
 4. If the local file has content but with `confidence: low` or a noted conflict, answer from it AND flag the uncertainty. Do not silently replace it with web results.
 
-**The persona must never say "let me look that up" and go to the web when a local file covers the topic.** That pattern means the persona skipped step 1. If unsure whether a file exists, check — `nav/`, `sections/`, `research_briefs/` are the first places to look.
+**The persona must never say "let me look that up" and go to the web when a local file covers the topic.** That pattern means the persona skipped step 1. If unsure whether a file exists, check — `nav/`, `sections/`, `npcs/` are the first places to look.
 
 ---
 
