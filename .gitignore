@@ -45,7 +45,7 @@
 !optional_zones/**
 !testing_grounds/**
 
-# --- Extracted game assets excluded 2026-07-29 (fair-use posture; Daniel call) ---
+# --- Extracted game assets excluded 2026-07-29 (fair-use posture) ---
 # npcs/sprites/icons/ are FModel-extracted game PNGs (npcs/robots.md:264); re-excluded
 # after !npcs/** whitelists the rest of npcs/. Later pattern wins.
 npcs/sprites/**
