@@ -131,8 +131,8 @@ Added in Patch 1.3.4. **Recommendation: ON** — Char-les's banter overlaps with
 
 ## Accessibility (added Patch 1.14.4.0)
 
-| Setting | Notes |
-|---|---|
+| Setting | Notes | Recommendation |
+|---|---|---|
 | **Colorblind modes** | Deuteranopia, Protanopia, Tritanopia | Enable at Forester's Village (Ch.2) to see laser-tripwire colors clearly |
 | **Special-contrast mode** | High-contrast alternative | |
 | **Black-and-white mode** | | |
@@ -147,8 +147,8 @@ _source: P1 deep research 2026-05-08 · capture: web_fetch · confidence: high �
 
 The Auto-QTE row is listed separately (enemy-tier 5, `warning_tiers.md`):
 
-| Setting | Notes |
-|---|---|
+| Setting | Notes | Recommendation |
+|---|---|---|
 | **Auto-QTE** | Auto-wins all Plyusch grapple QTEs | **Strongly recommended** — missing a 4-input QTE is an instant kill regardless of HP |
 
 _source: P1 deep research 2026-05-08 · capture: web_fetch · confidence: high · enemy-tier: 5 · puzzle-tier: 0 · category: mainline · spoiler: story_
