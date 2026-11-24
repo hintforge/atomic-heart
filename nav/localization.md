@@ -26,7 +26,7 @@ When player-position confidence is low in any Complex or TG zone, ask any of:
 - "Is the lighting frost-blue, hot orange-red, or fluorescent white?"
 - "What kind of machines or equipment are nearest to you — boilers, a rail wagon, an animal tank, or a lathe?"
 
-_source: P2 sandbox-side ingestion · added 2026-05-09 convergence · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 0 · spoiler: none_
+_source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confidence: medium-high per entry · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
 
 ### Open-world zones
 
@@ -35,11 +35,11 @@ _source: P2 sandbox-side ingestion · added 2026-05-09 convergence · capture: w
 - "Can you see the Motherland statue, the Worker-and-Kolkhoz-Woman statue, or the Kollektiv giant statue from where you are?"
 - "Is there a road, a lake, or a beach visible nearby?"
 
-_source: P2 sandbox-side ingestion · added 2026-05-09 convergence · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 0 · spoiler: none_
+_source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confidence: medium-high per entry · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
 
 - "Are robots actively patrolling, or has a HAWK relay overload disabled them in the area?"
 
-_source: P2 sandbox-side ingestion · added 2026-05-09 convergence · capture: web_fetch · enemy-tier: 1 · puzzle-tier: 0 · spoiler: progression_
+_source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confidence: medium-high per entry · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: progression_
 
 ---
 
@@ -57,7 +57,7 @@ _source: P2 sandbox-side ingestion · added 2026-05-09 convergence · capture: w
 
 - **Drill-bot patrol floor:** giant industrial robot with a rotating drill arm patrols here.
 
-_source: P2 sandbox-side ingestion · added 2026-05-09 convergence · capture: web_fetch · enemy-tier: 1 · puzzle-tier: 0 · spoiler: progression_
+_source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confidence: medium-high per entry · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: progression_
 
 - **Operator-corpse niche:** small rubble-pile offshoot path off the main tunnel.
 
@@ -72,7 +72,7 @@ _source: P2 sandbox-side ingestion · added 2026-05-09 convergence · capture: w
 
 - **Upper catwalk:** laser-drone ambush before the stairs.
 
-_source: P2 sandbox-side ingestion · added 2026-05-09 convergence · capture: web_fetch · enemy-tier: 1 · puzzle-tier: 0 · spoiler: progression_
+_source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confidence: medium-high per entry · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: progression_
 
 ### vavilov_birch_distribution_hall
 - **PEC-4 Birchtree altar:** central altar with four canister sockets at its base. _Disambiguation vs. Seed Bank birch: this one has the canister-socket ring._
@@ -93,7 +93,7 @@ _source: P2 sandbox-side ingestion · added 2026-05-09 convergence · capture: w
 
 - **Tunnel arena:** where a large mutant ambushes.
 
-_source: P2 sandbox-side ingestion · added 2026-05-09 convergence · capture: web_fetch · enemy-tier: 3 · puzzle-tier: 0 · spoiler: story_
+_source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confidence: medium-high per entry · enemy-tier: 3 · puzzle-tier: 0 · category: mainline · spoiler: story_
 
 ### vavilov_cold_workshop
 - **Three frost-coated boilers in a row.** _Disambiguation vs. Hot Workshop: Cold = frost/blue lighting + visible breath particles; Hot = orange-red glow + heat haze._
@@ -140,7 +140,7 @@ _source: P2 sandbox-side ingestion · added 2026-05-09 convergence · capture: w
 ### testing_ground_11
 - **Mannequin-Lab-Tech diorama room:** combat hidden among display dummies.
 
-_source: P2 sandbox-side ingestion · added 2026-05-09 convergence · capture: web_fetch · enemy-tier: 1 · puzzle-tier: 0 · spoiler: progression_
+_source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confidence: medium-high per entry · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: progression_
 
 ### testing_ground_12
 - **Beached-whale skeleton** visible at the entry beach.
@@ -156,11 +156,11 @@ _source: P2 sandbox-side ingestion · added 2026-05-09 convergence · capture: w
 - **Reception desk** with a central statue holding a hammer in its raised hand.
 - **Icarus marble-tilt diorama** — tilt the table to roll a marble.
 
-_source: P2 sandbox-side ingestion · added 2026-05-09 convergence · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 0 · spoiler: none_
+_source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confidence: medium-high per entry · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
 
 - **Tereshkova humanoid robot** at the far end.
 
-_source: P2 sandbox-side ingestion · added 2026-05-09 convergence · capture: web_fetch · enemy-tier: 1 · puzzle-tier: 0 · spoiler: progression_
+_source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confidence: medium-high per entry · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: progression_
 
 ### vdnh_chelomey_floor
 - **Rocketry / Icarus exhibit dioramas.**
@@ -200,7 +200,7 @@ _source: P2 sandbox-side ingestion · added 2026-05-09 convergence · capture: w
 
 - _Disambiguation vs. vdnh_pavlov_floor: real hospital has functioning (if damaged) equipment, fluorescent lighting, ward signage, and hostile activity; VDNH floor has clean diorama beds and placards._
 
-_source: P2 sandbox-side ingestion · added 2026-05-09 convergence · capture: web_fetch · enemy-tier: 1 · puzzle-tier: 0 · spoiler: progression_
+_source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confidence: medium-high per entry · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: progression_
 
 ### pavlov_morgue
 - **Long body-storage drawer rows.**
@@ -210,11 +210,11 @@ _source: P2 sandbox-side ingestion · added 2026-05-09 convergence · capture: w
 ### pavlov_surgical_lab
 - **Two inactive organic specimens in tubes** (do not shoot them — they activate if attacked).
 
-_source: P2 sandbox-side ingestion · added 2026-05-09 convergence · capture: web_fetch · enemy-tier: 1 · puzzle-tier: 0 · spoiler: progression_
+_source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confidence: medium-high per entry · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: progression_
 
 The inactive specimens in the Surgical Lab tubes are Plyusch.
 
-_source: P2 sandbox-side ingestion · added 2026-05-09 convergence · capture: web_fetch · enemy-tier: 3 · puzzle-tier: 0 · spoiler: story_
+_source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confidence: medium-high per entry · enemy-tier: 3 · puzzle-tier: 0 · category: mainline · spoiler: story_
 
 - **Distribution Center snap-puzzle door** in the corridor.
 
@@ -260,17 +260,24 @@ Monorail Station · Arena · Boat Station (dock + lake) · Kollektiv Complex (gi
 | vavilov_seed_bank PEC-4 birch silhouette | vavilov_birch_distribution_hall PEC-4 birchtree | Distribution Hall birch has a **canister-socket ring at the base**; Seed Bank's is decorative. [C:3] |
 | vavilov_hot_workshop boiler row | vavilov_cold_workshop boiler row | Hot = orange-red glow + heat haze; Cold = frost/blue + visible breath particles. [C:3] |
 | vdnh_pavlov_floor whale exhibit | pavlov_hospital / pavlov_sanatorium | VDNH whale is **suspended in clear polymer in a glass case** (museum); Pavlov Complex has **operational ward beds, MRI machines, and bloody walls** — no preserved whale. [C:3] |
-| vdnh_vavilov_floor greenhouse exhibit | vavilov_seed_bank | VDNH version is a roped-off museum diorama with placards; real Seed Bank is full-scale, traversable, with hostile plant-mutants. [C:3] |
 | testing_ground_1 magnetic chamber | testing_ground_2 magnetic chamber | TG1 has only ceiling-magnet polarity; TG2 mixes ceiling + wall-mounted magnets and a button-platform. [C:3] |
 | testing_ground_6 revolving rooms | testing_ground_8 revolving rooms | TG6 valve indicators use dot counts (I/II/III/IIII); TG8 uses platform-switching combat puzzles + a hanging submarine. [C:3] |
-| testing_ground_9 candle-platform puzzle | testing_ground_12 candle-platform puzzle | TG9 candles activate slide-out platforms in a sprout-themed hall; TG12 candles control revolving floors with magnetic columns. [C:3] |
 | theater_stage ballerina puzzle hall | vdnh_drill_mode ballerina display | Theater hall has 4 numbered, posable statues + shadow wall; VDNH ballerinas are static museum exhibits. [C:3] |
 | sechenov_research_center_ext roof | lastochkin_theater_grounds arena | Research Center roof is **scaffolded sloping concrete** with a Volan terminal; Theater grounds is a **flat grassy arena with a monument**. [C:3] |
 | chelomey_city_prologue plaza | chelomey_revisit arena | Prologue = bright, populated, fountain + flags; Revisit = dark, depopulated, arena-ready. [C:3] |
 | forester_open_world Volan tower (SDC-2) | solnechnaya_open_world camera towers | SDC-2 Volan is the **only tall white spiral** in the forester zone; solnechnaya towers are shorter cylindrical platforms with spiral stairs. [C:3] |
+
+_source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confidence: medium-high per entry · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
+
+The rows that mention enemies are listed separately (enemies in a place from enemy-tier 1, `warning_tiers.md`):
+
+| Zone A landmark | Zone B landmark | Distinguishing detail |
+|---|---|---|
+| vdnh_vavilov_floor greenhouse exhibit | vavilov_seed_bank | VDNH version is a roped-off museum diorama with placards; real Seed Bank is full-scale, traversable, with hostile plant-mutants. [C:3] |
+| testing_ground_9 candle-platform puzzle | testing_ground_12 candle-platform puzzle | TG9 candles activate slide-out platforms in a sprout-themed hall; TG12 candles control revolving floors with magnetic columns. [C:3] |
 | pavlov_hospital wards | vdnh_pavlov_floor wards | Real hospital has **bloody handprints, hostile activity, and MRI machines**; VDNH version has **clean diorama beds and exhibit placards**. [C:3] |
 
-_source: P2 sandbox-side ingestion · added 2026-05-09 convergence · capture: web_fetch · enemy-tier: 1 · puzzle-tier: 0 · spoiler: progression_
+_source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confidence: medium-high per entry · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: progression_
 
 ---
 

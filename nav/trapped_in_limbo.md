@@ -91,12 +91,20 @@ Combat arenas are interspersed but represent ~10% of gameplay. Falling/dying in 
 
 | Content name | Type | Parent zone | Unlock condition | Access window | Recommended point | Failure mode |
 |---|---|---|---|---|---|---|
-| Gold coins (76 + bonus 77th) | Collectible currency | All levels | Found on routes / casino / boss arenas | Replayable any time | Collect across multiple passes | Missable in single pass but levels replayable |
+| Gold coins (76 + bonus 77th) | Collectible currency | All levels | Found on routes / casino (more: see below) | Replayable any time | Collect across multiple passes | Missable in single pass but levels replayable |
 | Apples (3,826 total) | Upgrade resource | All levels | Collected on routes; farmable in Avenue of Speed DASH | Replayable | Farm at first slide level | Not permanently missable |
 | Chirpers (Щебетари) | Collectible audio | Levels | Exploration | Replayable | As encountered | Not permanently missable |
-| Pears (Груши) | Collectible | Levels / arenas | Boss arenas | Replayable | -- | -- |
 | 7 weapon skins | Cosmetic reward | Auntie Motya shop | Buy with gold coins | Any time | After coin collection | **Usable in base campaign** |
 | Slot machine items | Reward | Hub / casino | Spend coins | Any time | -- | Achievement "The Casino Isn't Always in the Black" |
+
+_source: Deep Research 2026-05-27 · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: dlc:trapped-in-limbo_
+
+The boss-arena content is listed separately (boss existence from enemy-tier 2, `warning_tiers.md`):
+
+| Content name | Type | Parent zone | Unlock condition | Access window | Recommended point | Failure mode |
+|---|---|---|---|---|---|---|
+| Gold coins (part of the 76 + bonus 77th) | Collectible currency | Boss arenas | Found in boss arenas | Replayable any time | -- | -- |
+| Pears (Груши) | Collectible | Levels / arenas | Boss arenas | Replayable | -- | -- |
 
 _source: Deep Research 2026-05-27 · capture: web_fetch · confidence: high · enemy-tier: 2 · puzzle-tier: 0 · category: mainline · spoiler: dlc:trapped-in-limbo_
 
