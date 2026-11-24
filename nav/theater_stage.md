@@ -10,7 +10,12 @@
 - **Exit (E39):** After objective completion → solnechnaya_open_world. **PERMANENT PoNR** — Sechenov Research Center, Theater Interior, Theater Control Room, and TG8 all permanently locked after this. [C:5]
 
 **NORA booth:** YES — save room immediately before the stage's final chamber. [C:3]
+
+_source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
+
 _enemy-tier: 2 note: final chamber contains Natasha boss_
+
+_source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confidence: high · enemy-tier: 2 · puzzle-tier: 0 · category: mainline · spoiler: late-game_
 
 ## Before E39
 
@@ -20,8 +25,13 @@ _enemy-tier: 2 note: final chamber contains Natasha boss_
 
 1. **Ballerina Puzzle Hallway** (puzzle) — 4 numbered ballerina statues must be posed in specific ballet positions; a shadow wall at the end shows the target silhouettes. Positions → `../puzzles/combination_locks.md`. [C:5]
 2. **Pre-Stage NORA Save Room** — **NORA here** — last save before the stage objective. [C:3]
+
+_source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 1 · category: mainline · spoiler: none_
+
 3. **Stage Objective** (story-gate) — complete to exit. [C:5]
    _enemy-tier: 2 — this is the Natasha (NA-T256) boss fight_
+
+_source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confidence: high · enemy-tier: 2 · puzzle-tier: 1 · category: mainline · spoiler: late-game_
 
 ## Optional Branches
 

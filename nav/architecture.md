@@ -229,68 +229,63 @@ _source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confiden
 
 ### NORA Booth Locations
 
-| Zone-id | Location description | Sequential gate | Confidence | Notes |
-|---|---|---|---|---|
-| chelomey_city_prologue | None | — | [C:3] | Cutscene-heavy prologue |
-| sechenov_office_prologue | None | — | — | Cutscene-only zone |
-| vavilov_entry_road | None | — | — | Open-air linear corridor |
-| vavilov_maglev_station_solnechnaya_int | Second safe room past the polymer swim tunnel — red booth interior | Gate 6 (post-swim) | [C:5] | **First named NORA in the game** — unlocks Electro pistol blueprint |
-| vavilov_maglev_tunnels | None reliably documented | — | [H — verify in-game] | |
-| vavilov_cable_cars | Locked station safe room after the yellow-paint climb sequence | Gate 5 | [C:3] | Holds Fox blueprint |
-| vavilov_seed_bank | (1) Lower-atrium safe room with EMP Generator blueprint; (2) upper catwalk safe room | Gates 2, 3 | [C:3] | Two NORAs in this zone |
-| vavilov_hot_workshop | Entrance safe room ("red section") — Dynamo blueprint chest | Gate 2 | [C:3] | |
-| vavilov_algae_workshop | Hallway safe room past the shattered observation window | Gate 3 | [C:2] | |
-| vavilov_pesticide_workshop | Post-rail-puzzle safe room | Gate 4 | [C:2] | |
-| vavilov_cold_workshop | Cold-section safe room — Adrenaline Canister blueprint | Gate 3 | [C:2] | |
-| vavilov_birch_distribution_hall | Distribution-Hall NORA — between canister return runs | Gate 1–5 (hub) | [C:3] | Major hub NORA |
-| forester_open_world | Multiple red-roof mushroom safe-room huts along main road — visible from a distance | Distributed | [C:3] | |
-| granny_zina_hut | Inside the hut, beside Granny's seat/table area | Post-cutscene persistent | [C:4] [translated from: Russian] | **CONFIRMED** (sportskeeda, gamerjournalist, walkthroughs.games, itemlevel.net) |
-| sdc2_volan_tower | None inside tower | — | [C:2] | Use nearby roadside hut |
-| lesnaya_maglev_station | Station-platform safe room | Gate 5 | [C:2] | |
-| testing_ground_1 | Mid-run safe room near the gold-reward chest | Between puzzles | [C:3] | |
-| solnechnaya_open_world | Multiple roadside mushroom huts + landmark safe rooms | Distributed | [C:3] | |
-| kollektiv_village | Village outskirts safe-room hut | — | [C:2] | |
-| boat_station_lake | Dock safe room near the HAWK Relay | — | [C:2] | |
-| arena_park | Outer save room before the transition gate | Pre-gate | [C:2] | _enemy-tier: 2 note: gate leads to HOG-7 boss arena_ |
-| vdnh_atrium | Reception-area save room | Gate 2 | [C:3] | |
-| vdnh_chelomey_floor | Floor-internal save room | Per floor | [C:2] | |
-| vdnh_vavilov_floor | Floor-internal save room | Per floor | [C:2] | |
-| vdnh_pavlov_floor | Save room before the lower exhibit section | Pre-lower-exhibit | [C:3] | _enemy-tier: 2 note: lower section contains Plyusch boss arena_ |
-| vdnh_sakhalin_floor | Floor-internal save room | Per floor | [C:2] | |
-| magnetic_absorption_zone | Save point between puzzle rooms — chest + floor switch present | Mid-zone | [C:2] | |
-| vdnh_drill_mode | Save room after the snake-game sequence | Mid-zone | [C:2] | |
-| testing_ground_2 | Mid-run safe room between magnetic puzzle rooms | Mid-zone | [C:2] | |
-| testing_ground_6 | Save room near the silver-reward chest | Mid-zone | [C:3] | |
-| testing_ground_8 | Multiple internal save rooms (distributed throughout) | Distributed | [C:3] | |
-| testing_ground_9 | Save room near the silver-reward chest | Mid-zone | [C:2] | |
-| testing_ground_10 | Pre-combat-room breakroom | Mid-zone | [C:2] | |
-| testing_ground_11 | Save room after the bronze-reward chest | Mid-zone | [C:2] | |
-| testing_ground_12 | Entry-cave NORA + multiple internal save rooms | Distributed | [C:3] | |
-| sechenov_research_center_ext | None on roof | — | [C:2] | |
-| sechenov_research_center_int | Entry foyer save room | Gate 1 | [C:2] | |
-| lastochkin_theater_grounds | Walkway save-room/vending machine before the grounds gate | Pre-gate | [C:3] | _enemy-tier: 2 note: gate leads to Belyash boss_ |
-| lastochkin_theater_int | Multiple — basement, post-elevator, bar break room | Distributed | [C:3] | |
-| theater_control_room | None inside | — | [C:2] | Nearest NORA is the bar break room in lastochkin_theater_int |
-| theater_stage | Save room immediately before the stage's final chamber | Pre-final-gate | [C:3] | _enemy-tier: 2 note: final chamber contains Natasha boss_ |
-| pavlov_bridge | Bridge-end safe room | End | [C:2] | |
-| pavlov_sanatorium | Foyer save room | Early | [C:2] | |
-| pavlov_hospital | Multiple ward save rooms | Per floor | [C:2] | |
-| pavlov_morgue | Save room before the second-floor combination puzzle | Mid-zone | [C:2] | |
-| pavlov_surgical_lab | Pre-cutscene save room | Gate 3 | [C:2] | |
-| lighthouse_beach | (1) Cliff-bunker save room before the large-creature encounter; (2) lighthouse-approach save room | Pre-encounter + pre-lighthouse | [C:2] | _enemy-tier: 2 note: encounter is Dewdrop boss_ |
-| academy_underwater | Save room post-elevator, near the chair by the glass wall | Mid-zone | [C:2] | |
-| chelomey_revisit | Save room on the approach to the final arena | Pre-final | [C:3] | _enemy-tier: 2 note: arena contains Twins boss_ |
-| sechenov_office_final | None | — | — | Cutscene/boss only |
+_source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
 
-_source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confidence: per row · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
+| Zone-id | Location description | Sequential gate | Confidence | Notes | tier |
+|---|---|---|---|---|---|
+| chelomey_city_prologue | None | — | [C:3] | Cutscene-heavy prologue | none |
+| sechenov_office_prologue | None | — | — | Cutscene-only zone | none |
+| vavilov_entry_road | None | — | — | Open-air linear corridor | none |
+| vavilov_maglev_station_solnechnaya_int | Second safe room past the polymer swim tunnel — red booth interior | Gate 6 (post-swim) | [C:5] | **First named NORA in the game** — unlocks Electro pistol blueprint | none |
+| vavilov_maglev_tunnels | None reliably documented | — | [H — verify in-game] | | none |
+| vavilov_cable_cars | Locked station safe room after the yellow-paint climb sequence | Gate 5 | [C:3] | Holds Fox blueprint | none |
+| vavilov_seed_bank | (1) Lower-atrium safe room with EMP Generator blueprint; (2) upper catwalk safe room | Gates 2, 3 | [C:3] | Two NORAs in this zone | none |
+| vavilov_hot_workshop | Entrance safe room ("red section") — Dynamo blueprint chest | Gate 2 | [C:3] | | none |
+| vavilov_algae_workshop | Hallway safe room past the shattered observation window | Gate 3 | [C:2] | | none |
+| vavilov_pesticide_workshop | Post-rail-puzzle safe room | Gate 4 | [C:2] | | none |
+| vavilov_cold_workshop | Cold-section safe room — Adrenaline Canister blueprint | Gate 3 | [C:2] | | none |
+| vavilov_birch_distribution_hall | Distribution-Hall NORA — between canister return runs | Gate 1–5 (hub) | [C:3] | Major hub NORA | none |
+| forester_open_world | Multiple red-roof mushroom safe-room huts along main road — visible from a distance | Distributed | [C:3] | | none |
+| granny_zina_hut | Inside the hut, beside Granny's seat/table area | Post-cutscene persistent | [C:4] [translated from: Russian] | **CONFIRMED** (sportskeeda, gamerjournalist, walkthroughs.games, itemlevel.net) | none |
+| sdc2_volan_tower | None inside tower | — | [C:2] | Use nearby roadside hut | none |
+| lesnaya_maglev_station | Station-platform safe room | Gate 5 | [C:2] | | none |
+| testing_ground_1 | Mid-run safe room near the gold-reward chest | Between puzzles | [C:3] | | none |
+| solnechnaya_open_world | Multiple roadside mushroom huts + landmark safe rooms | Distributed | [C:3] | | none |
+| kollektiv_village | Village outskirts safe-room hut | — | [C:2] | | none |
+| boat_station_lake | Dock safe room near the HAWK Relay | — | [C:2] | | none |
+| arena_park | Outer save room before the transition gate | Pre-gate | [C:2] | _enemy-tier: 2 note: gate leads to HOG-7 boss arena_ | late-game |
+| vdnh_atrium | Reception-area save room | Gate 2 | [C:3] | | none |
+| vdnh_chelomey_floor | Floor-internal save room | Per floor | [C:2] | | none |
+| vdnh_vavilov_floor | Floor-internal save room | Per floor | [C:2] | | none |
+| vdnh_pavlov_floor | Save room before the lower exhibit section | Pre-lower-exhibit | [C:3] | _enemy-tier: 2 note: lower section contains Plyusch boss arena_ | late-game |
+| vdnh_sakhalin_floor | Floor-internal save room | Per floor | [C:2] | | none |
+| magnetic_absorption_zone | Save point between puzzle rooms — chest + floor switch present | Mid-zone | [C:2] | | none |
+| vdnh_drill_mode | Save room after the snake-game sequence | Mid-zone | [C:2] | | none |
+| testing_ground_2 | Mid-run safe room between magnetic puzzle rooms | Mid-zone | [C:2] | | none |
+| testing_ground_6 | Save room near the silver-reward chest | Mid-zone | [C:3] | | none |
+| testing_ground_8 | Multiple internal save rooms (distributed throughout) | Distributed | [C:3] | | none |
+| testing_ground_9 | Save room near the silver-reward chest | Mid-zone | [C:2] | | none |
+| testing_ground_10 | Pre-combat-room breakroom | Mid-zone | [C:2] | | none |
+| testing_ground_11 | Save room after the bronze-reward chest | Mid-zone | [C:2] | | none |
+| testing_ground_12 | Entry-cave NORA + multiple internal save rooms | Distributed | [C:3] | | none |
+| sechenov_research_center_ext | None on roof | — | [C:2] | | none |
+| sechenov_research_center_int | Entry foyer save room | Gate 1 | [C:2] | | none |
+| lastochkin_theater_grounds | Walkway save-room/vending machine before the grounds gate | Pre-gate | [C:3] | _enemy-tier: 2 note: gate leads to Belyash boss_ | late-game |
+| lastochkin_theater_int | Multiple — basement, post-elevator, bar break room | Distributed | [C:3] | | none |
+| theater_control_room | None inside | — | [C:2] | Nearest NORA is the bar break room in lastochkin_theater_int | none |
+| theater_stage | Save room immediately before the stage's final chamber | Pre-final-gate | [C:3] | _enemy-tier: 2 note: final chamber contains Natasha boss_ | late-game |
+| pavlov_bridge | Bridge-end safe room | End | [C:2] | | none |
+| pavlov_sanatorium | Foyer save room | Early | [C:2] | | none |
+| pavlov_hospital | Multiple ward save rooms | Per floor | [C:2] | | none |
+| pavlov_morgue | Save room before the second-floor combination puzzle | Mid-zone | [C:2] | | none |
+| pavlov_surgical_lab | Pre-cutscene save room | Gate 3 | [C:2] | | none |
+| lighthouse_beach | (1) Cliff-bunker save room before the large-creature encounter; (2) lighthouse-approach save room | Pre-encounter + pre-lighthouse | [C:2] | _enemy-tier: 2 note: encounter is Dewdrop boss_ | late-game |
+| academy_underwater | Save room post-elevator, near the chair by the glass wall | Mid-zone | [C:2] | | none |
+| academy_archive_room | Save room before the ending-choice sequence | End | [C:2] | _spoiler: story — gated until story opt-in_ | story |
+| chelomey_revisit | Save room on the approach to the final arena | Pre-final | [C:3] | _enemy-tier: 2 note: arena contains Twins boss_ | late-game |
+| sechenov_office_final | None | — | — | Cutscene/boss only | late-game |
 
-Story-tier row of the same table:
-
-| Zone-id | Location description | Sequential gate | Confidence | Notes |
-|---|---|---|---|---|
-| academy_archive_room | Save room before the ending-choice sequence | End | [C:2] | _spoiler: story — gated until story opt-in_ |
-
-_source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confidence: per row · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: story_
+_source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confidence: per row · enemy-tier: 3 · puzzle-tier: 3 · category: mainline · spoiler: story_
 
 ### Fast-Travel Network
 

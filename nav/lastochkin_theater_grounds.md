@@ -10,7 +10,12 @@
 - **Exit (E36):** Through the basement ventilation crawl after the grounds boss fight → lastochkin_theater_int. Chapter-bound — no return to sechenov_research_center_int once theater is entered.
 
 **NORA booth:** YES — walkway vending-machine save room before the grounds gate. [C:3]
+
+_source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confidence: medium · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
+
 _enemy-tier: 2 note: the gate leads to a boss encounter (Belyash)_
+
+_source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confidence: medium · enemy-tier: 2 · puzzle-tier: 0 · category: mainline · spoiler: late-game_
 
 ## Sequential Gates
 

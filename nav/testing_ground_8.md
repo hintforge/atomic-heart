@@ -25,7 +25,12 @@ Magnetic platform switching + power-generator activation.
 4. **Mid-Run NORA Save Rooms** — multiple throughout.
 5. **Silver Reward.**
 6. **Gold Reward.**
+
+_source: TechRaptor, Gameranx, Compass/Deep Research P2 · capture: web_fetch · confidence: medium (reward conflict noted) · enemy-tier: 0 · puzzle-tier: 1 · category: mainline · spoiler: none_
+
 7. **Exit elevator** — two-enemy encounter on the way out (post-gold, post-elevator). _enemy-tier: 2_ [Live: 2026-05-12 — sequence corrected; prior research had steps 6/7 reversed]
+
+_source: TechRaptor, Gameranx, Compass/Deep Research P2 · capture: web_fetch · confidence: medium (reward conflict noted) · enemy-tier: 2 · puzzle-tier: 1 · category: mainline · spoiler: late-game_
 
 ## Common Confusions
 

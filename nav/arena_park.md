@@ -10,7 +10,12 @@
 - **Exit (E21):** Story-gate after objective completion → vdnh_atrium. Chapter-bound — VDNH building interior locks after Ch.3 escape.
 
 **NORA booth:** YES — outer save room before the transition gate. [C:2]
+
+_source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confidence: medium · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
+
 _enemy-tier: 2 note: gate leads to a boss encounter_
+
+_source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confidence: medium · enemy-tier: 2 · puzzle-tier: 0 · category: mainline · spoiler: late-game_
 
 ## Notes
 

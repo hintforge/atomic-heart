@@ -12,18 +12,21 @@ _source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confiden
 
 - **Exit (E51):** Three film reels collected → post-conversation elevator up → vent crawl → Granny Zina rendezvous. **Point of divergence** — ending choice follows. [C:3]
 
+_source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confidence: medium · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: story_
+
 **NORA booth:** YES — save room before the ending-choice sequence. [C:2]
-_source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confidence: medium · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: story_ (ending divergence follows)
+
+_source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confidence: medium · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
 
 ## Sequential Gates
 
 1. **Find Three Reels/Bobbins** (item-pickup) — one nearby on entry + two on the flanking stairs (look up and to both sides after entering the archive floor).
 2. **Post-Conversation Elevator** (trigger) — ascend.
 3. **Vent Crawl Exit** (navigation) — find and take the vent to exit.
-4. **Granny Zina Rendezvous** (trigger) — **NORA save room before this sequence** — save here before the dialogue.
 
 _source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confidence: medium · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
 
+4. **Granny Zina Rendezvous** (trigger) — **NORA save room before this sequence** — save here before the dialogue.
 5. **Ending Choice Prompt** (story-gate). _spoiler: story — gated; surface only on story opt-in_
 
 _source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confidence: medium · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: story_

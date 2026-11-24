@@ -25,7 +25,13 @@ Revolving walls + magnets + candle/revolving-floor combination.
 2. **Revolving-Walls + Magnets Puzzle.**
 3. **Bronze Reward** — KS-23 Thermal Scope. [C:4]
 4. **Mid-Section Large Arena** (enemy-clear) — heavily contested combat room.
+
+_source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confidence: medium-high · enemy-tier: 0 · puzzle-tier: 1 · category: mainline · spoiler: none_
+
 5. **Mid-Run Boss Encounter** (enemy encounter). _enemy-tier: 2 — Natasha (NA-T256) rematch + flying owl rocket spam_
+
+_source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confidence: medium-high · enemy-tier: 2 · puzzle-tier: 1 · category: mainline · spoiler: late-game_
+
 6. **Silver Reward.**
 7. **Final Candle/Magnets/Revolving-Floor Puzzle** — combined mechanic room.
 8. **Gold Reward** — Electro Energy Vampire Block, Pashtet Reflex Blade; Fat Boy three-rocket barrel (per Gameranx). [C:4]

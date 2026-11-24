@@ -126,7 +126,12 @@ When player-position confidence is low in any Complex or TG zone, ask any of:
 ### testing_ground_12
 - **Beached-whale skeleton** visible at the entry beach.
 - **Candle-and-revolving-floor final puzzle** in the deepest section.
+
+_source: P2 sandbox-side ingestion · added 2026-05-09 convergence · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 0 · spoiler: none_
+
 - _enemy-tier: 2 note: mid-run boss encounter (Natasha rematch)_
+
+_source: P2 sandbox-side ingestion · added 2026-05-09 convergence · capture: web_fetch · enemy-tier: 2 · puzzle-tier: 0 · spoiler: late-game_
 
 ### vdnh_atrium
 - **Reception desk** with a central statue holding a hammer in its raised hand.

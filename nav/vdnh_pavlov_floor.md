@@ -10,7 +10,12 @@
 - **Exit (E25):** Scripted transition to vdnh_sakhalin_floor.
 
 **NORA booth:** YES — save room before the lower exhibit section. [C:3]
+
+_source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confidence: medium-high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
+
 _enemy-tier: 2 note: the lower exhibit section contains a boss encounter_
+
+_source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confidence: medium-high · enemy-tier: 2 · puzzle-tier: 0 · category: mainline · spoiler: late-game_
 
 ## Notes
 
