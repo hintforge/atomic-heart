@@ -99,9 +99,13 @@ _source: Deep Research 2026-05-27 · capture: web_fetch · confidence: high · e
 
 ## NORA stations
 
-**NORA functions as P-3's glove companion** (fitted at the Orb lab; active from Crystal Complex). The DLC uses **CHANCE machines** for glove upgrades -- these swap glove abilities on the fly; gaining a new ability removes the oldest upgrade. Save rooms exist throughout (some burnt/damaged). NORA here is the narrative companion + former DLC #1 boss, now allied; not the base-game open-world NORA network.
+**NORA functions as P-3's glove companion** (fitted at the Orb lab; active from Crystal Complex). The DLC uses **CHANCE machines** for glove upgrades -- these swap glove abilities on the fly; gaining a new ability removes the oldest upgrade. Save rooms exist throughout (some burnt/damaged). NORA here is the narrative companion, not the base-game open-world NORA network.
 
 _source: Deep Research 2026-05-27 · capture: web_fetch · confidence: high · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: dlc:blood-on-crystal_
+
+This NORA is the former DLC #1 boss, now allied.
+
+_source: Deep Research 2026-05-27 · capture: web_fetch · confidence: high · enemy-tier: 3 · puzzle-tier: 0 · category: mainline · spoiler: dlc:blood-on-crystal_
 
 | zone-id | Location | Function |
 |---|---|---|
