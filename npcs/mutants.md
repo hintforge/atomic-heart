@@ -19,9 +19,12 @@ _source: High Ground Gaming, GameRevolution drop list, RU PlayGround tips · cap
 - **Attacks:** Charge-melee; can knock down. Spawn in groups.
 - **Weaknesses:** **Fire cartridge (community consensus).** Mass Telekinesis for crowd control; large slow variants have a **back weak spot** — Freeze + back-hit is the recommended kill chain.
 - **Drops:** Biomaterials (primary), Chemistry.
+
+_source: High Ground Gaming, GameRevolution drop list, RU PlayGround tips · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
+
 - **Quirk:** Always paired with Mother nests — destroy Mothers first or kills don't stick. Includes Poison Mutant and Fire Mutant variants with different elemental affinity; switch cartridge accordingly before engaging.
 
-_source: High Ground Gaming, EN Fandom · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
+_source: High Ground Gaming, GameRevolution drop list, RU PlayGround tips · capture: web_fetch · confidence: high · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: progression_
 
 ---
 
@@ -36,13 +39,16 @@ _source: High Ground Gaming, EN Fandom · capture: web_fetch · confidence: high
 - **Attacks:** Low direct damage; the threat is reanimation.
 - **Weaknesses:** 1-shot to anything. Scan-tag → Polymer Jet ignited covers a room.
 - **Drops:** Biomaterials (small).
+
+_source: High Ground Gaming, EN Fandom · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
+
 - **Quirk:** **Kill mutants only after Mothers are destroyed and Sprouts cleared** — otherwise kills produce new mutants in seconds. Burning mutant corpses removes the reanimation target.
 
-_source: GameRant Plyusch guide, High Ground Gaming; segmentnext atomic-heart-plyusch, wotpack.ru Plyusch boss page (later encounters described as repeat boss fights) · capture: web_fetch · confidence: medium · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
+_source: High Ground Gaming, EN Fandom · capture: web_fetch · confidence: high · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: progression_
 
 > **Cross-system dependency** — see `dependencies.md` DEP-019: Kill-order prerequisite — Mother → Sprout → Mutant. Kills do not stick until Mothers are cleared.
 
-_source: GameRant Plyusch guide, High Ground Gaming; segmentnext atomic-heart-plyusch, wotpack.ru Plyusch boss page (later encounters described as repeat boss fights) · capture: web_fetch · confidence: medium · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
+_source: High Ground Gaming, EN Fandom · capture: web_fetch · confidence: high · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: progression_
 
 ---
 
@@ -82,7 +88,7 @@ _source: Steam 100% achievement guide (scanner #12) · capture: web_fetch · con
 
 - Variant of standard Mutant; signature poison spray attack. Same weakness profile (Fire) but ranged threat is higher. Biomaterials drop.
 
-_source: Steam 100% achievement guide (scanner #13) · capture: web_fetch · confidence: medium · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: progression_
+_source: Steam 100% achievement guide (scanner #12) · capture: web_fetch · confidence: medium · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: progression_
 
 ---
 
@@ -94,11 +100,11 @@ _source: Steam 100% achievement guide (scanner #13) · capture: web_fetch · con
 
 - Variant found in Pesticide Workshop. Fire-aligned; **switch to Ice cartridge against this variant** — do NOT use Fire (it's the standard weakness for normal Mutants but reverses here). Biomaterials drop.
 
-_source: EN Fandom, NamuWiki mirror · capture: web_fetch · confidence: medium · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: progression_
+_source: Steam 100% achievement guide (scanner #13) · capture: web_fetch · confidence: medium · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: progression_
 
 > **Cross-system dependency** — see `dependencies.md` DEP-020: abilities.md recommends Fire for all organics; Fire Mutant reverses this — use Ice instead.
 
-_source: EN Fandom, NamuWiki mirror · capture: web_fetch · confidence: medium · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
+_source: Steam 100% achievement guide (scanner #13) · capture: web_fetch · confidence: medium · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
 
 ---
 

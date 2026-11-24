@@ -29,12 +29,12 @@ _source: EN Fandom (VOV-A6 page), High Ground Gaming, NamuWiki mirror · capture
 - **Drops:** Metal Parts, Synthetic Material (frequent); Advanced variant additionally drops Superconductor and rarely Microelectronics.
 - **Quirk:** **Railgun disintegrates Lab Techs cleanly — no loot drop AND permanently removes them from the map.** Pchela cannot restore a Railgun-killed robot. Save Railgun for boss-tier targets if you need crafting parts from kills, or if you want the farming loop to keep working.
 
-_source: EN Fandom, High Ground Gaming, NamuWiki · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
+_source: EN Fandom (VOV-A6 page), High Ground Gaming, NamuWiki mirror · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
 
 > **Cross-system dependency** — see `dependencies.md` DEP-017: Railgun on Lab Techs destroys the Metal Parts / Synthetic Material farming loop -- no loot drops from disintegrated bodies, and Pchela cannot restore permanently-removed robots.
 _[Permanent map removal confirmed: r/atomicheart community thread 2026-05-19]_
 
-_source: EN Fandom, High Ground Gaming, NamuWiki · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
+_source: EN Fandom (VOV-A6 page), High Ground Gaming, NamuWiki mirror · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
 
 ---
 
@@ -49,9 +49,12 @@ _source: EN Fandom, High Ground Gaming, NamuWiki · capture: web_fetch · confid
 - **Attacks:** Quick dash + heavy melee swing (the dash is the dangerous tell — covers distance fast). Sweep attacks at close range.
 - **Weaknesses:** High-damage weapons preferred (Fat Boy, Railgun); Freeze locks it down. Polymer Shield is effective vs. its melee.
 - **Drops:** Metal Parts, Synthetic Material (frequent); Superconductor, Chemistry (frequent); Microelectronics (rare). Primary Synthetic source.
+
+_source: EN Fandom, High Ground Gaming, NamuWiki · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
+
 - **Quirk:** Repaired by nearby Pchela nests in the open world — destroy the Pchela first if farming. Susceptible to NG+ auras "Daredevil," "Master of the Elements," "Kamikaze," "Lightning Rod."
 
-_source: EN Fandom, High Ground Gaming · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
+_source: EN Fandom, High Ground Gaming, NamuWiki · capture: web_fetch · confidence: high · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: progression_
 
 ---
 
@@ -68,7 +71,7 @@ _source: EN Fandom, High Ground Gaming · capture: web_fetch · confidence: high
 - **Drops:** Metal Parts, Synthetic Material.
 - **Quirk:** Almost always in pairs; isolate one with Polymer Jet / Telekinesis before engaging.
 
-_source: NamuWiki mirror · capture: web_fetch · confidence: medium · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
+_source: EN Fandom, High Ground Gaming · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
 
 ## MFU-68/CP "Duck"
 *Variant of MFU-68 carrying a firearm.*
@@ -77,6 +80,8 @@ _source: NamuWiki mirror · capture: web_fetch · confidence: medium · enemy-ti
 [Single source — verify]
 
 - Resistant to firearms ("Body Armor" NG+ aura). Use melee, Shok, or energy weapons instead of Kalash/KS-23. Best dealt with up close.
+
+_source: NamuWiki mirror · capture: web_fetch · confidence: medium · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
 
 ---
 
@@ -93,7 +98,7 @@ _source: EN Fandom, High Ground Gaming, Steam 100% achievement guide · capture:
 - **Drops:** Superconductor (frequent — primary farming target), Chemistry (rare), Microelectronics (rare), Energy Module (rare).
 - **Quirk:** Killing a passive Engineer can flag other Engineers in the area hostile. Listed in NG+ aura table.
 
-_source: TechRaptor TG12 guide, EN Fandom, NamuWiki mirror · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
+_source: EN Fandom, High Ground Gaming, Steam 100% achievement guide · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
 
 ---
 
@@ -149,6 +154,8 @@ _source: High Ground Gaming, EN Fandom, NamuWiki · capture: web_fetch · confid
 - **Weaknesses:** **Frostbite locks down its charged attacks completely** (HighGroundGaming-recommended tactic). Listed under "Body Armor" NG+ aura — avoid relying on firearms.
 - **Drops:** Energy Module (rare), Superconductor (rare).
 
+_source: High Ground Gaming, EN Fandom, NamuWiki · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
+
 ---
 
 ## WSP-9 Pchela (Pchala — repair/security drone)
@@ -162,13 +169,16 @@ _source: EN Fandom, High Ground Gaming · capture: web_fetch · confidence: high
 - **Attacks:** Light melee buzz/sting; some carry small cameras that can re-trigger the Hawk-relay alarm.
 - **Weaknesses:** 1-2 hits from anything. Shok with chain-lightning clears swarms instantly.
 - **Drops:** Metal Parts, Synthetic Material (small amounts).
+
+_source: EN Fandom, High Ground Gaming · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
+
 - **Quirk:** **Repair Pchelas will resurrect downed robots in seconds.** Always destroy the Pchela nest or disable the Hawk relay before farming repeat kills — otherwise the farm becomes a damage sink. Core mechanic behind the Vova-cluster farm.
 
-_source: GamePretty Polygons Guide, High Ground Gaming · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
+_source: EN Fandom, High Ground Gaming · capture: web_fetch · confidence: high · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: progression_
 
 > **Cross-system dependency** -- see `dependencies.md` DEP-022: Pchela repairing a destroyed Dandelion camera is the reset mechanism for the camera-kill farming loop in `items/crafting_materials.md`. HAWK relay must stay active (not overloaded) for this loop to function.
 
-_source: GamePretty Polygons Guide, High Ground Gaming · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
+_source: EN Fandom, High Ground Gaming · capture: web_fetch · confidence: high · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: progression_
 
 ---
 
@@ -179,12 +189,15 @@ _source: GamePretty Polygons Guide, High Ground Gaming · capture: web_fetch · 
 [Confirmed: 2 sources]
 
 - **Visual ID:** `sprites/dandelion_camera.jpg` | No InfoIcon (stationary object, not an AI enemy)
-- **Class:** Stationary surveillance camera on a stalk. Triggers Hawk-relay alarms that spawn reinforcements.
 - **Interaction:** Hackable through their linked Terminal — required to open Testing Ground entrances. Use scanner to trace the line from a Dandelion to its terminal.
 - **Weaknesses:** Single Shok pulse disables temporarily; physical destruction is permanent until a Pchela repairs it. Disabling the Hawk relay disables ALL Dandelions in the ecosystem at once.
 - **Drops:** Negligible.
 
-_source: High Ground Gaming · capture: web_fetch · confidence: medium · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
+_source: GamePretty Polygons Guide, High Ground Gaming · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
+
+- **Class:** Stationary surveillance camera on a stalk. Triggers Hawk-relay alarms that spawn reinforcements.
+
+_source: GamePretty Polygons Guide, High Ground Gaming · capture: web_fetch · confidence: high · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: progression_
 
 ---
 
@@ -197,14 +210,17 @@ _source: High Ground Gaming · capture: web_fetch · confidence: medium · enemy
 - **Visual ID:** `sprites/mother.jpg` | Icon: `sprites/icons/T_Mutant.png` (naming quirk -- nest uses "Mutant" icon internally) | Backup: `sprites/mother_2.jpg`
 - **Class:** Organic nest — stationary, circular plant. Spawns Sprouts continuously.
 - **Attacks:** None directly; passive spawner.
-- **Weaknesses:** Very low HP; any weapon kills it in 1-2 hits. **Scan rooms for Mothers FIRST** — kill them before engaging mutants, otherwise Sprouts keep reanimating any corpse.
 - **Drops:** Biomaterials.
 
 _source: High Ground Gaming · capture: web_fetch · confidence: medium · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
 
+- **Weaknesses:** Very low HP; any weapon kills it in 1-2 hits. **Scan rooms for Mothers FIRST** — kill them before engaging mutants, otherwise Sprouts keep reanimating any corpse.
+
+_source: High Ground Gaming · capture: web_fetch · confidence: medium · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: progression_
+
 > **Cross-system dependency** — see `dependencies.md` DEP-019: Kill Mothers first, then Sprouts, then Mutants — Sprouts reanimate corpses until Mothers are gone.
 
-_source: High Ground Gaming · capture: web_fetch · confidence: medium · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
+_source: High Ground Gaming · capture: web_fetch · confidence: medium · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: progression_
 
 ---
 
@@ -236,7 +252,7 @@ _source: High Ground Gaming · capture: web_fetch · confidence: medium · enemy
 - **Weaknesses:** Fully upgraded Shok with chain damage shreds them; Electro is also strong.
 - **Drops:** Metal Parts, Microelectronics (rare).
 
-_source: EN Fandom BEA-D page, Steam DLC 100% guide 3020368999, GamingBolt DLC review · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: dlc:Annihilation Instinct_
+_source: High Ground Gaming · capture: web_fetch · confidence: medium · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
 
 ---
 
@@ -257,11 +273,11 @@ _source: EN Fandom BEA-D page, Steam DLC 100% guide 3020368999, GamingBolt DLC r
 - **Drops:** Energy Modules.
 - **Quirk:** "Ostrich" variant carries Energy Modules needed to fully upgrade Klusha and Secateur. [Single source — verify in-game by reading BEA-D tooltips after scan.]
 
-_source: EN Fandom M4D-5 page, Steam DLC 100% guide 3020368999 · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: dlc:Annihilation Instinct_
+_source: EN Fandom BEA-D page, Steam DLC 100% guide 3020368999, GamingBolt DLC review · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: dlc:Annihilation Instinct_
 
 > **Cross-system dependency** — see `dependencies.md` DEP-021: Farm ostrich BEA-Ds for Energy Modules before DLC completion — "Maximum Strength" requires both DLC weapons fully upgraded.
 
-_source: EN Fandom M4D-5 page, Steam DLC 100% guide 3020368999 · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: dlc:Annihilation Instinct_
+_source: EN Fandom BEA-D page, Steam DLC 100% guide 3020368999, GamingBolt DLC review · capture: web_fetch · confidence: high · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: dlc:Annihilation Instinct_
 
 ---
 
@@ -275,9 +291,12 @@ _source: EN Fandom M4D-5 page, Steam DLC 100% guide 3020368999 · capture: web_f
 - **Attacks:** Stand still in dummy form until detecting P-3, then move quickly. Punch and kick combos with stretching/extending limbs. Will hop on one foot — interruptible animation; basis for **"John Silver's Crew"** achievement (kill 3 M4D-5s while they're hopping on one foot).
 - **Weaknesses:** A strong charged blow shatters them but **the body can reassemble** — finish the kill before they reform. **Klusha light attacks do NOT stagger them** — commit to charged swings or Secateur burst-fire. Techno-Stasis freeze + charged melee is effective.
 - **Drops:** Metal Parts, Synthetic Material.
+
+_source: EN Fandom M4D-5 page, Steam DLC 100% guide 3020368999 · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: dlc:Annihilation Instinct_
+
 - **Quirk:** Static dummies in the Mendeleev hotel area are easy to mistake for set dressing — scan rooms before relaxing.
 
-_source: Steam DLC 100% guide 3020368999 (achievement "Lord of the Flies") · capture: web_fetch · confidence: medium · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: dlc:Annihilation Instinct_
+_source: EN Fandom M4D-5 page, Steam DLC 100% guide 3020368999 · capture: web_fetch · confidence: high · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: dlc:Annihilation Instinct_
 
 ---
 
@@ -289,17 +308,19 @@ _source: Steam DLC 100% guide 3020368999 (achievement "Lord of the Flies") · ca
 
 - Flying/airborne unit in Annihilation Instinct. Referenced by the **"Lord of the Flies"** achievement (use a Strekoza for the first time). Full attack profile and weaknesses not documented in surveyed text-form sources; confirm on first DLC run.
 
-_source: GamingBolt DLC review · capture: web_fetch · confidence: low · enemy-tier: 0 · puzzle-tier: 0 · category: easter-egg · spoiler: dlc:Annihilation Instinct_
+_source: Steam DLC 100% guide 3020368999 (achievement "Lord of the Flies") · capture: web_fetch · confidence: medium · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: dlc:Annihilation Instinct_
 
 ---
 
 ### Talking Goose
 *DLC open world — flavor event, not a standard enemy.*
 
-_source: GamingBolt DLC review · capture: web_fetch · confidence: low · enemy-tier: 0 · puzzle-tier: 0 · category: easter-egg · spoiler: dlc:Annihilation Instinct_
+_source: GamingBolt DLC review · capture: web_fetch · confidence: low · enemy-tier: 1 · puzzle-tier: 0 · category: easter-egg · spoiler: dlc:Annihilation Instinct_
 [Single source — verify]
 
 - Recurring world-event creature that randomly attacks P-3 then leaves; explained in an in-game terminal. Not a combat-mechanical encounter in any standardized sense.
+
+_source: GamingBolt DLC review · capture: web_fetch · confidence: low · enemy-tier: 1 · puzzle-tier: 0 · category: easter-egg · spoiler: dlc:Annihilation Instinct_
 
 ---
 
@@ -361,7 +382,7 @@ _source: web images + FModel extracts 2026-05-13 · capture: web_fetch · confid
 
 Some enemies have a second web-sourced image: `sprites/belyash_2.jpg`, `sprites/mutant_2.jpg`, `sprites/natasha_2.jpg`, `sprites/rotorobot_2.jpg`, `sprites/mother_2.jpg`.
 
-_source: web images + FModel extracts 2026-05-13; merged from sprites/index.md per zipper 2026-05-22 · enemy-tier: 3 · puzzle-tier: 0 · spoiler: story_
+_source: web images + FModel extracts 2026-05-13; merged from sprites/index.md per zipper 2026-05-22 · capture: web_fetch · confidence: high · enemy-tier: 3 · puzzle-tier: 0 · category: mainline · spoiler: story_
 
 > **No `lab_tech_2` backup image (2026-07-29).** The fetch attempted for it landed on a dead link: the saved file was a 243KB HTML "Page not found" error page from `guided.news` with a `.jpg` extension, not an image, so it was removed. The primary `sprites/lab_tech.jpg` is a valid JPEG and is unaffected. Do not "restore" this file from the original source -- the link is gone. Re-source from a live page if a second Lab Tech image is ever wanted.
 
@@ -376,7 +397,7 @@ _source: web images + FModel extracts 2026-05-13; merged from sprites/index.md p
 | Neuropolymer | All enemies (universal) |
 | Specific named materials (Energy Module, etc.) | Verify in-game -- screenshot the crafting screen for cross-reference |
 
-_source: web images + FModel extracts 2026-05-13; merged from sprites/index.md per zipper 2026-05-22_
+_source: web images + FModel extracts 2026-05-13; merged from sprites/index.md per zipper 2026-05-22 · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
 _material drops: items/crafting_materials.md (P1 research) + live observations
 
 The boss drop row is listed separately (boss names from enemy-tier 3, `warning_tiers.md`).
