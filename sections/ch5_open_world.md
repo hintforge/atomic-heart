@@ -51,7 +51,11 @@ _source: P1 deep research 2026-05-08 · capture: web_fetch · confidence: high �
 
 Before farming or entering any Polygon, shoot down the local Hawk relay. See `mechanics.md` — HAWK Relay System for the full procedure. Inside Polygons, robots do not respawn — stay dead.
 
+_source: P1 deep research 2026-05-08 · capture: web_fetch · confidence: high · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: progression_
+
 > **Cross-system dependency** — see `dependencies.md` DEP-005: HAWK relay disable suppresses Pchela respawns and Dandelion cameras — shared precondition for both safe farming and safe Polygon entry.
+
+_source: P1 deep research 2026-05-08 · capture: web_fetch · confidence: high · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: progression_
 
 ## Lootyagin chests
 

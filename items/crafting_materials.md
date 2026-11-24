@@ -31,6 +31,8 @@ _source: GameRevolution drop-list, TechRaptor Crafting Guide, Twinfinite Craftin
 
 > **Cross-system dependency** -- see `dependencies.md` DEP-023: The `[std-variant]` flags on drop sources below are governed by the taxonomy in `npcs/bosses.md`. Misreading a std-variant source as a boss encounter sends the player to a scripted fight for materials that come from the open-world farmable variant.
 
+_source: GameRevolution drop-list, TechRaptor Crafting Guide, Twinfinite Crafting Guide, RU Fandom, allmmorpg.ru · capture: web_fetch · confidence: high · enemy-tier: 3 · puzzle-tier: 0 · category: mainline · spoiler: story_
+
 | Material | RU Name | Used for | Primary drop sources | Notes |
 |---|---|---|---|---|
 | **Metal Parts** | Металлические детали | Most weapon upgrades | Robots (Vova, Pchela, Laborer, Rotorobot/ARU-31/6) | Most abundant; farm from Vova clusters in open world |
@@ -41,6 +43,8 @@ _source: GameRevolution drop-list, TechRaptor Crafting Guide, Twinfinite Craftin
 | **Microelectronics** | Микроэлектроника | Mid-to-high tier weapon upgrades | Advanced Lab Tech, Engineer, Rotorobot (rare); tougher enemy types (frequent -- see the std-variant rows below) | **P1 alias "Plastic" was incorrect.** Verify drop sources: open NORA → Weapons → any upgrade and read the requirement line |
 | **Energy Module** | Энергомодуль | High-tier weapon upgrades | Tougher enemy types (frequent -- see the std-variant rows below) | Distinct resource; not listed in P1 -- gap filled by P4 research |
 | **Neuromodule** | Нейромодуль | Highest-tier blueprints (e.g., Railgun craft cost: 1 Neuromodule) | Boss-tier enemies only | **Rarest crafting material.** P1 alias "Plasticine" was incorrect |
+
+_source: GameRevolution drop-list, TechRaptor Crafting Guide, Twinfinite Crafting Guide, RU Fandom, allmmorpg.ru · capture: web_fetch · confidence: high · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: progression_
 
 **Separate from the 8 crafting materials:**
 
@@ -72,6 +76,8 @@ _source: GameRevolution drop-list, TechRaptor Crafting Guide, Twinfinite Craftin
 
 **Forester forest** (Ch.2 and open world): 5+ Vovas in a dense cluster near Granny Zina's area. Pchela drones respawn them continuously. Kill Vovas → loot → wait for Pchela respawn → repeat.
 
+_source: P1 deep research 2026-05-08 · capture: web_fetch · confidence: medium · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: progression_
+
 **More efficient variant:** Shoot down the local **Hawk relay** first (drone in the sky) — this disables all Pchela in that ecosystem for ~5 minutes, stopping respawns. Then kill the static Vovas at your leisure without pressure. Downside: no respawn farming until Hawk relay is restored.
 
 _source: P1 deep research 2026-05-08 · capture: web_fetch · confidence: medium · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
@@ -80,6 +86,8 @@ _source: P1 deep research 2026-05-08 · capture: web_fetch · confidence: medium
 ### Biomaterials — Pavlov window
 
 Pavlov Complex (Ch.8) is organic-enemy-heavy. **Before pressing the Pavlov exit elevator (permanent — one-and-done), sweep every cabinet and chest.** You will not return. Neuromodule drops from boss-tier enemies; Pavlov bosses are the only boss concentration before late game.
+
+_source: P1 deep research 2026-05-08 · capture: web_fetch · confidence: medium · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: progression_
 
 > **Cross-system dependency** — see `dependencies.md` DEP-001: Pavlov exit (E48) is permanent. Biomaterials are scarcer for the rest of the game after this point; no return possible. (Polymer Jelly / Neuropolymer is NOT scarce post-Pavlov -- drops from nearly all enemies throughout the game; the P1 "Polymer Jelly is scarce post-Pavlov" claim was a misidentification.)
 
@@ -92,6 +100,8 @@ _source: P1 deep research 2026-05-08 · capture: web_fetch · confidence: medium
 3. Kill all robots without respawn pressure; loot freely.
 4. Optional: if a robotic Mother (giant repair unit) spawns to fix the relay, killing it drops a guaranteed rare component. [Single source — VGTimes ru; verify]
 
+_source: P1 deep research 2026-05-08 · capture: web_fetch · confidence: medium · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: progression_
+
 **Warning:** Disabling the HAWK relay also locks ALL Polygon doors in the region until repair bots restore it. Do NOT disable the relay mid-Polygon-run.
 
 > **Cross-system dependency** — see `dependencies.md` DEP-005: HAWK relay disable also applies before entering any Polygon dungeon. Same mechanic, same precondition across farming and Polygon entry contexts.
@@ -99,14 +109,20 @@ _source: P1 deep research 2026-05-08 · capture: web_fetch · confidence: medium
 _source: P1 deep research 2026-05-08 · capture: web_fetch · confidence: medium · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
 [Confirmed: Gameranx, GameRevolution; Mother-unit loot: Single source — verify]
 
+_source: r/atomicheart community thread (reddit.com/r/atomicheart/comments/141m67s) · capture: web_fetch · confidence: medium · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
+
 ### Camera-kill farming loop (infinite respawn method)
 
 Use this when you want robots to keep coming without disabling the HAWK:
+
+_source: r/atomicheart community thread (reddit.com/r/atomicheart/comments/141m67s) · capture: web_fetch · confidence: medium · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: progression_
 
 1. **Destroy** a Dandelion camera in the area.
 2. **Wait** for a Pchela to fly in and repair it.
 3. **Kill the Pchela** while standing in front of the now-restored camera -- the camera sees the kill, raises alarm, spawns a fresh batch of robots.
 4. Kill the robots, loot, then repeat from step 1.
+
+_source: r/atomicheart community thread (reddit.com/r/atomicheart/comments/141m67s) · capture: web_fetch · confidence: medium · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: progression_
 
 Key rules:
 - **Do NOT use the Railgun.** Railgun kills permanently remove robots from the map -- Pchela cannot restore them. Use Kalash, Zvezdochka, or other weapons that leave a body.
@@ -117,6 +133,8 @@ _source: r/atomicheart community thread (reddit.com/r/atomicheart/comments/141m6
 [Single source -- verify loop behavior in-game; Railgun permanent-removal confirmed via DEP-017]
 
 > **Cross-system dependency** -- see `dependencies.md` DEP-022: This loop chains alarm level 2 (`mechanics.md`) with Pchela-Dandelion repair behavior (`npcs/robots.md`). Both sub-systems must stay active for the loop to work.
+
+_source: r/atomicheart community thread (reddit.com/r/atomicheart/comments/141m67s) · capture: web_fetch · confidence: medium · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: progression_
 
 ---
 

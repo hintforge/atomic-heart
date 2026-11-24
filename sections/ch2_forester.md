@@ -32,6 +32,8 @@ _source: P1 deep research 2026-05-08 · capture: web_fetch · confidence: high �
 
 The **Volan tower** is a camera hijack system. By hacking a Dandelion camera, you can remotely operate gates and unlock Polygon access points. Used throughout the open world.
 
+_source: P1 deep research 2026-05-08 · capture: web_fetch · confidence: medium · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: progression_
+
 **Undercovered tip:** the Volan camera can be used to **read the gate code off the blackboard** visible inside a building — most guides have you find the code physically by walking to the blackboard. Using the camera saves the detour.
 
 > **Cross-system dependency** — see `dependencies.md` DEP-009: Volan camera "remote blackboard read" is independently confirmed in `puzzles/combination_locks.md` (Tokamak door entry). Applies to any Volan-accessible zone with a visible code surface.

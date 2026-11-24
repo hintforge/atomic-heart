@@ -24,7 +24,13 @@ _source: P1 deep research 2026-05-08 · capture: web_fetch · confidence: high �
 | **Talking Corpses #38–43** ("The Necromancer") | Throughout all Pavlov zones | Interact with green-tagged corpses |
 | **Pavlov optional code-locked door** | `pavlov_hospital` | Community-found alignment optical illusion puzzle; not a story code; see `puzzles/combination_locks.md`. **Missable** if you leave Pavlov without solving it. |
 | **Hospital ward 5-chest secret room** | `pavlov_hospital` — behind Blood Courier door | Opened by solving the Blood Courier door puzzle. **Permanently locked** once you descend the Morgue elevator (edge E45). Clear this room before going down. See DEP-011. |
-| **Polymer Jelly and Biomaterials** | Chests and cabinets throughout | Pavlov is organic-enemy-rich — more Polymer Jelly here than open world. Sweep everything before the exit elevator. |
+| **Polymer Jelly and Biomaterials** | Chests and cabinets throughout | More Polymer Jelly here than open world. Sweep everything before the exit elevator. |
+
+_source: P1 deep research 2026-05-08 · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
+
+Pavlov is organic-enemy-rich.
+
+_source: P1 deep research 2026-05-08 · capture: web_fetch · confidence: high · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: progression_
 
 Point of no return edge: `pavlov_distribution` → `open_world_main` (permanent) — see `nav/architecture.md`.
 
@@ -74,4 +80,8 @@ Before pressing the Pavlov exit elevator:
 3. Pavlov optional code door solved (or accepted as missed)
 4. Biomaterials swept from every chest and cabinet (Polymer Jelly / Neuropolymer is not scarce post-Pavlov; it drops from nearly all enemies throughout the game)
 
+_source: P1 deep research 2026-05-08 · capture: web_fetch · confidence: medium · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
+
 > **Cross-system dependency** — see `dependencies.md` DEP-001: Pavlov is one-and-done. The exit elevator permanently seals this zone — Biomaterials are scarcer in the open world. Sweep every cabinet and chest before pressing it. (Polymer Jelly / Neuropolymer drops from nearly all enemies throughout the game and is NOT scarcer post-Pavlov.)
+
+_source: P1 deep research 2026-05-08 · capture: web_fetch · confidence: medium · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_

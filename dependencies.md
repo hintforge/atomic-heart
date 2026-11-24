@@ -52,6 +52,8 @@ _source: stitch passes 2026-05-12 to 2026-06-05 (cross-reference of corpus files
 | DEP-003 | Lighthouse PoNR — E48 (`pavlov_surgical_lab` → `lighthouse_beach`, PERMANENT); TG12 window is E47 only (Ch.5 Hospital quest) | KS-23 — Thermal Scope; Pashtet — Polygon 12 ranged projectile mod | TG12 energy barrier is only down during the Hospital quest (Ch.5). E48 permanently seals both TG12 and all remaining Pavlov content. | `nav/architecture.md`, `items/weapons.md`, `optional_zones/polygons.md` |
 | DEP-004 | Ch.9 "Sky's the Limit" trigger (final story step before Ch.9 locks) | ALL remaining open-world Polygon blueprints + all Lootyagin chests (24 total) | Sky's the Limit permanently locks every Polygon and all open-world blueprint/chest locations. Operational rule: clean all available Polygons in Ch.5 window; finish remainder in Open World 2 (post-Pavlov) before Ch.9. | `items/weapons.md`, `optional_zones/polygons.md`, `sections/ch9_lighthouse.md` |
 
+_source: stitch passes 2026-05-12 to 2026-06-05 (cross-reference of corpus files) · capture: derived · confidence: low · enemy-tier: 1 · puzzle-tier: 2 · category: mainline · spoiler: progression_
+
 ## Missable / sequencing dependencies
 
 | Edge ID | Action | Window | Consequence | Source files | tier |
@@ -105,6 +107,8 @@ _source: stitch passes 2026-05-12 to 2026-06-05 (cross-reference of corpus files
 ### ~~Proposed edge M-01~~ — WRITTEN as DEP-021 (2026-05-16)
 
 P4 ingestion added `npcs/robots.md` which independently documents the BEA-D ostrich → Energy Module connection. Two-file, two-directory support confirmed; upgraded from medium (pending) to high confidence and written as DEP-021.
+
+_source: stitch pass 2026-05-12 (pass 2 proposals; cross-reference of corpus files) · capture: derived · confidence: low · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
 
 ---
 
