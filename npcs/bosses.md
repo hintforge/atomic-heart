@@ -217,7 +217,7 @@ _source: r/atomicheart/comments/1tkw1i0 (comments by nate_mcrock91 score 4, Cybe
 
 > **[boss identity name withheld at story tier -- deliver name only when player reaches DLC 4]**
 
-_source: r/atomicheart/comments/1suhzwz (OP report); r/atomicheart/comments/1tkw1i0 · capture: manual_paste · confidence: medium · enemy-tier: 5 · puzzle-tier: 0 · category: mainline · spoiler: dlc:blood_on_crystal_
+_source: r/atomicheart/comments/1tkw1i0 (comments by nate_mcrock91 score 4, Cyberbreaker2004 score 10, TheFurtivePhysician score 4; reddit_spoiler_tag: yes) · capture: manual_paste · confidence: medium · enemy-tier: 5 · puzzle-tier: 0 · category: mainline · spoiler: dlc:blood_on_crystal_
 
 - Final boss of Blood on Crystal (DLC 4).
 - **Community verdict:** considered significantly easier than Moray despite being the narrative climax boss. Described as "anticlimactic" by multiple commenters.

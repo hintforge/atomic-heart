@@ -839,7 +839,7 @@ _source: Deep Research 2026-05-27 · capture: web_fetch · confidence: high · e
 
 CHANCE modules (Polymer Glove) for mid-combat ability swapping. Returning DLC weapons with max-upgrade paths: Klusha, Secator, Kuzmich, Thunderclap. New enemies: **Polymorphs** (fire/ice-switching crystal humans) -- CHANCE modules counter them.
 
-_source: Deep Research 2026-05-27 · capture: web_fetch · confidence: high (base facts) / medium (post-launch details -- released ~7 weeks before brief) · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: dlc:blood-on-crystal_
+_source: Deep Research 2026-05-27 · capture: web_fetch · confidence: high · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: dlc:blood-on-crystal_
 
 ### DLC Optional Content Registry
 
