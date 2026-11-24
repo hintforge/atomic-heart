@@ -25,14 +25,14 @@
 | DEP-023 | Boss/std-variant taxonomy (`npcs/bosses.md`, `npcs/robots.md`) | Premium material drop-source interpretation (`items/crafting_materials.md`) | Five enemy names (listed in the boss notes) refer to both scripted boss encounters and standard farmable variants. The `[std-variant: confirmed/suspected/unknown]` taxonomy in `bosses.md` governs how the reader interprets every premium-material drop source in `crafting_materials.md` that lists these names. Misreading a std-variant source as a boss encounter sends the player to a scripted fight for farmable materials -- wrong strategy. One of the five is confirmed as an open-world std-variant (spawns from MTU-7 Bumblebee carriers); two others are still suspected/unknown -- verify in-game (see boss notes). | high | `npcs/bosses.md`, `npcs/robots.md`, `items/crafting_materials.md` | late-game |
 | DEP-024 | Alionka consumable resource (`items/abilities.md`) | "Red October" achievement (`nav/architecture.md` DLC optional content) | Kill 15 enemies with Alionka during the DLC. Achievement permanently lost if all Alionka pickups are consumed before reaching 15 kills. Alionka is found in Mendeleev Complex (circular corridor, Radiochemical Lab, Hangar, Hotel intro). The pickup pool is finite -- track kills before consuming. | medium (DLC -- not yet live-verified) | `items/abilities.md`, `nav/architecture.md` | none |
 
-_source: stitch pass 2026-06-05 (cross-reference of corpus files) · capture: manual_paste · confidence: high · enemy-tier: 2 · puzzle-tier: 2 · category: mainline · spoiler: late-game_
+_source: stitch passes 2026-05-12 to 2026-06-05 (cross-reference of corpus files) · capture: derived · confidence: low · enemy-tier: 2 · puzzle-tier: 2 · category: mainline · spoiler: late-game_
 
 Boss notes for the edges above, gated by `warning_tiers.md` (boss names and loadout from enemy-tier 3):
 
 - DEP-023: the five enemy names are Hedgie, Belyash, Natasha, Dewdrop, Plyusch; Belyash is the one confirmed as an open-world std-variant; Natasha and Dewdrop are the two still suspected/unknown.
 - DEP-007 (loadout): ch7_bridge.md independently documents a fire-cartridge KS-23 recommendation. Carry fire-cartridge KS-23 to Ch.7 bridge.
 
-_source: stitch pass 2026-06-05 (cross-reference of corpus files) · capture: manual_paste · confidence: high · enemy-tier: 3 · puzzle-tier: 0 · category: mainline · spoiler: story_
+_source: stitch passes 2026-05-12 to 2026-06-05 (cross-reference of corpus files) · capture: derived · confidence: low · enemy-tier: 3 · puzzle-tier: 0 · category: mainline · spoiler: story_
 
 Boss weakness and tactics notes for the edges above (mechanics from enemy-tier 5):
 
@@ -40,7 +40,7 @@ Boss weakness and tactics notes for the edges above (mechanics from enemy-tier 5
 - DEP-010: Natasha-class boss weakness; TG12 Natasha variant. Natasha boss weakness (jet ports on back → explosives + high fire-rate; Shok stalls movement) documented for Theater stage encounter applies equally to the Natasha-class variant inside TG12.
 - DEP-018: Natasha boss encounter. LUC-1 Owls respawn infinitely until their trigger source (Natasha) is killed. Burning ammo on Owls before Natasha is down is a damage sink — focus Natasha first; Owls clear themselves.
 
-_source: stitch pass 2026-06-05 (cross-reference of corpus files) · capture: manual_paste · confidence: high · enemy-tier: 5 · puzzle-tier: 0 · category: mainline · spoiler: story_
+_source: stitch passes 2026-05-12 to 2026-06-05 (cross-reference of corpus files) · capture: derived · confidence: low · enemy-tier: 5 · puzzle-tier: 0 · category: mainline · spoiler: story_
 
 ## PoNR / lockout edges
 
@@ -68,7 +68,7 @@ _source: stitch pass 2026-06-05 (cross-reference of corpus files) · capture: ma
 | DEP-024 | Use Alionka to kill 15 enemies during the DLC | Before consuming all Alionka pickups in the DLC | "Red October" achievement permanently lost if all Alionka pickups are consumed before reaching 15 kills. Track kill count before each use; pickup pool is finite. | `items/abilities.md`, `nav/architecture.md` | none |
 | DEP-025 | Collect all 11 crystal figurines during the Blood on Crystal DLC | Before DLC endgame PoNR -- no chapter select; all 11 must be found in one playthrough | "Crystal Platinum" achievement permanently missed for that run; full DLC replay required. Figurine #1 has a known tracking bug -- reload prior save if it does not register. | `nav/blood_on_crystal.md`, `sections/missables.md`, `achievements.md`, `nav/architecture.md` | none |
 
-_source: stitch pass 2026-06-05 (cross-reference of corpus files) · capture: manual_paste · confidence: high · enemy-tier: 2 · puzzle-tier: 2 · category: mainline · spoiler: late-game_
+_source: stitch passes 2026-05-12 to 2026-06-05 (cross-reference of corpus files) · capture: derived · confidence: low · enemy-tier: 2 · puzzle-tier: 2 · category: mainline · spoiler: late-game_
 
 Boss notes for the missable rows above (boss names from enemy-tier 3, tactics from enemy-tier 5, `warning_tiers.md`):
 
@@ -76,7 +76,7 @@ Boss notes for the missable rows above (boss names from enemy-tier 3, tactics fr
 - DEP-013: Use any weapon during first Hedgie encounter; "Strike" achievement requires zero weapon use — statues must deal all damage. Any weapon hit forfeits permanently. One-shot window; no second chance.
 - DEP-014: Use any ranged weapon during first Belyash encounter; "Chop Chop Chop" achievement requires melee weapons only. Any ranged weapon use forfeits permanently. One-shot window.
 
-_source: stitch pass 2026-06-05 (cross-reference of corpus files) · capture: manual_paste · confidence: high · enemy-tier: 5 · puzzle-tier: 0 · category: mainline · spoiler: story_
+_source: stitch passes 2026-05-12 to 2026-06-05 (cross-reference of corpus files) · capture: derived · confidence: low · enemy-tier: 5 · puzzle-tier: 0 · category: mainline · spoiler: story_
 
 ## Stitch run log
 
@@ -91,11 +91,11 @@ _source: stitch pass 2026-06-05 (cross-reference of corpus files) · capture: ma
 | 2026-05-24 | Pass 5: full re-audit all 23 edges (DEP-001 through DEP-023) under v45-v49 per-edge convergence audit procedure | DEP-024 (1 edge: Alionka "Red October" missable) | 0 | 4 (DEP-001 Polymer Jelly alias removed; DEP-002 Dominator mod renamed; Klusha Handle location conflict; Klusha Blade location conflict) | claude-sonnet-4-6 | none |
 | 2026-06-05 | Pass 6: zipper (DLC 2/3/4 nav file overlap survey; 3 accepted-as-design; 2 cross-ref additions) + full re-audit all 25 edges (DEP-001 through DEP-025) post-DLC-ingestion; DLC 2/3/4 new content scan for new edges | DEP-025 (1 edge: Crystal Figurines/Crystal Platinum BoC missable) | 0 | 4 (DEP-004 source column fixed: architecture.md → ch9_lighthouse.md; DEP-002 MP mod count corrected 4→5; Life After Life naming conflict open; Moby Dick missable conflict open) | claude-sonnet-4-6 | none |
 
-_source: stitch pass 2026-06-05 (cross-reference of corpus files) · capture: manual_paste · confidence: high · enemy-tier: 2 · puzzle-tier: 2 · category: mainline · spoiler: late-game_
+_source: stitch passes 2026-05-12 to 2026-06-05 (cross-reference of corpus files) · capture: derived · confidence: low · enemy-tier: 2 · puzzle-tier: 2 · category: mainline · spoiler: late-game_
 
 Boss note for the 2026-05-22 post-hoc row (boss names from enemy-tier 3): the flag inconsistency fixed in crafting_materials.md was Belyash's.
 
-_source: stitch pass 2026-06-05 (cross-reference of corpus files) · capture: manual_paste · confidence: high · enemy-tier: 3 · puzzle-tier: 0 · category: mainline · spoiler: story_
+_source: stitch passes 2026-05-12 to 2026-06-05 (cross-reference of corpus files) · capture: derived · confidence: low · enemy-tier: 3 · puzzle-tier: 0 · category: mainline · spoiler: story_
 
 ---
 
@@ -119,7 +119,7 @@ P4 ingestion added `npcs/robots.md` which independently documents the BEA-D ostr
 
 Write this edge? (yes / no / reword):
 
-_source: stitch pass 2026-05-12 (pass 2 proposals) · capture: manual_paste · confidence: medium · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
+_source: stitch pass 2026-05-12 (pass 2 proposals; cross-reference of corpus files) · capture: derived · confidence: low · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
 
 ---
 
@@ -133,7 +133,7 @@ _source: stitch pass 2026-05-12 (pass 2 proposals) · capture: manual_paste · c
 
 Write this edge? (yes / no / reword):
 
-_source: stitch pass 2026-05-12 (pass 2 proposals) · capture: manual_paste · confidence: medium · enemy-tier: 5 · puzzle-tier: 0 · category: mainline · spoiler: story_
+_source: stitch pass 2026-05-12 (pass 2 proposals; cross-reference of corpus files) · capture: derived · confidence: low · enemy-tier: 5 · puzzle-tier: 0 · category: mainline · spoiler: story_
 
 ---
 
@@ -147,7 +147,7 @@ _source: stitch pass 2026-05-12 (pass 2 proposals) · capture: manual_paste · c
 
 Write this edge? (yes / no / reword):
 
-_source: stitch pass 2026-05-12 (pass 2 proposals) · capture: manual_paste · confidence: medium · enemy-tier: 5 · puzzle-tier: 0 · category: mainline · spoiler: story_
+_source: stitch pass 2026-05-12 (pass 2 proposals; cross-reference of corpus files) · capture: derived · confidence: low · enemy-tier: 5 · puzzle-tier: 0 · category: mainline · spoiler: story_
 
 ---
 
@@ -161,7 +161,7 @@ _source: stitch pass 2026-05-12 (pass 2 proposals) · capture: manual_paste · c
 
 Write this edge? (yes / no / reword):
 
-_source: stitch pass 2026-05-12 (pass 2 proposals) · capture: manual_paste · confidence: medium · enemy-tier: 5 · puzzle-tier: 0 · category: mainline · spoiler: story_
+_source: stitch pass 2026-05-12 (pass 2 proposals; cross-reference of corpus files) · capture: derived · confidence: low · enemy-tier: 5 · puzzle-tier: 0 · category: mainline · spoiler: story_
 
 ---
 
