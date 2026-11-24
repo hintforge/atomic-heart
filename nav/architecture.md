@@ -156,7 +156,7 @@ Note: Testing Ground numbers 3, 4, 5, 7 do not exist in the base game (confirmed
 | E36 | lastochkin_theater_grounds | lastochkin_theater_int | story-gate | one-way-forward | see boss notes | **chapter-bound** | No return to Sechenov Research Center interior once theater entered |
 | E37 | lastochkin_theater_int | theater_control_room | optional | bidirectional | Light-Lock door code (see `puzzles/combination_locks.md`) | none | |
 | E38 | lastochkin_theater_int | theater_stage | story-gate | one-way-forward | scripted | none | |
-| E39 | theater_stage | solnechnaya_open_world | story-gate | one-way-forward | collect Petrov's head (see boss notes) | **PERMANENT** | Sechenov Research Center, Theater interior, Theater Control Room locked; TG8 becomes inaccessible |
+| E39 | theater_stage | solnechnaya_open_world | story-gate | one-way-forward | see boss notes | **PERMANENT** | Sechenov Research Center, Theater interior, Theater Control Room locked; TG8 becomes inaccessible |
 | E40 | sechenov_research_center_int | testing_ground_8 | optional | bidirectional | three Volan cameras (front-of-road / right of building / rooftop) | none | **MISSABLE** — only reachable while Sechenov Research Center is active (before E36/E39). **E35 ("Petrov flees") does NOT close TG8** — confirmed live 2026-05-12; lockout is E36 (Theater interior entry), not E35. |
 
 > **Cross-system dependency** — see `dependencies.md` DEP-002: E36 (Theater interior entry) permanently locks TG8 (via E40). TG8 gold/silver/bronze chests contain Fox blade, Zvezdochka lower blade, Swede extension, Dominator Vortex Transducer, MP Revolver-Type Bolt Frame — 5 weapon mods permanently missed after E36. Window extends into Ch.5 (E35 "Petrov flees" does NOT close TG8 -- confirmed live 2026-05-12).
@@ -172,10 +172,10 @@ Note: Testing Ground numbers 3, 4, 5, 7 do not exist in the base game (confirmed
 > **Cross-system dependency** — see `dependencies.md` DEP-003: E47/E48 lock TG12 (KS-23 Thermal Scope + Pashtet Polygon 12 mod permanently missed). DEP-001: E48 also ends the Pavlov Biomaterials farming window — sweep all Pavlov chests before E48. (Polymer Jelly / Neuropolymer is NOT scarce post-Pavlov -- drops from nearly all enemies throughout the game.)
 | E49 | lighthouse_beach | academy_underwater | story-gate | one-way-forward | sit on TV chair in lighthouse (see boss notes) | **PERMANENT** | |
 | E50 | academy_underwater | academy_archive_room | story-gate | one-way-forward | meet Filatova | none | |
-| E51 | academy_archive_room | chelomey_revisit | story-gate | one-way-forward | three film reels collected | **point-of-divergence** | Next dialogue is the ending split |
-| E52a | chelomey_revisit | (walk-away ending) | story-gate | one-way-forward | Granny Zina dialogue option 1 | **PERMANENT (credits)** | "Joke/good" ending; does NOT unlock Murderous Beauty trophy |
-| E52b | chelomey_revisit | sechenov_office_final | story-gate | one-way-forward | Granny Zina dialogue option 2 | **PERMANENT** | Canonical bad/main ending |
-| E53 | sechenov_office_final | (kill-twins ending) | story-gate | one-way-forward | see boss notes | **PERMANENT (credits)** | Charles betrays P-3 |
+| E51 | academy_archive_room | chelomey_revisit | story-gate | one-way-forward | three film reels collected | **point-of-divergence** | see story notes |
+| E52a | chelomey_revisit | (see story notes) | story-gate | one-way-forward | dialogue choice (see story notes) | **PERMANENT** | |
+| E52b | chelomey_revisit | sechenov_office_final | story-gate | one-way-forward | dialogue choice (see story notes) | **PERMANENT** | |
+| E53 | sechenov_office_final | (see story notes) | story-gate | one-way-forward | see boss notes | **PERMANENT** | |
 | E54 | (post-credits) | solnechnaya_open_world | fast-travel | one-way-forward | patch 1.14.4.0 "Return to Facility 3826" menu option | none | Complexes locked; open world + Testing Grounds free-roamable |
 
 _source: Compass/Deep Research 2026-05-08 · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
@@ -193,6 +193,15 @@ _source: Compass/Deep Research 2026-05-08 · capture: web_fetch · confidence: h
 - E53: defeat Twins (Left + Right)
 
 _source: Compass/Deep Research 2026-05-08 · capture: web_fetch · confidence: high · enemy-tier: 3 · puzzle-tier: 0 · category: mainline · spoiler: story_
+
+Story notes for the edges above (story facts, spoiler story):
+
+- E51: next dialogue is the ending split
+- E52a: (walk-away ending); Granny Zina dialogue option 1; PERMANENT (credits); "Joke/good" ending; does NOT unlock Murderous Beauty trophy
+- E52b: Granny Zina dialogue option 2; canonical bad/main ending
+- E53: (kill-twins ending); PERMANENT (credits); Charles betrays P-3
+
+_source: Compass/Deep Research 2026-05-08 · capture: web_fetch · confidence: high · enemy-tier: 3 · puzzle-tier: 3 · category: mainline · spoiler: story_
 
 ---
 
