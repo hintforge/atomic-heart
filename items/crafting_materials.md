@@ -35,7 +35,7 @@ _source: GameRevolution drop-list, TechRaptor Crafting Guide, Twinfinite Craftin
 |---|---|---|---|---|
 | **Metal Parts** | Металлические детали | Most weapon upgrades | Robots (Vova, Pchela, Laborer, Rotorobot/ARU-31/6) | Most abundant; farm from Vova clusters in open world |
 | **Synthetic Material** | Синтетический материал | Weapon upgrades; ammo crafting | Robots (incl. Rotorobot/ARU-31/6) and chests | Second most abundant. **Not the same as Superconductor.** |
-| **Biomaterials** | Биоматериалы | Consumable crafting; some organic-enemy mods | Organic mutants, Sprouts, Plyusch [std-variant: unknown] | Stock up in Pavlov (organic-heavy zone) before exit |
+| **Biomaterials** | Биоматериалы | Consumable crafting; some organic-enemy mods | Organic mutants, Sprouts; tougher enemy types (see the std-variant rows below) | Stock up in Pavlov (organic-heavy zone) before exit |
 | **Superconductor** | Сверхпроводник | Mid-to-high tier weapon upgrades | Advanced Lab Tech, Engineer, Rotorobot, Shield Lab Tech; tougher enemy types (see the std-variant rows below) | **Distinct from Synthetic Material.** P1 "Polymer Jelly" alias was likely a misidentification -- [verify in-game] |
 | **Chemistry** | Химия | Ammo crafting (shells, rockets); consumables; some weapon mods | Organic mutants and mid-tier robots widely | Also called "Chemicals" in some web sources -- same item |
 | **Microelectronics** | Микроэлектроника | Mid-to-high tier weapon upgrades | Advanced Lab Tech, Engineer, Rotorobot (rare); tougher enemy types (frequent -- see the std-variant rows below) | **P1 alias "Plastic" was incorrect.** Verify drop sources: open NORA → Weapons → any upgrade and read the requirement line |
@@ -57,6 +57,7 @@ The named std-variant drop sources are listed separately (boss names from enemy-
 |---|---|
 | **Superconductor** | Belyash [std-variant: confirmed], Dewdrop [std-variant: unknown], Hedgie [std-variant: confirmed], Natasha [std-variant: suspected] |
 | **Microelectronics** | Belyash [std-variant: confirmed], Dewdrop [std-variant: unknown], Hedgie [std-variant: confirmed], Natasha [std-variant: suspected] (frequent -- likely std-variants, not boss encounters; verify in-game) |
+| **Biomaterials** | Plyusch [std-variant: unknown] |
 | **Energy Module** | Plyusch [std-variant: unknown], Belyash [std-variant: confirmed], Dewdrop [std-variant: unknown], Hedgie [std-variant: confirmed], Natasha [std-variant: suspected] (frequent -- likely std-variants; verify in-game) |
 
 _source: GameRevolution drop-list, TechRaptor Crafting Guide, Twinfinite Crafting Guide, RU Fandom, allmmorpg.ru · capture: web_fetch · confidence: high · enemy-tier: 3 · puzzle-tier: 0 · category: mainline · spoiler: story_

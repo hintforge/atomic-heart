@@ -196,6 +196,8 @@ Direct sequel to Trapped in Limbo. P-3 + Katya escape Limbo, traverse destroyed 
 
 Note: designation "MOR-4Y/МУР-4Й" used in some community posts is wrong. Russian sources and Fandom wiki give **МУР-8Н4 / MO-R4Y "Мурена" (Moray)**.
 
+_source: Deep Research 2026-05-27 · capture: web_fetch · confidence: high · enemy-tier: 3 · puzzle-tier: 0 · category: mainline · spoiler: dlc:enchantment-under-sea_
+
 **The Twins:** Ekaterina/Katya's consciousness was split by Sechenov into the Left and Right robotic ballerina Twins. By EutS, Katya has reassembled into P-3's glove (the "Blesna"/Teardrop) and later takes control of one surviving Twin body to gain firepower. [Deliver post-encounter on player request; enemy-tier: 3]
 [Confirmed: Fandom wiki, 2 languages]
 

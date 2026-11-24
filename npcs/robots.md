@@ -1,7 +1,7 @@
 # Enemies — Standard Robots
 
 **status:** research-integrated
-**last_reconciled:** 2026-05-22
+**last_reconciled:** 2026-11-24
 **research_run:** P4 research 2026-05-14
 
 > **Enemy tier 0 is active.** This file exists for post-encounter reference only. Do NOT volunteer enemy names, tactics, or weaknesses preemptively. After P-3 encounters an enemy and asks, full post-encounter guidance is permitted.
@@ -102,6 +102,8 @@ _source: TechRaptor TG12 guide, EN Fandom, NamuWiki mirror · capture: web_fetch
 _source: TechRaptor TG12 guide, EN Fandom, NamuWiki mirror · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
 
 Boss context (boss names from enemy-tier 3, tactics from enemy-tier 5, `warning_tiers.md`): the TG12 location is the Natasha encounter, and Owls can respawn until the trigger source (e.g., Natasha) is killed.
+
+_source: TechRaptor TG12 guide, EN Fandom, NamuWiki mirror · capture: web_fetch · confidence: high · enemy-tier: 5 · puzzle-tier: 0 · category: mainline · spoiler: story_
 
 > **Cross-system dependency** — see `dependencies.md` DEP-018: LUC-1 Owls respawn infinitely until Natasha is killed — focus Natasha first; Owls clear themselves. Applies at Theater Stage (Ch.4) and TG12 (Ch.5).
 
@@ -292,9 +294,16 @@ Icons in `sprites/icons/` are game-extracted PNGs. To reproduce: install [FModel
 | `sprites/icons/T_Mutant.png` | Mother | Naming quirk -- nest uses "Mutant" icon |
 | `sprites/icons/T_Nurse.png` | Mutant | Sprout-inhabited corpse |
 | `sprites/icons/T_BigMutant.png` | Mutant (large) | Size variant |
-| `sprites/icons/T_Plyush.png` | Plyusch | Direct |
 
 _source: web images + FModel extracts 2026-05-13 · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
+
+The shared boss-name icon is listed separately (boss names from enemy-tier 3, `warning_tiers.md`).
+
+| Icon file | Enemy | Internal name note |
+|---|---|---|
+| `sprites/icons/T_Plyush.png` | Plyusch | Direct |
+
+_source: web images + FModel extracts 2026-05-13 · capture: web_fetch · confidence: high · enemy-tier: 3 · puzzle-tier: 0 · category: mainline · spoiler: story_
 
 **Not in InfoIcons set:** Laborer (Vova), Dandelion Camera -- check DLC paks or alternative icon folders.
 
@@ -318,6 +327,8 @@ _source: web images + FModel extracts 2026-05-13 · capture: web_fetch · confid
 
 Some enemies have a second web-sourced image: `sprites/belyash_2.jpg`, `sprites/mutant_2.jpg`, `sprites/natasha_2.jpg`, `sprites/rotorobot_2.jpg`, `sprites/mother_2.jpg`.
 
+_source: web images + FModel extracts 2026-05-13; merged from sprites/index.md per zipper 2026-05-22 · enemy-tier: 3 · puzzle-tier: 0 · spoiler: story_
+
 > **No `lab_tech_2` backup image (2026-07-29).** The fetch attempted for it landed on a dead link: the saved file was a 243KB HTML "Page not found" error page from `guided.news` with a `.jpg` extension, not an image, so it was removed. The primary `sprites/lab_tech.jpg` is a valid JPEG and is unaffected. Do not "restore" this file from the original source -- the link is gone. Re-source from a live page if a second Lab Tech image is ever wanted.
 
 ### Material drop quick-reference
@@ -326,7 +337,7 @@ Some enemies have a second web-sourced image: `sprites/belyash_2.jpg`, `sprites/
 |---|---|
 | Metal Parts | Lab Tech, Laborer, Pchela, Engineer, Vatrushka, Bumblebee, Owl, Doc, Rotorobot, Drofa |
 | Synthetic Materials | Any robot enemy; also chests |
-| Biomaterials | Sprout, Mother, Mutant, Plyusch |
+| Biomaterials | Sprout, Mother, Mutant |
 | Chemicals | Sprout, Mother, Mutant |
 | Neuropolymer | All enemies (universal) |
 | Specific named materials (Energy Module, etc.) | Verify in-game -- screenshot the crafting screen for cross-reference |
@@ -339,5 +350,6 @@ The boss drop row is listed separately (boss names from enemy-tier 3, `warning_t
 | Material | Kill these enemies |
 |---|---|
 | Polymer Jelly | Bosses (Belyash, Hedgie, Natasha, Plyusch, Dewdrop, Twins) |
+| Biomaterials | Plyusch |
 
 _source: web images + FModel extracts 2026-05-13; merged from sprites/index.md per zipper 2026-05-22 · capture: web_fetch · confidence: high · enemy-tier: 3 · puzzle-tier: 0 · category: mainline · spoiler: story__

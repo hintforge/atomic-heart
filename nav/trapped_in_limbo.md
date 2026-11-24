@@ -124,6 +124,8 @@ _source: Deep Research 2026-05-27 · capture: web_fetch · confidence: high · e
 
 Follows the base game's "longer" canon ending: P-3 defeats the Twins, shoots Sechenov, learns CHAR-les (Chariton Zakharov / HRAZ) was the true mastermind, and is betrayed -- CHAR-les stuns him, exits the glove, merges with the Jelly-Man, and traps P-3 in Limbo as "Pushistov." Ekaterina/Katya (Blesna) appears as a Polymer Teardrop to guide him; she reveals Sechenov also survived in Limbo. P-3 recovers memories and escapes, vowing vengeance on Chariton.
 
+_source: Deep Research 2026-05-27 · capture: web_fetch · confidence: high · enemy-tier: 3 · puzzle-tier: 0 · category: mainline · spoiler: dlc:trapped-in-limbo_
+
 Community claim "destroys the alt universe where Charles wins" is NOT directly supported by sources -- sources describe escape and memory recovery only. [Hypothesis -- unverified]
 [Confirmed for core narrative: multiple sources, 2 languages]
 

@@ -193,7 +193,11 @@ _source: Deep Research 2026-05-27 · capture: web_fetch · confidence: high · e
 
 Climactic conclusion to the 4-DLC arc. Picks up from EutS's beach ambush. P-3, NORA, Nastya, Nikolai, Hunter infiltrate Crystal while Katya (in a Twin's body) distracts from above. They fight through the Crystal Complex, encountering Polymorphs, RACCOON/ENOT robots, and Burlaks/Burav-type enemies. Key bosses: a RACCOON, the **Second Twin (Lefty)**, and finally **CHAR-les/HRAZ (ХРАЗ)**.
 
+_source: Deep Research 2026-05-27 · capture: web_fetch · confidence: high · enemy-tier: 3 · puzzle-tier: 0 · category: mainline · spoiler: dlc:blood-on-crystal_
+
 P-3 saves Sechenov's consciousness from the Massif and defeats CHAR-les. The 4-DLC arc: base "longer" ending (betrayal -> Limbo) -> DLC2 escape Limbo with Katya -> DLC3 Neptune/recover rings, Katya into Twin body -> DLC4 confront and beat CHAR-les.
+
+_source: Deep Research 2026-05-27 · capture: web_fetch · confidence: high · enemy-tier: 3 · puzzle-tier: 0 · category: mainline · spoiler: dlc:blood-on-crystal_
 
 Ending sets up **Atomic Heart 2** (announced at Summer Game Fest 2025) and the MMO-shooter spin-off **The Cube**. Note: Kolya is stabbed by CHAR-les via Nastya's hijacked polymer clone; victory is bittersweet, and a final beach scene shows the group ambushed again with one Twin catching the Beta Connector case mid-air.
 [Confirmed: 2 languages]

@@ -3,7 +3,7 @@
 **status:** research-integrated
 **deferred-to:** n/a
 **deferred-reason:** Doctor branch C (2026-05-22): 69 of ~82 retrieved; BoC gap noted. BoC gap filled 2026-05-22 via targeted deep-research (13 achievements confirmed). TiL and EutS remain partial scaffold (DLC not yet researched); deferred-to: DLC-research. Total: 82 confirmed. DLC counts corrected: TiL 10 (was 11/12), EutS 8 (was 6), BoC 13 (was 0).
-**last_reconciled:** 2026-05-22
+**last_reconciled:** 2026-11-24
 **stub_source:** Multiple mirrors -- Steam stats unavailable. Primary: vgtimes.com/games/atomic-heart/achievements-and-trophies/; secondary: daynglsgameguides.com, gamingbolt.com. BoC gap fill: Imagine Steam Community guide, Treyex Gaming, GAMES.GG (2026-04-27), iXBT.games (2026-04-16), TrueAchievements DLC pages, Steam Hunters AppID 668580.
 **stub_fetched:** 2026-05-22
 
@@ -1272,16 +1272,20 @@ _source: deep-research 2026-05-22 · capture: web_fetch · confidence: high · e
 - **id:** marco-polo
 - **hidden:** no
 - **trigger_type:** discovery
-- **trigger:** Fall into the water at the Wave complex and get killed by Morays -- do this right after the Wave complex opening cutscene
+- **trigger:** Fall into the water at the Wave complex and get killed by the enemies in the water -- do this right after the Wave complex opening cutscene
 - **missable:** yes
 - **ponr-window:** Before Wave complex section closes in Blood on Crystal DLC; best done immediately after the opening cutscene of the Wave area
 - **prereqs:** Blood on Crystal DLC; reach Wave complex
 - **vector-binding:** `_overflow/` (deferred-to: DLC-research)
-- **enemy-tier:** 0
+- **enemy-tier:** 1
 - **puzzle-tier:** 0
 - **spoiler:** dlc:Blood on Crystal
-- **notes:** Death achievement. The Moray kill method and specific Wave complex location are the non-obvious components. Do it on first arrival at the Wave complex to avoid missing the window.
-_source: deep-research 2026-05-22 · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: dlc:Blood on Crystal_
+- **notes:** Death achievement. The kill method and specific Wave complex location are the non-obvious components. Do it on first arrival at the Wave complex to avoid missing the window.
+_source: deep-research 2026-05-22 · capture: web_fetch · confidence: high · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: dlc:Blood on Crystal_
+
+The water enemies that kill the player for Marco... Polo! are Morays.
+
+_source: deep-research 2026-05-22 · capture: web_fetch · confidence: high · enemy-tier: 3 · puzzle-tier: 0 · category: mainline · spoiler: dlc:Blood on Crystal_
 
 ---
 

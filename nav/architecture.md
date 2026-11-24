@@ -474,9 +474,13 @@ _source: Compass/Deep Research 2026-05-09 (P3) · capture: web_fetch · confiden
 | `dlc_aoi_mendeleev_hangar` | Mendeleev Complex Hangar | aircraft hangar; ангар | indoor-linear (chests, Strekoza terminus, BEA-D loading bell) |
 | `dlc_aoi_mendeleev_complex` | Mendeleev Complex (interior) | underground complex; комплекс Менделеев | indoor-branching (multi-floor labs, circular corridor, statue arena) |
 | `dlc_aoi_radiochemical_lab` | Radiochemical Laboratory | radio-chemical labs; Радиохимическая лаборатория | indoor-linear (paired sub-labs with BEA-D containment puzzle) |
-| `dlc_aoi_noras_cradle` | NORA's Cradle / NORA's Brain | "Eleanor's Heart" puzzle room; колыбель Элеоноры | indoor-linear (final puzzle + colossus arena) |
+| `dlc_aoi_noras_cradle` | NORA's Cradle / NORA's Brain | "Eleanor's Heart" puzzle room; колыбель Элеоноры | indoor-linear (final puzzle; see boss note below) |
 
 _source: Compass/Deep Research 2026-05-09 (P3) · capture: web_fetch · confidence: high · enemy-tier: 1 · puzzle-tier: 1 · category: mainline · spoiler: dlc:annihilation-instinct_
+
+Boss note: `dlc_aoi_noras_cradle` also holds the BEA-D Colossus arena.
+
+_source: Compass/Deep Research 2026-05-09 (P3) · capture: web_fetch · confidence: high · enemy-tier: 3 · puzzle-tier: 1 · category: mainline · spoiler: dlc:annihilation-instinct_
 
 ### DLC Missions (Chapter ↔ Zone Mapping)
 

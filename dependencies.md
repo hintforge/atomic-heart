@@ -128,9 +128,15 @@ _source: stitch pass 2026-05-12 (pass 2 proposals; cross-reference of corpus fil
 
 **Proposed edge:** "Scanner" achievement ↔ Ch.10 final Twins encounter (Chelomey prologue appearance does NOT count)
 
+_source: stitch pass 2026-05-12 (pass 2 proposals; cross-reference of corpus files) · capture: derived · confidence: low · enemy-tier: 5 · puzzle-tier: 0 · category: mainline · spoiler: story_
+
 **Rationale:** `npcs/bosses.md` states explicitly that scanning Left and Right twins during the Ch.10 fight is the only valid window — the prologue appearance does not register. Neither `sections/ch10_endgame.md` nor `sections/ch0_chelomey.md` documents this constraint. Single source.
 
+_source: stitch pass 2026-05-12 (pass 2 proposals; cross-reference of corpus files) · capture: derived · confidence: low · enemy-tier: 5 · puzzle-tier: 0 · category: mainline · spoiler: story_
+
 **Source:** `npcs/bosses.md` (Twins entry)
+
+_source: stitch pass 2026-05-12 (pass 2 proposals; cross-reference of corpus files) · capture: derived · confidence: low · enemy-tier: 5 · puzzle-tier: 0 · category: mainline · spoiler: story_
 
 Write this edge? (yes / no / reword):
 
@@ -142,9 +148,15 @@ _source: stitch pass 2026-05-12 (pass 2 proposals; cross-reference of corpus fil
 
 **Proposed edge:** Hedgie Ch.3 encounter ↔ "Strike" achievement (statues must deal all damage — any weapon use forfeits permanently)
 
+_source: stitch pass 2026-05-12 (pass 2 proposals; cross-reference of corpus files) · capture: derived · confidence: low · enemy-tier: 5 · puzzle-tier: 0 · category: mainline · spoiler: story_
+
 **Rationale:** `npcs/bosses.md` documents that using ANY weapon during the first Hedgie encounter permanently forfeits "Strike." One-shot window. `sections/ch3_vdnh_outdoor.md` hides arena content at enemy-tier 0. Single source.
 
+_source: stitch pass 2026-05-12 (pass 2 proposals; cross-reference of corpus files) · capture: derived · confidence: low · enemy-tier: 5 · puzzle-tier: 0 · category: mainline · spoiler: story_
+
 **Source:** `npcs/bosses.md` (Hedgie entry)
+
+_source: stitch pass 2026-05-12 (pass 2 proposals; cross-reference of corpus files) · capture: derived · confidence: low · enemy-tier: 5 · puzzle-tier: 0 · category: mainline · spoiler: story_
 
 Write this edge? (yes / no / reword):
 
@@ -156,9 +168,15 @@ _source: stitch pass 2026-05-12 (pass 2 proposals; cross-reference of corpus fil
 
 **Proposed edge:** Belyash Ch.4 theater grounds encounter ↔ "Chop Chop Chop" achievement (melee only — any ranged weapon forfeits permanently)
 
+_source: stitch pass 2026-05-12 (pass 2 proposals; cross-reference of corpus files) · capture: derived · confidence: low · enemy-tier: 5 · puzzle-tier: 0 · category: mainline · spoiler: story_
+
 **Rationale:** `npcs/bosses.md` documents that using any ranged weapon during the first Belyash encounter permanently forfeits the achievement. One-shot window. `sections/ch6_theatre.md` hides encounter content at enemy-tier 0. Single source.
 
+_source: stitch pass 2026-05-12 (pass 2 proposals; cross-reference of corpus files) · capture: derived · confidence: low · enemy-tier: 5 · puzzle-tier: 0 · category: mainline · spoiler: story_
+
 **Source:** `npcs/bosses.md` (Belyash entry)
+
+_source: stitch pass 2026-05-12 (pass 2 proposals; cross-reference of corpus files) · capture: derived · confidence: low · enemy-tier: 5 · puzzle-tier: 0 · category: mainline · spoiler: story_
 
 Write this edge? (yes / no / reword):
 
