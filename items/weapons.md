@@ -2,6 +2,7 @@
 
 **status:** research-integrated (converged main + sandbox 2026-05-09; weapon trees from web sources 2026-05-12; live corrections 2026-05-13)
 **last_updated:** 2026-05-13
+**last_reconciled:** 2026-11-24
 **research_run:** P1 deep research 2026-05-08 (sandbox base) + P3 deep research 2026-05-09 (DLC + main-side achievement notes) + web-sourced weapon trees 2026-05-12 (TechRaptor, Fandom RU, IGN, GamingBolt, Reddit)
 
 ---
@@ -24,7 +25,8 @@ _source: P1 deep research 2026-05-08 · capture: web_fetch · confidence: high �
 
 ### Achievement & blueprint discipline (read first)
 
-- **Lord of War achievement:** craft **12 distinct weapons**. Always-available as long as materials are collected; achievable by Ch.6 latest. _source: gameranx 448017, 100pguides — confirmed · capture: web_fetch · confidence: high_
+- **Lord of War achievement:** craft **12 distinct weapons**. Always-available as long as materials are collected; achievable by Ch.6 latest.
+_source: gameranx 448017, 100pguides — confirmed · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · spoiler: none_
 - **63 blueprints total** in the base game. All are **location-locked and missable if the zone's PoNR is crossed before pickup**. Operational rule: **clean each chapter's blueprints before crossing any permanent PoNR.**
 
 > **Cross-system dependency** — see `dependencies.md` DEP-004: Ch.9 "Sky's the Limit" trigger permanently locks all remaining open-world blueprint locations and all Lootyagin chests. DEP-002: TG8 MISSABLE (Ch.4 only, lockout edge E36) locks Fox blade, Zvezdochka lower blade, Swede extension, Dominator Vortex Transducer, MP Revolver-Type Bolt Frame (5 weapon mods total). DEP-003: TG12 MISSABLE (Ch.5 Hospital quest only) locks KS-23 Thermal Scope and Pashtet Polygon 12 mod.
@@ -320,7 +322,8 @@ _source: P1 deep research 2026-05-08 · capture: web_fetch · confidence: medium
 
 Both DLC weapons are **DLC-scoped only** — they do not carry over to base-game saves. Weapon level cap in the DLC is **Level 2** (base game caps at Level 4).
 
-> **"Maximum Strength" achievement:** requires both DLC weapons fully upgraded — demands farming **energy modules** dropped by **"ostrich" two-power-element BEA-D variants**. Plan farming runs before completing the DLC, since post-completion access to BEA-Ds varies. _source: main P3 ingestion 2026-05-09 · capture: web_fetch_
+> **"Maximum Strength" achievement:** requires both DLC weapons fully upgraded — demands farming **energy modules** dropped by **"ostrich" two-power-element BEA-D variants**. Plan farming runs before completing the DLC, since post-completion access to BEA-Ds varies.
+_source: main P3 ingestion 2026-05-09 · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 0 · spoiler: dlc:annihilation_instinct_
 > **Cross-system dependency** — see `dependencies.md` DEP-021: BEA-D ostrich → Energy Modules → Maximum Strength — confirmed across weapons.md, robots.md, bosses.md. Farm before the 7th bead.
 
 _source: Compass P3 deep research 2026-05-09 · capture: web_fetch · confidence: medium · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: dlc:annihilation_instinct_

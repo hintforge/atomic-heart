@@ -1,6 +1,7 @@
 # Nav — Localization Toolkit
 
 **status:** research-integrated
+**last_reconciled:** 2026-11-24
 **research_run:** P2 (Compass/Deep Research 2026-05-08)
 **mechanism:** hybrid (open-world zones use map; indoor Complexes and Testing Grounds use landmark-only navigation)
 
@@ -234,7 +235,7 @@ When the player's current zone is in open world and a single landmark hasn't pin
 - "Are you north or south of the long bridge with triangular supports (Pavlov Bridge)?"
 - "How many Volan towers are still unhacked in your current sector? Check your map."
 
-_source: P2 sandbox-side ingestion · added 2026-05-09 convergence · capture: web_fetch_
+_source: P2 sandbox-side ingestion · added 2026-05-09 convergence · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 0 · spoiler: none_
 
 ---
 
@@ -248,7 +249,7 @@ Use when zone can't be determined from a single landmark in any Complex or TG:
 4. "What is the dominant wall color — green-tinted (Algae/Pesticide), red (Theatre/Sechenov), white-tile (Pavlov/hospital), wood paneling (Forester Village/Granny hut)?"
 5. "Is there a save bench / safe-room marker visible on your HUD?"
 
-_source: P2 sandbox-side ingestion · added 2026-05-09 convergence · capture: web_fetch_
+_source: P2 sandbox-side ingestion · added 2026-05-09 convergence · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 0 · spoiler: none_
 
 ---
 
@@ -258,4 +259,4 @@ _source: P2 sandbox-side ingestion · added 2026-05-09 convergence · capture: w
 2. "Can you see the giant Plant 01 cooling tower in the distance, the sky-anchored HAWK balloon, or the Motherland statue?"
 3. "What is your alert level showing — 0, 1, or 2 in your HUD?"
 
-_source: P2 sandbox-side ingestion · added 2026-05-09 convergence · capture: web_fetch_
+_source: P2 sandbox-side ingestion · added 2026-05-09 convergence · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 0 · spoiler: none_
