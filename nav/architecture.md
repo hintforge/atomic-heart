@@ -512,18 +512,29 @@ _source: Compass/Deep Research 2026-05-09 (P3) · capture: web_fetch · confiden
 | DLC-E00 | MAIN MENU → New Game | `dlc_aoi_intro_cinematic` | menu | one-way | Select "Annihilation Instinct: Play" + difficulty | n/a | **DLC ENTRY POINT** — no base-game save needed; DLC ignores base-game progress [Confirmed: 4 sources, 2 languages] |
 | DLC-E01 | `dlc_aoi_intro_cinematic` | `dlc_aoi_lyogkaya_hotel` | scripted | one-way | watch cutscene | yes (cinematic) | Eleanor turns off storm; bridges become controllable |
 | DLC-E02 | `dlc_aoi_lyogkaya_hotel` | `dlc_aoi_flooded_village` | scripted | one-way | acquire Klusha from impaled robot at dome #34; exit through wall hole | **PERMANENT** | Hotel cannot be re-entered |
-| DLC-E03 | `dlc_aoi_flooded_village` | `dlc_aoi_freedom_park` | linear | one-way | follow swamp route; survive M4D-5 mannequin waves | no | Goose first appears here; talking corpses |
-| DLC-E04 | `dlc_aoi_freedom_park` | `dlc_aoi_greenhouse_sector` | linear | one-way | clear park dolls | no | First chirper-rich zone |
-| DLC-E05 | `dlc_aoi_greenhouse_sector` | `dlc_aoi_lebedev_lab` | scripted | bidirectional (after Strekoza acquired) | clear arena; Lebedev opens elevator | no | Lebedev grants Secateur, Techno-Stasis, glove repair; first NORA station of DLC |
+| DLC-E03 | `dlc_aoi_flooded_village` | `dlc_aoi_freedom_park` | linear | one-way | follow swamp route (see enemy notes) | no | talking corpses |
+| DLC-E04 | `dlc_aoi_freedom_park` | `dlc_aoi_greenhouse_sector` | linear | one-way | see enemy notes | no | First chirper-rich zone |
+| DLC-E05 | `dlc_aoi_greenhouse_sector` | `dlc_aoi_lebedev_lab` | scripted | bidirectional (after Strekoza acquired) | Lebedev opens elevator (see enemy notes) | no | Lebedev grants Secateur, Techno-Stasis, glove repair; first NORA station of DLC |
 | DLC-E06 | `dlc_aoi_lebedev_lab` | `dlc_aoi_mendeleev_memorial` | scripted | bidirectional | take Strekoza | no | First Strekoza ride triggers "Lord of the Flies" achievement |
 | DLC-E07 | `dlc_aoi_mendeleev_memorial` | `dlc_aoi_lebedev_lab` | fast-travel | bidirectional | Strekoza platform | no | DLC's only fast-travel pair; functions like base-game gondola |
-| DLC-E08 | `dlc_aoi_mendeleev_memorial` | `dlc_aoi_mendeleev_hangar` | fast-travel/elevator | bidirectional | Strekoza platform + all 3 surface BEA-Ds fed to loading bell | no | Memorial platform also serves as hangar elevator |
-| DLC-E09 | `dlc_aoi_mendeleev_hangar` | `dlc_aoi_mendeleev_complex` | linear | one-way (returns possible until story gate) | all 3 surface BEA-Ds delivered | partial | |
-| DLC-E10 | `dlc_aoi_mendeleev_complex` | `dlc_aoi_radiochemical_lab` | linear | bidirectional within complex | follow markers; circular corridor | no | Paired-lab BEA-D containment puzzle |
+| DLC-E08 | `dlc_aoi_mendeleev_memorial` | `dlc_aoi_mendeleev_hangar` | fast-travel/elevator | bidirectional | Strekoza platform + surface quest gate (see enemy notes) | no | Memorial platform also serves as hangar elevator |
+| DLC-E09 | `dlc_aoi_mendeleev_hangar` | `dlc_aoi_mendeleev_complex` | linear | one-way (returns possible until story gate) | surface quest gate (see enemy notes) | partial | |
+| DLC-E10 | `dlc_aoi_mendeleev_complex` | `dlc_aoi_radiochemical_lab` | linear | bidirectional within complex | follow markers; circular corridor | no | Paired-lab containment puzzle (see enemy notes) |
 | DLC-E11 | `dlc_aoi_mendeleev_complex` | `dlc_aoi_mendeleev_complex` (statue arena) | scripted | one-way per visit | activate statue | no | |
-| DLC-E12 | `dlc_aoi_lebedev_lab` (return, after BEA-D #7) | `dlc_aoi_noras_cradle` | scripted | one-way | call Sechenov from phone booth; return to memorial; descend elevator | **PERMANENT — final PoNR** | Recombination puzzle; ending cinematic; "Return to Utopia" achievement |
+| DLC-E12 | `dlc_aoi_lebedev_lab` (return; see enemy notes) | `dlc_aoi_noras_cradle` | scripted | one-way | call Sechenov from phone booth; return to memorial; descend elevator | **PERMANENT — final PoNR** | Recombination puzzle; ending cinematic; "Return to Utopia" achievement |
 
 _source: Compass/Deep Research 2026-05-09 (P3) · capture: web_fetch · confidence: high · enemy-tier: 0 (PoNR facts and entry point) · puzzle-tier: 0 · category: mainline · spoiler: dlc:annihilation-instinct_
+
+Enemy notes for the edges above (enemy-tier 1, `warning_tiers.md`):
+
+- DLC-E03: survive M4D-5 mannequin waves on the swamp route; the Goose first appears here
+- DLC-E04: clear the park dolls
+- DLC-E05: clear the arena before Lebedev opens the elevator
+- DLC-E08, DLC-E09: the surface quest gate is all 3 surface BEA-Ds fed to the loading bell
+- DLC-E10: the paired-lab containment puzzle uses BEA-Ds
+- DLC-E12: the return comes after BEA-D #7
+
+_source: Compass/Deep Research 2026-05-09 (P3) · capture: web_fetch · confidence: high · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: dlc:annihilation-instinct_
 
 Boss notes for the edges above, gated by `warning_tiers.md` (existence from enemy-tier 2, names from enemy-tier 3):
 
@@ -540,7 +551,7 @@ _source: Compass/Deep Research 2026-05-09 (P3) · capture: web_fetch · confiden
 |---|---|---|
 | `dlc_aoi_lyogkaya_hotel` | Pre-glove room — "Eleanor mannequin without functions" | Dialogue only; non-functional until glove reattached |
 | `dlc_aoi_lebedev_lab` | Lebedev's lab (after glove restored) | Full save + upgrade + craft — **first functional NORA of DLC** |
-| `dlc_aoi_mendeleev_complex` (entrance) | Corridor after expanded-storage blueprint (post BEA-D #2) | Save + upgrade |
+| `dlc_aoi_mendeleev_complex` (entrance) | Corridor after expanded-storage blueprint | Save + upgrade |
 | `dlc_aoi_mendeleev_complex` (mid) | Side-room near statue arena entrance | Save + upgrade |
 | `dlc_aoi_radiochemical_lab` | Right-hand branch before paired sub-labs | Save + upgrade |
 | `dlc_aoi_mendeleev_complex` (post-statue) | After circular corridor near restroom hallway | Save + upgrade |
@@ -549,15 +560,23 @@ _source: Compass/Deep Research 2026-05-09 (P3) · capture: web_fetch · confiden
 _source: Compass/Deep Research 2026-05-09 (P3) · capture: web_fetch · confidence: medium · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: dlc:annihilation-instinct_
 [Single-source-cluster — notesread.com + Steam Community guide; count ~6–7, approximate — verify on first run]
 
+Mendeleev Complex entrance station: reached after BEA-D #2.
+
+_source: Compass/Deep Research 2026-05-09 (P3) · capture: web_fetch · confidence: medium · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: dlc:annihilation-instinct_
+
 ### DLC Fast-Travel (Strekoza)
 
 | Node | Zone-id | Unlock condition | Notes |
 |---|---|---|---|
 | Strekoza (Freedom Park side) | `dlc_aoi_lebedev_lab` | Complete Greenhouse Sector arena; Lebedev grants access | Permanent unlock once granted |
 | Strekoza (Memorial side) | `dlc_aoi_mendeleev_memorial` | Same as above | Bidirectional with Lebedev Lab |
-| Strekoza (Hangar elevator) | `dlc_aoi_mendeleev_hangar` | Feed all 3 surface BEA-Ds to loading bell | Memorial platform doubles as hangar elevator |
+| Strekoza (Hangar elevator) | `dlc_aoi_mendeleev_hangar` | Surface quest gate (see note below) | Memorial platform doubles as hangar elevator |
 
 _source: Compass/Deep Research 2026-05-09 (P3) · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: dlc:annihilation-instinct_
+
+Hangar elevator gate: feed all 3 surface BEA-Ds to the loading bell.
+
+_source: Compass/Deep Research 2026-05-09 (P3) · capture: web_fetch · confidence: high · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: dlc:annihilation-instinct_
 
 ### DLC Optional Content Registry
 
@@ -594,13 +613,20 @@ _source: Compass/Deep Research 2026-05-09 (P3) · capture: web_fetch · confiden
 |---|---|---|---|---|
 | Hotel bridge platforms | Electrical-panel circuit breaker (in-zone elevator shaft) | `dlc_aoi_lyogkaya_hotel` | Yes | Soft puzzle; not item-keyed |
 | Hotel exit hole | Klusha melee weapon (dome #34 impaled robot) | `dlc_aoi_lyogkaya_hotel` | Yes | Wall broken by scripted event after pickup |
-| Surface BEA-D loading bells (3) | 3 surface BEA-Ds | `dlc_aoi_flooded_village` + `dlc_aoi_freedom_park` | Yes | Quest gate; items spawned by scripted events |
-| Mendeleev Hangar elevator (down) | All 3 surface BEA-Ds delivered + Lebedev cutscene | `dlc_aoi_freedom_park` / `dlc_aoi_mendeleev_memorial` | Yes | Story NPC gate |
 | Hangar/Complex laser-beam locks | In-zone mirror splitters | Within zone | Yes | Reuses base-game laser-beam puzzle; picture-hint pane is **decorative/broken** — solve by manipulating splitters directly. Solution → `../puzzles/combination_locks.md` |
-| Eleanor's Heart final puzzle | 8 BEA-Ds + recombination diagram (in-zone) | `dlc_aoi_mendeleev_complex` | Yes | Two-diagram puzzle: color-arrangement + spatial arrangement. Solution → `../puzzles/combination_locks.md` |
 | Strekoza (DLC fast-travel) | Unlocked permanently after Lebedev mission | `dlc_aoi_lebedev_lab` | Yes | DLC's only fast-travel key |
 
 _source: Compass/Deep Research 2026-05-09 (P3) · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 1 · category: mainline · spoiler: dlc:annihilation-instinct_
+
+The locks keyed by BEA-Ds are listed separately (enemy types named in a place from enemy-tier 1, `warning_tiers.md`):
+
+| Lock location | "Key" | Source zone | Visible before key? | Notes |
+|---|---|---|---|---|
+| Surface BEA-D loading bells (3) | 3 surface BEA-Ds | `dlc_aoi_flooded_village` + `dlc_aoi_freedom_park` | Yes | Quest gate; items spawned by scripted events |
+| Mendeleev Hangar elevator (down) | All 3 surface BEA-Ds delivered + Lebedev cutscene | `dlc_aoi_freedom_park` / `dlc_aoi_mendeleev_memorial` | Yes | Story NPC gate |
+| Eleanor's Heart final puzzle | 8 BEA-Ds + recombination diagram (in-zone) | `dlc_aoi_mendeleev_complex` | Yes | Two-diagram puzzle: color-arrangement + spatial arrangement. Solution → `../puzzles/combination_locks.md` |
+
+_source: Compass/Deep Research 2026-05-09 (P3) · capture: web_fetch · confidence: high · enemy-tier: 1 · puzzle-tier: 1 · category: mainline · spoiler: dlc:annihilation-instinct_
 
 ---
 
@@ -691,7 +717,7 @@ _source: Deep Research 2026-05-27 · capture: web_fetch · confidence: high · e
 | `neptune_city_of_dolphins` | City of Dolphins | indoor-linear |
 | `neptune_final_arena` | Final area (Thalassophobia; see boss note below) | cutscene/arena |
 
-_source: Deep Research 2026-05-27 · capture: web_fetch · confidence: high · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: dlc:enchantment-under-sea_
+_source: Deep Research 2026-05-27 · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: dlc:enchantment-under-sea_
 
 Boss note: `neptune_final_arena` is the final boss arena.
 
@@ -707,10 +733,16 @@ _source: Deep Research 2026-05-27 · capture: web_fetch · confidence: high · e
 | EutS-E3 | `neptune_lakeshore` | `neptune_babazina_hut` | story | one-way | Get Kuzmich shotgun | No | |
 | EutS-E4 | `neptune_babazina_hut` | `neptune_entry_hub` | elevator | one-way | Baba Zina drop-off | Yes | Enter Neptune Complex |
 | EutS-E5 | `neptune_entry_hub` -> ... | Sequential interior zones | story | mostly one-way | Quest progression | varies | Mostly linear |
-| EutS-E6 | `neptune_sub_bay` | `neptune_open_water` | airlock dive | one-way | Diving hatch | Yes | Underwater stealth -- cannot fight |
+| EutS-E6 | `neptune_sub_bay` | `neptune_open_water` | airlock dive | one-way | Diving hatch | Yes | see enemy note |
 | EutS-E7 | `neptune_city_of_dolphins` | `neptune_final_arena` | story | one-way | Reach gates | **Yes** | sub escape (see boss notes) |
 
 _source: Deep Research 2026-05-27 · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: dlc:enchantment-under-sea_
+
+Enemy note for the edges above (enemy-tier 1, `warning_tiers.md`):
+
+- EutS-E6: underwater stealth section; you cannot fight there
+
+_source: Deep Research 2026-05-27 · capture: web_fetch · confidence: high · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: dlc:enchantment-under-sea_
 
 Boss notes for the edges above, gated by `warning_tiers.md` (existence from enemy-tier 2, names from enemy-tier 3):
 
