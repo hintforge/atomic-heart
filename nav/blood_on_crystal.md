@@ -68,6 +68,8 @@ _source: Deep Research 2026-05-27 · capture: web_fetch · confidence: high · e
 
 Separate campaign from the main menu. Narratively continues directly from EutS -- P-3 and allies are ambushed on the beach; Granny Zina rescues them; they regroup at Lebedev's Orb lab (same location as DLC #1). NORA is fitted into the glove as the new companion (active from the Crystal Complex onward). No save import required. Fully isolated save slot.
 
+_source: Deep Research 2026-05-27 · capture: web_fetch · confidence: high · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: dlc:blood-on-crystal_
+
 _[Narrative prerequisite carries spoiler: dlc:blood-on-crystal -- deliver structural "main menu entry" info freely; gate narrative context]_
 
 ## Zone graph edges
@@ -99,6 +101,8 @@ _source: Deep Research 2026-05-27 · capture: web_fetch · confidence: high · e
 
 **NORA functions as P-3's glove companion** (fitted at the Orb lab; active from Crystal Complex). The DLC uses **CHANCE machines** for glove upgrades -- these swap glove abilities on the fly; gaining a new ability removes the oldest upgrade. Save rooms exist throughout (some burnt/damaged). NORA here is the narrative companion + former DLC #1 boss, now allied; not the base-game open-world NORA network.
 
+_source: Deep Research 2026-05-27 · capture: web_fetch · confidence: high · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: dlc:blood-on-crystal_
+
 | zone-id | Location | Function |
 |---|---|---|
 | `boc_orb_lab` | NORA fitted to glove | Companion active from Crystal Complex |
@@ -127,6 +131,8 @@ _source: Deep Research 2026-05-27 · capture: web_fetch · confidence: high · e
 
 Crystal and Egyptian-themed environments. Two main settings: the **Wave Platform** (external/internal mix, water-surrounded) and the classified **Crystal Complex** -- Egyptian-themed (sarcophagi), crystalline, restricted facility where humans undergo **Polymorph** transformation. Combat is the dominant focus, returning to and expanding the base-game FPS formula with CHANCE-module flexibility.
 [Confirmed: 2 languages]
+
+_source: Deep Research 2026-05-27 · capture: web_fetch · confidence: high · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: dlc:blood-on-crystal_
 
 There are enemies in the water around the Wave Platform.
 

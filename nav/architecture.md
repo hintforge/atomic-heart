@@ -159,6 +159,8 @@ Note: Testing Ground numbers 3, 4, 5, 7 do not exist in the base game (confirmed
 | E39 | theater_stage | solnechnaya_open_world | story-gate | one-way-forward | see boss notes | **PERMANENT** | Sechenov Research Center, Theater interior, Theater Control Room locked; TG8 becomes inaccessible |
 | E40 | sechenov_research_center_int | testing_ground_8 | optional | bidirectional | three Volan cameras (front-of-road / right of building / rooftop) | none | **MISSABLE** — only reachable while Sechenov Research Center is active (before E36/E39). **E35 ("Petrov flees") does NOT close TG8** — confirmed live 2026-05-12; lockout is E36 (Theater interior entry), not E35. |
 
+_source: Compass/Deep Research 2026-05-08 · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
+
 > **Cross-system dependency** — see `dependencies.md` DEP-002: E36 (Theater interior entry) permanently locks TG8 (via E40). TG8 gold/silver/bronze chests contain Fox blade, Zvezdochka lower blade, Swede extension, Dominator Vortex Transducer, MP Revolver-Type Bolt Frame — 5 weapon mods permanently missed after E36. Window extends into Ch.5 (E35 "Petrov flees" does NOT close TG8 -- confirmed live 2026-05-12).
 | E41 | solnechnaya_open_world | testing_ground_11 | optional | bidirectional | Hawk maintenance + key disc + lockpick cabin | none | Gated by Theater completion (bridge across street) |
 | E42 | solnechnaya_open_world | pavlov_bridge | story-gate | one-way-forward | "Infirmary" quest → cross bridge | **PERMANENT** | No return to Solnechnaya open world once on Pavlov side |
@@ -460,6 +462,8 @@ _source: Compass/Deep Research 2026-05-09 (P3) · capture: web_fetch · confiden
 
 > Note on naming: in Russian, NORA = Элеонора (Eleanor). English releases retained "NORA" but some assets use "Eleanor." The DLC also canonizes the base-game "good" ending (refused Khraz / loyal to Sechenov). [translated from: Russian; spoiler: story · enemy-tier: 3]
 
+_source: Compass/Deep Research 2026-05-09 (P3) · capture: web_fetch · confidence: high · enemy-tier: 1 · puzzle-tier: 1 · category: mainline · spoiler: dlc:annihilation-instinct_
+
 ### DLC Nodes
 
 | Zone ID | Canonical Name | Aliases | Type |
@@ -685,7 +689,13 @@ _source: Deep Research 2026-05-27 · capture: web_fetch · confidence: high · e
 | `neptune_open_water` | Open underwater lake-bottom section | open-world (underwater) |
 | `neptune_block_b` | Block "B" / assembly shop & repair cabinets | indoor-branching |
 | `neptune_city_of_dolphins` | City of Dolphins | indoor-linear |
-| `neptune_final_arena` | Final boss arena (Thalassophobia) | cutscene/arena |
+| `neptune_final_arena` | Final area (Thalassophobia; see boss note below) | cutscene/arena |
+
+_source: Deep Research 2026-05-27 · capture: web_fetch · confidence: high · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: dlc:enchantment-under-sea_
+
+Boss note: `neptune_final_arena` is the final boss arena.
+
+_source: Deep Research 2026-05-27 · capture: web_fetch · confidence: high · enemy-tier: 2 · puzzle-tier: 0 · category: mainline · spoiler: dlc:enchantment-under-sea_
 
 ### DLC Edges
 

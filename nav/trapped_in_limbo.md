@@ -98,6 +98,8 @@ Combat arenas are interspersed but represent ~10% of gameplay. Falling/dying in 
 | 7 weapon skins | Cosmetic reward | Auntie Motya shop | Buy with gold coins | Any time | After coin collection | **Usable in base campaign** |
 | Slot machine items | Reward | Hub / casino | Spend coins | Any time | -- | Achievement "The Casino Isn't Always in the Black" |
 
+_source: Deep Research 2026-05-27 · capture: web_fetch · confidence: high · enemy-tier: 2 · puzzle-tier: 0 · category: mainline · spoiler: dlc:trapped-in-limbo_
+
 [Confirmed: multiple sources]
 
 ## Locks-and-keys

@@ -12,7 +12,13 @@
 > **Community note:** Testing Grounds are frequently skipped by players on first runs. Community strongly recommends completing them -- they are the primary source of weapon attachments (schematics) and are the fastest route to crafting resources. Skipping TGs is the most common cause of mid-game weapon-upgrade bottlenecks. At minimum: TG1 for attachments, TG8/TG12 before their missable windows close.
 > _source: r/atomicheart/comments/11tazdc + community consensus · capture: manual_paste · confidence: medium · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
 
-12 optional Polygon dungeons (Testing Grounds 1–12) in the open world. All are accessed from `open_world_main`. Inside Polygons, robots **do not respawn** — they stay dead.
+12 optional Polygon dungeons (Testing Grounds 1–12) in the open world. All are accessed from `open_world_main`.
+
+_source: P1 deep research 2026-05-08 · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
+
+Inside Polygons, robots **do not respawn** — they stay dead.
+
+_source: P1 deep research 2026-05-08 · capture: web_fetch · confidence: high · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: progression_
 
 **Lootyagin chests:** 8 of the 12 Polygons contain full sets of 3 chest tiers (bronze / silver / gold), totaling 24 chests for the "More Than Profit" achievement. The other 4 Polygons are smaller without full chest sets.
 
@@ -67,7 +73,12 @@ _source: goha.ru, mvideo.ru — 3 sources EN+RU · capture: web_fetch · confide
 _source: Compass/Deep Research 2026-05-09 (P3); Polygon 10 added 2026-05-13 (live + online verification) · capture: web_fetch · confidence: high · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: progression_
 
 - Inside: robots stay dead; loot everything before leaving.
+
+_source: Compass/Deep Research 2026-05-09 (P3); Polygon 10 added 2026-05-13 (live + online verification) · capture: web_fetch · confidence: high · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: progression_
+
 - Scan corpses inside — green-tagged corpses count toward "The Necromancer" and may contain blueprint hints.
+
+_source: Compass/Deep Research 2026-05-09 (P3); Polygon 10 added 2026-05-13 (live + online verification) · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
 
 > **Cross-system dependency** — see `dependencies.md` DEP-005: HAWK relay disable is the shared precondition for both Polygon entry and open-world farming. DEP-002: Polygon 8 chests contain 5 weapon mods — MISSABLE, Ch.4 only window. DEP-003: Polygon 12 gold chest contains 2 weapon mods — MISSABLE, Ch.5 Hospital quest only. DEP-004: Ch.9 "Sky's the Limit" permanently locks all remaining Polygons. DEP-006: TG gold chests contain weapon mod blueprints (and potentially Composite material) — missing them blocks upgrades.
 

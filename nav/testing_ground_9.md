@@ -21,8 +21,13 @@ Candle-throwing platform extension — throw yellow candles onto platform recept
 ## Sequence
 
 1. **Sewer Boilers (pre-entry)** — drop into manhole near HAWK relay; light all 4 boilers to clear infestation + reactivate HAWK.
+
+_source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confidence: medium · enemy-tier: 1 · puzzle-tier: 1 · category: mainline · spoiler: progression_
+
 2. **Candle-Throwing Platform Puzzle** — extend slide-out platforms by throwing candles accurately. [C:3]
 3. **NORA Save Room** — near silver chest — **NORA here.**
+
+_source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confidence: medium · enemy-tier: 0 · puzzle-tier: 1 · category: mainline · spoiler: none_
 
 4. **Optional boss-style encounter** (combat room).
 

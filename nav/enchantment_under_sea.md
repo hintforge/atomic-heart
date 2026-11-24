@@ -139,9 +139,13 @@ The DLC's repair/upgrade vendors are **repair cabinets** named **Eleanor (Эле
 - **Thunderclap / Громовержец** -- electric hammer/flail hybrid; extracted from a NORA robot. Core melee/ranged hybrid weapon. Tied to DLC progression.
 - **KM-4 / KZMI-4 "Kuzmich" / «Кузьмич»** -- customizable double-barrel shotgun with grenade alt-fire. Obtained early (Baba Zina area).
 
+_source: Deep Research 2026-05-27 · capture: web_fetch · confidence: high · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: dlc:enchantment-under-sea_
+
 **Glove abilities:**
 - **Whip** -- grapple hook; 3D mobility, pull to enemies/ledges, dodge. Core traversal and combat tool. Community rates it highly.
 - **Blaze / Загар** -- burning polymer fireballs; AoE; burns polymer growths blocking paths.
+
+_source: Deep Research 2026-05-27 · capture: web_fetch · confidence: high · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: dlc:enchantment-under-sea_
 
 All tied to DLC progression.
 [Confirmed: Steam/PSN store + reviews]
@@ -154,8 +158,18 @@ _source: Deep Research 2026-05-27 · capture: web_fetch · confidence: high · e
 
 ## Traversal
 
-Return to base-game-style FPS combat after the platformer DLC #2. Key new element: **Whip grapple-hook** for 3D mobility. Notable set-piece: **open underwater section** (`neptune_open_water`) where the player must avoid the giant final boss creature -- you cannot fight it underwater; getting spotted means death. The BioShock/Rapture atmosphere is a deliberate homage (Mundfish plays BioShock-like music on Neptune Complex entry).
+Return to base-game-style FPS combat after the platformer DLC #2. Key new element: **Whip grapple-hook** for 3D mobility. Notable set-piece: **open underwater section** (`neptune_open_water`). The BioShock/Rapture atmosphere is a deliberate homage (Mundfish plays BioShock-like music on Neptune Complex entry).
 [Confirmed: 2 languages]
+
+_source: Deep Research 2026-05-27 · capture: web_fetch · confidence: high · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: dlc:enchantment-under-sea_
+
+The DLC's final boss creature is in the open underwater section (`neptune_open_water`).
+
+_source: Deep Research 2026-05-27 · capture: web_fetch · confidence: high · enemy-tier: 2 · puzzle-tier: 0 · category: mainline · spoiler: dlc:enchantment-under-sea_
+
+In the open underwater section, avoid the final boss creature: you cannot fight it underwater, and getting spotted means death.
+
+_source: Deep Research 2026-05-27 · capture: web_fetch · confidence: high · enemy-tier: 5 · puzzle-tier: 0 · category: mainline · spoiler: dlc:enchantment-under-sea_
 
 ## Optional content registry
 
@@ -193,6 +207,8 @@ _source: Deep Research 2026-05-27 · capture: web_fetch · confidence: high · e
 [spoiler: dlc:enchantment-under-sea]
 
 Direct sequel to Trapped in Limbo. P-3 + Katya escape Limbo, traverse destroyed Chelomey, reunite with Granny Zina (Katya's mother) and Terentiy (from DLC #1), then dive to Neptune to recover the **Beta Connector rings** P-3 discarded in the base game. New allies: **Nikolai/Kolya** (modeled on and voiced by science-communicator Kyle Hill -- confirmed by game director Robert Bagratuni: "decided to involve the famous sci-pop influencer Kyle Hill, who gave his appearance and voice to one of the new characters of the DLC"), **the Hunter**, and **Nastya** (ichthyologist), plus repair-bot Samodelkin. Final boss: **MO-R4Y / Мурена** (designation МУР-8Н4). They escape by submarine; Katya is now in a Twin's body, setting up Blood on Crystal.
+
+_source: Deep Research 2026-05-27 · capture: web_fetch · confidence: high · enemy-tier: 3 · puzzle-tier: 0 · category: mainline · spoiler: dlc:enchantment-under-sea_
 
 Note: designation "MOR-4Y/МУР-4Й" used in some community posts is wrong. Russian sources and Fandom wiki give **МУР-8Н4 / MO-R4Y "Мурена" (Moray)**.
 

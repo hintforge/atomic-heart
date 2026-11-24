@@ -26,13 +26,20 @@ When player-position confidence is low in any Complex or TG zone, ask any of:
 - "Is the lighting frost-blue, hot orange-red, or fluorescent white?"
 - "What kind of machines or equipment are nearest to you — boilers, a rail wagon, an animal tank, or a lathe?"
 
+_source: P2 sandbox-side ingestion · added 2026-05-09 convergence · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 0 · spoiler: none_
+
 ### Open-world zones
 
 - "What does your map show as the nearest named location — Arena, Boat Station, Kollektiv, Sechenov Research Center, Theater, Bridge, Infirmary, or Lighthouse?"
 - "Are you near a Volan tower (white spiral), a HAWK relay pole, a Testing-Ground hatch (blue mushroom bunker, drainage pipe, or pigsty hatch), or in open patrol territory?"
 - "Can you see the Motherland statue, the Worker-and-Kolkhoz-Woman statue, or the Kollektiv giant statue from where you are?"
 - "Is there a road, a lake, or a beach visible nearby?"
+
+_source: P2 sandbox-side ingestion · added 2026-05-09 convergence · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 0 · spoiler: none_
+
 - "Are robots actively patrolling, or has a HAWK relay overload disabled them in the area?"
+
+_source: P2 sandbox-side ingestion · added 2026-05-09 convergence · capture: web_fetch · enemy-tier: 1 · puzzle-tier: 0 · spoiler: progression_
 
 ---
 
@@ -148,7 +155,12 @@ _source: P2 sandbox-side ingestion · added 2026-05-09 convergence · capture: w
 ### vdnh_atrium
 - **Reception desk** with a central statue holding a hammer in its raised hand.
 - **Icarus marble-tilt diorama** — tilt the table to roll a marble.
+
+_source: P2 sandbox-side ingestion · added 2026-05-09 convergence · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 0 · spoiler: none_
+
 - **Tereshkova humanoid robot** at the far end.
+
+_source: P2 sandbox-side ingestion · added 2026-05-09 convergence · capture: web_fetch · enemy-tier: 1 · puzzle-tier: 0 · spoiler: progression_
 
 ### vdnh_chelomey_floor
 - **Rocketry / Icarus exhibit dioramas.**
@@ -257,6 +269,8 @@ Monorail Station · Arena · Boat Station (dock + lake) · Kollektiv Complex (gi
 | chelomey_city_prologue plaza | chelomey_revisit arena | Prologue = bright, populated, fountain + flags; Revisit = dark, depopulated, arena-ready. [C:3] |
 | forester_open_world Volan tower (SDC-2) | solnechnaya_open_world camera towers | SDC-2 Volan is the **only tall white spiral** in the forester zone; solnechnaya towers are shorter cylindrical platforms with spiral stairs. [C:3] |
 | pavlov_hospital wards | vdnh_pavlov_floor wards | Real hospital has **bloody handprints, hostile activity, and MRI machines**; VDNH version has **clean diorama beds and exhibit placards**. [C:3] |
+
+_source: P2 sandbox-side ingestion · added 2026-05-09 convergence · capture: web_fetch · enemy-tier: 1 · puzzle-tier: 0 · spoiler: progression_
 
 ---
 

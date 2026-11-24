@@ -63,6 +63,8 @@ _source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confiden
 | TG8 | Three Volan cameras (inside Sechenov Research Center area) | **Ch.4 only** — before Theater PoNR (**MISSABLE**) |
 | TG12 | Beach cave — energy barrier drops during Hospital quest | **Ch.5 only** — before Lighthouse PoNR (**MISSABLE**) |
 
+_source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
+
 ## Common Confusions
 
 - Cameras trigger respawning robots until disabled at the nearest HAWK relay.
