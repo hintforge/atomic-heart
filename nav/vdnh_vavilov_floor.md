@@ -17,4 +17,4 @@ Greenhouse and birch museum exhibit with roped-off dioramas and exhibit placards
 
 _Disambiguation vs. the real vavilov_seed_bank: this is a roped-off museum diorama with placards — not traversable, no hostile plants. The real Seed Bank is full-scale and has enemies._
 
-_source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confidence: medium · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
+_source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confidence: medium · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: progression_

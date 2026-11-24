@@ -18,7 +18,11 @@ The NORA is in the locked station safe room — you reach it by climbing the wal
 ## Sequential Gates
 
 1. **Cable-Car Boarding Platform** (trigger) — ride the cable car.
+
 2. **Mid-Run Ambush** (enemy-clear) — Bees and LAB-TECH spawn during the ride. [C:3]
+
+_source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confidence: medium-high · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: progression_
+
 3. **Crash Disembark** (cutscene) — cable car crashes at the next station.
 4. **Climbing Wall** (trigger) — yellow paint markers on the wall indicate the climb path; pipe traversal to the next station booth. [C:3]
 5. **Locked Station Safe Room** (door + item-pickup) — **NORA here** + Fox melee weapon blueprint chest. [C:3]

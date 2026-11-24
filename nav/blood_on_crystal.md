@@ -1,7 +1,7 @@
 # Blood on Crystal -- DLC Zone Gate List (DLC #4)
 
 **status:** research-integrated
-**last_reconciled:** 2026-06-05
+**last_reconciled:** 2026-11-24
 **zone-id:** boc_orb_lab, boc_wave_platform, boc_submarine, boc_crystal_arrival, boc_crystal_archive, boc_crystal_recreation, boc_crystal_residential_1, boc_crystal_residential_2, boc_crystal_factory, boc_crystal_indoor_beach, boc_crystal_core
 **parent chapter:** Blood on Crystal DLC -- full DLC scope (FINAL DLC in season pass)
 **zone type:** indoor-linear / indoor-branching / outdoor / cutscene/arena
@@ -52,6 +52,8 @@ _source: Deep Research 2026-05-27 · capture: web_fetch · confidence: high · e
 _source: Deep Research 2026-05-27 · capture: web_fetch · confidence: high · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: dlc:blood-on-crystal_
 
 Boss notes for the missions above, gated by `warning_tiers.md` (boss names from enemy-tier 3: RACCOON, ENOT, Second Twin, CHAR-les):
+
+_source: Deep Research 2026-05-27 · capture: web_fetch · confidence: high · enemy-tier: 3 · puzzle-tier: 0 · category: mainline · spoiler: dlc:blood-on-crystal_
 
 - Wave exploration -> RACCOON boss -> submarine: RACCOON encounter
 - Submarine exploration -> ENOT miniboss: ENOT cargo-robot miniboss
@@ -109,11 +111,16 @@ _source: Deep Research 2026-05-27 · capture: web_fetch · confidence: high · e
 
 **CHANCE modules** (Polymer Glove): Swap glove abilities on the fly mid-combat. Critical mechanic vs. Polymorphs that switch fire/ice states. Gaining a new ability removes the oldest upgrade.
 
+_source: Deep Research 2026-05-27 · capture: web_fetch · confidence: high · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: dlc:blood-on-crystal_
+
 **Returning DLC weapons** with max-upgrade paths available: Klusha, Secator, Kuzmich (from EutS), Thunderclap/Thunderer (from EutS).
 
 BoC provides access to the **most powerful weapons in the whole game** per community and reviewers.
 
 **New enemies: Polymorphs** -- fire/ice-switching crystal humans. Fire vs. ice elemental counterplay is core to BoC combat. CHANCE modules are specifically designed to counter them.
+
+_source: Deep Research 2026-05-27 · capture: web_fetch · confidence: high · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: dlc:blood-on-crystal_
+
 [Confirmed: GAMES.GG + showgamer]
 
 ## Traversal
@@ -121,9 +128,13 @@ BoC provides access to the **most powerful weapons in the whole game** per commu
 Crystal and Egyptian-themed environments. Two main settings: the **Wave Platform** (external/internal mix, water-surrounded) and the classified **Crystal Complex** -- Egyptian-themed (sarcophagi), crystalline, restricted facility where humans undergo **Polymorph** transformation. Combat is the dominant focus, returning to and expanding the base-game FPS formula with CHANCE-module flexibility.
 [Confirmed: 2 languages]
 
-Enemies in the water around the Wave Platform: Moray eels.
+There are enemies in the water around the Wave Platform.
 
 _source: Deep Research 2026-05-27 · capture: web_fetch · confidence: high · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: dlc:blood-on-crystal_
+
+The enemies in the water around the Wave Platform are Moray eels.
+
+_source: Deep Research 2026-05-27 · capture: web_fetch · confidence: high · enemy-tier: 3 · puzzle-tier: 0 · category: mainline · spoiler: dlc:blood-on-crystal_
 
 ## Optional content registry
 
@@ -200,6 +211,9 @@ _source: Deep Research 2026-05-27 · capture: web_fetch · confidence: high · e
 _source: Deep Research 2026-05-27 · capture: web_fetch · confidence: high · enemy-tier: 3 · puzzle-tier: 0 · category: mainline · spoiler: dlc:blood-on-crystal_
 
 - Polymorphs are introduced HERE in BoC, not in EutS.
+
+_source: Deep Research 2026-05-27 · capture: web_fetch · confidence: high · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: dlc:blood-on-crystal_
+
 - No chapter select exists -- crystal figurines are permanently missable per run.
 - CHANCE modules REPLACE the oldest upgrade when a new one is acquired; don't upgrade carelessly.
 

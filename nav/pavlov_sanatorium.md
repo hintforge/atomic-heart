@@ -15,4 +15,4 @@
 
 Transitional zone with Soviet medical-tourism aesthetic — spa visuals, notably different from the sterile lab environments. Ambient combat throughout. Several talking corpses and chirpers present.
 
-_source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confidence: medium · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
+_source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confidence: medium · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: progression_

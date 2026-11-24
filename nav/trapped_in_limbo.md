@@ -1,7 +1,7 @@
 # Trapped in Limbo -- DLC Zone Gate List (DLC #2)
 
 **status:** research-integrated
-**last_reconciled:** 2026-06-05
+**last_reconciled:** 2026-11-24
 **zone-id:** limbo_hub, limbo_avenue_of_speed, limbo_plateau_of_responsibility, limbo_tower_of_memory, limbo_cliff_of_perseverance, limbo_goose_finale
 **parent chapter:** Trapped in Limbo DLC -- full DLC scope
 **zone type:** hub / indoor-linear / indoor-branching
@@ -116,7 +116,7 @@ No permanently missable content -- all levels are replayable from the hub. Coins
 
 For achievement missables (e.g. "Conservationist" -- get a gold coin without shooting the Pchela), see `../achievements.md`.
 
-_source: Deep Research 2026-05-27 · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: dlc:trapped-in-limbo_
+_source: Deep Research 2026-05-27 · capture: web_fetch · confidence: high · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: dlc:trapped-in-limbo_
 
 ## Story connection
 

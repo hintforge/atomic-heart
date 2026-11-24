@@ -7,6 +7,9 @@
 ## Entry / Exit
 
 - **Entry (E38):** Story-gate from lastochkin_theater_int (post-mutant horde via console).
+
+_source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confidence: high · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: progression_
+
 - **Exit (E39):** After objective completion → solnechnaya_open_world. **PERMANENT PoNR** — Sechenov Research Center, Theater Interior, Theater Control Room, and TG8 all permanently locked after this. [C:5]
 
 **NORA booth:** YES — save room immediately before the stage's final chamber. [C:3]

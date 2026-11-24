@@ -24,9 +24,12 @@ Revolving walls + magnets + candle/revolving-floor combination.
 1. **Entry Cave** — beached whale skeleton visible on approach. **Entry-cave NORA here.**
 2. **Revolving-Walls + Magnets Puzzle.**
 3. **Bronze Reward** — KS-23 Thermal Scope. [C:4]
-4. **Mid-Section Large Arena** (enemy-clear) — heavily contested combat room.
 
 _source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confidence: medium-high · enemy-tier: 0 · puzzle-tier: 1 · category: mainline · spoiler: none_
+
+4. **Mid-Section Large Arena** (enemy-clear) — heavily contested combat room.
+
+_source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confidence: medium-high · enemy-tier: 1 · puzzle-tier: 1 · category: mainline · spoiler: progression_
 
 5. **Mid-Run Boss Encounter** (enemy encounter).
 
@@ -44,6 +47,9 @@ _source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confiden
 
 - The whale skeleton on the beach entry is the landmark — TG12 mineshaft is in the cliff near the beach.
 - Disambiguation from TG9 candle puzzle: TG12 candles control revolving floors with magnetic columns; TG9 candles activate slide-out platforms.
-- Extremely combat-heavy — use entry-cave NORA before committing to the arena.
 
 _source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confidence: medium-high · enemy-tier: 0 · puzzle-tier: 1 · category: mainline · spoiler: none_
+
+- Extremely combat-heavy — use entry-cave NORA before committing to the arena.
+
+_source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confidence: medium-high · enemy-tier: 1 · puzzle-tier: 1 · category: mainline · spoiler: progression_

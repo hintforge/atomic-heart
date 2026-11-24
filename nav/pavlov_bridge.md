@@ -13,7 +13,14 @@
 
 ## Sequential Gates
 
-1. **Bridge Approach** (trigger) — long bridge with Mutants and Plyusch roaming the span.
+1. **Bridge Approach** (trigger) — long bridge with organic enemies roaming the span.
+
+_source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confidence: medium · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: progression_
+
+The organic enemies on the Bridge Approach are Mutants and Plyusch.
+
+_source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confidence: medium · enemy-tier: 3 · puzzle-tier: 0 · category: mainline · spoiler: story_
+
 2. **Bridge Mid-Point** (navigation) — detour point for TG11 (across from Theater, still accessible on the solnechnaya side) and TG12 (beach cave, Ch.5 — accessible from the Pavlov side).
 3. **Far-Side Car Park** (trigger) — bridge end; NORA safe room here.
 

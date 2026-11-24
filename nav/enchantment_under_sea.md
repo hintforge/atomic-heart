@@ -1,7 +1,7 @@
 # Enchantment Under the Sea -- DLC Zone Gate List (DLC #3)
 
 **status:** research-integrated
-**last_reconciled:** 2026-06-05
+**last_reconciled:** 2026-11-24
 **zone-id:** neptune_sechenov_complex, neptune_chelomey_ruins, neptune_lakeshore, neptune_babazina_hut, neptune_entry_hub, neptune_flooded, neptune_depot, neptune_railway, neptune_statue, neptune_cafeteria_whale, neptune_zoology, neptune_quarters, neptune_dolphin_rooms, neptune_sub_bay, neptune_open_water, neptune_block_b, neptune_city_of_dolphins, neptune_final_arena
 **parent chapter:** Enchantment Under the Sea DLC -- full DLC scope
 **zone type:** indoor-linear / indoor-branching / outdoor / open-world (underwater)
@@ -150,6 +150,8 @@ All tied to DLC progression.
 
 > **Reconciliation note (Polymorphs):** The pre-ingestion reddit sweep (F16) attributed Polymorphs to EutS. Deep research confirms Polymorphs (fire/ice-switching crystal humans) are introduced in **DLC #4 Blood on Crystal**, not EutS. Corrected per deep research.
 
+_source: Deep Research 2026-05-27 · capture: web_fetch · confidence: high · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: dlc:enchantment-under-sea_
+
 ## Traversal
 
 Return to base-game-style FPS combat after the platformer DLC #2. Key new element: **Whip grapple-hook** for 3D mobility. Notable set-piece: **open underwater section** (`neptune_open_water`) where the player must avoid the giant final boss creature -- you cannot fight it underwater; getting spotted means death. The BioShock/Rapture atmosphere is a deliberate homage (Mundfish plays BioShock-like music on Neptune Complex entry).
@@ -213,6 +215,9 @@ _source: Deep Research 2026-05-27 · capture: web_fetch · confidence: high · e
 _source: Deep Research 2026-05-27 · capture: web_fetch · confidence: high · enemy-tier: 3 · puzzle-tier: 0 · category: mainline · spoiler: dlc:enchantment-under-sea_
 
 - Polymorphs appear in DLC #4 Blood on Crystal, NOT in EutS.
+
+_source: Deep Research 2026-05-27 · capture: web_fetch · confidence: high · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: dlc:enchantment-under-sea_
+
 - Zone prefix is `neptune_*`, not `triton_complex_*` (Triton is a sub-complex name).
 - Quest 8 English name uncertain: "Train Ticket" or "Travel Pass" -- verify in-game.
 

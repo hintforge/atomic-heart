@@ -13,8 +13,11 @@
 ## Sequential Gates
 
 1. **Relay Puzzle** (puzzle) — rotate specific relay circles in the correct positions; the configuration opens the console. Code/solution → `../puzzles/combination_locks.md`. [C:3]
+
 2. **Console Activation: "Act I: A Space Odyssey"** (trigger) — activates a mutant horde event.
 3. **Survive Horde** (enemy-clear).
+
+_source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confidence: medium · enemy-tier: 1 · puzzle-tier: 1 · category: mainline · spoiler: progression_
 
 ## Common Confusions
 

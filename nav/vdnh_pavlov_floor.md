@@ -23,4 +23,4 @@ Contains the giant transparent whale exhibit — a whale suspended in clear poly
 
 _Disambiguation vs. pavlov_hospital/sanatorium: the VDNH Pavlov Floor has a museum whale in a glass polymer case and clean diorama beds with placards. The real Pavlov Complex has operational (if damaged) MRI machines, ward beds, bloody walls, and hostile activity — no preserved whale._
 
-_source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confidence: medium-high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
+_source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confidence: medium-high · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: progression_

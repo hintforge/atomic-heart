@@ -1,7 +1,7 @@
 # Atomic Heart — Zone Architecture
 
 **status:** research-integrated
-**last_reconciled:** 2026-05-08
+**last_reconciled:** 2026-11-24
 **research_run:** P1 (Compass/Deep Research 2026-05-08)
 
 > Cross-zone structural primitives. The persona reads this file for all cross-zone reasoning: lookahead PoNR warnings, backtrack queries, reachability checks, locks-and-keys. Per-zone gate lists live in `nav/<zone>.md` and reference this file's graph by edge ID. Drift between this file and per-zone files is a bug; run a consistency pass after each ingestion.
@@ -120,7 +120,7 @@ Note: Testing Ground numbers 3, 4, 5, 7 do not exist in the base game (confirmed
 |---|---|---|---|---|---|---|---|
 | E01 | chelomey_city_prologue | sechenov_office_prologue | story-gate | one-way-forward | scripted | none | Linear cinematic |
 | E02 | sechenov_office_prologue | vavilov_entry_road | story-gate | one-way-forward | flight cutscene | **PERMANENT** | Phone-booth achievement lost forever if not done in Prologue; cannot return to Chelomey until Ch.6 |
-| E03 | vavilov_entry_road | vavilov_maglev_station_solnechnaya_int | story-gate | one-way-forward | clear road robots | none | |
+| E03 | vavilov_entry_road | vavilov_maglev_station_solnechnaya_int | story-gate | one-way-forward | clear the road (see enemy notes) | none | |
 | E04 | vavilov_maglev_station_solnechnaya_int | vavilov_maglev_tunnels | story-gate | one-way-forward | schematic lock + supply key | none | |
 | E05 | vavilov_maglev_tunnels | vavilov_cable_cars | story-gate | one-way-forward | restart maglev (3-dot upside-down "C" code panel) | none | See `puzzles/combination_locks.md` |
 | E06 | vavilov_cable_cars | vavilov_seed_bank | story-gate | one-way-forward | scripted drop | none | |
@@ -134,7 +134,7 @@ Note: Testing Ground numbers 3, 4, 5, 7 do not exist in the base game (confirmed
 | E14 | forester_open_world | sdc2_volan_tower | hub-spoke | bidirectional | none | none | |
 | E15 | forester_open_world | lesnaya_maglev_station | story-gate | one-way-forward | open village gate via Volan; valid train ticket | **PERMANENT** | Forester open world locked; train ticket on post-office rooftop corpse (climb via polymer) |
 | E16 | solnechnaya_open_world | testing_ground_1 | optional | bidirectional | hack Volan camera (white spiral-staircase tower) toward blue-roof bunker hatch | none | Always-available; post-game free roam also works |
-| E17 | lesnaya_maglev_station | solnechnaya_open_world | one-way | one-way-forward | Hedgehog ambush cutscene (train crash) | **PERMANENT** | Cannot revisit Forester or Vavilov after this point |
+| E17 | lesnaya_maglev_station | solnechnaya_open_world | one-way | one-way-forward | train crash cutscene (see enemy notes) | **PERMANENT** | Cannot revisit Forester or Vavilov after this point |
 | E18 | solnechnaya_open_world | kollektiv_village | hub-spoke | bidirectional | none | none | |
 | E19 | solnechnaya_open_world | boat_station_lake | hub-spoke | bidirectional | none | none | |
 | E20 | solnechnaya_open_world | arena_park | story-gate | one-way-forward | hack lake Hawk relay → ride lowered HAWK pole → zipline | none | |
@@ -148,7 +148,7 @@ Note: Testing Ground numbers 3, 4, 5, 7 do not exist in the base game (confirmed
 | E28 | vdnh_drill_mode | solnechnaya_open_world | story-gate | one-way-forward | escape + dream sequences (see boss notes) | **PERMANENT** (for VDNH building) | VDNH building interior permanently locked; Solnechnaya open world remains free |
 | E29 | solnechnaya_open_world | testing_ground_2 | optional | bidirectional | sewer pipe entry near Boat Station | none | |
 | E30 | solnechnaya_open_world | testing_ground_6 | optional | bidirectional | Volan camera hack | none | |
-| E31 | solnechnaya_open_world | testing_ground_9 | optional | bidirectional | clear sprout infestation (4 sewer boilers via manhole) → HAWK reactivates → camera hijack reveals Lenin-statue shack | none | |
+| E31 | solnechnaya_open_world | testing_ground_9 | optional | bidirectional | light 4 sewer boilers via manhole (see enemy notes) → HAWK reactivates → camera hijack reveals Lenin-statue shack | none | |
 | E32 | solnechnaya_open_world | testing_ground_10 | optional | bidirectional | Volan hack | none | |
 | E33 | solnechnaya_open_world | sechenov_research_center_ext | story-gate | one-way-forward | quest "Red Arrow" | none | |
 | E34 | sechenov_research_center_ext | sechenov_research_center_int | story-gate | one-way-forward | rooftop key | none | |
@@ -187,6 +187,13 @@ Boss notes for the edges above, gated by `warning_tiers.md` (existence from enem
 - E36: defeat boss on theater grounds
 
 _source: Compass/Deep Research 2026-05-08 · capture: web_fetch · confidence: high · enemy-tier: 2 · puzzle-tier: 0 · category: mainline · spoiler: late-game_
+
+Enemy notes for the edges above (enemy types on the route):
+- E03: clear the road of robots
+- E17: the train crash cutscene is a Hedgehog ambush
+- E31: the sewer boilers clear a sprout infestation
+
+_source: Compass/Deep Research 2026-05-08 · capture: web_fetch · confidence: high · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: progression_
 
 - E39: defeat Natasha
 - E49: defeat Dewdrop boss + sit on TV chair in lighthouse
@@ -785,6 +792,8 @@ _source: Deep Research 2026-05-27 · capture: web_fetch · confidence: high · e
 ### DLC Weapons and Mechanics
 
 CHANCE modules (Polymer Glove) for mid-combat ability swapping. Returning DLC weapons with max-upgrade paths: Klusha, Secator, Kuzmich, Thunderclap. New enemies: **Polymorphs** (fire/ice-switching crystal humans) -- CHANCE modules counter them.
+
+_source: Deep Research 2026-05-27 · capture: web_fetch · confidence: high (base facts) / medium (post-launch details -- released ~7 weeks before brief) · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: dlc:blood-on-crystal_
 
 ### DLC Optional Content Registry
 

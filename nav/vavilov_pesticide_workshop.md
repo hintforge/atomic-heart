@@ -17,7 +17,11 @@
 1. **Animal Tank Puzzle** (puzzle) — match each animal valve to its console picture so all tubes light green, except the empty cow tank which must be left unlit to open the door. [C:5]
 2. **PA-400 Yellow Rail Traversal** (trigger) — ride the yellow rail wagon through multiple control panels; includes a telekinesis-platform jump. [C:5]
 3. **Post-Rail Safe Room** (item-pickup) — **NORA here** + Talking Corpse + Chirper #20 on the next shelf. [C:3]
+
 4. **Large Mutant Ambush** (enemy-clear) — tunnel encounter.
+
+_source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confidence: high · enemy-tier: 3 · puzzle-tier: 1 · category: mainline · spoiler: story_
+
 5. **Canister Extraction** (item-pickup) — story goal collected.
 
 ## Common Confusions

@@ -21,8 +21,16 @@
 
 1. **Basement Wall Puzzle** (puzzle) — solve to exit the basement. [C:3]
 2. **Elevator to Top Floor** (trigger) — ascend.
-3. **Ivy-Spawning Hall** (enemy-clear) — hallway with Ivy encounters.
+
+3. **Spawning Hall** (enemy-clear) — hallway with organic-enemy encounters.
 4. **Burning Dressing Room** (enemy-clear) — mommy-mutant encounter.
+
+_source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confidence: high · enemy-tier: 1 · puzzle-tier: 1 · category: mainline · spoiler: progression_
+
+The Spawning Hall encounters are Ivy (Plyusch).
+
+_source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confidence: high · enemy-tier: 3 · puzzle-tier: 1 · category: mainline · spoiler: story_
+
 5. **Bar / Stage Hall + Engineer Code Door** (puzzle lock) — locked door requires the Engineer's password (from Coat Check); the paper is on the Engineer's body near Coat Check tapestry stairs. Code → `../puzzles/combination_locks.md`.
 6. **Coat Check** (item-pickup) — Mutiny chirper; Engineer's password on paper near Engineer's body; access via tapestry stairs off the main hallway.
 7. **Supply Room** (optional, item-pickup) — laser-puzzle chirper via yellow hardhat console.
@@ -31,6 +39,9 @@
 ## Optional Branches
 
 - **Theater Control Room (E37):** Engineer code door → bidirectional access. Hosts the relay puzzle and the mutant horde event. See `theater_control_room.md`.
+
+_source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confidence: high · enemy-tier: 1 · puzzle-tier: 1 · category: mainline · spoiler: progression_
+
 - **Coat Check:** Required for the Engineer's password; also has the Mutiny chirper.
 - **Supply Room:** Laser-puzzle chirper.
 

@@ -15,7 +15,11 @@
 
 1. **Crash Site** (cutscene) — wake on a broken road; pick up the fire axe stuck in asphalt (first weapon). [C:5]
 2. **Sechenov Briefing Call** (trigger) — first walkie-talkie call: locate Petrov.
+
 3. **Three Lab-Tech Ambush** (enemy-clear) — first VOV-A6 encounter at the road's end.
+
+_source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confidence: high · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: progression_
+
 4. **Maglev Station Door** (door, story-gate) — leads into vavilov_maglev_station_solnechnaya_int.
 
 ## Common Confusions

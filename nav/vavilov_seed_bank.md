@@ -19,7 +19,11 @@ Two NORAs available. Hit the lower-atrium one first (it's near the bottom of the
 
 1. **Seed-Bank Atrium** (trigger) — massive central chamber with the first white birch PEC-4 silhouette (decorative — no canister sockets). First NORA in the lower safe room here.
 2. **Lower Safe Room** (item-pickup) — MP pistol blueprint + EMP Generator blueprint. **NORA here.** [C:3]
+
 3. **Upper Catwalk + Laser Drone** (enemy-clear) — drone ambush on the catwalk; MP Ammo blueprint chest before the stairs.
+
+_source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confidence: medium-high · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: progression_
+
 4. **Loader-Platform Zipline** (trigger) — ride the industrial loader platform up, jump to the ceiling duct, then ride the zipline across to the upper area. Upper NORA is behind the locked door reached via this jump.
 5. **Upper Safe Room** (item-pickup) — **NORA here** + Fire Cartridge blueprint (locked door, loader-platform jump required). [C:3]
 

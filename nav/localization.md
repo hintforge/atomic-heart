@@ -47,7 +47,11 @@ When player-position confidence is low in any Complex or TG zone, ask any of:
 ### vavilov_maglev_tunnels
 - **Cable-car cab:** overturned, resting on broken track in the pit.
 - **Yellow-painted ledges:** climb markers on tunnel walls.
+
 - **Drill-bot patrol floor:** giant industrial robot with a rotating drill arm patrols here.
+
+_source: P2 sandbox-side ingestion · added 2026-05-09 convergence · capture: web_fetch · enemy-tier: 1 · puzzle-tier: 0 · spoiler: progression_
+
 - **Operator-corpse niche:** small rubble-pile offshoot path off the main tunnel.
 
 ### vavilov_cable_cars
@@ -58,7 +62,10 @@ When player-position confidence is low in any Complex or TG zone, ask any of:
 ### vavilov_seed_bank
 - **PEC-4 birch silhouette:** massive central seed-storage chamber with a white birch electrical-power tree. _Disambiguation: the Distribution Hall has a separate PEC-4 — this one is the first silhouette visible and has no canister sockets._
 - **Loader-platform zipline:** orange industrial loader on an overhead cable.
+
 - **Upper catwalk:** laser-drone ambush before the stairs.
+
+_source: P2 sandbox-side ingestion · added 2026-05-09 convergence · capture: web_fetch · enemy-tier: 1 · puzzle-tier: 0 · spoiler: progression_
 
 ### vavilov_birch_distribution_hall
 - **PEC-4 Birchtree altar:** central altar with four canister sockets at its base. _Disambiguation vs. Seed Bank birch: this one has the canister-socket ring._
@@ -76,7 +83,10 @@ When player-position confidence is low in any Complex or TG zone, ask any of:
 ### vavilov_pesticide_workshop
 - **Animal Tank console:** ring of cylindrical experiment tanks (cow, pig, chicken) with a matching console.
 - **PA-400 yellow rail wagon:** industrial rail car on a track through the workshop.
+
 - **Tunnel arena:** where a large mutant ambushes.
+
+_source: P2 sandbox-side ingestion · added 2026-05-09 convergence · capture: web_fetch · enemy-tier: 3 · puzzle-tier: 0 · spoiler: story_
 
 ### vavilov_cold_workshop
 - **Three frost-coated boilers in a row.** _Disambiguation vs. Hot Workshop: Cold = frost/blue lighting + visible breath particles; Hot = orange-red glow + heat haze._
@@ -122,6 +132,8 @@ When player-position confidence is low in any Complex or TG zone, ask any of:
 
 ### testing_ground_11
 - **Mannequin-Lab-Tech diorama room:** combat hidden among display dummies.
+
+_source: P2 sandbox-side ingestion · added 2026-05-09 convergence · capture: web_fetch · enemy-tier: 1 · puzzle-tier: 0 · spoiler: progression_
 
 ### testing_ground_12
 - **Beached-whale skeleton** visible at the entry beach.
@@ -173,7 +185,10 @@ _source: P2 sandbox-side ingestion · added 2026-05-09 convergence · capture: w
 - **21-button piston lock with bloody handprints** (E45 Blood Courier door).
 - **Surgical Lab #1** with a damaged MRI machine and a locker nearby.
 - **Ward beds** along the corridors.
+
 - _Disambiguation vs. vdnh_pavlov_floor: real hospital has functioning (if damaged) equipment, fluorescent lighting, ward signage, and hostile activity; VDNH floor has clean diorama beds and placards._
+
+_source: P2 sandbox-side ingestion · added 2026-05-09 convergence · capture: web_fetch · enemy-tier: 1 · puzzle-tier: 0 · spoiler: progression_
 
 ### pavlov_morgue
 - **Long body-storage drawer rows.**
@@ -181,7 +196,14 @@ _source: P2 sandbox-side ingestion · added 2026-05-09 convergence · capture: w
 - **Second-floor combo door:** the combination puzzle gate before the exit.
 
 ### pavlov_surgical_lab
-- **Two inactive Plyusch specimens in tubes** (do not shoot them — they activate if attacked).
+- **Two inactive organic specimens in tubes** (do not shoot them — they activate if attacked).
+
+_source: P2 sandbox-side ingestion · added 2026-05-09 convergence · capture: web_fetch · enemy-tier: 1 · puzzle-tier: 0 · spoiler: progression_
+
+The inactive specimens in the Surgical Lab tubes are Plyusch.
+
+_source: P2 sandbox-side ingestion · added 2026-05-09 convergence · capture: web_fetch · enemy-tier: 3 · puzzle-tier: 0 · spoiler: story_
+
 - **Distribution Center snap-puzzle door** in the corridor.
 
 ### lighthouse_beach
@@ -255,7 +277,13 @@ _source: P2 sandbox-side ingestion · added 2026-05-09 convergence · capture: w
 Use when zone can't be determined from a single landmark in any Complex or TG:
 
 1. "What is the floor type — tile, polymer pool, ventilation grating, grass/soil, carpet/wood?"
+
+_source: P2 sandbox-side ingestion · added 2026-05-09 convergence · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 0 · spoiler: none_
+
 2. "Are there Sprouts (zombie plants), Lab-Tech robots, or Mutants (flesh enemies) in this room?"
+
+_source: P2 sandbox-side ingestion · added 2026-05-09 convergence · capture: web_fetch · enemy-tier: 1 · puzzle-tier: 0 · spoiler: progression_
+
 3. "Do you see a NORA vending machine (woman-faced cabinet / red-fridge) within view? If yes, describe the chest beside it."
 4. "What is the dominant wall color — green-tinted (Algae/Pesticide), red (Theatre/Sechenov), white-tile (Pavlov/hospital), wood paneling (Forester Village/Granny hut)?"
 5. "Is there a save bench / safe-room marker visible on your HUD?"

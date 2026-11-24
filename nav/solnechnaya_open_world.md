@@ -57,7 +57,7 @@ _source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confiden
 | TG1 | Volan camera (white spiral-staircase tower) → blue-roof bunker hatch | Ch.3 onward |
 | TG2 | Camera tower hijack → opens sewer pipe near Boat Station | Ch.3 onward |
 | TG6 | Volan camera hack (tower across the lake) → drainage pipe | Ch.3 onward |
-| TG9 | Clear sprout infestation (4 sewer boilers via manhole) → HAWK reactivates → camera hijack reveals Lenin-statue shack | Ch.3 onward |
+| TG9 | Light 4 sewer boilers via manhole (see enemy note below) → HAWK reactivates → camera hijack reveals Lenin-statue shack | Ch.3 onward |
 | TG10 | Volan hack → pigsty hatch | Ch.3 onward |
 | TG11 | HAWK maintenance + zipline + Key Disk + combination lock | Ch.4+ (post-Theater stage, before bridge PoNR) |
 | TG8 | Three Volan cameras (inside Sechenov Research Center area) | **Ch.4 only** — before Theater PoNR (**MISSABLE**) |
@@ -66,7 +66,14 @@ _source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confiden
 ## Common Confusions
 
 - Cameras trigger respawning robots until disabled at the nearest HAWK relay.
+
+_source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confidence: high · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: progression_
+
 - There is no in-game fast travel during normal play — drive or run.
 - Vehicles respawn at parking spots; if a car is destroyed, find the nearest parking area.
 
 _source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
+
+Enemy note: lighting the TG9 sewer boilers clears a sprout infestation.
+
+_source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confidence: high · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: progression_

@@ -36,12 +36,16 @@ _source: P1 deep research 2026-05-08 · capture: web_fetch · confidence: high �
 | **Polygon 6** | `testing_ground_6` | Volan camera hack (camera tower across the lake) | Ch.3+ | always-available | One of the easier TGs. Do in Ch.5. |
 | **Polygon 7** | `testing_ground_7` | Open | Ch.3+ | always-available | Any time in Ch.5 |
 | **Polygon 8** | `testing_ground_8` | "Bug in the System" started (CONFIRMED — 3 Volan/camera unlocks only become interactable once mission is active; NOT freely accessible) | Ch.5–8 | **⚠️ MISSABLE** — must complete before E36 (Theater interior entry). "Petrov flees" cutscene (E35) does NOT close TG8 — confirmed live 2026-05-12. | Do while "Bug in the System" is active, before entering the Theater interior. See `puzzles/combination_locks.md` for three-Volan method. |
-| **Polygon 9** | `testing_ground_9` | HAWK reactivation (clear sprout infestation via 4 sewer boilers via manhole) + camera hijack reveals shack near Lenin statue | Ch.3+ | always-available | Candle-throwing platform puzzle inside. NORA booth present. Kollektiv village area. |
+| **Polygon 9** | `testing_ground_9` | HAWK reactivation (light 4 sewer boilers via manhole; see enemy note below) + camera hijack reveals shack near Lenin statue | Ch.3+ | always-available | Candle-throwing platform puzzle inside. NORA booth present. Kollektiv village area. |
 | **Polygon 10** | `testing_ground_10` | Volan camera tower hack | Ch.5 | always-available | One of the easier TGs. |
 | **Polygon 11** | `testing_ground_11` | Key Disk from walled compound NW of TG11 (HAWK maintenance → zipline in) + combination lock | Ch.4+ (post-Theater stage, before bridge PoNR) | always-available | Reachable from Solnechnaya side; do before crossing bridge or in Open World 2. Across from Theater. |
 | **Polygon 12** | `testing_ground_12` | "Petrov of Opera" quest complete | Ch.7+ (post-Theatre) | **⚠️ MISSABLE** — energy barrier drops during Hospital quest (Ch.5 only window for beach cave entrance) | NE side near Infirmary; Open World 2 only. See DEP-010. |
 
 _source: P1 deep research 2026-05-08 (Polygon 8 condition updated P3 2026-05-09; TG access detail from P1+P2) · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
+
+Enemy note: the Polygon 9 sewer boilers clear a sprout infestation.
+
+_source: P1 deep research 2026-05-08 (Polygon 8 condition updated P3 2026-05-09; TG access detail from P1+P2) · capture: web_fetch · confidence: high · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: progression_
 
 Polygon 12 note (boss names from enemy-tier 3, `warning_tiers.md`): boss inside, Natasha-class.
 
@@ -59,6 +63,9 @@ _source: goha.ru, mvideo.ru — 3 sources EN+RU · capture: web_fetch · confide
 ## Polygon nav notes
 
 - Before entering any Polygon: **shoot the Hawk relay** in the vicinity to disable Pchela drones and Dandelion cameras. See `mechanics.md` — HAWK Relay System for the full procedure.
+
+_source: Compass/Deep Research 2026-05-09 (P3); Polygon 10 added 2026-05-13 (live + online verification) · capture: web_fetch · confidence: high · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: progression_
+
 - Inside: robots stay dead; loot everything before leaving.
 - Scan corpses inside — green-tagged corpses count toward "The Necromancer" and may contain blueprint hints.
 

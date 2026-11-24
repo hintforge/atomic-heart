@@ -14,6 +14,9 @@
 ## Sequential Gates
 
 1. **Frozen Test-Subject Ambushes** (enemy-clear) — reanimated subjects throughout.
+
+_source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confidence: medium · enemy-tier: 1 · puzzle-tier: 1 · category: mainline · spoiler: progression_
+
 2. **Boiler Lighting Puzzle** (puzzle) — two of three boilers must be lit using yellow candles; one yellow candle is inside a locked house reachable via rooftop drop. [C:3]
 3. **Cold-Section Safe Room** (item-pickup) — **NORA here** + Adrenaline Canister blueprint.
 4. **Cold Canister Extraction** (item-pickup) — story goal collected.

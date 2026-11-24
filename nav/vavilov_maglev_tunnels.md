@@ -15,13 +15,20 @@
 
 1. **Pit Recovery** (trigger) — wake in the pit after the cable-car cutscene.
 2. **Yellow-Ledge Climb** (trigger) — pipe-and-ledge platforming above the pit using yellow-painted wall markers.
+
 3. **Drill-Bot Tunnel** (enemy-avoid or enemy-clear) — giant industrial drilling robot patrols this section; timing-based traversal is the standard approach.
+
+_source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confidence: medium · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: progression_
+
 4. **Talking Corpse Hall** (item-pickup) — first talking dead (collectible). [C:3]
 5. **Vent Crawl** (trigger) — drop through a vent into the next chamber leading to the cable cars.
 
 ## Common Confusions
 
 - Attempting to fight the drill-bot wastes resources at this stage; use the patrol timing to pass.
+
+_source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confidence: medium · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: progression_
+
 - The yellow paint marks are the climb-path indicators — look for them on walls and ledges.
 
 _source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confidence: medium · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_

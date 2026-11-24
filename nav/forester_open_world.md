@@ -43,7 +43,13 @@
 - Following the objective marker straight to the station and missing the Telemail rooftop.
 - Trying to bring the expired statue-base ticket — the conductor refuses it.
 - The Volan tower cannot be overridden on the first visit — Granny's codes are required first.
+
+_source: Compass/Deep Research 2026-05-08 (P2), portalvirtualreality.ru, landofgames.ru (translated from: Russian) · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: progression_
+
 - Cameras here trigger respawning robot waves until disabled at the HAWK relay.
+
+_source: Compass/Deep Research 2026-05-08 (P2), portalvirtualreality.ru, landofgames.ru (translated from: Russian) · capture: web_fetch · confidence: high · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: progression_
+
 - Shooting the train conductor (Rafik) permanently disables the train.
 
 _source: Compass/Deep Research 2026-05-08 (P2), portalvirtualreality.ru, landofgames.ru (translated from: Russian) · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: progression_
