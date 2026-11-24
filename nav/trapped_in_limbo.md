@@ -30,7 +30,13 @@ All four P1-identified zone IDs confirmed verbatim by in-game achievement text.
 
 ## Entry point
 
-Main Menu → New Game → "Trapped in Limbo: Play" → difficulty. No base-game save needed; fully isolated save slot. Story prerequisite is narrative-only (follows base game's "longer" ending where P-3 shoots Sechenov and is betrayed by CHAR-les) -- no save import required. The DLC does **not** modify the base-game zone graph; inventory cannot be transferred in either direction (except 7 weapon skins -- see Carry-over below).
+Main Menu → New Game → "Trapped in Limbo: Play" → difficulty. No base-game save needed; fully isolated save slot. Story prerequisite is narrative-only (follows base game's "longer" ending where P-3 shoots Sechenov and is betrayed) -- no save import required. The DLC does **not** modify the base-game zone graph; inventory cannot be transferred in either direction (except 7 weapon skins -- see Carry-over below).
+
+_source: Deep Research 2026-05-27 · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: dlc:trapped-in-limbo_
+
+Entry-point note (story, boss names from enemy-tier 3, `warning_tiers.md`): the betrayer is CHAR-les.
+
+_source: Deep Research 2026-05-27 · capture: web_fetch · confidence: high · enemy-tier: 3 · puzzle-tier: 0 · category: mainline · spoiler: dlc:trapped-in-limbo_
 
 _[Narrative prerequisite carries spoiler: dlc:trapped-in-limbo -- deliver structural "main menu entry" info freely; gate narrative context]_
 [Confirmed: multiple sources, 2 languages]
@@ -110,6 +116,8 @@ No permanently missable content -- all levels are replayable from the hub. Coins
 
 For achievement missables (e.g. "Conservationist" -- get a gold coin without shooting the Pchela), see `../achievements.md`.
 
+_source: Deep Research 2026-05-27 · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: dlc:trapped-in-limbo_
+
 ## Story connection
 
 [spoiler: dlc:trapped-in-limbo]
@@ -118,6 +126,8 @@ Follows the base game's "longer" canon ending: P-3 defeats the Twins, shoots Sec
 
 Community claim "destroys the alt universe where Charles wins" is NOT directly supported by sources -- sources describe escape and memory recovery only. [Hypothesis -- unverified]
 [Confirmed for core narrative: multiple sources, 2 languages]
+
+_source: Deep Research 2026-05-27 · capture: web_fetch · confidence: high · enemy-tier: 3 · puzzle-tier: 0 · category: mainline · spoiler: dlc:trapped-in-limbo_
 
 ## The Talking Goose
 

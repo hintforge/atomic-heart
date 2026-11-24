@@ -27,8 +27,8 @@ Edge: `vdnh_park` → `vdnh_pavilion` (chapter-bound) — see `nav/architecture.
 
 Community recommends **disabling Depth of Field** for the arena zone — AoE circle indicators are hard to see with DoF on.
 
-## Encounter note [enemy-tier: 1+ · spoiler: progression]
+## Encounter note [enemy-tier: 3+ · spoiler: story]
 
-_[Arena encounter information hidden at current enemy tier (0). Raise enemy tier to 1 to receive approach tips before entering the arena.]_
+_[Arena encounter information hidden at current enemy tier (0). Raise enemy tier to 3 to receive approach tips before entering the arena.]_
 
-> ⚠️ **Missable achievement in this encounter** [enemy-tier: 1+] — there is a one-shot achievement in the arena fight that is permanently forfeited if you use the wrong approach. See `dependencies.md` DEP-013 or raise enemy tier for details.
+> ⚠️ **Missable achievement in this encounter** [enemy-tier: 2+] — there is a one-shot achievement in the arena fight that is permanently forfeited if you use the wrong approach. See `dependencies.md` DEP-013 or raise enemy tier for details.

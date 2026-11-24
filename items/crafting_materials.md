@@ -24,7 +24,10 @@ _source: GameRevolution drop-list page, TechRaptor Crafting Guide, RU Fandom ite
 > - `[std-variant: suspected]` -- likely exists based on player reports and naming patterns, not yet confirmed in corpus; verify in-game
 > - `[std-variant: unknown]` -- corpus has no information on whether a farmable standard variant exists
 > - Drop sources listing these names likely refer to the **standard variant**, not the boss encounter. Verify via NORA crafting interface (click a material to see drop sources).
-> **Enemy tier 0:** Do NOT proactively name any enemy tagged std-variant or boss in player-facing responses. Say "tougher enemy types" or "mid-tier robots" as a category. Only name standard enemies (Vova, Rotorobot, Engineer, Vatrushka, Laborer, Drofa) freely.
+
+_source: GameRevolution drop-list, TechRaptor Crafting Guide, Twinfinite Crafting Guide, RU Fandom, allmmorpg.ru · capture: web_fetch · confidence: high · enemy-tier: 3 · puzzle-tier: 0 · category: mainline · spoiler: story_
+
+> **Enemy tier below 3 (boss names from enemy-tier 3, `warning_tiers.md`):** Do NOT proactively name any enemy tagged std-variant or boss in player-facing responses. Say "tougher enemy types" or "mid-tier robots" as a category. Only name standard enemies (Vova, Rotorobot, Engineer, Vatrushka, Laborer, Drofa) freely.
 
 > **Cross-system dependency** -- see `dependencies.md` DEP-023: The `[std-variant]` flags on drop sources below are governed by the taxonomy in `npcs/bosses.md`. Misreading a std-variant source as a boss encounter sends the player to a scripted fight for materials that come from the open-world farmable variant.
 
@@ -33,10 +36,10 @@ _source: GameRevolution drop-list page, TechRaptor Crafting Guide, RU Fandom ite
 | **Metal Parts** | Металлические детали | Most weapon upgrades | Robots (Vova, Pchela, Laborer, Rotorobot/ARU-31/6) | Most abundant; farm from Vova clusters in open world |
 | **Synthetic Material** | Синтетический материал | Weapon upgrades; ammo crafting | Robots (incl. Rotorobot/ARU-31/6) and chests | Second most abundant. **Not the same as Superconductor.** |
 | **Biomaterials** | Биоматериалы | Consumable crafting; some organic-enemy mods | Organic mutants, Sprouts, Plyusch [std-variant: unknown] | Stock up in Pavlov (organic-heavy zone) before exit |
-| **Superconductor** | Сверхпроводник | Mid-to-high tier weapon upgrades | Advanced Lab Tech, Engineer, Rotorobot, Shield Lab Tech; Belyash [std-variant: confirmed], Dewdrop [std-variant: unknown], Hedgie [std-variant: confirmed], Natasha [std-variant: suspected] | **Distinct from Synthetic Material.** P1 "Polymer Jelly" alias was likely a misidentification -- [verify in-game] |
+| **Superconductor** | Сверхпроводник | Mid-to-high tier weapon upgrades | Advanced Lab Tech, Engineer, Rotorobot, Shield Lab Tech; tougher enemy types (see the std-variant rows below) | **Distinct from Synthetic Material.** P1 "Polymer Jelly" alias was likely a misidentification -- [verify in-game] |
 | **Chemistry** | Химия | Ammo crafting (shells, rockets); consumables; some weapon mods | Organic mutants and mid-tier robots widely | Also called "Chemicals" in some web sources -- same item |
-| **Microelectronics** | Микроэлектроника | Mid-to-high tier weapon upgrades | Advanced Lab Tech, Engineer, Rotorobot (rare); tougher enemy types incl. Belyash [std-variant: confirmed], Dewdrop [std-variant: unknown], Hedgie [std-variant: confirmed], Natasha [std-variant: suspected] (frequent -- likely std-variants, not boss encounters; verify in-game) | **P1 alias "Plastic" was incorrect.** Verify drop sources: open NORA → Weapons → any upgrade and read the requirement line |
-| **Energy Module** | Энергомодуль | High-tier weapon upgrades | Tougher enemy types incl. Plyusch [std-variant: unknown], Belyash [std-variant: confirmed], Dewdrop [std-variant: unknown], Hedgie [std-variant: confirmed], Natasha [std-variant: suspected] (frequent -- likely std-variants; verify in-game) | Distinct resource; not listed in P1 -- gap filled by P4 research |
+| **Microelectronics** | Микроэлектроника | Mid-to-high tier weapon upgrades | Advanced Lab Tech, Engineer, Rotorobot (rare); tougher enemy types (frequent -- see the std-variant rows below) | **P1 alias "Plastic" was incorrect.** Verify drop sources: open NORA → Weapons → any upgrade and read the requirement line |
+| **Energy Module** | Энергомодуль | High-tier weapon upgrades | Tougher enemy types (frequent -- see the std-variant rows below) | Distinct resource; not listed in P1 -- gap filled by P4 research |
 | **Neuromodule** | Нейромодуль | Highest-tier blueprints (e.g., Railgun craft cost: 1 Neuromodule) | Boss-tier enemies only | **Rarest crafting material.** P1 alias "Plasticine" was incorrect |
 
 **Separate from the 8 crafting materials:**
@@ -47,6 +50,16 @@ _source: GameRevolution drop-list page, TechRaptor Crafting Guide, RU Fandom ite
 
 _source: GameRevolution drop-list, TechRaptor Crafting Guide, Twinfinite Crafting Guide, RU Fandom, allmmorpg.ru · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
 [Confirmed: 4+ sources EN and RU; P4 research 2026-05-14]
+
+The named std-variant drop sources are listed separately (boss names from enemy-tier 3, `warning_tiers.md`):
+
+| Material | Named drop sources |
+|---|---|
+| **Superconductor** | Belyash [std-variant: confirmed], Dewdrop [std-variant: unknown], Hedgie [std-variant: confirmed], Natasha [std-variant: suspected] |
+| **Microelectronics** | Belyash [std-variant: confirmed], Dewdrop [std-variant: unknown], Hedgie [std-variant: confirmed], Natasha [std-variant: suspected] (frequent -- likely std-variants, not boss encounters; verify in-game) |
+| **Energy Module** | Plyusch [std-variant: unknown], Belyash [std-variant: confirmed], Dewdrop [std-variant: unknown], Hedgie [std-variant: confirmed], Natasha [std-variant: suspected] (frequent -- likely std-variants; verify in-game) |
+
+_source: GameRevolution drop-list, TechRaptor Crafting Guide, Twinfinite Crafting Guide, RU Fandom, allmmorpg.ru · capture: web_fetch · confidence: high · enemy-tier: 3 · puzzle-tier: 0 · category: mainline · spoiler: story_
 
 **Sanity check (Railgun craft cost):** 261 Metal Parts, 28 Superconductors, 20 Microelectronics, 20 Energy Modules, 1 Neuromodule. [Source: GameRiv] This composition confirms the canonical 8-material set and shows no "Plastic" or "Plasticine" line.
 

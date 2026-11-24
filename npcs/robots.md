@@ -6,7 +6,11 @@
 
 > **Enemy tier 0 is active.** This file exists for post-encounter reference only. Do NOT volunteer enemy names, tactics, or weaknesses preemptively. After P-3 encounters an enemy and asks, full post-encounter guidance is permitted.
 
+_source: EN Fandom, High Ground Gaming · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
+
 > **Naming issue:** Atomic Heart was developed in Russian; EN translations and internal dev names often diverge. Several enemy types share names with scripted boss encounters (Hedgie, Belyash, Natasha, Dewdrop, Plyusch). This file covers **standard enemy variants** only. See `bosses.md` for boss encounters. Where a standard variant is confirmed to exist alongside a boss of the same name, it is noted per entry. When in doubt about which variant a source refers to, use NORA's crafting interface (click a material) to verify drop sources in-game.
+
+_source: EN Fandom, High Ground Gaming · capture: web_fetch · confidence: high · enemy-tier: 3 · puzzle-tier: 0 · category: mainline · spoiler: story_
 
 > **Visual references:** each entry has a `**Visual ID:**` line with image paths relative to `npcs/sprites/`. Icons are game-extracted PNGs from FModel. See the appendix at the bottom of this file for the icon mapping table, material drop quick-reference, and FModel extraction procedure.
 
@@ -84,18 +88,24 @@ _source: EN Fandom, High Ground Gaming, Steam 100% achievement guide · capture:
 ---
 
 ## LUC-1 Owl (Laser Owl)
-*Ceilings of Vavilov Seed Vault, Theater interior, TG12 Natasha encounter.*
+*Ceilings of Vavilov Seed Vault, Theater interior, TG12.*
 
 _source: TechRaptor TG12 guide, EN Fandom, NamuWiki mirror · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
 [Confirmed: 3 sources]
 
 - **Visual ID:** `sprites/owl.jpg` | Icon: `sprites/icons/T_Chicken.png` (internal: T_Chicken -- dev codename)
-- **Class:** Ceiling-mounted/airborne laser turret-bot. Often spawns in groups of 3+; can respawn infinitely until the trigger source (e.g., Natasha) is killed.
+- **Class:** Ceiling-mounted/airborne laser turret-bot. Often spawns in groups of 3+; can respawn infinitely.
 - **Attacks:** Sustained laser beam (track movement or use cover) and rocket barrages. Knockdown is frequent.
 - **Weaknesses:** Resistant to firearms ("Body Armor" NG+ aura); use Shok, energy weapons, or melee where possible. Pop them in the air with Polymer Jet + KS-23.
 - **Drops:** Superconductor (rare), Microelectronics (rare).
 
+_source: TechRaptor TG12 guide, EN Fandom, NamuWiki mirror · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
+
+Boss context (boss names from enemy-tier 3, tactics from enemy-tier 5, `warning_tiers.md`): the TG12 location is the Natasha encounter, and Owls can respawn until the trigger source (e.g., Natasha) is killed.
+
 > **Cross-system dependency** — see `dependencies.md` DEP-018: LUC-1 Owls respawn infinitely until Natasha is killed — focus Natasha first; Owls clear themselves. Applies at Theater Stage (Ch.4) and TG12 (Ch.5).
+
+_source: TechRaptor TG12 guide, EN Fandom, NamuWiki mirror · capture: web_fetch · confidence: high · enemy-tier: 5 · puzzle-tier: 0 · category: mainline · spoiler: story_
 
 ---
 
@@ -282,12 +292,25 @@ Icons in `sprites/icons/` are game-extracted PNGs. To reproduce: install [FModel
 | `sprites/icons/T_Mutant.png` | Mother | Naming quirk -- nest uses "Mutant" icon |
 | `sprites/icons/T_Nurse.png` | Mutant | Sprout-inhabited corpse |
 | `sprites/icons/T_BigMutant.png` | Mutant (large) | Size variant |
+| `sprites/icons/T_Plyush.png` | Plyusch | Direct |
+
+_source: web images + FModel extracts 2026-05-13 · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
+
+**Not in InfoIcons set:** Laborer (Vova), Dandelion Camera -- check DLC paks or alternative icon folders.
+
+_source: web images + FModel extracts 2026-05-13 · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
+
+Boss icon rows and the boss part of the not-in-set list (boss names from enemy-tier 3, `warning_tiers.md`):
+
+| Icon file | Enemy | Internal name note |
+|---|---|---|
 | `sprites/icons/T_Belyash.png` | Belyash (MA-9) | Direct |
 | `sprites/icons/T_Ejiha.png` | Hedgie (HOG-7) | "Ёж" = hedgehog (RU) |
 | `sprites/icons/T_Natasha.png` | Natasha (NA-T256) | Direct |
-| `sprites/icons/T_Plyush.png` | Plyusch | Direct |
 
-**Not in InfoIcons set:** Dewdrop, Twins, Laborer (Vova), Dandelion Camera -- check DLC paks or alternative icon folders.
+Also not in the InfoIcons set: Dewdrop, Twins.
+
+_source: web images + FModel extracts 2026-05-13 · capture: web_fetch · confidence: high · enemy-tier: 3 · puzzle-tier: 0 · category: mainline · spoiler: story_
 
 ### Backup web-source images
 
@@ -303,9 +326,16 @@ Some enemies have a second web-sourced image: `sprites/belyash_2.jpg`, `sprites/
 | Synthetic Materials | Any robot enemy; also chests |
 | Biomaterials | Sprout, Mother, Mutant, Plyusch |
 | Chemicals | Sprout, Mother, Mutant |
-| Polymer Jelly | Bosses (Belyash, Hedgie, Natasha, Plyusch, Dewdrop, Twins) |
 | Neuropolymer | All enemies (universal) |
 | Specific named materials (Energy Module, etc.) | Verify in-game -- screenshot the crafting screen for cross-reference |
 
 _source: web images + FModel extracts 2026-05-13; merged from sprites/index.md per zipper 2026-05-22_
-_material drops: items/crafting_materials.md (P1 research) + live observations_
+_material drops: items/crafting_materials.md (P1 research) + live observations
+
+The boss drop row is listed separately (boss names from enemy-tier 3, `warning_tiers.md`).
+
+| Material | Kill these enemies |
+|---|---|
+| Polymer Jelly | Bosses (Belyash, Hedgie, Natasha, Plyusch, Dewdrop, Twins) |
+
+_source: web images + FModel extracts 2026-05-13; merged from sprites/index.md per zipper 2026-05-22 · capture: web_fetch · confidence: high · enemy-tier: 3 · puzzle-tier: 0 · category: mainline · spoiler: story__

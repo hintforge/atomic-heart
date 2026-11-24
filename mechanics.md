@@ -67,12 +67,19 @@ After either ending's credits, the main menu offers "Return to Facility 3826." T
 |---|---|---|---|
 | Chirpers (Burning Ears) | 72 | Yes — per-zone | Scan/pickup; locked with zone PoNRs for Complexes; open-world Chirpers always-available |
 | Talking Deads (Necromancer) | 53 | Yes — per-zone | Scan + interact; same PoNR windows as Chirpers |
-| Enemy scans (Scanner) | 38 | Yes — scan before kill | All boss types must be scanned; Twins require Left and Right scanned individually |
 | Blueprints | 63 | Yes — per-zone | Chest pickups; locked with zone PoNRs |
 | Lootyagin chests | 24 (3 per TG) | Partly — TG8 + TG12 | Open all bronze/silver/gold in each TG |
 | Talking dead animals (Beast Friend) | 3 | No | Hen, cow, third by solar arrays; open-world persistent |
 
 _source: PSNProfiles trophy guide, daynglsgameguides — confirmed · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
+
+The enemy-scan row names bosses and is listed separately (boss names from enemy-tier 3, `warning_tiers.md`).
+
+| Collectible | Count | Missable? | Notes |
+|---|---|---|---|
+| Enemy scans (Scanner) | 38 | Yes — scan before kill | All boss types must be scanned; Twins require Left and Right scanned individually |
+
+_source: PSNProfiles trophy guide, daynglsgameguides — confirmed · capture: web_fetch · confidence: high · enemy-tier: 3 · puzzle-tier: 0 · category: mainline · spoiler: story_
 
 ---
 

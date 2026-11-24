@@ -1,4 +1,4 @@
-# Ch.9 — Lighthouse, Dewdrop, Academy of Consequences
+# Ch.9 — Lighthouse, Academy of Consequences
 
 **status:** research-integrated
 **zones:** `lighthouse_approach`, `academy_underwater_elevator`, `academy_of_consequences`
@@ -56,9 +56,13 @@ The underwater elevator sequence is a long cinematic ride with environmental sto
 
 Before "Sky's the Limit," assemble your final loadout. Community recommended final kit: Zvezdochka (max) + Kalash (max) + Electro (max) + Fat Boy + Railgun + Polymer Shield + Mass TK ability slots. See `items/builds.md` Build D for the Twins-specific configuration.
 
-## Encounter information [enemy-tier: 1+ · spoiler: late-game]
+_source: P1 deep research 2026-05-08 · capture: web_fetch · confidence: high · enemy-tier: 3 · puzzle-tier: 0 · category: mainline · spoiler: story_
 
-_[Lighthouse encounter information hidden at current enemy tier (0). Raise enemy tier to access Dewdrop encounter tips.]_
+## Encounter information [enemy-tier: 3+ · spoiler: story]
+
+_[Lighthouse encounter information hidden at current enemy tier (0). Raise enemy tier to 3 to access this chapter's boss encounter tips (boss name: Dewdrop).]_
+
+_source: P1 deep research 2026-05-08 · capture: web_fetch · confidence: high · enemy-tier: 3 · puzzle-tier: 0 · category: mainline · spoiler: story_
 
 ## Lore context [category: lore · spoiler: late-game + story]
 

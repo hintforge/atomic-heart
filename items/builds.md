@@ -15,9 +15,16 @@ _source: P1 deep research 2026-05-08 · capture: web_fetch · confidence: high �
 
 **Build recommendations are opinions, not claims** — they represent community consensus, not verifiable facts. Apply the hint-ladder where applicable: if you're adapting based on which enemies you're facing, pivot mid-run rather than committing to one build forever.
 
+_source: P1 deep research 2026-05-08 · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
+
 **Build pivot benchmarks:**
 - Die >3 times to any Theatre boss → switch to or reinforce Build A (Frost + Pashtet)
+
+_source: P1 deep research 2026-05-08 · capture: web_fetch · confidence: high · enemy-tier: 2 · puzzle-tier: 0 · category: mainline · spoiler: late-game_
+
 - Die >3 times to Twins (endgame) → switch to Build D (Zvezdochka + Railgun + Mass TK)
+
+_source: P1 deep research 2026-05-08 · capture: web_fetch · confidence: high · enemy-tier: 3 · puzzle-tier: 0 · category: mainline · spoiler: story_
 
 ---
 
@@ -83,6 +90,8 @@ _source: P1 deep research 2026-05-08 · capture: web_fetch · confidence: high �
 
 **Community note:** Hard to sustain on Armageddon due to ammo economy. Most community Armageddon clears recommend pivoting to Build A by Ch.8 Pavlov. [Confirmed: general community consensus]
 
+_source: P1 deep research 2026-05-08 · capture: web_fetch · confidence: medium · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
+
 ---
 
 ## Build D — Hybrid Endgame (Twins fight)
@@ -102,7 +111,7 @@ Specifically tuned for the final boss encounters.
 
 > **Cross-system dependency** — see `dependencies.md` DEP-016: Saw Dance (Reverse Shot) is Polygon 1-locked. DEP-015: Saw Dance blades require target to be frozen (Frostbite) or lifted (Mass TK) — blades miss moving grounded targets.
 
-_source: P1 deep research 2026-05-08 · capture: web_fetch · confidence: medium · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: late-game_
+_source: P1 deep research 2026-05-08 · capture: web_fetch · confidence: medium · enemy-tier: 3 · puzzle-tier: 0 · category: mainline · spoiler: story_
 
 ---
 
@@ -113,14 +122,30 @@ _source: P1 deep research 2026-05-08 · capture: web_fetch · confidence: medium
 | Ch.3 (VDNH outdoor) — first outdoor encounter feeling rough | Stick with early shock build; don't spend yet |
 | Dying repeatedly to Ch.6 Theatre encounters | Reinforce Build A: Frostbite Absolute Zero is the priority unlock |
 | Ch.8 Pavlov — organic-heavy zone | Ensure fire-modded KS-23 or Fat Boy is stocked; Shok underperforms here |
-| Ch.9 onward | Consolidate into Build D if going for Twins; or max Build A |
 | Any difficulty — dying >3× to same encounter | Check if you have Auto-QTE on; check if Polymer Shield Sponge Effect covers the damage type |
+
+_source: P1 deep research 2026-05-08 · capture: web_fetch · confidence: medium · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
+
+The endgame row is listed separately (boss names from enemy-tier 3, `warning_tiers.md`).
+
+| Situation | Action |
+|---|---|
+| Ch.9 onward | Consolidate into Build D if going for Twins; or max Build A |
+
+_source: P1 deep research 2026-05-08 · capture: web_fetch · confidence: medium · enemy-tier: 3 · puzzle-tier: 0 · category: mainline · spoiler: story_
 
 ---
 
 ## Community disagreements
 
-- **Shok-first vs. Frost-first:** TheGamer (EN) says Shok upgrades are dominant early. StopGame + VGTimes (RU) say Frostbite+melee is the correct Armageddon opener. Resolution: Shok wins vs. robots; Frost wins vs. all organic bosses except Hedgie.
+- **Shok-first vs. Frost-first:** TheGamer (EN) says Shok upgrades are dominant early. StopGame + VGTimes (RU) say Frostbite+melee is the correct Armageddon opener. Resolution: Shok wins vs. robots.
+
+_source: P1 deep research 2026-05-08 · capture: web_fetch · confidence: medium · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
+
+- Boss part of that resolution (boss tactics from enemy-tier 5, `warning_tiers.md`): Frost wins vs. all organic bosses except Hedgie.
+
+_source: P1 deep research 2026-05-08 · capture: web_fetch · confidence: medium · enemy-tier: 5 · puzzle-tier: 0 · category: mainline · spoiler: story_
+
 - **Sleazeball timing:** Some guides push Sleazeball early (Ch.1); others say Second Wind first and delay Sleazeball until Ch.5+. Consensus: Second Wind first at ~8 Neuropolymer is too cheap to skip; Sleazeball at ~62 is worth it but not urgent until Pavlov.
 
 ---

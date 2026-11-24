@@ -28,6 +28,12 @@ _source: P1 deep research 2026-05-08 · capture: web_fetch · confidence: high �
 
 **Reading the tables below:** each tree lists every node with its cost and the node that unlocks it. Because most nodes sit behind a chain, a node's price and what it actually costs you to reach are different numbers — the per-tree notes call out the cases where that gap is large enough to change a buying decision.
 
+_source: P1 deep research 2026-05-08 · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
+
+Polymeric Shield boss use (boss prep, gated by `warning_tiers.md`; see the Polymeric Shield row in the tier list below): slot in only for boss fights (Hedgehog, Belyash, Natasha). Swap back out post-boss.
+
+_source: P1 deep research 2026-05-08 · capture: web_fetch · confidence: high · enemy-tier: 3 · puzzle-tier: 0 · category: mainline · spoiler: story_
+
 ---
 
 ## Quick-reference tier list
@@ -39,7 +45,7 @@ Cross-language consensus (English + Russian community; 5+ sources, 2 languages).
 | S | **Mass Telekinesis** | Forced Fall Acceleration, Increased Power (lift heavyweights), Energy Vampire | Best single-target/AoE crowd-control; dominant counter to lab-tech swarms. **Energy Vampire is near-required for Armageddon difficulty** (final boss). RU community agrees with EN consensus. |
 | S | **Frostbite** | Absolute Zero (DoT on frozen targets, 333 to reach), Drastic Measure (HP-for-ammo, 58 to reach) | Must-have for mid-game survival; vgtimes.ru calls it the top upgrade after early HP nodes. |
 | A (always-on) | **Shok** | Chain Lightning, Extended Topology, Full Contact | Passive / always-equipped — does not use an ability slot. Max early; free third ability. |
-| A (boss/situational) | **Polymeric Shield** | Sponge Effect (melee-to-energy), Neuro-Polymer Reflector (reflect ranged), Med Unit Feedback (HP-on-hit) | Slot in only for boss fights (Hedgehog, Belyash, Natasha). Swap back out post-boss. **Ranged reflection is Neuro-Polymer Reflector, not Kinetic Reflector** — see Tree 5. |
+| A (boss/situational) | **Polymeric Shield** | Sponge Effect (melee-to-energy), Neuro-Polymer Reflector (reflect ranged), Med Unit Feedback (HP-on-hit) | **Ranged reflection is Neuro-Polymer Reflector, not Kinetic Reflector** — see Tree 5. |
 | B (synergy) | **Polymeric Jet** | — | Inefficient unless paired with electric or fire cartridges. RU forum users (playground.ru) rate it lower than EN guides. |
 | A (build-enabling) | **Energy Management tree** | Energy Density nodes (×3) | Top priority for Dominator/Electro/Railgun builds — doubles energy reserve. |
 
@@ -169,11 +175,17 @@ Cross-language consensus (English + Russian community; 5+ sources, 2 languages).
 | **Increased Polymer Generation** | 106 | Neuro-Polymer Reflector | Shield lasts longer |
 | **Med Unit Feedback** | 124 | Increased Polymer Generation | Redirects part of incoming damage to the Med Unit, restoring health |
 
-> **RESOLVED 2026-09-16 — the long-standing Kinetic Reflector contradiction.** This file carried a `[Contradicted]` marker reading "bullets yes, beams unreliably", built on Reddit reports of inconsistent reflection against laser sweeps like the Dewdrop spider boss. Both sources agree the reports were describing the wrong node. **Kinetic Reflector is melee-only** — it doubles and returns incoming *melee* damage. Ranged reflection is a separate branch that players were conflating with it: **Reflective Surface** (82) handles lasers and **Neuro-Polymer Reflector** (98) handles all ranged attacks. Players reporting "no reflection" against beams had bought the melee branch. The marker is retired.
+> **RESOLVED 2026-09-16 — the long-standing Kinetic Reflector contradiction.** This file carried a `[Contradicted]` marker reading "bullets yes, beams unreliably", built on Reddit reports of inconsistent reflection against laser sweeps (see the boss note below). Both sources agree the reports were describing the wrong node. **Kinetic Reflector is melee-only** — it doubles and returns incoming *melee* damage. Ranged reflection is a separate branch that players were conflating with it: **Reflective Surface** (82) handles lasers and **Neuro-Polymer Reflector** (98) handles all ranged attacks. Players reporting "no reflection" against beams had bought the melee branch. The marker is retired.
 >
 > **Practical consequence:** the two branches are near-exclusive in practice. Beam-reflection costs 28+43+82+98 = **251**; the melee-reflection line to Kinetic Reflector costs 28+43+82+98 = **251** as well, and Med Unit Feedback — the HP-return node the tier list calls out — is the *last* node on the ranged branch at 28+43+82+98+106+124 = **481**.
 >
 > **Sponge Effect is also mis-described above the table:** it converts *melee attacks* into energy, not blocked damage.
+
+_source: P1 deep research 2026-05-08 · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
+
+Boss note (boss names from enemy-tier 3, `warning_tiers.md`): the laser sweeps in the Reddit reports were those of the Dewdrop spider boss.
+
+_source: P1 deep research 2026-05-08 · capture: web_fetch · confidence: high · enemy-tier: 3 · puzzle-tier: 0 · category: mainline · spoiler: story_
 
 **Crucial on Armageddon difficulty.** Sponge Effect + shield-up-vs-Ivy whip damage is a documented Armageddon-survival technique for Pavlov (Ch.8).
 
@@ -224,7 +236,13 @@ Costs added and two errors fixed 2026-09-16. The **reach cost** column is what t
 >
 > **The general lesson for this tree:** flat "buy this first" lists hide prerequisite chains. Absolute Zero reads as a 104-cost node and is really a 333-cost commitment; Juggler reads as 87 and is really 318. Use the reach column, not the node price, when deciding what to buy next.
 
-**Where guides disagree:** TheGamer (EN) pushes Shok upgrades first; StopGame + VGTimes (RU) push Frostbite + melee as the early-Armageddon answer. **Reconciliation:** Shok is best vs. mechanical robots (Vovas, Pchelas); Frost is best vs. all organic bosses except Hedgie. **The costs favour Shok early on their own merits** — Power Amplifier is reachable for 72 against Absolute Zero's 333.
+**Where guides disagree:** TheGamer (EN) pushes Shok upgrades first; StopGame + VGTimes (RU) push Frostbite + melee as the early-Armageddon answer. **Reconciliation:** Shok is best vs. mechanical robots (Vovas, Pchelas). **The costs favour Shok early on their own merits** — Power Amplifier is reachable for 72 against Absolute Zero's 333.
+
+_source: P1 deep research 2026-05-08 · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
+
+Reconciliation, boss part (boss tactics from enemy-tier 5, `warning_tiers.md`): Frost is best vs. all organic bosses except Hedgie.
+
+_source: P1 deep research 2026-05-08 · capture: web_fetch · confidence: high · enemy-tier: 5 · puzzle-tier: 0 · category: mainline · spoiler: story_
 
 ---
 
@@ -284,7 +302,6 @@ Costs added and two errors fixed 2026-09-16. The **reach cost** column is what t
 
 | Combo | Effect |
 |---|---|
-| **Klusha charge-attack inside Stasis** | Guaranteed crit on the Colossus's exposed arm (RU boss guide explicit) |
 | **Secateur Energy Wave inside Stasis** | AOE-on-frozen-crowd; enables ***Time in a Bottle* achievement** (3 enemies killed inside Stasis) |
 | **Polymeric Shield inside Stasis** | Shield's reflected-damage proc fires consistently because enemy projectiles slow to a crawl; XboxEra describes this as "ridiculously powerful" |
 
@@ -292,6 +309,14 @@ Note: Base-game abilities (Shok, Frostbite, Mass TK, Polymer Jet) are **not avai
 
 _source: Compass P3 deep research 2026-05-09 · capture: web_fetch · confidence: high · enemy-tier: 2 · puzzle-tier: 0 · category: mainline · spoiler: dlc:annihilation_instinct_
 [Confirmed: walkthroughs.games (EN/RU), XboxEra review (EN), notesread/StopGame (EN), Fandom Techno-Stasis stub (EN)]
+
+The Stasis combo that targets a boss is listed separately (boss names from enemy-tier 3, tactics from enemy-tier 5, `warning_tiers.md`).
+
+| Combo | Effect |
+|---|---|
+| **Klusha charge-attack inside Stasis** | Guaranteed crit on the Colossus's exposed arm (RU boss guide explicit) |
+
+_source: Compass P3 deep research 2026-05-09 · capture: web_fetch · confidence: high · enemy-tier: 5 · puzzle-tier: 0 · category: mainline · spoiler: dlc:annihilation_instinct_
 
 ---
 

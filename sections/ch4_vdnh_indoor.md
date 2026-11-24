@@ -39,9 +39,9 @@ By end of VDNH, you should have access to Frostbite from the NORA terminal. **Re
 
 Enable **subtitle background** (added Patch 1.3.4, Settings > Accessibility) if not already done — Char-les's banter overlaps with environmental dialogue in the VDNH indoor zones.
 
-## Encounter notes [enemy-tier: 1+ · spoiler: progression]
+## Encounter notes [enemy-tier: 3+ · spoiler: story]
 
-_[Encounter information for VDNH hidden at current enemy tier (0). Raise enemy tier to 1+ to receive tips.]_
+_[Encounter information for VDNH hidden at current enemy tier (0). Raise enemy tier to 3+ to receive tips.]_
 
 ## Lore context [category: lore · spoiler: story]
 

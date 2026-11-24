@@ -85,10 +85,10 @@ One H2 per `trigger_type` (Progression / Branch / Mastery / Collection / Thresho
 - **ponr-window:** n/a
 - **prereqs:** none
 - **vector-binding:** `nav/architecture.md` edge E39; `npcs/bosses.md` Natasha entry
-- **enemy-tier:** 1
+- **enemy-tier:** 3
 - **puzzle-tier:** 0
 - **spoiler:** progression
-- **notes:** Entry names Natasha boss encounter in vector-binding; gate at enemy-tier: 1.
+- **notes:** Entry names Natasha boss encounter in vector-binding; gate at enemy-tier: 3 (boss names, `warning_tiers.md`).
 
 ### Medical Checkup
 
@@ -142,7 +142,7 @@ One H2 per `trigger_type` (Progression / Branch / Mastery / Collection / Thresho
 - **ponr-window:** n/a
 - **prereqs:** none
 - **vector-binding:** `npcs/bosses.md` Hedgie entry; `nav/architecture.md` edge E21
-- **enemy-tier:** 1
+- **enemy-tier:** 3
 - **puzzle-tier:** 0
 - **spoiler:** progression
 
@@ -156,7 +156,7 @@ One H2 per `trigger_type` (Progression / Branch / Mastery / Collection / Thresho
 - **ponr-window:** n/a
 - **prereqs:** none
 - **vector-binding:** `npcs/bosses.md` Belyash entry; `nav/architecture.md` edge E36
-- **enemy-tier:** 1
+- **enemy-tier:** 3
 - **puzzle-tier:** 0
 - **spoiler:** progression
 
@@ -170,7 +170,7 @@ One H2 per `trigger_type` (Progression / Branch / Mastery / Collection / Thresho
 - **ponr-window:** n/a
 - **prereqs:** none
 - **vector-binding:** `npcs/bosses.md` Plyusch entry
-- **enemy-tier:** 1
+- **enemy-tier:** 3
 - **puzzle-tier:** 0
 - **spoiler:** progression
 
@@ -184,7 +184,7 @@ One H2 per `trigger_type` (Progression / Branch / Mastery / Collection / Thresho
 - **ponr-window:** n/a
 - **prereqs:** none
 - **vector-binding:** `npcs/bosses.md` Natasha entry; `nav/architecture.md` edge E39
-- **enemy-tier:** 1
+- **enemy-tier:** 3
 - **puzzle-tier:** 0
 - **spoiler:** progression
 
@@ -198,7 +198,7 @@ One H2 per `trigger_type` (Progression / Branch / Mastery / Collection / Thresho
 - **ponr-window:** n/a
 - **prereqs:** none
 - **vector-binding:** `npcs/bosses.md` Dewdrop entry; `nav/architecture.md` edge E49
-- **enemy-tier:** 1
+- **enemy-tier:** 3
 - **puzzle-tier:** 0
 - **spoiler:** progression
 
@@ -291,11 +291,12 @@ _DLC -- Enchantment Under the Sea (doctor ingested 2026-06-05)_
 - **ponr-window:** n/a (story completion)
 - **prereqs:** EutS DLC started and all quests completed
 - **vector-binding:** `nav/enchantment_under_sea.md` EutS-E7 (final boss arc); `nav/architecture.md` §DLC -- Enchantment Under the Sea
-- **enemy-tier:** 0
+- **enemy-tier:** 3
 - **puzzle-tier:** 0
 - **spoiler:** dlc:enchantment-under-sea
 - **notes:** DLC attribution CONFIRMED by primary sources (TrueAchievements DLC page, VGTimes EutS trophy list, GameFAQs). "And now--CHAR-les" is the EutS story-completion gold trophy; CHAR-les is the main antagonist named at DLC completion but not fought until BoC ("Farewell, Old Friend" is the distinct BoC final boss achievement).
-_source: Deep Research 2026-05-27 · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: dlc:enchantment-under-sea_
+
+_source: Deep Research 2026-05-27 · capture: web_fetch · confidence: high · enemy-tier: 3 · puzzle-tier: 0 · category: mainline · spoiler: dlc:enchantment-under-sea_
 
 ---
 
@@ -326,10 +327,11 @@ _source: deep-research 2026-05-22 · capture: web_fetch · confidence: high · e
 - **ponr-window:** n/a (story-required)
 - **prereqs:** Blood on Crystal DLC; reach RACCOON boss encounter
 - **vector-binding:** `_overflow/` (deferred-to: DLC-research)
-- **enemy-tier:** 1
+- **enemy-tier:** 3
 - **puzzle-tier:** 0
 - **spoiler:** dlc:Blood on Crystal
-_source: deep-research 2026-05-22 · capture: web_fetch · confidence: high · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: dlc:Blood on Crystal_
+
+_source: deep-research 2026-05-22 · capture: web_fetch · confidence: high · enemy-tier: 3 · puzzle-tier: 0 · category: mainline · spoiler: dlc:Blood on Crystal_
 
 ### Clean in Two
 
@@ -341,10 +343,11 @@ _source: deep-research 2026-05-22 · capture: web_fetch · confidence: high · e
 - **ponr-window:** n/a (story-required)
 - **prereqs:** Blood on Crystal DLC; reach Second Twin encounter
 - **vector-binding:** `_overflow/` (deferred-to: DLC-research)
-- **enemy-tier:** 1
+- **enemy-tier:** 3
 - **puzzle-tier:** 0
 - **spoiler:** dlc:Blood on Crystal
-_source: deep-research 2026-05-22 · capture: web_fetch · confidence: high · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: dlc:Blood on Crystal_
+
+_source: deep-research 2026-05-22 · capture: web_fetch · confidence: high · enemy-tier: 3 · puzzle-tier: 0 · category: mainline · spoiler: dlc:Blood on Crystal_
 
 ### For Chief's a Jolly Good Fellow
 
@@ -371,11 +374,12 @@ _source: deep-research 2026-05-22 · capture: web_fetch · confidence: high · e
 - **ponr-window:** n/a (final boss; story-required)
 - **prereqs:** Blood on Crystal DLC; reach the CHAR-les final fight
 - **vector-binding:** `_overflow/` (deferred-to: DLC-research)
-- **enemy-tier:** 1
+- **enemy-tier:** 3
 - **puzzle-tier:** 0
 - **spoiler:** dlc:Blood on Crystal
 - **notes:** CHAR-les also appears in Enchantment Under the Sea ("And now--CHAR-les"). This achievement is the Blood on Crystal final boss fight specifically.
-_source: deep-research 2026-05-22 · capture: web_fetch · confidence: high · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: dlc:Blood on Crystal_
+
+_source: deep-research 2026-05-22 · capture: web_fetch · confidence: high · enemy-tier: 3 · puzzle-tier: 0 · category: mainline · spoiler: dlc:Blood on Crystal_
 
 ---
 
@@ -391,7 +395,7 @@ _source: deep-research 2026-05-22 · capture: web_fetch · confidence: high · e
 - **ponr-window:** chelomey_revisit (E51/E52) -- must choose E52b; E52a (walk-away) permanently skips the Twins fight and locks this achievement
 - **prereqs:** Reach chelomey_revisit (Ch.6); choose E52b
 - **vector-binding:** `nav/architecture.md` edges E52a/E52b/E53; `npcs/bosses.md` Twins entry; `sections/ch10_endgame.md`
-- **enemy-tier:** 2
+- **enemy-tier:** 3
 - **puzzle-tier:** 0
 - **spoiler:** story
 - **notes:** E52a (walk-away / "good" ending) has no corresponding achievement. E52b is described in architecture.md as the "canonical bad/main ending." Branch call: every player reaches the E52a/E52b dialogue (not progression), but only E52b triggers the achievement. Also note: Scanner achievement requires scanning both Twins during the E53 fight -- both Scanner and Murderous Beauty require E52b.
@@ -429,7 +433,7 @@ _source: deep-research 2026-05-22 · capture: web_fetch · confidence: high · e
 - **ponr-window:** arena_park boss fight at E21 -- one-shot window; no retry
 - **prereqs:** none (enter arena with no weapon shots fired)
 - **vector-binding:** `npcs/bosses.md` Hedgie entry; `dependencies.md` DEP-013; `nav/architecture.md` edge E21
-- **enemy-tier:** 1
+- **enemy-tier:** 5
 - **puzzle-tier:** 0
 - **spoiler:** progression
 - **notes:** Restriction: zero weapon use. Statues + Shok must deal all damage. DEP-013 confirms the one-shot constraint. Whether Polymer abilities (Telekinesis, Frostbite, Shok) count as "weapons" is unconfirmed [C:2] -- sources say "without firing any shots," implying projectile weapons only.
@@ -444,7 +448,7 @@ _source: deep-research 2026-05-22 · capture: web_fetch · confidence: high · e
 - **ponr-window:** lastochkin_theater_grounds boss fight (first Belyash encounter, E35/E36) -- one-shot window
 - **prereqs:** Zvezdochka or other melee weapon equipped
 - **vector-binding:** `npcs/bosses.md` Belyash entry; `dependencies.md` DEP-014; `nav/architecture.md` edge E36
-- **enemy-tier:** 1
+- **enemy-tier:** 5
 - **puzzle-tier:** 0
 - **spoiler:** progression
 - **notes:** Restriction: melee only. DEP-014 says "ranged weapon use forfeits." Whether Polymer abilities count as "ranged" is unconfirmed [C:2].
@@ -746,7 +750,7 @@ _source: deep-research 2026-05-22 · capture: web_fetch · confidence: high · e
 - **ponr-window:** Multiple windows. Critical: (1) must take E52b ending path to access Twins scan (E52a skips Twins fight permanently); (2) each boss is a one-time scan window. Scan all bosses on first encounter or the window is gone.
 - **prereqs:** Scanner ability (Polymer glove); E52b at chelomey_revisit to access Twins
 - **vector-binding:** `npcs/bosses.md` (all boss entries); `npcs/robots.md`; `npcs/mutants.md`; `dependencies.md` DEP-012
-- **enemy-tier:** 1
+- **enemy-tier:** 3
 - **puzzle-tier:** 0
 - **spoiler:** progression
 - **notes:** Source discrepancy: architecture.md Optional Content Registry says "38 enemy scans" vs daynglsgameguides "35 mob types." May reflect individual-encounter vs distinct-type counting. Confirm total in-game [C:2]. Practical note: Scanner and Murderous Beauty both require E52b -- do both in the same playthrough.
@@ -1207,11 +1211,12 @@ _source: deep-research 2026-05-22 · capture: web_fetch · confidence: high · e
 - **ponr-window:** n/a (story-required fight on main path)
 - **prereqs:** Enchantment Under the Sea DLC; reach `neptune_chelomey_ruins` (EutS-E2)
 - **vector-binding:** `nav/enchantment_under_sea.md` EutS-E2; `nav/architecture.md` §DLC -- Enchantment Under the Sea
-- **enemy-tier:** 1
+- **enemy-tier:** 3
 - **puzzle-tier:** 0
 - **spoiler:** dlc:enchantment-under-sea
 - **notes:** DLC attribution CONFIRMED by deep research (doctor 2026-05-27). The Robogirl is the first boss encountered in EutS, fought at `neptune_chelomey_ruins`. Story-required; cannot be missed.
-_source: Deep Research 2026-05-27 · capture: web_fetch · confidence: high · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: dlc:enchantment-under-sea_
+
+_source: Deep Research 2026-05-27 · capture: web_fetch · confidence: high · enemy-tier: 3 · puzzle-tier: 0 · category: mainline · spoiler: dlc:enchantment-under-sea_
 
 ---
 
@@ -1303,6 +1308,8 @@ No corpus-specific genre values declared. `meta` used for "The Motherland Does N
 
 **Canonical DLC breakdown:** Base 42 / Annihilation Instinct 9 / Trapped in Limbo 10 / Enchantment Under the Sea 8 / Blood on Crystal 13 = 82
 
+_source: deep-research 2026-05-22 · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
+
 | DLC scope | Canonical count | Corpus entries | Status |
 |---|---|---|---|
 | Base game | 42 | 42 | Resolved -- trigger, PoNR, vector-binding populated |
@@ -1311,7 +1318,11 @@ No corpus-specific genre values declared. `meta` used for "The Motherland Does N
 | Enchantment Under the Sea | 8 | 8 | **Resolved** -- doctor 2026-06-05: And now--CHAR-les attribution confirmed; Demonstration of Violence confirmed EutS-E2; all 8 triggers populated from primary sources. Count corrected from 6 to 8 (Moby Dick + Master of Survival re-attributed from TiL 2026-05-22). |
 | Blood on Crystal | 13 | 13 | Resolved -- all 13 achievements populated from gap-fill research (2026-05-22). |
 
+_source: deep-research 2026-05-22 · capture: web_fetch · confidence: high · enemy-tier: 3 · puzzle-tier: 0 · category: mainline · spoiler: story_
+
 **Base game completeness:** All 42 base game achievements resolved. Four stitch-edge pre-classifications confirmed: DEP-012 (Scanner/Twins), DEP-013 (Strike/Hedgie), DEP-014 (Chop Chop Chop/Belyash), DEP-021 (Maximum Strength/Klusha-Secateur).
+
+_source: deep-research 2026-05-22 · capture: web_fetch · confidence: high · enemy-tier: 5 · puzzle-tier: 0 · category: mainline · spoiler: story_
 
 **DLC corrections (2026-05-22):** Moby Dick and Master of Survival re-attributed from Trapped in Limbo to Enchantment Under the Sea per TrueAchievements DLC page cross-check. TiL canonical count is 10 (was over-counted at 11/12); EutS canonical count is 8 (was under-counted at 6).
 

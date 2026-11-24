@@ -155,7 +155,11 @@ See `../sections/missables.md` for the full DLC missable list.
 
 No hard soft-locks, but **8 of 13 achievements are missable** with **no chapter select**.
 
+_source: Deep Research 2026-05-27 · capture: web_fetch · confidence: high · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: dlc:blood-on-crystal_
+
 **CHAR-les boss first-attempt softlock (confirmed community report):** First attempt at the final boss has a confirmed softlock bug. If the fight freezes on first try, reload and re-attempt. Second attempt proceeds normally. See `../npcs/bosses.md` DLC 4 Final Boss entry.
+
+_source: Deep Research 2026-05-27 · capture: web_fetch · confidence: high · enemy-tier: 3 · puzzle-tier: 0 · category: mainline · spoiler: dlc:blood-on-crystal_
 
 **Crystal figurine #1 tracking bug:** Sometimes does not count. Reload from prior save if first figurine does not register.
 
@@ -165,6 +169,8 @@ No hard soft-locks, but **8 of 13 achievements are missable** with **no chapter 
 ## Carry-over
 
 Standalone campaign with its own save. The combat formula and glove carry over from base mechanically but no documented item carry-over into the base open-world game. [Structural inference -- verify]
+
+_source: Deep Research 2026-05-27 · capture: web_fetch · confidence: high · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: dlc:blood-on-crystal_
 
 ## Story connection
 
@@ -176,6 +182,8 @@ P-3 saves Sechenov's consciousness from the Massif and defeats CHAR-les. The 4-D
 
 Ending sets up **Atomic Heart 2** (announced at Summer Game Fest 2025) and the MMO-shooter spin-off **The Cube**. Note: Kolya is stabbed by CHAR-les via Nastya's hijacked polymer clone; victory is bittersweet, and a final beach scene shows the group ambushed again with one Twin catching the Beta Connector case mid-air.
 [Confirmed: 2 languages]
+
+_source: Deep Research 2026-05-27 · capture: web_fetch · confidence: high · enemy-tier: 3 · puzzle-tier: 0 · category: mainline · spoiler: dlc:blood-on-crystal_
 
 **Titanic film reference:** Community references a "Titanic" reference; plausibly tied to the submarine section and the Nastya/Kolya romantic scene (upper-deck beat). Direct "Jack & Rose"/Titanic homage NOT explicitly confirmed by sources. Strongest candidate: submarine/underwater romance framing. [Hypothesis -- unverified; no direct source confirmation]
 

@@ -46,10 +46,14 @@ ON by default. **Recommendation: OFF** for clarity in dark environments and text
 
 ### Depth of Field
 
-**Recommendation: OFF** for combat. DoF obscures boss AoE circles (Hedgie's red ring in particular is hard to see with DoF on).
+**Recommendation: OFF** for combat.
 
 _source: P1 deep research 2026-05-08 · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
 [Confirmed: PCGamingWiki, Steam guide]
+
+DoF obscures boss AoE circles (Hedgie's red ring in particular is hard to see with DoF on).
+
+_source: P1 deep research 2026-05-08 · capture: web_fetch · confidence: high · enemy-tier: 5 · puzzle-tier: 0 · category: mainline · spoiler: story_
 
 ### Ray Tracing (Patch 1.14.4.0+)
 

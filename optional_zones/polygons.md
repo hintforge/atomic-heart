@@ -39,9 +39,13 @@ _source: P1 deep research 2026-05-08 · capture: web_fetch · confidence: high �
 | **Polygon 9** | `testing_ground_9` | HAWK reactivation (clear sprout infestation via 4 sewer boilers via manhole) + camera hijack reveals shack near Lenin statue | Ch.3+ | always-available | Candle-throwing platform puzzle inside. NORA booth present. Kollektiv village area. |
 | **Polygon 10** | `testing_ground_10` | Volan camera tower hack | Ch.5 | always-available | One of the easier TGs. |
 | **Polygon 11** | `testing_ground_11` | Key Disk from walled compound NW of TG11 (HAWK maintenance → zipline in) + combination lock | Ch.4+ (post-Theater stage, before bridge PoNR) | always-available | Reachable from Solnechnaya side; do before crossing bridge or in Open World 2. Across from Theater. |
-| **Polygon 12** | `testing_ground_12` | "Petrov of Opera" quest complete | Ch.7+ (post-Theatre) | **⚠️ MISSABLE** — energy barrier drops during Hospital quest (Ch.5 only window for beach cave entrance) | NE side near Infirmary; Open World 2 only. Boss inside: Natasha-class [enemy-tier: 1]. See DEP-010. |
+| **Polygon 12** | `testing_ground_12` | "Petrov of Opera" quest complete | Ch.7+ (post-Theatre) | **⚠️ MISSABLE** — energy barrier drops during Hospital quest (Ch.5 only window for beach cave entrance) | NE side near Infirmary; Open World 2 only. See DEP-010. |
 
 _source: P1 deep research 2026-05-08 (Polygon 8 condition updated P3 2026-05-09; TG access detail from P1+P2) · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
+
+Polygon 12 note (boss names from enemy-tier 3, `warning_tiers.md`): boss inside, Natasha-class.
+
+_source: P1 deep research 2026-05-08 · capture: web_fetch · confidence: high · enemy-tier: 3 · puzzle-tier: 0 · category: mainline · spoiler: story_
 [Confirmed: 100pguides, Steam guide "Epic Polygons", walkthroughs.games; Polygon 8 condition confirmed: AltChar, GGRecon, Pro Game Guides, wotpack — 4 independent sources; TG access: gamerpillar, sportskeeda, gamerjournalist, atomic-heart.fandom.com/ru, vgtimes, cybersport.ru — 6 sources]
 
 ## Difficulty Notes
@@ -140,4 +144,9 @@ Detailed entry/exit, sequence, and loot for each Polygon:
 
 If a Polygon has no dedicated nav file yet, web-search before asking P-3 to describe it. Flag the gap and add the claim after.
 
+_source: P1 deep research 2026-05-08 · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
+
 > **Cross-system dependency** -- see `dependencies.md` DEP-010: Natasha-class boss weakness (jet ports + explosives + Shok stall) documented in `npcs/bosses.md` for the Theater stage encounter applies equally to TG12's Natasha variant.
+
+_source: P1 deep research 2026-05-08 · capture: web_fetch · confidence: high · enemy-tier: 5 · puzzle-tier: 0 · category: mainline · spoiler: story_
+

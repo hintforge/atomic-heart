@@ -281,7 +281,7 @@ _source: P1 deep research 2026-05-08 + live observation 2026-05-12 · capture: w
 | Electric | 6 Synthetic, 2 Supercon† | Heavy robotic units |
 
 †"Chem" = Chemistry/Chemicals; "Supercon" = Superconductors — web-source names, verify in-game.
-Enemy-class cartridge recommendations naming specific bosses are gated at enemy-tier: 1. Ask post-encounter.
+Enemy-class cartridge recommendations naming specific bosses are gated at enemy-tier: 3 (boss names and loadout, `warning_tiers.md`). Ask post-encounter.
 
 _source: Web sources 2026-05-12 · capture: web_fetch · confidence: medium · enemy-tier: 0 · puzzle-tier: 0 · spoiler: none_
 [The Loadout [16], Gameranx [17] — cartridge types confirmed; costs: medium (dual source)]
@@ -357,7 +357,14 @@ _source: Compass P3 deep research 2026-05-09 · capture: web_fetch · confidence
 ### Klusha (melee)
 
 - **Type:** Two-headed spear/oar (named for a large gull). Light attacks = fast double-hits. Heavy attack = downward harpoon thrust.
-- **Stats (qualitative):** Faster than Zvezdochka basic, lower per-hit damage. No stagger on light attacks (risky in duels with Mads). Best against BEA-D crowds; weak vs the Colossus boss.
+- **Stats (qualitative):** Faster than Zvezdochka basic, lower per-hit damage. No stagger on light attacks (risky in duels with Mads). Best against BEA-D crowds.
+
+_source: Compass P3 deep research 2026-05-09 · capture: web_fetch · confidence: medium · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: dlc:annihilation_instinct_
+
+- **Boss matchup:** weak vs the Colossus boss.
+
+_source: Compass P3 deep research 2026-05-09 · capture: web_fetch · confidence: medium · enemy-tier: 5 · puzzle-tier: 0 · category: mainline · spoiler: dlc:annihilation_instinct_
+
 - **Special attacks:** One special — downward harpoon thrust (charge with RMB). Basic = light double-strike.
 - **Acquisition:** Picked up from impaled robot at hotel exit after dialog with NORA — first weapon of the DLC.
 - **Does not persist to base game.**

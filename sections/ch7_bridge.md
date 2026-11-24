@@ -39,7 +39,11 @@ The bridge has two organic mutant encounters that can be **car-rammed for an ins
 
 Organic mutants on the bridge are Shok-resistant. Keep **melee + KS-23** (ideally fire-cartridge-modded) for this section. Energy weapons underperform against organics. See `items/builds.md`.
 
+_source: P1 deep research 2026-05-08 · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
+
 > **Cross-system dependency** -- see `dependencies.md` DEP-007: Plyusch weakness profile (fire/explosives/TK vulnerable; gunfire/freeze negligible) documented in `npcs/bosses.md` applies to the bridge organic encounters here.
+
+_source: P1 deep research 2026-05-08 · capture: web_fetch · confidence: high · enemy-tier: 5 · puzzle-tier: 0 · category: mainline · spoiler: story_
 
 ## After the bridge — Polygon 11
 

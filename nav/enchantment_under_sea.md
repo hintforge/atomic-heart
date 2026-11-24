@@ -34,9 +34,17 @@ _source: Deep Research 2026-05-27 · capture: web_fetch · confidence: high · e
 | `neptune_open_water` | Open underwater lake-bottom section | дно озера Лазурь | "stealth section", "Block B approach" | open-world (underwater) |
 | `neptune_block_b` | Block "B" / assembly shop & repair cabinets | Блок «Б», сборочный цех | "Eleanor/Samodelkin labs" | indoor-branching |
 | `neptune_city_of_dolphins` | City of Dolphins | город дельфинов | -- | indoor-linear |
-| `neptune_final_arena` | Final boss arena (Thalassophobia) | арена у главных ворот | "Moray fight" | cutscene/arena |
+| `neptune_final_arena` | Final arena (Thalassophobia) | арена у главных ворот | -- | cutscene/arena |
 
 [Confirmed: VGTimes EN/RU, ShowGamer, Fandom, cyber.sports.ru -- 2 languages]
+
+_source: Deep Research 2026-05-27 · capture: web_fetch · confidence: high · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: dlc:enchantment-under-sea_
+
+Zone notes, gated by `warning_tiers.md` (boss names from enemy-tier 3):
+
+- `neptune_final_arena`: canonical name Final boss arena (Thalassophobia); alias "Moray fight"
+
+_source: Deep Research 2026-05-27 · capture: web_fetch · confidence: high · enemy-tier: 3 · puzzle-tier: 0 · category: mainline · spoiler: dlc:enchantment-under-sea_
 
 ---
 
@@ -76,7 +84,13 @@ Note: English translations are from VGTimes/ShowGamer RU walkthroughs. Quest 8 (
 
 ## Entry point
 
-Separate campaign from the main menu (own difficulty selection). Narratively picks up directly after Trapped in Limbo's ending -- P-3 wakes beside the damaged Twin hull; Katya pierces his glove and rides inside it (replacing CHAR-les). Story prerequisite is narrative continuity with DLC #2 and the base game "longer" ending; no save import required. Fully isolated save slot.
+Separate campaign from the main menu (own difficulty selection). Narratively picks up directly after Trapped in Limbo's ending -- P-3 wakes beside the damaged Twin hull; Katya pierces his glove and rides inside it. Story prerequisite is narrative continuity with DLC #2 and the base game "longer" ending; no save import required. Fully isolated save slot.
+
+_source: Deep Research 2026-05-27 · capture: web_fetch · confidence: high · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: dlc:enchantment-under-sea_
+
+Katya, riding inside the glove, replaces CHAR-les.
+
+_source: Deep Research 2026-05-27 · capture: web_fetch · confidence: high · enemy-tier: 3 · puzzle-tier: 0 · category: mainline · spoiler: dlc:enchantment-under-sea_
 
 _[Narrative prerequisite carries spoiler: dlc:enchantment-under-sea -- deliver structural "main menu entry" info freely; gate narrative context]_
 [Released: January 28, 2025. Gameplay trailer premiered December 9, 2024 -- Confirmed: multiple sources]
@@ -170,6 +184,8 @@ No notable soft-locks reported. PSNProfiles rates it 2/10 difficulty, 0 glitched
 
 Standalone campaign with its own save and arsenal. No documented weapon carry-over to the base game. [Single source / structural inference -- verify on first run]
 
+_source: Deep Research 2026-05-27 · capture: web_fetch · confidence: high · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: dlc:enchantment-under-sea_
+
 ## Story connection
 
 [spoiler: dlc:enchantment-under-sea]
@@ -178,8 +194,10 @@ Direct sequel to Trapped in Limbo. P-3 + Katya escape Limbo, traverse destroyed 
 
 Note: designation "MOR-4Y/МУР-4Й" used in some community posts is wrong. Russian sources and Fandom wiki give **МУР-8Н4 / MO-R4Y "Мурена" (Moray)**.
 
-**The Twins:** Ekaterina/Katya's consciousness was split by Sechenov into the Left and Right robotic ballerina Twins. By EutS, Katya has reassembled into P-3's glove (the "Blesna"/Teardrop) and later takes control of one surviving Twin body to gain firepower. [Deliver post-encounter on player request; enemy-tier: 1]
+**The Twins:** Ekaterina/Katya's consciousness was split by Sechenov into the Left and Right robotic ballerina Twins. By EutS, Katya has reassembled into P-3's glove (the "Blesna"/Teardrop) and later takes control of one surviving Twin body to gain firepower. [Deliver post-encounter on player request; enemy-tier: 3]
 [Confirmed: Fandom wiki, 2 languages]
+
+_source: Deep Research 2026-05-27 · capture: web_fetch · confidence: high · enemy-tier: 3 · puzzle-tier: 0 · category: mainline · spoiler: dlc:enchantment-under-sea_
 
 ## What makes EutS stand out
 
@@ -188,7 +206,12 @@ Return to spectacular base-game FPS combat after the divisive platformer DLC #2.
 
 ## Common confusions
 
+_source: Deep Research 2026-05-27 · capture: web_fetch · confidence: high · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: dlc:enchantment-under-sea_
+
 - The final boss designation "MOR-4Y/МУР-4Й" used in some guides is wrong -- correct is МУР-8Н4 / MO-R4Y "Мурена" (Moray).
+
+_source: Deep Research 2026-05-27 · capture: web_fetch · confidence: high · enemy-tier: 3 · puzzle-tier: 0 · category: mainline · spoiler: dlc:enchantment-under-sea_
+
 - Polymorphs appear in DLC #4 Blood on Crystal, NOT in EutS.
 - Zone prefix is `neptune_*`, not `triton_complex_*` (Triton is a sub-complex name).
 - Quest 8 English name uncertain: "Train Ticket" or "Travel Pass" -- verify in-game.

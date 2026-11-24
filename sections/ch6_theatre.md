@@ -38,11 +38,11 @@ The Theatre encounter (`lastochkin_theatre_main`) is the one dungeon section whe
 
 A community mod restores **199 Char-les voice lines** cut in Patch 1.6.0.0 due to "excessive chatter" complaints. The Theatre chapter is where Char-les banter is densest. If you want the full intended audio experience, install the mod before this chapter.
 
-## Encounter information [enemy-tier: 1+ · spoiler: story]
+## Encounter information [enemy-tier: 3+ · spoiler: story]
 
-_[Theatre encounter details hidden at current enemy tier (0). These encounters have story context — classified spoiler:story. Raise enemy tier to 1 and story tier as needed to access.]_
+_[Theatre encounter details hidden at current enemy tier (0). These encounters have story context — classified spoiler:story. Raise enemy tier to 3 and story tier as needed to access.]_
 
-> ⚠️ **Missable achievement in theater grounds encounter** [enemy-tier: 1+] — one-shot achievement permanently forfeited if you use ranged weapons. See `dependencies.md` DEP-014 or raise enemy tier for details.
+> ⚠️ **Missable achievement in theater grounds encounter** [enemy-tier: 2+] — one-shot achievement permanently forfeited if you use ranged weapons. See `dependencies.md` DEP-014 or raise enemy tier for details.
 
 ## Lore context [category: lore · spoiler: story]
 

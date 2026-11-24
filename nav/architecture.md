@@ -76,7 +76,7 @@ _source: Compass/Deep Research 2026-05-08 · capture: web_fetch · confidence: h
 | vdnh_drill_mode | VDNH Drill Mode | Режим "Учения" | indoor-linear | Ch.3 |
 | sechenov_research_center_ext | Sechenov Research Center exterior | НИИ Сеченова (улица) | open-world (sub) | Ch.4 |
 | sechenov_research_center_int | Sechenov Research Center interior | НИИ Сеченова (внутри) | indoor-branching | Ch.4 |
-| lastochkin_theater_grounds | Theater grounds | Двор театра; Belyash arena | indoor-linear | Ch.4 |
+| lastochkin_theater_grounds | Theater grounds | Двор театра | indoor-linear | Ch.4 |
 | lastochkin_theater_int | Lastochkin / Plisetskaya Theater interior | Театр Ласточкина / Плисецкой | indoor-branching | Ch.4 |
 | theater_control_room | Theater Control Room | Аппаратная театра | indoor-linear | Ch.4 |
 | theater_stage | Theater Stage | Сцена театра | indoor-linear | Ch.4 |
@@ -89,7 +89,7 @@ _source: Compass/Deep Research 2026-05-08 · capture: web_fetch · confidence: h
 | academy_underwater | Academy of Consequences (underwater) | Академия Последствий | indoor-linear | Ch.6 |
 | academy_archive_room | Academy Archive Room | Архив (3 кинокатушки) | indoor-linear | Ch.6 |
 | chelomey_revisit | Chelomey City (revisit, lobby) | Челомей (возврат) | indoor-linear | Ch.6 |
-| sechenov_office_final | Sechenov's Office (Twins fight) | Финальный бой | indoor-linear | Ch.6 |
+| sechenov_office_final | Sechenov's Office | Финальный бой | indoor-linear | Ch.6 |
 | testing_ground_1 | Testing Ground 1 | Полигон 1 (Solnechnaya, west of Monorail) | testing-ground | Ch.3 (hatch) |
 | testing_ground_2 | Testing Ground 2 | Полигон 2 (near Boat Station sewer) | testing-ground | Ch.3 (hatch) |
 | testing_ground_6 | Testing Ground 6 | Полигон 6 | testing-ground | Ch.3 (hatch) |
@@ -100,6 +100,14 @@ _source: Compass/Deep Research 2026-05-08 · capture: web_fetch · confidence: h
 | testing_ground_12 | Testing Ground 12 | Полигон 12 (cave near hospital beach) | testing-ground | Ch.5 (hatch) — **MISSABLE** |
 
 _source: Compass/Deep Research 2026-05-08 · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
+
+Zone notes, gated by `warning_tiers.md` (boss names from enemy-tier 3):
+
+- lastochkin_theater_grounds: alias Belyash arena
+- sechenov_office_final: canonical name Sechenov's Office (Twins fight)
+
+_source: Compass/Deep Research 2026-05-08 · capture: web_fetch · confidence: high · enemy-tier: 3 · puzzle-tier: 0 · category: mainline · spoiler: story_
+
 Note: Testing Ground numbers 3, 4, 5, 7 do not exist in the base game (confirmed cut content, 6 EN+RU sources).
 
 ---
@@ -218,7 +226,6 @@ _source: Compass/Deep Research 2026-05-08 · capture: web_fetch · confidence: h
 | Testing Ground 12 | TG dungeon | pavlov_surgical_lab beach cave | energy barrier drops during Hospital quest | **Ch.5 only** — before E48 (Lighthouse) | Ch.5 | **missable** |
 | 72 Chirpers (Burning Ears) | collectible | every chapter | scan / pickup | per zone — clean before PoNR | per zone | **missable** in Vavilov / Forester / VDNH building / Theater / Pavlov; open-world chirpers always-available |
 | 53 Talking Deads (Necromancer) | collectible | every chapter | scan + interact | per zone — clean before PoNR | per zone | **missable** same windows as Chirpers |
-| 38 enemy scans (Scanner) | collectible | various | scan before kill | per encounter | scan all bosses | **missable** if boss dies unscanned; Twins require individual scans (Left + Right) |
 | 12 weapons crafted (Lord of War) | crafting | NORA stations | craft each once | any chapter | by Ch.6 | always-available (with materials) |
 | 24 Lootyagins (3 per TG) | chest | each TG interior | open all bronze/silver/gold chests | with each TG | along with TG | partly missable (TG8 + TG12 missable) |
 | 63 Blueprints | item | every chapter | chest pickup | per zone — clean before PoNR | per zone | **missable** (location-locked) |
@@ -230,6 +237,14 @@ _source: Compass/Deep Research 2026-05-08 · capture: web_fetch · confidence: h
 | Schematic lock (Zvezdochka blueprint) | puzzle | vdnh_atrium | blackboard solution | Ch.3 | Ch.3 | **missable** |
 
 _source: Compass/Deep Research 2026-05-08 · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
+
+The enemy-scan row names bosses and is listed separately here (boss names from enemy-tier 3, `warning_tiers.md`).
+
+| Content | Type | Parent Zone | Unlock Condition | Access Window | Rec. Chapter | Failure Mode |
+|---|---|---|---|---|---|---|
+| 38 enemy scans (Scanner) | collectible | various | scan before kill | per encounter | scan all bosses | **missable** if boss dies unscanned; Twins require individual scans (Left + Right) |
+
+_source: Compass/Deep Research 2026-05-08 · capture: web_fetch · confidence: high · enemy-tier: 3 · puzzle-tier: 0 · category: mainline · spoiler: story_
 
 Boss kill-tactic rows are listed separately here: boss names from enemy-tier 3, tactics from enemy-tier 5 (`warning_tiers.md`).
 
@@ -452,11 +467,18 @@ _source: Compass/Deep Research 2026-05-09 (P3) · capture: web_fetch · confiden
 |---|---|---|---|
 | Meddlesome Lady (intro) | Назойливая леди | escape hotel; rejoin glove; receive Klusha | `dlc_aoi_intro_cinematic` → `dlc_aoi_lyogkaya_hotel` |
 | Surface Approach | Поверхностный метод | "Magnetokhod BUS-A"; "Scarlet Flower"; "Life is Like a Box of Chocolates" | `dlc_aoi_flooded_village` → `dlc_aoi_freedom_park` → `dlc_aoi_greenhouse_sector` → `dlc_aoi_lebedev_lab` → `dlc_aoi_mendeleev_memorial` |
-| It's Complicated | Комплексный подход | "Divide Et Impera!"; collect 5 underground BEA-Ds | `dlc_aoi_mendeleev_hangar` → `dlc_aoi_mendeleev_complex` → `dlc_aoi_radiochemical_lab` → BEA-D Colossus (statue arena) |
-| Desperate Measures / Eleanor's Heart | Отчаянные меры / Сердце Элеоноры | recombination puzzle; second BEA-D Colossus; ending | `dlc_aoi_lebedev_lab` (return) → `dlc_aoi_mendeleev_memorial` → `dlc_aoi_noras_cradle` |
+| It's Complicated | Комплексный подход | "Divide Et Impera!"; collect 5 underground BEA-Ds | `dlc_aoi_mendeleev_hangar` → `dlc_aoi_mendeleev_complex` → `dlc_aoi_radiochemical_lab` → statue arena (see boss notes) |
+| Desperate Measures / Eleanor's Heart | Отчаянные меры / Сердце Элеоноры | recombination puzzle; ending (see boss notes) | `dlc_aoi_lebedev_lab` (return) → `dlc_aoi_mendeleev_memorial` → `dlc_aoi_noras_cradle` |
 
 _source: Compass/Deep Research 2026-05-09 (P3) · capture: web_fetch · confidence: high · enemy-tier: 1 · puzzle-tier: 1 · category: mainline · spoiler: dlc:annihilation-instinct_
 Sub-quest names that reveal story beats carry enemy-tier: 3 — gate accordingly.
+
+Boss notes for the missions above, gated by `warning_tiers.md` (boss names from enemy-tier 3):
+
+- It's Complicated: BEA-D Colossus (statue arena)
+- Desperate Measures / Eleanor's Heart: second BEA-D Colossus
+
+_source: Compass/Deep Research 2026-05-09 (P3) · capture: web_fetch · confidence: high · enemy-tier: 3 · puzzle-tier: 0 · category: mainline · spoiler: dlc:annihilation-instinct_
 
 ### DLC Edges
 
