@@ -31,4 +31,8 @@ Community recommends **disabling Depth of Field** for the arena zone — AoE cir
 
 _[Arena encounter information hidden at current enemy tier (0). Raise enemy tier to 3 to receive approach tips before entering the arena.]_
 
+_source: P1 deep research 2026-05-08 · capture: web_fetch · confidence: high · enemy-tier: 2 · puzzle-tier: 0 · category: mainline · spoiler: late-game_
+
 > ⚠️ **Missable achievement in this encounter** [enemy-tier: 2+] — there is a one-shot achievement in the arena fight that is permanently forfeited if you use the wrong approach. See `dependencies.md` DEP-013 or raise enemy tier for details.
+
+_source: P1 deep research 2026-05-08 · capture: web_fetch · confidence: high · enemy-tier: 2 · puzzle-tier: 0 · category: mainline · spoiler: late-game_

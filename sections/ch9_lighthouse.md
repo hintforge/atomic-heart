@@ -39,10 +39,14 @@ Before triggering "Sky's the Limit":
 
 ## Main path summary
 
-After triggering "Sky's the Limit": Beach + Lighthouse approach → progression gate encounter → one-way underwater elevator (linear narrative zone — no combat, long atmospheric ride) → Kollektiv 2.0 test cells → Granny Zina's armory.
+After triggering "Sky's the Limit": Beach + Lighthouse approach → one-way underwater elevator (linear narrative zone — no combat, long atmospheric ride) → Kollektiv 2.0 test cells → Granny Zina's armory.
 
 _source: P1 deep research 2026-05-08 · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: late-game_
 [Confirmed: walkthroughs.games, StopGame, Fandom]
+
+A progression gate encounter sits between the Beach + Lighthouse approach and the underwater elevator.
+
+_source: P1 deep research 2026-05-08 · capture: web_fetch · confidence: high · enemy-tier: 2 · puzzle-tier: 0 · category: mainline · spoiler: late-game_
 
 ## Underwater elevator
 

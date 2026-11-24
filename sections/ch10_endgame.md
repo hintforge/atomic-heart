@@ -36,6 +36,8 @@ If going for 100% achievements, this can save a full Armageddon playthrough.
 
 During the Ch.10 final encounter, **scan both combatants individually** using your scanner. This is the only valid window for the "Scanner" achievement — an earlier opportunity in the prologue does NOT count. See `dependencies.md` DEP-012.
 
+_source: P1 deep research 2026-05-08 · capture: web_fetch · confidence: high · enemy-tier: 3 · puzzle-tier: 0 · category: mainline · spoiler: story_
+
 ### No more missable items
 
 There are no missable items or collectibles in Ch.10. Everything that could be missed was in earlier chapters.

@@ -7,10 +7,14 @@
 
 ## Main path summary
 
-Four-zone indoor dungeon (Infirmary → Hospital → Morgue → Distribution Center). Heavy on organic encounter mechanics. The cookie-key mechanic introduces a new loot interaction. One-and-done exit: **Pavlov never re-opens**.
+Four-zone indoor dungeon (Infirmary → Hospital → Morgue → Distribution Center). The cookie-key mechanic introduces a new loot interaction. One-and-done exit: **Pavlov never re-opens**.
 
 _source: P1 deep research 2026-05-08 · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: progression_
 [Confirmed: walkthroughs.games, StopGame, Fandom, Gameranx]
+
+Pavlov is heavy on organic encounter mechanics.
+
+_source: P1 deep research 2026-05-08 · capture: web_fetch · confidence: high · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: progression_
 
 ## ⚠️ Missables — ALL MISSABLE on exit (latest safe: Ch.8)
 
@@ -35,24 +39,32 @@ _source: P1 deep research 2026-05-08 · capture: web_fetch · confidence: high �
 
 ## Cookie-key mechanic
 
-The "cookie-key" is literally a key baked inside a cookie. When you defeat the Ivy/Plyusch organic enemy holding a cookie-key, you **do not loot the corpse directly** — instead, loot the cabinet the Ivy emerged from. The key is inside the cookie in that cabinet.
+The "cookie-key" is literally a key baked inside a cookie. When you defeat the organic enemy holding a cookie-key, you **do not loot the corpse directly** — instead, loot the cabinet the enemy emerged from. The key is inside the cookie in that cabinet.
 
-_source: P1 deep research 2026-05-08 · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 1 · category: mainline · spoiler: none_
+_source: P1 deep research 2026-05-08 · capture: web_fetch · confidence: high · enemy-tier: 1 · puzzle-tier: 1 · category: mainline · spoiler: progression_
 [Confirmed: AltChar, walkthroughs.games, Fandom]
+
+The organic enemy that holds a cookie-key is an Ivy (Plyusch).
+
+_source: P1 deep research 2026-05-08 · capture: web_fetch · confidence: high · enemy-tier: 3 · puzzle-tier: 1 · category: mainline · spoiler: story_
 
 ## Tube caution (Surgical Lab)
 
 In the Surgical Lab: scythe-arm robots ("Mothers") respawn from disabled tubes if you **shoot the tubes**. Do not shoot inactive tubes — especially near organic enemies in dormant state, as shooting a nearby tube can wake them. [translated from: ru — playbestgames]
 
-_source: P1 deep research 2026-05-08 · capture: web_fetch · confidence: medium · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
+_source: P1 deep research 2026-05-08 · capture: web_fetch · confidence: medium · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: progression_
 
 ## Controls note — Auto-QTE
 
 **Turn on Auto-QTE** (Settings > Accessibility, Patch 1.14.4.0) if not already done. Organic enemy grapples are 4-input QTEs — missing any input is an instant kill regardless of HP on any difficulty. Auto-QTE eliminates this entirely.
 
+_source: P1 deep research 2026-05-08 · capture: web_fetch · confidence: medium · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: progression_
+
 ## Build note
 
-**Polymer Shield (Sponge Effect)** — converts blocked Ivy whip damage to suit energy — is a documented Armageddon-survival strategy for Pavlov. Multiple community Armageddon clears require it here. If you're on Armageddon and struggling, see `items/builds.md` Build A / Polymer Shield tree in `items/abilities.md`.
+**Polymer Shield (Sponge Effect)** — converts blocked organic-enemy whip damage to suit energy — is a documented Armageddon-survival strategy for Pavlov. Multiple community Armageddon clears require it here. If you're on Armageddon and struggling, see `items/builds.md` Build A / Polymer Shield tree in `items/abilities.md`.
+
+_source: P1 deep research 2026-05-08 · capture: web_fetch · confidence: medium · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: progression_
 
 ## Before exiting (stock check)
 

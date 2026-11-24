@@ -32,7 +32,11 @@ Complete these Polygons in Ch.5 before triggering the Theatre (Ch.6):
 - **Polygon 10** — camera tower hack; do now
 
 Leave these for **Open World 2** (after Pavlov, Ch.7–8 window):
+
 - **Polygon 9** — camera hack after clearing sprout infestation (sewer boilers); single entry in village center. No Pavlov key required. [CORRECTED live 2026-05-16 — prior note "cookie-key door from Pavlov" was unsourced and wrong]
+
+_source: P1 deep research 2026-05-08 · capture: web_fetch · confidence: high · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: progression_
+
 - **Polygon 11** — accessible Ch.7+ only (post-bridge keycard)
 - **Polygon 12** — unlocks only after "Petrov of Opera" quest complete (post-Theatre)
 

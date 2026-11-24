@@ -42,7 +42,11 @@ A community mod restores **199 Char-les voice lines** cut in Patch 1.6.0.0 due t
 
 _[Theatre encounter details hidden at current enemy tier (0). These encounters have story context — classified spoiler:story. Raise enemy tier to 3 and story tier as needed to access.]_
 
+_source: P1 deep research 2026-05-08 · capture: web_fetch · confidence: high · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: progression_
+
 > ⚠️ **Missable achievement in theater grounds encounter** [enemy-tier: 2+] — one-shot achievement permanently forfeited if you use ranged weapons. See `dependencies.md` DEP-014 or raise enemy tier for details.
+
+_source: P1 deep research 2026-05-08 · capture: web_fetch · confidence: high · enemy-tier: 2 · puzzle-tier: 0 · category: mainline · spoiler: late-game_
 
 ## Lore context [category: lore · spoiler: story]
 

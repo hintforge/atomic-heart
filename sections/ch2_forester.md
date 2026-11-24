@@ -7,10 +7,14 @@
 
 ## Main path summary
 
-First open-air zone after Vavilov. Introduces Granny Zina and the Volan camera control tower. Mostly cinematic — no major combat unless you trigger a Dandelion camera alert. End of this chapter: board the train at the station (one-way to VDNH, permanent).
+First open-air zone after Vavilov. Introduces Granny Zina and the Volan camera control tower. Mostly cinematic. End of this chapter: board the train at the station (one-way to VDNH, permanent).
 
 _source: P1 deep research 2026-05-08 · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
 [Confirmed: Wotpack, walkthroughs.games]
+
+No major combat in Forester's unless you trigger a Dandelion camera alert.
+
+_source: P1 deep research 2026-05-08 · capture: web_fetch · confidence: high · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: progression_
 
 ## ⚠️ Missables (latest safe: Ch.2 — before boarding train)
 

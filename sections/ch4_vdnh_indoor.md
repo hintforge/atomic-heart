@@ -43,6 +43,8 @@ Enable **subtitle background** (added Patch 1.3.4, Settings > Accessibility) if 
 
 _[Encounter information for VDNH hidden at current enemy tier (0). Raise enemy tier to 3+ to receive tips.]_
 
+_source: P1 deep research 2026-05-08 · capture: web_fetch · confidence: high · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: progression_
+
 ## Lore context [category: lore · spoiler: story]
 
 _[Lore content hidden by default. Say "show me the lore for this chapter" to unlock.]_

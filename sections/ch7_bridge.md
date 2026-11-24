@@ -7,10 +7,14 @@
 
 ## Main path summary
 
-Vehicle gauntlet across the bridge connecting the Theatre side to the Pavlov side of the facility. The bridge has organic mutant encounters. Polygon 11 opens immediately after the bridge. Polygon 12 becomes accessible only after Pavlov is complete.
+Vehicle gauntlet across the bridge connecting the Theatre side to the Pavlov side of the facility. Polygon 11 opens immediately after the bridge. Polygon 12 becomes accessible only after Pavlov is complete.
 
 _source: P1 deep research 2026-05-08 · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
 [Confirmed: Wotpack, walkthroughs.games, portalvirtualreality; translated from: ru]
+
+The bridge has organic mutant encounters.
+
+_source: P1 deep research 2026-05-08 · capture: web_fetch · confidence: high · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: progression_
 
 ## ⚠️ Missables (latest safe: before final bridge trigger)
 
@@ -31,6 +35,8 @@ Two cars available at the bridge start. **Moskvitch recommended** — highest HP
 
 The bridge has two organic mutant encounters that can be **car-rammed for an instant kill** — saves 5+ minutes of melee fighting. Ram them before they reach you.
 
+_source: P1 deep research 2026-05-08 · capture: web_fetch · confidence: high · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: progression_
+
 ## Settings note
 
 **Disable motion blur** before the bridge if you haven't already. Driving the Moskvitch with default motion blur is the most-reported motion-sickness complaint in the game. See `settings.md`.
@@ -39,7 +45,7 @@ The bridge has two organic mutant encounters that can be **car-rammed for an ins
 
 Organic mutants on the bridge are Shok-resistant. Keep **melee + KS-23** (ideally fire-cartridge-modded) for this section. Energy weapons underperform against organics. See `items/builds.md`.
 
-_source: P1 deep research 2026-05-08 · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
+_source: P1 deep research 2026-05-08 · capture: web_fetch · confidence: high · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: progression_
 
 > **Cross-system dependency** -- see `dependencies.md` DEP-007: Plyusch weakness profile (fire/explosives/TK vulnerable; gunfire/freeze negligible) documented in `npcs/bosses.md` applies to the bridge organic encounters here.
 
