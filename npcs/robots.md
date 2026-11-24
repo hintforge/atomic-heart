@@ -327,15 +327,15 @@ Icons in `sprites/icons/` are game-extracted PNGs. To reproduce: install [FModel
 | `sprites/icons/T_Pobeg.png` | Sprout | "Побег" = sprout (RU) |
 | `sprites/icons/T_Mutant.png` | Mother | Naming quirk -- nest uses "Mutant" icon |
 | `sprites/icons/T_Nurse.png` | Mutant | Sprout-inhabited corpse |
-| `sprites/icons/T_BigMutant.png` | Mutant (large) | Size variant |
 
 _source: web images + FModel extracts 2026-05-13 · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
 
-The shared boss-name icon is listed separately (boss names from enemy-tier 3, `warning_tiers.md`).
+The shared boss-name icons are listed separately (boss names from enemy-tier 3, `warning_tiers.md`).
 
 | Icon file | Enemy | Internal name note |
 |---|---|---|
 | `sprites/icons/T_Plyush.png` | Plyusch | Direct |
+| `sprites/icons/T_BigMutant.png` | Mutant (large) | Size variant |
 
 _source: web images + FModel extracts 2026-05-13 · capture: web_fetch · confidence: high · enemy-tier: 3 · puzzle-tier: 0 · category: mainline · spoiler: story_
 
