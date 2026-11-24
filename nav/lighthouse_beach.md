@@ -10,7 +10,11 @@
 
 _source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confidence: medium · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
 
-- **Exit (E49):** Defeat the large-creature encounter + sit on the TV chair in the lighthouse interior → academy_underwater. **PERMANENT** — Academy of Consequences begins.
+- **Exit (E49):** Sit on the TV chair in the lighthouse interior → academy_underwater. **PERMANENT** — Academy of Consequences begins.
+
+_source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confidence: medium · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
+
+The exit also requires defeating the large-creature encounter.
 
 _source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confidence: medium · enemy-tier: 2 · puzzle-tier: 0 · category: mainline · spoiler: late-game_
 

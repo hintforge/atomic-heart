@@ -10,7 +10,11 @@
 
 _source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confidence: medium · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
 
-- **Exit (E36):** Through the basement ventilation crawl after the grounds boss fight → lastochkin_theater_int. Chapter-bound — no return to sechenov_research_center_int once theater is entered.
+- **Exit (E36):** Through the basement ventilation crawl → lastochkin_theater_int. Chapter-bound — no return to sechenov_research_center_int once theater is entered.
+
+_source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confidence: medium · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
+
+The exit comes after the grounds boss fight.
 
 _source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confidence: medium · enemy-tier: 2 · puzzle-tier: 0 · category: mainline · spoiler: late-game_
 
