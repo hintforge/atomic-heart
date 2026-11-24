@@ -68,7 +68,9 @@ _source: gameranx Plyusch tactics, daynglsgameguides — 4 sources · capture: w
 - **Vulnerable to:** fire, explosives, telekinesis.
 - **Best combo:** Polymer Jet + Fat Boy (if available); fire-cartridge melee as fallback.
 - **Community tip:** fire cartridge + Zvezdochka + timed dodges is widely cited as the easiest approach. The Zvezdochka's damage output with fire cartridge makes the fight straightforward once dodge timing is learned.
-  _source: r/atomicheart/comments/11tazdc · capture: manual_paste · confidence: medium · enemy-tier: 5 · puzzle-tier: 0 · category: mainline · spoiler: story_
+
+_source: r/atomicheart/comments/11tazdc · capture: manual_paste · confidence: medium · enemy-tier: 5 · puzzle-tier: 0 · category: mainline · spoiler: story_
+
 - Plyusch also appears as a mini-boss inside Testing Ground 9, and three copies ambush P-3 at the Pavlov Bridge (Ch.5). Same weaknesses apply across all encounters.
 
 > **Cross-system dependency** — see `dependencies.md` DEP-007: Plyusch weakness (fire/explosives/TK; not gunfire/freeze) is independently confirmed in `sections/ch7_bridge.md`. Carry fire-cartridge KS-23 to Ch.7 bridge.
@@ -212,6 +214,7 @@ _source: r/atomicheart/comments/1tkw1i0 (comments by nate_mcrock91 score 4, Cybe
 - **Community verdict:** considered significantly easier than Moray despite being the narrative climax boss. Described as "anticlimactic" by multiple commenters.
 - **Strategy:** ignore tentacles and blobs -- they are not the priority. Focus all fire on the face. Watch platform edges (falling off is the primary failure mode). Shotgun recommended for face shots.
 - **Known bug -- first-attempt softlock:** The first attempt at this boss has a confirmed softlock bug. If the fight freezes or locks up on first try, reload and re-attempt. The second attempt proceeds normally.
-  _source: r/atomicheart/comments/1suhzwz (OP report); r/atomicheart/comments/1tkw1i0 · capture: manual_paste · confidence: medium · enemy-tier: 5 · puzzle-tier: 0 · category: mainline · spoiler: dlc:blood_on_crystal_
+
+_source: r/atomicheart/comments/1suhzwz (OP report); r/atomicheart/comments/1tkw1i0 · capture: manual_paste · confidence: medium · enemy-tier: 5 · puzzle-tier: 0 · category: mainline · spoiler: dlc:blood_on_crystal_
 
 _source: r/atomicheart/comments/1tkw1i0 (comments by nate_mcrock91 score 4, Cyberbreaker2004 score 10, TheFurtivePhysician score 4; reddit_spoiler_tag: yes) · capture: manual_paste · confidence: medium · enemy-tier: 5 · puzzle-tier: 0 · category: mainline · spoiler: dlc:blood_on_crystal_
