@@ -1,7 +1,7 @@
 # Enemies — Mutants
 
 **status:** research-integrated
-**last_reconciled:** 2026-05-14
+**last_reconciled:** 2026-11-24
 **research_run:** P4 research 2026-05-14
 
 > **Enemy tier 0 is active.** This file exists for post-encounter reference only. Do NOT volunteer enemy names, tactics, or weaknesses preemptively. After P-3 encounters an enemy and asks, full post-encounter guidance is permitted.
@@ -41,9 +41,9 @@ _source: High Ground Gaming, EN Fandom · capture: web_fetch · confidence: high
 ---
 
 ## Plyusch (standard encounter)
-*Recurring as standard enemy in VDNH + Range 9 + "Bloody Courier" side quest.*
+*Recurs after the first boss fight in VDNH: Range 9, the "Bloody Courier" side quest, and Pavlov. Sources disagree on whether these later encounters are standard enemies or repeat scripted fights (see `npcs/bosses.md`).*
 
-_source: GameRant Plyusch guide, High Ground Gaming · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
+_source: GameRant Plyusch guide, High Ground Gaming; segmentnext atomic-heart-plyusch, wotpack.ru Plyusch boss page (later encounters described as repeat boss fights) · capture: web_fetch · confidence: medium · enemy-tier: 3 · puzzle-tier: 0 · category: mainline · spoiler: story_
 [Confirmed: 2 sources]
 
 > Boss heads-up: in Pavlov it is fought as a mini-boss.
@@ -55,6 +55,8 @@ _source: GameRant Plyusch guide, High Ground Gaming · capture: web_fetch · con
 - **Attacks:** Lunge (orange-ring tell — dodge sideways), straight-line slingshot leap, sweeping melee swipes.
 - **Weaknesses:** **Resistant to gunfire and Shok.** Vulnerable to Fire cartridge + fast melee. Polymeric Shield neutralizes and reflects melee swipes. Adrenaline capsule recommended for extended dodge windows.
 - **Drops:** Biomaterials, Chemistry (frequent), Energy Module (frequent).
+
+_source: GameRant Plyusch guide, High Ground Gaming · capture: web_fetch · confidence: high · enemy-tier: 3 · puzzle-tier: 0 · category: mainline · spoiler: story_
 
 > See `npcs/bosses.md` for the first-encounter boss version at `vdnh_drill_mode` (Ch.3).
 

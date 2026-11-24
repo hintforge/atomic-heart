@@ -1,7 +1,7 @@
 # Enemies — Boss Reference
 
 **status:** research-integrated
-**last_reconciled:** 2026-05-08
+**last_reconciled:** 2026-11-24
 **research_run:** P1 (Compass/Deep Research 2026-05-08)
 
 > **Enemy tier 0 is active.** This file exists for post-encounter reference only. Do NOT volunteer boss names, tactics, or existence preemptively. After P-3 encounters a boss and asks for help, full post-encounter guidance is permitted from this file.
@@ -38,7 +38,6 @@ _source: gameranx blueprints, gamerant hardest-enemies — 2 sources · capture:
 
 ## Hedgie / HOG-7
 `[std-variant: confirmed]` -- a non-boss Hedgie appears in Vavilov Algae Workshop (Ch.1); EN wiki conflates the two. The Ch.3 HOG-7 is the scripted boss fight. Standard Hedgie variants may appear elsewhere as farmable enemies.
-
 **Zone:** `arena_park` (Ch.3)
 **Visual ID:** `sprites/hedgie.jpg` | Icon: `sprites/icons/T_Ejiha.png` (internal: T_Ejiha -- "ёж" = hedgehog, RU)
 
@@ -47,6 +46,8 @@ _source: PSNProfiles, daynglsgameguides, walkthroughs.games glava-3, pcgamesn �
 - Rolling sphere boss with coil-based attack pattern.
 - **Weakness:** Use Shok ability on the central pedestal — this causes statues to rise from green floor cylinders. Position Hedgie to roll into a statue; it becomes stunned and exposes coils for damage.
 - **Missable achievement — Strike:** To unlock "Strike," you must NOT fire any weapon at Hedgie. Let the statues deal all damage. On low difficulty, weapon hits will kill Hedgie before all statues are destroyed, forfeiting the achievement. This is a one-shot opportunity — first encounter only.
+
+_source: PSNProfiles, daynglsgameguides, walkthroughs.games glava-3, pcgamesn — 5 sources · capture: web_fetch · confidence: high · enemy-tier: 5 · puzzle-tier: 0 · category: mainline · spoiler: story_
 
 > **Cross-system dependency** — see `dependencies.md` DEP-013: "Strike" achievement → zero weapon use, first encounter only.
 - **Disambiguation:** A different Hedgie variant appears earlier in the Vavilov Algae Workshop (Ch.1) — it smashes a window into the workshop. That is NOT this boss; English wiki conflates them.
@@ -57,7 +58,6 @@ _source: PSNProfiles, daynglsgameguides, walkthroughs.games glava-3, pcgamesn �
 
 ## Plyusch (first encounter, VDNH Drill Mode)
 `[std-variant: unknown]` -- appears in multiple encounters (TG9 mini-boss, Ch.7 Pavlov Bridge x3) but all are scripted fights. No confirmed open-world farmable variant in corpus.
-
 **Zone:** `vdnh_drill_mode` (Ch.3)
 **Visual ID:** `sprites/plyusch.jpg` | Icon: `sprites/icons/T_Plyush.png`
 
@@ -71,7 +71,9 @@ _source: gameranx Plyusch tactics, daynglsgameguides — 4 sources · capture: w
 
 _source: r/atomicheart/comments/11tazdc · capture: manual_paste · confidence: medium · enemy-tier: 5 · puzzle-tier: 0 · category: mainline · spoiler: story_
 
-- Plyusch also appears as a mini-boss inside Testing Ground 9, and three copies ambush P-3 at the Pavlov Bridge (Ch.5). Same weaknesses apply across all encounters.
+- Plyusch also appears as a mini-boss inside Testing Ground 9, and three copies ambush P-3 at the Pavlov Bridge (Ch.7). Same weaknesses apply across all encounters.
+
+_source: gameranx Plyusch tactics, daynglsgameguides — 4 sources; chapter per `sections/ch7_bridge.md` · capture: web_fetch · confidence: high · enemy-tier: 5 · puzzle-tier: 0 · category: mainline · spoiler: story_
 
 > **Cross-system dependency** — see `dependencies.md` DEP-007: Plyusch weakness (fire/explosives/TK; not gunfire/freeze) is independently confirmed in `sections/ch7_bridge.md`. Carry fire-cartridge KS-23 to Ch.7 bridge.
 
@@ -81,7 +83,6 @@ _source: gameranx Plyusch tactics, daynglsgameguides — 4 sources · capture: w
 
 ## Belyash (Theater Grounds)
 `[std-variant: CONFIRMED]` -- after the theater fight, Belyash respawns as a rare standard enemy in the open world, spawned from MTU-7 Bumblebee carriers (see new Fandom claim below). The earlier `[std-variant: suspected]` flag is now resolved.
-
 **Zone:** `lastochkin_theater_grounds` (Ch.4)
 **Full designation:** MA-9 Belyash (Fandom canonical name)
 **Visual ID:** `sprites/belyash.jpg` | Icon: `sprites/icons/T_Belyash.png` | Backup: `sprites/belyash_2.jpg`
@@ -91,6 +92,8 @@ _source: PSNProfiles — 3 sources · capture: web_fetch · confidence: high · 
 - Tank-type boss fought outside the theater.
 - **Phase 2:** Fires a flamethrower from its bulbous head — stay at a side angle to avoid the cone.
 - **Missable achievement — Chop Chop Chop:** Kill Belyash using only melee weapons on the first encounter. Using any ranged weapon forfeits this achievement permanently. One-shot opportunity.
+
+_source: PSNProfiles — 3 sources · capture: web_fetch · confidence: high · enemy-tier: 5 · puzzle-tier: 0 · category: mainline · spoiler: story_
 
 > **Cross-system dependency** — see `dependencies.md` DEP-014: "Chop Chop Chop" → melee only, first encounter only.
 
@@ -113,7 +116,6 @@ _source: https://atomicheart.fandom.com/wiki/MA-9_Belyash · capture: mediawiki_
 
 ## Natasha (Theater Stage / first encounter)
 `[std-variant: suspected]` -- "Natasha-class variant" appears as TG12 boss (a second scripted fight, not a standard enemy). Research drop sources list Natasha as a farmable Microelectronics/Superconductor source -- this likely refers to a standard Natasha-type enemy distinct from both boss encounters. Not confirmed in corpus; verify in-game.
-
 **Zone:** `theater_stage` (Ch.4)
 **Visual ID:** `sprites/natasha.jpg` | Icon: `sprites/icons/T_Natasha.png` | Backup: `sprites/natasha_2.jpg`
 
@@ -124,6 +126,8 @@ _source: pcgamesn bosses — 3 sources · capture: web_fetch · confidence: high
 - Shok ability stalls Natasha temporarily.
 - A Natasha-class variant also appears as the boss inside Testing Ground 12 (Ch.5). > **Cross-system dependency** — see `dependencies.md` DEP-010: Natasha weakness (jet ports + explosives + Shok stall) applies equally to TG12 variant — confirmed independently in `optional_zones/polygons.md`.
 
+_source: pcgamesn bosses — 3 sources · capture: web_fetch · confidence: high · enemy-tier: 5 · puzzle-tier: 0 · category: mainline · spoiler: story_
+
 > **Cross-system dependency** — see `dependencies.md` DEP-018: LUC-1 Owls in this encounter respawn infinitely until Natasha is killed — focus Natasha first; Owls clear themselves.
 
 _source: pcgamesn bosses — 3 sources · capture: web_fetch · confidence: high · enemy-tier: 5 · puzzle-tier: 0 · category: mainline · spoiler: story_
@@ -132,7 +136,6 @@ _source: pcgamesn bosses — 3 sources · capture: web_fetch · confidence: high
 
 ## Dewdrop
 `[std-variant: unknown]` -- only one encounter documented in corpus (lighthouse_beach, Ch.6). Research lists Dewdrop as a Microelectronics/Superconductor drop source; may refer to a standard variant that appears later. Verify in-game.
-
 **Zone:** `lighthouse_beach` (Ch.6)
 **Visual ID:** `sprites/dewdrop.jpg` | No InfoIcon found
 
@@ -156,6 +159,8 @@ _source: walkthroughs.games endings, dualshockers, sportskeeda — 5 sources · 
 
 - Two distinct bosses fought sequentially: Left twin alone in the lobby, then both Left + Right in the glass plane room.
 - **Missable achievement — Scanner:** Scanning Left and Right twins **individually** during the fight is required for the Scanner achievement. This is the final opportunity to scan them — their earlier appearance in the Chelomey prologue does NOT count.
+
+_source: walkthroughs.games endings, dualshockers, sportskeeda — 5 sources · capture: web_fetch · confidence: high · enemy-tier: 5 · puzzle-tier: 0 · category: mainline · spoiler: story_
 
 > **Cross-system dependency** — see `dependencies.md` DEP-012: "Scanner" → Ch.10 fight only; prologue appearance does not register.
 - Lore context: [spoiler:story — withheld at story tier 3; raise story tier to reveal]
