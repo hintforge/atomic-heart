@@ -84,13 +84,13 @@ Note: English translations are from VGTimes/ShowGamer RU walkthroughs. Quest 8 (
 
 ## Entry point
 
-Separate campaign from the main menu (own difficulty selection). Narratively picks up directly after Trapped in Limbo's ending -- P-3 wakes beside the damaged Twin hull; Katya pierces his glove and rides inside it. Story prerequisite is narrative continuity with DLC #2 and the base game "longer" ending; no save import required. Fully isolated save slot.
+Separate campaign from the main menu (own difficulty selection). Narratively picks up directly after Trapped in Limbo's ending (see the story note below). Story prerequisite is narrative continuity with DLC #2 and the base game "longer" ending; no save import required. Fully isolated save slot.
 
 _source: Deep Research 2026-05-27 · capture: web_fetch · confidence: high · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: dlc:enchantment-under-sea_
 
-Katya, riding inside the glove, replaces CHAR-les.
+Entry-point story note (spoiler story, boss names from enemy-tier 3, `warning_tiers.md`): the DLC picks up with P-3 waking beside the damaged Twin hull; Katya pierces his glove and rides inside it, replacing CHAR-les.
 
-_source: Deep Research 2026-05-27 · capture: web_fetch · confidence: high · enemy-tier: 3 · puzzle-tier: 0 · category: mainline · spoiler: dlc:enchantment-under-sea_
+_source: Deep Research 2026-05-27 · capture: web_fetch · confidence: high · enemy-tier: 3 · puzzle-tier: 3 · category: mainline · spoiler: story_
 
 _[Narrative prerequisite carries spoiler: dlc:enchantment-under-sea -- deliver structural "main menu entry" info freely; gate narrative context]_
 [Released: January 28, 2025. Gameplay trailer premiered December 9, 2024 -- Confirmed: multiple sources]
