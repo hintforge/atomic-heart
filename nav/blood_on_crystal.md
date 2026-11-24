@@ -37,8 +37,8 @@ _source: Deep Research 2026-05-27 · capture: web_fetch · confidence: high · e
 | Mission / Objective | Zone(s) | Notes |
 |---|---|---|
 | Opening ambush -> regroup at Orb lab | `boc_orb_lab` | NORA fitted to glove |
-| Wave exploration -> RACCOON boss -> submarine | `boc_wave_platform` -> `boc_submarine` | Enemy-tier: 1 -- RACCOON encounter |
-| Submarine exploration (key disk, valve, spark plugs) -> ENOT miniboss | `boc_submarine` | Multi-step exploration; ENOT cargo-robot miniboss |
+| Wave exploration -> submarine (see boss notes) | `boc_wave_platform` -> `boc_submarine` | |
+| Submarine exploration (key disk, valve, spark plugs) (see boss notes) | `boc_submarine` | Multi-step exploration |
 | Crystal arrival ("get out of the sarcophagus") | `boc_crystal_arrival` | |
 | **Making Contact** (Nastya opens doors) | `boc_crystal_archive` area | |
 | Medical checkups (ophthalmologist, cardiologist, dentist) | Various Crystal zones | Required to create polymorph body |
@@ -46,10 +46,19 @@ _source: Deep Research 2026-05-27 · capture: web_fetch · confidence: high · e
 | **Lunch Break** (recreation zone) | `boc_crystal_recreation` | |
 | **Sudden Cleanup** (vacuum-cleaner quest) | `boc_crystal_residential_1` | Key for figurine #6 |
 | **Engineered Future** (industrial presses, factory) | `boc_crystal_factory` | "Projected Future" gate puzzle (Garage Door 19) |
-| **Soulmate** quest -> Second Twin boss | mid-Crystal | Enemy-tier: 1 -- fall into Crystal Core |
-| Save Sechenov -> fight CHAR-les -> ending | `boc_crystal_core` | Enemy-tier: 1 -- CHAR-les final boss |
+| **Soulmate** quest (see boss notes) | mid-Crystal | fall into Crystal Core |
+| Save Sechenov -> ending (see boss notes) | `boc_crystal_core` | |
 
-Enemy-tier gates apply: do not name RACCOON, ENOT, Second Twin, or CHAR-les as bosses until enemy-tier: 1.
+_source: Deep Research 2026-05-27 · capture: web_fetch · confidence: high · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: dlc:blood-on-crystal_
+
+Boss notes for the missions above, gated by `warning_tiers.md` (boss names from enemy-tier 3: RACCOON, ENOT, Second Twin, CHAR-les):
+
+- Wave exploration -> RACCOON boss -> submarine: RACCOON encounter
+- Submarine exploration -> ENOT miniboss: ENOT cargo-robot miniboss
+- **Soulmate** quest -> Second Twin boss: fall into Crystal Core
+- Save Sechenov -> fight CHAR-les -> ending: CHAR-les final boss
+
+_source: Deep Research 2026-05-27 · capture: web_fetch · confidence: high · enemy-tier: 3 · puzzle-tier: 0 · category: mainline · spoiler: dlc:blood-on-crystal_
 
 ---
 
@@ -65,12 +74,24 @@ _[Narrative prerequisite carries spoiler: dlc:blood-on-crystal -- deliver struct
 |---|---|---|---|---|---|---|---|
 | BoC-E0 | Main Menu | `boc_orb_lab` | **DLC ENTRY POINT** | one-way | Own DLC / Atomic Pass | No | Flagged: DLC entry edge; NORA fitted here |
 | BoC-E1 | `boc_orb_lab` | `boc_wave_platform` | story | one-way | Plan to infiltrate Wave | No | |
-| BoC-E2 | `boc_wave_platform` | `boc_submarine` | story | one-way | RACCOON boss / bridge | Yes | Enemy-tier: 1 at BoC-E2 |
-| BoC-E3 | `boc_submarine` | `boc_crystal_arrival` | story | one-way | ENOT miniboss; exit generator room | Yes | |
+| BoC-E2 | `boc_wave_platform` | `boc_submarine` | story | one-way | bridge (see boss notes) | Yes | |
+| BoC-E3 | `boc_submarine` | `boc_crystal_arrival` | story | one-way | exit generator room (see boss notes) | Yes | |
 | BoC-E4 | `boc_crystal_*` | Sequential Crystal zones | story | mostly one-way | Quest progression | varies | CHANCE modules introduced |
-| BoC-E5 | `boc_crystal_core` | Final boss | story | one-way | Second Twin -> Crystal Core fall | **Yes** | Save Sechenov -> beat CHAR-les -> ending |
+| BoC-E5 | `boc_crystal_core` | (see boss notes) | story | one-way | Crystal Core fall (see boss notes) | **Yes** | Save Sechenov -> ending (see boss notes) |
 
-Enemy identities at BoC-E2, BoC-E5: enemy-tier: 1 -- do not name preemptively at enemy-tier: 0.
+_source: Deep Research 2026-05-27 · capture: web_fetch · confidence: high · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: dlc:blood-on-crystal_
+
+Boss notes for the edges above, gated by `warning_tiers.md` (existence from enemy-tier 2, names from enemy-tier 3):
+
+- BoC-E5: To = Final boss
+
+_source: Deep Research 2026-05-27 · capture: web_fetch · confidence: high · enemy-tier: 2 · puzzle-tier: 0 · category: mainline · spoiler: dlc:blood-on-crystal_
+
+- BoC-E2: RACCOON boss / bridge
+- BoC-E3: ENOT miniboss
+- BoC-E5: Second Twin -> Crystal Core fall; Save Sechenov -> beat CHAR-les -> ending
+
+_source: Deep Research 2026-05-27 · capture: web_fetch · confidence: high · enemy-tier: 3 · puzzle-tier: 0 · category: mainline · spoiler: dlc:blood-on-crystal_
 
 ## NORA stations
 
@@ -160,7 +181,12 @@ Ending sets up **Atomic Heart 2** (announced at Summer Game Fest 2025) and the M
 
 ## Common confusions
 
-- "MOR-4Y" is the EutS boss (from DLC #3); BoC final boss is **CHAR-les/HRAZ** (enemy-tier: 1).
+_source: Deep Research 2026-05-27 · capture: web_fetch · confidence: high · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: dlc:blood-on-crystal_
+
+- "MOR-4Y" is the EutS boss (from DLC #3); BoC final boss is **CHAR-les/HRAZ** (enemy-tier: 3).
+
+_source: Deep Research 2026-05-27 · capture: web_fetch · confidence: high · enemy-tier: 3 · puzzle-tier: 0 · category: mainline · spoiler: dlc:blood-on-crystal_
+
 - Polymorphs are introduced HERE in BoC, not in EutS.
 - No chapter select exists -- crystal figurines are permanently missable per run.
 - CHANCE modules REPLACE the oldest upgrade when a new one is acquired; don't upgrade carelessly.
@@ -174,7 +200,11 @@ Ending sets up **Atomic Heart 2** (announced at Summer Game Fest 2025) and the M
 
 ## Reddit sweep additions (2026-05-28)
 
-**CHAR-les boss strategy (F19):** Ignore tentacles and blobs -- they are not the priority. Focus all fire on the face. Watch platform edges (falling off is the primary failure mode). Shotgun recommended for face shots. (enemy-tier: 1 -- deliver post-encounter)
+_source: Deep Research 2026-05-27 · capture: web_fetch · confidence: high · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: dlc:blood-on-crystal_
+
+**CHAR-les boss strategy (F19):** Ignore tentacles and blobs -- they are not the priority. Focus all fire on the face. Watch platform edges (falling off is the primary failure mode). Shotgun recommended for face shots. (enemy-tier: 5 -- deliver post-encounter)
+
+_source: r/atomicheart/comments/1tkw1i0; r/atomicheart/comments/1suhzwz · capture: manual_paste · confidence: medium · enemy-tier: 5 · puzzle-tier: 0 · category: mainline · spoiler: dlc:blood-on-crystal_
 
 **Content scope (F16):** Community rates BoC as "expansion-level" content -- the most substantial DLC in the season pass. Narrative bridges DLC 1 and DLC 3 storylines.
 

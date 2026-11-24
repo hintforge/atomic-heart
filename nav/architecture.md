@@ -106,7 +106,7 @@ Note: Testing Ground numbers 3, 4, 5, 7 do not exist in the base game (confirmed
 
 ### Edges
 
-> **PoNR warning display rule:** Warn P-3 of any upcoming permanent PoNR when they are in the "From" zone. The Notes column may reference enemy names (enemy-tier: 1) — gate those details accordingly; PoNR warnings themselves are always-visible (enemy-tier: 0).
+> **PoNR warning display rule:** Warn P-3 of any upcoming permanent PoNR when they are in the "From" zone. Boss fights in the Condition and Notes columns are kept in the boss notes below the table, gated by `warning_tiers.md` (existence from enemy-tier 2, names from enemy-tier 3, mechanics from enemy-tier 5); PoNR warnings themselves are always-visible (enemy-tier: 0).
 
 | ID | From | To | Type | Direction | Condition | PoNR | Notes |
 |---|---|---|---|---|---|---|---|
@@ -130,14 +130,14 @@ Note: Testing Ground numbers 3, 4, 5, 7 do not exist in the base game (confirmed
 | E18 | solnechnaya_open_world | kollektiv_village | hub-spoke | bidirectional | none | none | |
 | E19 | solnechnaya_open_world | boat_station_lake | hub-spoke | bidirectional | none | none | |
 | E20 | solnechnaya_open_world | arena_park | story-gate | one-way-forward | hack lake Hawk relay → ride lowered HAWK pole → zipline | none | |
-| E21 | arena_park | vdnh_atrium | story-gate | one-way-forward | boss fight completion | **chapter-bound** | VDNH building interior locks after Ch.3 escape; see E26 |
+| E21 | arena_park | vdnh_atrium | story-gate | one-way-forward | see boss notes | **chapter-bound** | VDNH building interior locks after Ch.3 escape; see E26 |
 | E22 | vdnh_atrium | vdnh_chelomey_floor | hub-spoke | one-way-forward | Darwin Test (radio + hammer + plant) + Claire assembled | none | See `puzzles/combination_locks.md` for Darwin Test |
 | E23 | vdnh_chelomey_floor | vdnh_vavilov_floor | story-gate | one-way-forward | scripted | none | |
 | E24 | vdnh_vavilov_floor | vdnh_pavlov_floor | story-gate | one-way-forward | scripted | none | |
 | E25 | vdnh_pavlov_floor | vdnh_sakhalin_floor | story-gate | one-way-forward | scripted | none | |
 | E26 | vdnh_sakhalin_floor | magnetic_absorption_zone | story-gate | one-way-forward | scripted | none | |
 | E27 | magnetic_absorption_zone | vdnh_drill_mode | story-gate | one-way-forward | scripted | none | |
-| E28 | vdnh_drill_mode | solnechnaya_open_world | story-gate | one-way-forward | escape after boss + dream sequences | **PERMANENT** (for VDNH building) | VDNH building interior permanently locked; Solnechnaya open world remains free |
+| E28 | vdnh_drill_mode | solnechnaya_open_world | story-gate | one-way-forward | escape + dream sequences (see boss notes) | **PERMANENT** (for VDNH building) | VDNH building interior permanently locked; Solnechnaya open world remains free |
 | E29 | solnechnaya_open_world | testing_ground_2 | optional | bidirectional | sewer pipe entry near Boat Station | none | |
 | E30 | solnechnaya_open_world | testing_ground_6 | optional | bidirectional | Volan camera hack | none | |
 | E31 | solnechnaya_open_world | testing_ground_9 | optional | bidirectional | clear sprout infestation (4 sewer boilers via manhole) → HAWK reactivates → camera hijack reveals Lenin-statue shack | none | |
@@ -145,10 +145,10 @@ Note: Testing Ground numbers 3, 4, 5, 7 do not exist in the base game (confirmed
 | E33 | solnechnaya_open_world | sechenov_research_center_ext | story-gate | one-way-forward | quest "Red Arrow" | none | |
 | E34 | sechenov_research_center_ext | sechenov_research_center_int | story-gate | one-way-forward | rooftop key | none | |
 | E35 | sechenov_research_center_int | lastochkin_theater_grounds | story-gate | one-way-forward | Petrov flees | none | |
-| E36 | lastochkin_theater_grounds | lastochkin_theater_int | story-gate | one-way-forward | defeat boss on theater grounds | **chapter-bound** | No return to Sechenov Research Center interior once theater entered |
+| E36 | lastochkin_theater_grounds | lastochkin_theater_int | story-gate | one-way-forward | see boss notes | **chapter-bound** | No return to Sechenov Research Center interior once theater entered |
 | E37 | lastochkin_theater_int | theater_control_room | optional | bidirectional | Light-Lock door code (see `puzzles/combination_locks.md`) | none | |
 | E38 | lastochkin_theater_int | theater_stage | story-gate | one-way-forward | scripted | none | |
-| E39 | theater_stage | solnechnaya_open_world | story-gate | one-way-forward | defeat Natasha + collect Petrov's head | **PERMANENT** | Sechenov Research Center, Theater interior, Theater Control Room locked; TG8 becomes inaccessible |
+| E39 | theater_stage | solnechnaya_open_world | story-gate | one-way-forward | collect Petrov's head (see boss notes) | **PERMANENT** | Sechenov Research Center, Theater interior, Theater Control Room locked; TG8 becomes inaccessible |
 | E40 | sechenov_research_center_int | testing_ground_8 | optional | bidirectional | three Volan cameras (front-of-road / right of building / rooftop) | none | **MISSABLE** — only reachable while Sechenov Research Center is active (before E36/E39). **E35 ("Petrov flees") does NOT close TG8** — confirmed live 2026-05-12; lockout is E36 (Theater interior entry), not E35. |
 
 > **Cross-system dependency** — see `dependencies.md` DEP-002: E36 (Theater interior entry) permanently locks TG8 (via E40). TG8 gold/silver/bronze chests contain Fox blade, Zvezdochka lower blade, Swede extension, Dominator Vortex Transducer, MP Revolver-Type Bolt Frame — 5 weapon mods permanently missed after E36. Window extends into Ch.5 (E35 "Petrov flees" does NOT close TG8 -- confirmed live 2026-05-12).
@@ -162,16 +162,29 @@ Note: Testing Ground numbers 3, 4, 5, 7 do not exist in the base game (confirmed
 | E48 | pavlov_surgical_lab | lighthouse_beach | story-gate | one-way-forward | quest "Everything Illuminated" | **PERMANENT** | Final act begins — complete all Ch.5 content including TG12 before proceeding |
 
 > **Cross-system dependency** — see `dependencies.md` DEP-003: E47/E48 lock TG12 (KS-23 Thermal Scope + Pashtet Polygon 12 mod permanently missed). DEP-001: E48 also ends the Pavlov Biomaterials farming window — sweep all Pavlov chests before E48. (Polymer Jelly / Neuropolymer is NOT scarce post-Pavlov -- drops from nearly all enemies throughout the game.)
-| E49 | lighthouse_beach | academy_underwater | story-gate | one-way-forward | defeat Dewdrop boss + sit on TV chair in lighthouse | **PERMANENT** | |
+| E49 | lighthouse_beach | academy_underwater | story-gate | one-way-forward | sit on TV chair in lighthouse (see boss notes) | **PERMANENT** | |
 | E50 | academy_underwater | academy_archive_room | story-gate | one-way-forward | meet Filatova | none | |
 | E51 | academy_archive_room | chelomey_revisit | story-gate | one-way-forward | three film reels collected | **point-of-divergence** | Next dialogue is the ending split |
 | E52a | chelomey_revisit | (walk-away ending) | story-gate | one-way-forward | Granny Zina dialogue option 1 | **PERMANENT (credits)** | "Joke/good" ending; does NOT unlock Murderous Beauty trophy |
 | E52b | chelomey_revisit | sechenov_office_final | story-gate | one-way-forward | Granny Zina dialogue option 2 | **PERMANENT** | Canonical bad/main ending |
-| E53 | sechenov_office_final | (kill-twins ending) | story-gate | one-way-forward | defeat Twins (Left + Right) | **PERMANENT (credits)** | Charles betrays P-3 |
+| E53 | sechenov_office_final | (kill-twins ending) | story-gate | one-way-forward | see boss notes | **PERMANENT (credits)** | Charles betrays P-3 |
 | E54 | (post-credits) | solnechnaya_open_world | fast-travel | one-way-forward | patch 1.14.4.0 "Return to Facility 3826" menu option | none | Complexes locked; open world + Testing Grounds free-roamable |
 
 _source: Compass/Deep Research 2026-05-08 · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
-Boss names in edge notes (E21, E28, E36, E38, E39) are enemy-tier: 1 — do not volunteer preemptively at enemy-tier: 0.
+
+Boss notes for the edges above, gated by `warning_tiers.md` (existence from enemy-tier 2, names from enemy-tier 3):
+
+- E21: boss fight completion
+- E28: escape after boss + dream sequences
+- E36: defeat boss on theater grounds
+
+_source: Compass/Deep Research 2026-05-08 · capture: web_fetch · confidence: high · enemy-tier: 2 · puzzle-tier: 0 · category: mainline · spoiler: late-game_
+
+- E39: defeat Natasha + collect Petrov's head
+- E49: defeat Dewdrop boss + sit on TV chair in lighthouse
+- E53: defeat Twins (Left + Right)
+
+_source: Compass/Deep Research 2026-05-08 · capture: web_fetch · confidence: high · enemy-tier: 3 · puzzle-tier: 0 · category: mainline · spoiler: story_
 
 ---
 
@@ -210,8 +223,6 @@ _source: Compass/Deep Research 2026-05-08 · capture: web_fetch · confidence: h
 | 24 Lootyagins (3 per TG) | chest | each TG interior | open all bronze/silver/gold chests | with each TG | along with TG | partly missable (TG8 + TG12 missable) |
 | 63 Blueprints | item | every chapter | chest pickup | per zone — clean before PoNR | per zone | **missable** (location-locked) |
 | Phone-booth prank (How Can I Help You?) | achievement | chelomey_city_prologue | interact phone booth — fountain on embankment, turn from boat toward fountain | **Prologue only** — before E02 | Prologue | **missable** |
-| Hedgie no-shot kill (Strike achievement) | boss tactic | arena_park | use Shok + statues only; do NOT fire weapons | first encounter only | Ch.3 | **missable** (enemy-tier: 1) |
-| Belyash melee-only kill (Chop Chop Chop) | boss tactic | lastochkin_theater_grounds | melee weapon only | first encounter only | Ch.4 | **missable** (enemy-tier: 1) |
 | 3 talking dead animals (Beast Friend) | collectible | open world | hen / cow / third by water near solar arrays | OW chapters (Ch.2–5) | by Ch.5 | always-available |
 | Optional code-locked door (Pavlov) | puzzle | pavlov_complex | community-sourced code (not found in environment) | Ch.5 (before E48) | Ch.5 | **missable** |
 | Train ticket pickup | nav item | forester_open_world | post-office rooftop corpse (climb via polymer at rear) | Ch.2 only | Ch.2 | story-required but easy to miss wrong ticket first |
@@ -219,7 +230,15 @@ _source: Compass/Deep Research 2026-05-08 · capture: web_fetch · confidence: h
 | Schematic lock (Zvezdochka blueprint) | puzzle | vdnh_atrium | blackboard solution | Ch.3 | Ch.3 | **missable** |
 
 _source: Compass/Deep Research 2026-05-08 · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
-Items marked enemy-tier: 1 in the Failure Mode column should not be volunteered preemptively at enemy-tier: 0.
+
+Boss kill-tactic rows are listed separately here: boss names from enemy-tier 3, tactics from enemy-tier 5 (`warning_tiers.md`).
+
+| Content | Type | Parent Zone | Unlock Condition | Access Window | Rec. Chapter | Failure Mode |
+|---|---|---|---|---|---|---|
+| Hedgie no-shot kill (Strike achievement) | boss tactic | arena_park | use Shok + statues only; do NOT fire weapons | first encounter only | Ch.3 | **missable** (enemy-tier: 5) |
+| Belyash melee-only kill (Chop Chop Chop) | boss tactic | lastochkin_theater_grounds | melee weapon only | first encounter only | Ch.4 | **missable** (enemy-tier: 5) |
+
+_source: Compass/Deep Research 2026-05-08 · capture: web_fetch · confidence: high · enemy-tier: 5 · puzzle-tier: 0 · category: mainline · spoiler: story_
 
 ---
 
@@ -454,11 +473,17 @@ Sub-quest names that reveal story beats carry enemy-tier: 3 — gate accordingly
 | DLC-E08 | `dlc_aoi_mendeleev_memorial` | `dlc_aoi_mendeleev_hangar` | fast-travel/elevator | bidirectional | Strekoza platform + all 3 surface BEA-Ds fed to loading bell | no | Memorial platform also serves as hangar elevator |
 | DLC-E09 | `dlc_aoi_mendeleev_hangar` | `dlc_aoi_mendeleev_complex` | linear | one-way (returns possible until story gate) | all 3 surface BEA-Ds delivered | partial | |
 | DLC-E10 | `dlc_aoi_mendeleev_complex` | `dlc_aoi_radiochemical_lab` | linear | bidirectional within complex | follow markers; circular corridor | no | Paired-lab BEA-D containment puzzle |
-| DLC-E11 | `dlc_aoi_mendeleev_complex` | `dlc_aoi_mendeleev_complex` (statue arena) | scripted | one-way per visit | activate statue | no | Enemy-tier: 1 — gate boss identity at tier 0 |
-| DLC-E12 | `dlc_aoi_lebedev_lab` (return, after BEA-D #7) | `dlc_aoi_noras_cradle` | scripted | one-way | call Sechenov from phone booth; return to memorial; descend elevator | **PERMANENT — final PoNR** | Recombination puzzle; second boss encounter; ending cinematic; "Return to Utopia" achievement |
+| DLC-E11 | `dlc_aoi_mendeleev_complex` | `dlc_aoi_mendeleev_complex` (statue arena) | scripted | one-way per visit | activate statue | no | |
+| DLC-E12 | `dlc_aoi_lebedev_lab` (return, after BEA-D #7) | `dlc_aoi_noras_cradle` | scripted | one-way | call Sechenov from phone booth; return to memorial; descend elevator | **PERMANENT — final PoNR** | Recombination puzzle; ending cinematic; "Return to Utopia" achievement |
 
 _source: Compass/Deep Research 2026-05-09 (P3) · capture: web_fetch · confidence: high · enemy-tier: 0 (PoNR facts and entry point) · puzzle-tier: 0 · category: mainline · spoiler: dlc:annihilation-instinct_
-Boss identity in DLC-E11/E12: enemy-tier: 1 — do not name preemptively at enemy-tier: 0.
+
+Boss notes for the edges above, gated by `warning_tiers.md` (existence from enemy-tier 2, names from enemy-tier 3):
+
+- DLC-E11: boss identity (statue arena); names from enemy-tier 3
+- DLC-E12: second boss encounter
+
+_source: Compass/Deep Research 2026-05-09 (P3) · capture: web_fetch · confidence: high · enemy-tier: 2 · puzzle-tier: 0 · category: mainline · spoiler: dlc:annihilation-instinct_
 
 ### DLC Support Topology (NORA Stations)
 
@@ -503,12 +528,18 @@ _source: Compass/Deep Research 2026-05-09 (P3) · capture: web_fetch · confiden
 | Strekoza first ride | achievement trigger | `dlc_aoi_lebedev_lab` → `dlc_aoi_mendeleev_memorial` | story-mandatory | One-time | — | Story-guaranteed; "Lord of the Flies" achievement |
 | Talking corpses | lore | Swamp + Lyogkaya + Mendeleev Complex | scanner/interact | Until PoNR | Gather as you go | None |
 | Talking Goose | recurring NPC | Swamp + Mendeleev Complex | proximity | Open | — | Flavor only |
-| BEA-D Colossus 1st encounter | boss (enemy-tier: 1) | `dlc_aoi_mendeleev_complex` (statue arena) | activate statue | Mandatory | It's Complicated | Story-guaranteed |
 
 _source: Compass/Deep Research 2026-05-09 (P3) · capture: web_fetch · confidence: high · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: dlc:annihilation-instinct_
 [Confirmed: 4+ sources for collectible counts: PSNProfiles, Steam Community Guide, notesread.com, walkthroughs.games]
 Klusha Handle location: [Single source for swamp vs. park disambiguation — Steam Community 100% guide. Park location in multiple EN video walkthroughs. Verify first run.]
-Individual collectible/achievement rows are enemy-tier: 0; boss row carries enemy-tier: 1 — gate accordingly.
+
+Individual collectible/achievement rows are enemy-tier: 0; the boss row, listed separately below, carries enemy-tier: 3 (names, `warning_tiers.md`) — gate accordingly.
+
+| Content | Type | Parent zone(s) | Unlock condition | Access window | Rec. | Failure mode |
+|---|---|---|---|---|---|---|
+| BEA-D Colossus 1st encounter | boss (enemy-tier: 3) | `dlc_aoi_mendeleev_complex` (statue arena) | activate statue | Mandatory | It's Complicated | Story-guaranteed |
+
+_source: Compass/Deep Research 2026-05-09 (P3) · capture: web_fetch · confidence: high · enemy-tier: 3 · puzzle-tier: 0 · category: mainline · spoiler: dlc:annihilation-instinct_
 
 ### DLC Locks-and-Keys
 
@@ -619,12 +650,24 @@ _source: Deep Research 2026-05-27 · capture: web_fetch · confidence: high · e
 |---|---|---|---|---|---|---|---|
 | EutS-E0 | Main Menu | `neptune_sechenov_complex` | **DLC ENTRY POINT** | one-way | Own DLC / Atomic Pass | No | |
 | EutS-E1 | `neptune_sechenov_complex` | `neptune_chelomey_ruins` | story | one-way | Pick lock, descend | No | |
-| EutS-E2 | `neptune_chelomey_ruins` | `neptune_lakeshore` | story | one-way | Robogirl boss | No | Enemy-tier: 1 |
+| EutS-E2 | `neptune_chelomey_ruins` | `neptune_lakeshore` | story | one-way | see boss notes | No | |
 | EutS-E3 | `neptune_lakeshore` | `neptune_babazina_hut` | story | one-way | Get Kuzmich shotgun | No | |
 | EutS-E4 | `neptune_babazina_hut` | `neptune_entry_hub` | elevator | one-way | Baba Zina drop-off | Yes | Enter Neptune Complex |
 | EutS-E5 | `neptune_entry_hub` -> ... | Sequential interior zones | story | mostly one-way | Quest progression | varies | Mostly linear |
 | EutS-E6 | `neptune_sub_bay` | `neptune_open_water` | airlock dive | one-way | Diving hatch | Yes | Underwater stealth -- cannot fight |
-| EutS-E7 | `neptune_city_of_dolphins` | `neptune_final_arena` | story | one-way | Reach gates | **Yes** | Final boss (enemy-tier: 1); sub escape |
+| EutS-E7 | `neptune_city_of_dolphins` | `neptune_final_arena` | story | one-way | Reach gates | **Yes** | sub escape (see boss notes) |
+
+_source: Deep Research 2026-05-27 · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: dlc:enchantment-under-sea_
+
+Boss notes for the edges above, gated by `warning_tiers.md` (existence from enemy-tier 2, names from enemy-tier 3):
+
+- EutS-E7: final boss
+
+_source: Deep Research 2026-05-27 · capture: web_fetch · confidence: high · enemy-tier: 2 · puzzle-tier: 0 · category: mainline · spoiler: dlc:enchantment-under-sea_
+
+- EutS-E2: Robogirl boss
+
+_source: Deep Research 2026-05-27 · capture: web_fetch · confidence: high · enemy-tier: 3 · puzzle-tier: 0 · category: mainline · spoiler: dlc:enchantment-under-sea_
 
 ### DLC Support Topology
 
@@ -684,12 +727,24 @@ _source: Deep Research 2026-05-27 · capture: web_fetch · confidence: high · e
 |---|---|---|---|---|---|---|---|
 | BoC-E0 | Main Menu | `boc_orb_lab` | **DLC ENTRY POINT** | one-way | Own DLC / Atomic Pass | No | NORA fitted here |
 | BoC-E1 | `boc_orb_lab` | `boc_wave_platform` | story | one-way | Plan to infiltrate Wave | No | |
-| BoC-E2 | `boc_wave_platform` | `boc_submarine` | story | one-way | RACCOON boss / bridge | Yes | Enemy-tier: 1 |
-| BoC-E3 | `boc_submarine` | `boc_crystal_arrival` | story | one-way | ENOT miniboss; exit generator room | Yes | |
+| BoC-E2 | `boc_wave_platform` | `boc_submarine` | story | one-way | bridge (see boss notes) | Yes | |
+| BoC-E3 | `boc_submarine` | `boc_crystal_arrival` | story | one-way | exit generator room (see boss notes) | Yes | |
 | BoC-E4 | `boc_crystal_*` | Sequential Crystal zones | story | mostly one-way | Quest progression | varies | CHANCE modules introduced |
-| BoC-E5 | `boc_crystal_core` | Final boss | story | one-way | Second Twin -> Crystal Core fall | **Yes** | Enemy-tier: 1; endings follow |
+| BoC-E5 | `boc_crystal_core` | (see boss notes) | story | one-way | Crystal Core fall (see boss notes) | **Yes** | endings follow |
 
-Enemy identities at BoC-E2, BoC-E5: enemy-tier: 1 -- gate accordingly.
+_source: Deep Research 2026-05-27 · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: dlc:blood-on-crystal_
+
+Boss notes for the edges above, gated by `warning_tiers.md` (existence from enemy-tier 2, names from enemy-tier 3):
+
+- BoC-E5: To = Final boss
+
+_source: Deep Research 2026-05-27 · capture: web_fetch · confidence: high · enemy-tier: 2 · puzzle-tier: 0 · category: mainline · spoiler: dlc:blood-on-crystal_
+
+- BoC-E2: RACCOON boss / bridge
+- BoC-E3: ENOT miniboss
+- BoC-E5: Second Twin -> Crystal Core fall
+
+_source: Deep Research 2026-05-27 · capture: web_fetch · confidence: high · enemy-tier: 3 · puzzle-tier: 0 · category: mainline · spoiler: dlc:blood-on-crystal_
 
 ### DLC Support Topology
 

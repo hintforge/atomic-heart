@@ -87,14 +87,26 @@ _[Narrative prerequisite carries spoiler: dlc:enchantment-under-sea -- deliver s
 |---|---|---|---|---|---|---|---|
 | EutS-E0 | Main Menu | `neptune_sechenov_complex` | **DLC ENTRY POINT** | one-way | Own DLC / Atomic Pass | No | Flagged: DLC entry edge |
 | EutS-E1 | `neptune_sechenov_complex` | `neptune_chelomey_ruins` | story | one-way | Pick lock, descend | No | |
-| EutS-E2 | `neptune_chelomey_ruins` | `neptune_lakeshore` | story (Bumblebee robot) | one-way | Robogirl boss | No | Robogirl fight (enemy-tier: 1) |
+| EutS-E2 | `neptune_chelomey_ruins` | `neptune_lakeshore` | story (Bumblebee robot) | one-way | see boss notes | No | |
 | EutS-E3 | `neptune_lakeshore` | `neptune_babazina_hut` | story | one-way | Get Kuzmich shotgun | No | Arena wave |
 | EutS-E4 | `neptune_babazina_hut` | `neptune_entry_hub` | elevator | one-way | Baba Zina drop-off | Yes | Enter Neptune Complex |
 | EutS-E5 | `neptune_entry_hub` --> ... | Sequential interior zones | story | mostly one-way | Quest progression | varies | Mostly linear through Neptune zones |
-| EutS-E6 | `neptune_sub_bay` | `neptune_open_water` | airlock dive | one-way | Diving hatch | Yes | Stealth from MO-R4Y underwater |
-| EutS-E7 | `neptune_city_of_dolphins` | `neptune_final_arena` | story | one-way | Reach gates | **Yes** | Final boss (enemy-tier: 1 -- MO-R4Y); sub escape follows |
+| EutS-E6 | `neptune_sub_bay` | `neptune_open_water` | airlock dive | one-way | Diving hatch | Yes | Stealth underwater (see boss notes) |
+| EutS-E7 | `neptune_city_of_dolphins` | `neptune_final_arena` | story | one-way | Reach gates | **Yes** | sub escape follows (see boss notes) |
 
-Boss identities at EutS-E2 and EutS-E7: enemy-tier: 1 -- do not name preemptively at enemy-tier: 0.
+_source: Deep Research 2026-05-27 · capture: web_fetch · confidence: high · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: dlc:enchantment-under-sea_
+
+Boss notes for the edges above, gated by `warning_tiers.md` (existence from enemy-tier 2, names from enemy-tier 3):
+
+- EutS-E7: Final boss
+
+_source: Deep Research 2026-05-27 · capture: web_fetch · confidence: high · enemy-tier: 2 · puzzle-tier: 0 · category: mainline · spoiler: dlc:enchantment-under-sea_
+
+- EutS-E2: Robogirl boss; Robogirl fight
+- EutS-E6: Stealth from MO-R4Y underwater
+- EutS-E7: Final boss (MO-R4Y)
+
+_source: Deep Research 2026-05-27 · capture: web_fetch · confidence: high · enemy-tier: 3 · puzzle-tier: 0 · category: mainline · spoiler: dlc:enchantment-under-sea_
 
 ## NORA stations
 
@@ -190,7 +202,11 @@ Return to spectacular base-game FPS combat after the divisive platformer DLC #2.
 
 ## Reddit sweep additions (2026-05-28)
 
-**Moray boss (F18):** Final boss of EutS. Community consensus: hardest boss in the entire game including all DLCs. Primary threat: shockwave orb projectile bursts. Recommended loadout: Whip (fully upgraded) + horizontal shotgun mod. Sustained high mobility; dodge shockwave orbs as top priority. See `../npcs/bosses.md` Moray entry for full tactics (enemy-tier: 1 -- post-encounter only).
+_source: Deep Research 2026-05-27 · capture: web_fetch · confidence: high · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: dlc:enchantment-under-sea_
+
+**Moray boss (F18):** Final boss of EutS. Community consensus: hardest boss in the entire game including all DLCs. Primary threat: shockwave orb projectile bursts. Recommended loadout: Whip (fully upgraded) + horizontal shotgun mod. Sustained high mobility; dodge shockwave orbs as top priority. See `../npcs/bosses.md` Moray entry for full tactics (enemy-tier: 5 -- post-encounter only).
+
+_source: r/atomicheart/comments/1tkw1i0 (score 122, 0.94 ratio) · capture: manual_paste · confidence: medium · enemy-tier: 5 · puzzle-tier: 0 · category: mainline · spoiler: dlc:enchantment-under-sea_
 
 **Thunderclap / "Spear" weapon (F20):** Deep research confirms Thunderclap/Громовержец as the EutS electric hammer. Community "Spear" nickname likely refers to Thunderclap's projectile throw. Extremely effective when fully upgraded -- near-one-shots enemies outside boss encounters. [identity reconciliation above; verify in-game]
 
