@@ -279,9 +279,18 @@ _source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confiden
 | pavlov_surgical_lab | Pre-cutscene save room | Gate 3 | [C:2] | |
 | lighthouse_beach | (1) Cliff-bunker save room before the large-creature encounter; (2) lighthouse-approach save room | Pre-encounter + pre-lighthouse | [C:2] | _enemy-tier: 2 note: encounter is Dewdrop boss_ |
 | academy_underwater | Save room post-elevator, near the chair by the glass wall | Mid-zone | [C:2] | |
-| academy_archive_room | Save room before the ending-choice sequence | End | [C:2] | _spoiler: story — gated until story opt-in_ |
 | chelomey_revisit | Save room on the approach to the final arena | Pre-final | [C:3] | _enemy-tier: 2 note: arena contains Twins boss_ |
 | sechenov_office_final | None | — | — | Cutscene/boss only |
+
+_source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confidence: per row · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
+
+Story-tier row of the same table:
+
+| Zone-id | Location description | Sequential gate | Confidence | Notes |
+|---|---|---|---|---|
+| academy_archive_room | Save room before the ending-choice sequence | End | [C:2] | _spoiler: story — gated until story opt-in_ |
+
+_source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confidence: per row · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: story_
 
 ### Fast-Travel Network
 

@@ -189,7 +189,13 @@ When player-position confidence is low in any Complex or TG zone, ask any of:
 
 ### academy_archive_room
 - **Three film reels/bobbins** — one nearby, two on the flanking stairs.
+
+_source: P2 sandbox-side ingestion · added 2026-05-09 convergence · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 0 · spoiler: none_
+
 - **Exit room** where Granny Zina appears. _spoiler: story_
+
+_source: P2 sandbox-side ingestion · added 2026-05-09 convergence · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 0 · spoiler: story_
+
 
 ### chelomey_revisit
 - **Dark, depopulated plaza** — contrast with the bright prologue version.

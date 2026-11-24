@@ -13,7 +13,13 @@
 
 ## Notes
 
-Brief linear zone. Glass elevator descends with a view of the submerged Neptune facility (explicit Bioshock Rapture parallel, per fandom wiki). [C:3] P-3 sits in a chair for a conversation sequence with Filatova. _spoiler: story_
+Brief linear zone. Glass elevator descends with a view of the submerged Neptune facility (explicit Bioshock Rapture parallel, per fandom wiki). [C:3]
+
+_source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confidence: medium · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
+
+P-3 sits in a chair for a conversation sequence with Filatova. _spoiler: story_
+
+_source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confidence: medium · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: story_
 
 No swimming gameplay in this base-game segment — the base-game underwater Academy is a brief glass-elevator descent + chair-conversation + vent escape. (The "Enchantment Under the Sea" DLC adds true underwater traversal; that is a separate zone not covered here.) [C:3]
 

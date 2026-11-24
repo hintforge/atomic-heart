@@ -20,7 +20,13 @@
 
 1. **Distribution Center Snap Puzzle** (puzzle) — door puzzle in the surgical lab corridor.
 2. **Rendezvous Cutscene** (cutscene) — scripted meeting.
+
+_source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confidence: medium · enemy-tier: 0 · puzzle-tier: 1 · category: mainline · spoiler: none_
+
 3. **Enemy Ambush** (enemy-clear) — story-gated encounter. _spoiler: story — involves named character Filatova; enemy-tier: 2 (ambush encounter)_
+
+_source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confidence: medium · enemy-tier: 2 · puzzle-tier: 0 · category: mainline · spoiler: story_
+
 4. **NORA Save Room** — **NORA here** — use it before E48.
 
 ## Common Confusions
