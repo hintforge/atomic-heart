@@ -188,7 +188,7 @@ Boss notes for the edges above, gated by `warning_tiers.md` (existence from enem
 
 _source: Compass/Deep Research 2026-05-08 · capture: web_fetch · confidence: high · enemy-tier: 2 · puzzle-tier: 0 · category: mainline · spoiler: late-game_
 
-- E39: defeat Natasha + collect Petrov's head
+- E39: defeat Natasha
 - E49: defeat Dewdrop boss + sit on TV chair in lighthouse
 - E53: defeat Twins (Left + Right)
 
@@ -196,6 +196,7 @@ _source: Compass/Deep Research 2026-05-08 · capture: web_fetch · confidence: h
 
 Story notes for the edges above (story facts, spoiler story):
 
+- E39: collect Petrov's head
 - E51: next dialogue is the ending split
 - E52a: (walk-away ending); Granny Zina dialogue option 1; PERMANENT (credits); "Joke/good" ending; does NOT unlock Murderous Beauty trophy
 - E52b: Granny Zina dialogue option 2; canonical bad/main ending
