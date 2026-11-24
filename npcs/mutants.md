@@ -52,7 +52,13 @@ _source: GameRant Plyusch guide, High Ground Gaming · capture: web_fetch · con
 - **Weaknesses:** **Resistant to gunfire and Shok.** Vulnerable to Fire cartridge + fast melee. Polymeric Shield neutralizes and reflects melee swipes. Adrenaline capsule recommended for extended dodge windows.
 - **Drops:** Biomaterials, Chemistry (frequent), Energy Module (frequent).
 
-> See `npcs/bosses.md` for the first-encounter boss version at `vdnh_drill_mode` (Ch.3). Same weaknesses apply; higher HP and boss-fight context.
+> See `npcs/bosses.md` for the first-encounter boss version at `vdnh_drill_mode` (Ch.3).
+
+_source: GameRant Plyusch guide, High Ground Gaming · capture: web_fetch · confidence: high · enemy-tier: 3 · puzzle-tier: 0 · category: mainline · spoiler: story_
+
+> Boss version: same weaknesses apply; higher HP and boss-fight context.
+
+_source: GameRant Plyusch guide, High Ground Gaming · capture: web_fetch · confidence: high · enemy-tier: 5 · puzzle-tier: 0 · category: mainline · spoiler: story_
 
 ---
 
