@@ -80,14 +80,18 @@ _source: P1 deep research 2026-05-08 · capture: web_fetch · confidence: medium
 
 **More efficient variant:** Shoot down the local **Hawk relay** first (drone in the sky) — this disables all Pchela in that ecosystem for ~5 minutes, stopping respawns. Then kill the static Vovas at your leisure without pressure. Downside: no respawn farming until Hawk relay is restored.
 
-_source: P1 deep research 2026-05-08 · capture: web_fetch · confidence: medium · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
+_source: P1 deep research 2026-05-08 · capture: web_fetch · confidence: medium · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: progression_
 [Confirmed: GamingBolt, GameRevolution, YouTube farming videos]
 
 ### Biomaterials — Pavlov window
 
-Pavlov Complex (Ch.8) is organic-enemy-heavy. **Before pressing the Pavlov exit elevator (permanent — one-and-done), sweep every cabinet and chest.** You will not return. Neuromodule drops from boss-tier enemies; Pavlov bosses are the only boss concentration before late game.
+Pavlov Complex (Ch.8) is organic-enemy-heavy. **Before pressing the Pavlov exit elevator (permanent — one-and-done), sweep every cabinet and chest.** You will not return.
 
 _source: P1 deep research 2026-05-08 · capture: web_fetch · confidence: medium · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: progression_
+
+Neuromodule drops from boss-tier enemies; Pavlov bosses are the only boss concentration before late game.
+
+_source: P1 deep research 2026-05-08 · capture: web_fetch · confidence: medium · enemy-tier: 2 · puzzle-tier: 0 · category: mainline · spoiler: late-game_
 
 > **Cross-system dependency** — see `dependencies.md` DEP-001: Pavlov exit (E48) is permanent. Biomaterials are scarcer for the rest of the game after this point; no return possible. (Polymer Jelly / Neuropolymer is NOT scarce post-Pavlov -- drops from nearly all enemies throughout the game; the P1 "Polymer Jelly is scarce post-Pavlov" claim was a misidentification.)
 
@@ -104,12 +108,12 @@ _source: P1 deep research 2026-05-08 · capture: web_fetch · confidence: medium
 
 **Warning:** Disabling the HAWK relay also locks ALL Polygon doors in the region until repair bots restore it. Do NOT disable the relay mid-Polygon-run.
 
+_source: P1 deep research 2026-05-08 · capture: web_fetch · confidence: medium · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
+
 > **Cross-system dependency** — see `dependencies.md` DEP-005: HAWK relay disable also applies before entering any Polygon dungeon. Same mechanic, same precondition across farming and Polygon entry contexts.
 
 _source: P1 deep research 2026-05-08 · capture: web_fetch · confidence: medium · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
 [Confirmed: Gameranx, GameRevolution; Mother-unit loot: Single source — verify]
-
-_source: r/atomicheart community thread (reddit.com/r/atomicheart/comments/141m67s) · capture: web_fetch · confidence: medium · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
 
 ### Camera-kill farming loop (infinite respawn method)
 
@@ -129,7 +133,7 @@ Key rules:
 - This loop works because the camera triggering alarm level 2 is what calls in reinforcements -- you're using the alarm system as a spawn mechanic.
 - Alarm level 1: robots just chase you. Alarm level 2 (camera sees you killing): full reinforcement swarm. This loop deliberately targets level 2.
 
-_source: r/atomicheart community thread (reddit.com/r/atomicheart/comments/141m67s) · capture: web_fetch · confidence: medium · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
+_source: r/atomicheart community thread (reddit.com/r/atomicheart/comments/141m67s) · capture: web_fetch · confidence: medium · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: progression_
 [Single source -- verify loop behavior in-game; Railgun permanent-removal confirmed via DEP-017]
 
 > **Cross-system dependency** -- see `dependencies.md` DEP-022: This loop chains alarm level 2 (`mechanics.md`) with Pchela-Dandelion repair behavior (`npcs/robots.md`). Both sub-systems must stay active for the loop to work.
