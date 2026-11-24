@@ -32,10 +32,14 @@ _source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confiden
 
 _source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confidence: medium · enemy-tier: 2 · puzzle-tier: 0 · category: mainline · spoiler: late-game_
 
-   _enemy-tier: 3 — Dewdrop boss fight; Fat Boy + beached whale for cover._ [C:4]
+   _enemy-tier: 3 — Dewdrop boss fight; Fat Boy._ [C:4]
    > Pre-fight NORA is in the cliff bunker before this encounter.
 
 _source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confidence: medium · enemy-tier: 3 · puzzle-tier: 0 · category: mainline · spoiler: story_
+
+   _enemy-tier: 5 — beached whale for cover._ [C:4]
+
+_source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confidence: medium · enemy-tier: 5 · puzzle-tier: 0 · category: mainline · spoiler: story_
 
 3. **Lighthouse Keeper's Home** (navigation) — approach the lighthouse.
 4. **Lighthouse Door + TV Chair** (story-gate) — sit on the TV chair inside the lighthouse; triggers E49.
@@ -50,4 +54,4 @@ _source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confiden
 
 - The beached whale on the beach is usable as line-of-sight cover during the fight.
 
-_source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confidence: medium · enemy-tier: 3 · puzzle-tier: 0 · category: mainline · spoiler: story_
+_source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confidence: medium · enemy-tier: 5 · puzzle-tier: 0 · category: mainline · spoiler: story_

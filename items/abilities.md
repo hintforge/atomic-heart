@@ -183,9 +183,9 @@ Cross-language consensus (English + Russian community; 5+ sources, 2 languages).
 
 _source: P1 deep research 2026-05-08 · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
 
-Boss note (boss names from enemy-tier 3, `warning_tiers.md`): the laser sweeps in the Reddit reports were those of the Dewdrop spider boss.
+Boss note (boss names from enemy-tier 3, attack patterns from enemy-tier 5, `warning_tiers.md`): the laser sweeps in the Reddit reports were those of the Dewdrop spider boss.
 
-_source: P1 deep research 2026-05-08 · capture: web_fetch · confidence: high · enemy-tier: 3 · puzzle-tier: 0 · category: mainline · spoiler: story_
+_source: P1 deep research 2026-05-08 · capture: web_fetch · confidence: high · enemy-tier: 5 · puzzle-tier: 0 · category: mainline · spoiler: story_
 
 **Crucial on Armageddon difficulty.** Sponge Effect + shield-up-vs-Ivy whip damage is a documented Armageddon-survival technique for Pavlov (Ch.8).
 
