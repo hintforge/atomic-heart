@@ -16,11 +16,15 @@
 4. **FOV:** Slider maximum (~95–100 effective)
 5. **Mouse acceleration:** OFF (toggle in Settings > Controls, or Input.ini hack)
 6. **VO language:** Russian (with English subtitles) — widely recommended as superior audio (see Audio section)
-7. **Auto-QTE:** ON (Settings > Accessibility) — eliminates the 4-button Plyusch grapple instant-kill risk
+7. **Auto-QTE:** ON (Settings > Accessibility)
 8. **KB&M players:** install r3visited mod (Nexus #46) before Ch.1 — see `controls.md`
 
 _source: P1 deep research 2026-05-08 · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
 [Confirmed: 5 sources — PCGamingWiki, GGRecon, GamesRadar, Hard-Drive.net, Escapist]
+
+Note for item 7 (enemy-tier 5, `warning_tiers.md`): eliminates the 4-button Plyusch grapple instant-kill risk.
+
+_source: P1 deep research 2026-05-08 · capture: web_fetch · confidence: high · enemy-tier: 5 · puzzle-tier: 0 · category: mainline · spoiler: story_
 
 ---
 
@@ -133,7 +137,6 @@ Added in Patch 1.3.4. **Recommendation: ON** — Char-les's banter overlaps with
 | **Special-contrast mode** | High-contrast alternative | |
 | **Black-and-white mode** | | |
 | **Element highlight** | Highlights interactive objects | |
-| **Auto-QTE** | Auto-wins all Plyusch grapple QTEs | **Strongly recommended** — missing a 4-input QTE is an instant kill regardless of HP |
 | **Auto-heal** | Automatically uses Neuromed when HP drops low | Optional; manual gives more Neuromed economy |
 | **Subtitle size + background** | Added Patch 1.3.4 | Increase for readability in Academy of Consequences (dense monologue subtitles) |
 | **HUD scaling** | Added Patch 1.3.4 | |
@@ -141,6 +144,14 @@ Added in Patch 1.3.4. **Recommendation: ON** — Char-les's banter overlaps with
 
 _source: P1 deep research 2026-05-08 · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
 [Confirmed: 4 sources — Mundfish X/Twitter, ClutchPoints, PCGamesN, Destructoid]
+
+The Auto-QTE row is listed separately (enemy-tier 5, `warning_tiers.md`):
+
+| Setting | Notes |
+|---|---|
+| **Auto-QTE** | Auto-wins all Plyusch grapple QTEs | **Strongly recommended** — missing a 4-input QTE is an instant kill regardless of HP |
+
+_source: P1 deep research 2026-05-08 · capture: web_fetch · confidence: high · enemy-tier: 5 · puzzle-tier: 0 · category: mainline · spoiler: story_
 
 ---
 

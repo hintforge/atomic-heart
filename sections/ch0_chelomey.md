@@ -36,7 +36,11 @@ Apply these before starting Ch.1 — the prologue is the safest time:
 2. **FOV:** slider max (~95–100)
 3. **Chromatic aberration:** OFF
 4. **VO language:** Russian + English subtitles (recommended — widely considered superior; see `settings.md`)
-5. **Auto-QTE:** ON (Settings > Accessibility — eliminates Plyusch grapple instant-kill later)
+5. **Auto-QTE:** ON (Settings > Accessibility)
+
+Note for item 5 (enemy-tier 5, `warning_tiers.md`): Auto-QTE eliminates Plyusch grapple instant-kill later.
+
+_source: P1 deep research 2026-05-08 · capture: web_fetch · confidence: high · enemy-tier: 5 · puzzle-tier: 0 · category: mainline · spoiler: story_
 
 ## Controls (apply now, before Ch.1)
 

@@ -50,10 +50,14 @@ _source: P1 deep research 2026-05-08 · capture: web_fetch · confidence: high �
 | Use Neuromed (heal) | X | |
 | Interact / Enter or exit vehicle | F | Same key for both; confirmed live 2026-05-12 |
 | Lockpick rotate | Q / E (default) → A / D (r3visited mod) | r3visited changes this; less cramped with A/D |
-| QTE inputs | Q / E (default) → Left Click / Right Click (r3visited) | Plyusch grapple QTE is 4-button; missing = instant kill unless Auto-QTE enabled |
+| QTE inputs | Q / E (default) → Left Click / Right Click (r3visited) | |
 
 _source: P1 deep research 2026-05-08 · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
 [Confirmed: GameNGuides, MagicGameWorld, MP1st, Nexus r3visited #46]
+
+Note for the QTE inputs row (enemy-tier 5, `warning_tiers.md`): Plyusch grapple QTE is 4-button; missing = instant kill unless Auto-QTE enabled.
+
+_source: P1 deep research 2026-05-08 · capture: web_fetch · confidence: high · enemy-tier: 5 · puzzle-tier: 0 · category: mainline · spoiler: story_
 
 ### Remapping notes (PC)
 
@@ -95,11 +99,18 @@ _source: P1 deep research 2026-05-08 · capture: web_fetch · confidence: high �
 |---|---|
 | Bind **cartridge swap** to a mouse side button (thumb button) | Default middle-click on wheel is slow in a fight; side button is instant |
 | Install **r3visited mod (Nexus #46)** before Ch.1 | Eliminates the sprint-lock issue; also remaps QTE to LMB/RMB and lockpick to A/D |
-| **Auto-QTE on** (Settings > Accessibility, Patch 1.14.4.0+) | Plyusch grapple is a 4-input QTE; missing any input = instant kill; Auto-QTE eliminates this |
 | Disable mouse smoothing | Set `bEnableMouseSmoothing=False` in `%LOCALAPPDATA%\AtomicHeart\Saved\Config\WindowsNoEditor\Input.ini` if not exposed in your patch |
 
 _source: P1 deep research 2026-05-08 · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
 [Confirmed: PCGamingWiki, Reddit threads, Nexus r3visited #46, GGRecon]
+
+The Auto-QTE recommendation is listed separately (enemy-tier 5, `warning_tiers.md`):
+
+| Recommendation | Why |
+|---|---|
+| **Auto-QTE on** (Settings > Accessibility, Patch 1.14.4.0+) | Plyusch grapple is a 4-input QTE; missing any input = instant kill; Auto-QTE eliminates this |
+
+_source: P1 deep research 2026-05-08 · capture: web_fetch · confidence: high · enemy-tier: 5 · puzzle-tier: 0 · category: mainline · spoiler: story_
 
 ---
 
