@@ -14,24 +14,25 @@ _source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confiden
 
 **NORA booth:** YES — save room on the approach to the final arena, with a vending machine. [C:3]
 
-_source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confidence: medium · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
+_source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confidence: medium · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: story_
 
-_enemy-tier: 2 note: arena contains the Twins boss fight_
+_enemy-tier: 3 note: arena contains the Twins boss fight_
 
-_source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confidence: medium · enemy-tier: 2 · puzzle-tier: 0 · category: mainline · spoiler: story_
+_source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confidence: medium · enemy-tier: 3 · puzzle-tier: 0 · category: mainline · spoiler: story_
 
 ## Sequential Gates
 
 1. **Zipline Descent** (cutscene).
 2. **Old Facility Entry Gate** (trigger).
-
-_source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confidence: medium · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
-
-3. **Final Arena** (story-gate). _enemy-tier: 2 — Twins boss fight (Left then both simultaneously); elevator up between phases_ [C:3]
+3. **Final Arena** (story-gate).
    > Pre-arena NORA save room with vending machine is here — use it before engaging.
-4. **Elevator Between Phases** (trigger) — _enemy-tier: 2_
 
-_source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confidence: medium · enemy-tier: 2 · puzzle-tier: 0 · category: mainline · spoiler: story_
+_source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confidence: medium · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: story_
+
+   _enemy-tier: 5 — Twins boss fight (Left then both simultaneously); elevator up between phases_ [C:3]
+4. **Elevator Between Phases** (trigger) — _enemy-tier: 5_
+
+_source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confidence: medium · enemy-tier: 5 · puzzle-tier: 0 · category: mainline · spoiler: story_
 
 5. **Elevator to Sechenov Office** (trigger) — leads to sechenov_office_final.
 

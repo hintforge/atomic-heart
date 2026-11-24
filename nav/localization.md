@@ -129,9 +129,9 @@ When player-position confidence is low in any Complex or TG zone, ask any of:
 
 _source: P2 sandbox-side ingestion · added 2026-05-09 convergence · capture: web_fetch · enemy-tier: 0 · puzzle-tier: 0 · spoiler: none_
 
-- _enemy-tier: 2 note: mid-run boss encounter (Natasha rematch)_
+- _enemy-tier: 3 note: mid-run boss encounter (Natasha rematch)_
 
-_source: P2 sandbox-side ingestion · added 2026-05-09 convergence · capture: web_fetch · enemy-tier: 2 · puzzle-tier: 0 · spoiler: late-game_
+_source: P2 sandbox-side ingestion · added 2026-05-09 convergence · capture: web_fetch · enemy-tier: 3 · puzzle-tier: 0 · spoiler: story_
 
 ### vdnh_atrium
 - **Reception desk** with a central statue holding a hammer in its raised hand.

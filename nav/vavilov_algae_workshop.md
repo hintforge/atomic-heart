@@ -20,6 +20,7 @@ _source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confiden
 2. **Shattered Observation Window** (cutscene/trigger) — glass panel smashed by an impact; a creature cameos through it. _enemy-tier: 2 — this is a mid-game creature preview_
 
 _source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confidence: medium · enemy-tier: 2 · puzzle-tier: 0 · category: mainline · spoiler: late-game_
+
 3. **Ice Cartridge Blueprint Safe Room** (item-pickup) — **NORA here**. [C:3]
 4. **Algae Canister Pickup** (item-pickup) — story goal collected.
 

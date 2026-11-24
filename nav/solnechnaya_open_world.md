@@ -21,23 +21,27 @@
 
 ## Major Landmarks (for localization)
 
-| Landmark | Nav purpose | tier |
-|---|---|---|
-| Monorail Station | Near spawn / map center | none |
-| Arena | HOG-7 arena zone gate — _enemy-tier: 2_ | late-game |
-| Boat Station / lake dock | Near TG6 drainage pipe, HAWK relay | none |
-| Kollektiv Complex | Giant Worker-and-Kolkhoz-Woman statue + dam; near TG9 | none |
-| Worker-and-Kolkhoz-Woman statue | Western landmark | none |
-| Motherland statue | Distant landmark | none |
-| Reaper monument | Open field landmark | none |
-| Plants 1 & 2 | Industrial area | none |
-| Sechenov Research Center | Northeast — Ch.4 entry | none |
-| Lastochkin Theater | Southeast walkway — Ch.4 | none |
-| Pavlov Bridge | North — Ch.5 entry (PERMANENT PoNR) | none |
-| Lighthouse | Far coast — Ch.6 | none |
-| TG hatches | TG1: blue-roof bunker W of Monorail (Volan tower nearby) · TG2: sewer near Boat Station · TG6: drainage pipe · TG8: inside Research Center · TG9: Kollektiv manhole · TG10: pigsty · TG11: across from Theater · TG12: beach cave | none |
+| Landmark | Nav purpose |
+|---|---|
+| Monorail Station | Near spawn / map center |
+| Arena | Arena zone gate |
+| Boat Station / lake dock | Near TG6 drainage pipe, HAWK relay |
+| Kollektiv Complex | Giant Worker-and-Kolkhoz-Woman statue + dam; near TG9 |
+| Worker-and-Kolkhoz-Woman statue | Western landmark |
+| Motherland statue | Distant landmark |
+| Reaper monument | Open field landmark |
+| Plants 1 & 2 | Industrial area |
+| Sechenov Research Center | Northeast — Ch.4 entry |
+| Lastochkin Theater | Southeast walkway — Ch.4 |
+| Pavlov Bridge | North — Ch.5 entry (PERMANENT PoNR) |
+| Lighthouse | Far coast — Ch.6 |
+| TG hatches | TG1: blue-roof bunker W of Monorail (Volan tower nearby) · TG2: sewer near Boat Station · TG6: drainage pipe · TG8: inside Research Center · TG9: Kollektiv manhole · TG10: pigsty · TG11: across from Theater · TG12: beach cave |
 
-_source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confidence: high · enemy-tier: 2 · puzzle-tier: 2 · category: mainline · spoiler: late-game_
+_source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
+
+Arena: HOG-7 arena zone gate. _enemy-tier: 3_
+
+_source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confidence: high · enemy-tier: 3 · puzzle-tier: 0 · category: mainline · spoiler: story_
 
 ## Chapter 3 Story Progression
 

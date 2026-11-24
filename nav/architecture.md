@@ -29,10 +29,12 @@ vector-extensions: puzzles, npcs, optional_zones, testing_grounds
 
 **Game-type label:** `hub-and-spoke-with-dungeons`
 The story alternates between two open-world hub zones and scripted indoor "Complex" dungeons. Optional Testing Grounds are 8 underground bunkers reached from the open world. Mainstream English guides label it "open world" but the open world only navigates between two story arcs; it's a hub-spoke wrapper around heavily linear dungeons.
+
 _source: Compass/Deep Research 2026-05-08 · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
 
 **Localization-mechanism class:** `hybrid`
 Open-world zones use a map system (map button; markers for Testing Grounds, complexes, towers, NORA stations, vehicles). Indoor Complexes and Testing Grounds use landmark navigation only — no map, only objective markers (yellow icon), corridor signage, and Charles voice prompts. Exception: custom map markers cannot be placed in open-world zones. Patch 1.14.x added "Highlight Interactive Objects" option overlaying gold/yellow tints on collectibles.
+
 _source: Compass/Deep Research 2026-05-08 · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
 
 **Entry node:** `chelomey_city_prologue`
@@ -229,7 +231,7 @@ _source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confiden
 
 ### NORA Booth Locations
 
-_source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
+_source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confidence: per row · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
 
 | Zone-id | Location description | Sequential gate | Confidence | Notes | tier |
 |---|---|---|---|---|---|
@@ -253,11 +255,11 @@ _source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confiden
 | solnechnaya_open_world | Multiple roadside mushroom huts + landmark safe rooms | Distributed | [C:3] | | none |
 | kollektiv_village | Village outskirts safe-room hut | — | [C:2] | | none |
 | boat_station_lake | Dock safe room near the HAWK Relay | — | [C:2] | | none |
-| arena_park | Outer save room before the transition gate | Pre-gate | [C:2] | _enemy-tier: 2 note: gate leads to HOG-7 boss arena_ | late-game |
+| arena_park | Outer save room before the transition gate | Pre-gate | [C:2] | | none |
 | vdnh_atrium | Reception-area save room | Gate 2 | [C:3] | | none |
 | vdnh_chelomey_floor | Floor-internal save room | Per floor | [C:2] | | none |
 | vdnh_vavilov_floor | Floor-internal save room | Per floor | [C:2] | | none |
-| vdnh_pavlov_floor | Save room before the lower exhibit section | Pre-lower-exhibit | [C:3] | _enemy-tier: 2 note: lower section contains Plyusch boss arena_ | late-game |
+| vdnh_pavlov_floor | Save room before the lower exhibit section | Pre-lower-exhibit | [C:3] | | none |
 | vdnh_sakhalin_floor | Floor-internal save room | Per floor | [C:2] | | none |
 | magnetic_absorption_zone | Save point between puzzle rooms — chest + floor switch present | Mid-zone | [C:2] | | none |
 | vdnh_drill_mode | Save room after the snake-game sequence | Mid-zone | [C:2] | | none |
@@ -270,22 +272,37 @@ _source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confiden
 | testing_ground_12 | Entry-cave NORA + multiple internal save rooms | Distributed | [C:3] | | none |
 | sechenov_research_center_ext | None on roof | — | [C:2] | | none |
 | sechenov_research_center_int | Entry foyer save room | Gate 1 | [C:2] | | none |
-| lastochkin_theater_grounds | Walkway save-room/vending machine before the grounds gate | Pre-gate | [C:3] | _enemy-tier: 2 note: gate leads to Belyash boss_ | late-game |
+| lastochkin_theater_grounds | Walkway save-room/vending machine before the grounds gate | Pre-gate | [C:3] | | none |
 | lastochkin_theater_int | Multiple — basement, post-elevator, bar break room | Distributed | [C:3] | | none |
 | theater_control_room | None inside | — | [C:2] | Nearest NORA is the bar break room in lastochkin_theater_int | none |
-| theater_stage | Save room immediately before the stage's final chamber | Pre-final-gate | [C:3] | _enemy-tier: 2 note: final chamber contains Natasha boss_ | late-game |
+| theater_stage | Save room immediately before the stage's final chamber | Pre-final-gate | [C:3] | | none |
 | pavlov_bridge | Bridge-end safe room | End | [C:2] | | none |
 | pavlov_sanatorium | Foyer save room | Early | [C:2] | | none |
 | pavlov_hospital | Multiple ward save rooms | Per floor | [C:2] | | none |
 | pavlov_morgue | Save room before the second-floor combination puzzle | Mid-zone | [C:2] | | none |
 | pavlov_surgical_lab | Pre-cutscene save room | Gate 3 | [C:2] | | none |
-| lighthouse_beach | (1) Cliff-bunker save room before the large-creature encounter; (2) lighthouse-approach save room | Pre-encounter + pre-lighthouse | [C:2] | _enemy-tier: 2 note: encounter is Dewdrop boss_ | late-game |
+| lighthouse_beach | (1) Cliff-bunker save room; (2) lighthouse-approach save room | Pre-lighthouse | [C:2] | | none |
 | academy_underwater | Save room post-elevator, near the chair by the glass wall | Mid-zone | [C:2] | | none |
-| academy_archive_room | Save room before the ending-choice sequence | End | [C:2] | _spoiler: story — gated until story opt-in_ | story |
-| chelomey_revisit | Save room on the approach to the final arena | Pre-final | [C:3] | _enemy-tier: 2 note: arena contains Twins boss_ | late-game |
-| sechenov_office_final | None | — | — | Cutscene/boss only | late-game |
+| academy_archive_room | Save room near the exit | End | [C:2] | | none |
+| chelomey_revisit | Save room on the approach to the final arena | Pre-final | [C:3] | | story |
+| sechenov_office_final | None | — | — | Cutscene/boss only | story |
 
 _source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confidence: per row · enemy-tier: 3 · puzzle-tier: 3 · category: mainline · spoiler: story_
+
+Row notes:
+
+- academy_archive_room: the save room is before the ending-choice sequence. _spoiler: story — gated until story opt-in_
+
+_source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confidence: per row · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: story_
+
+- arena_park: _enemy-tier: 3 note: gate leads to HOG-7 boss arena_
+- vdnh_pavlov_floor: _enemy-tier: 3 note: lower section contains Plyusch boss arena_
+- lastochkin_theater_grounds: _enemy-tier: 3 note: gate leads to Belyash boss_
+- theater_stage: _enemy-tier: 3 note: final chamber contains Natasha boss_
+- lighthouse_beach: the cliff-bunker save room is before the large-creature encounter. _enemy-tier: 3 note: encounter is Dewdrop boss_
+- chelomey_revisit: _enemy-tier: 3 note: arena contains Twins boss_
+
+_source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confidence: per row · enemy-tier: 3 · puzzle-tier: 0 · category: mainline · spoiler: story_
 
 ### Fast-Travel Network
 
@@ -349,6 +366,7 @@ _source: Compass/Deep Research 2026-05-08 (P2) · capture: web_fetch · confiden
 | Blood on Crystal | 2026-04-16 | boc_orb_lab, boc_wave_platform, boc_submarine, boc_crystal_arrival, boc_crystal_archive, boc_crystal_recreation, boc_crystal_residential_1, boc_crystal_residential_2, boc_crystal_factory, boc_crystal_indoor_beach, boc_crystal_core (11 zones; final DLC) | **doctor ingested 2026-06-05 -- see §DLC -- Blood on Crystal** |
 
 Note: Ch.3 contains narrative "Limbo dream sequences" — these are base-game content, NOT the Trapped in Limbo DLC. Easy to confuse.
+
 _source: Compass/Deep Research 2026-05-08 · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: dlc:Annihilation Instinct_
 
 ---
@@ -356,6 +374,7 @@ _source: Compass/Deep Research 2026-05-08 · capture: web_fetch · confidence: h
 ## Current Patch
 
 **1.16.3.0** (post-Apr 2026) — final base-game polish pass for "Blood on Crystal" DLC compatibility. Adds ray tracing (PC), accessibility options, post-game "Return to Facility 3826" free-roam mode (1.14.4.0), NG+ with colored-aura enemy modifiers (1.8.0.0). Pre-1.6 guides are unreliable for "Bug in the System" workarounds (now patched) and NG+ enemy behavior (didn't exist pre-1.8). See `../reference.md` §NG+ for aura-modifier table.
+
 _source: dsogaming, mp1st, Steam patch notes, exputer, updatecrazy · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
 
 ---
