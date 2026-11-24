@@ -41,10 +41,14 @@ _source: High Ground Gaming, EN Fandom · capture: web_fetch · confidence: high
 ---
 
 ## Plyusch (standard encounter)
-*Pavlov mini-boss, recurring as standard enemy in VDNH + Range 9 + "Bloody Courier" side quest.*
+*Recurring as standard enemy in VDNH + Range 9 + "Bloody Courier" side quest.*
 
 _source: GameRant Plyusch guide, High Ground Gaming · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
 [Confirmed: 2 sources]
+
+> Boss heads-up: in Pavlov it is fought as a mini-boss.
+
+_source: GameRant Plyusch guide, High Ground Gaming · capture: web_fetch · confidence: high · enemy-tier: 2 · puzzle-tier: 0 · category: mainline · spoiler: story_
 
 - **Visual ID:** `sprites/plyusch.jpg` | Icon: `sprites/icons/T_Plyush.png`
 - **Class:** Polymer exoskeleton with dog-brain neural core. Fast, aggressive, melee.

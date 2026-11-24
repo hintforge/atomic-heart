@@ -118,8 +118,12 @@ BoC provides access to the **most powerful weapons in the whole game** per commu
 
 ## Traversal
 
-Crystal and Egyptian-themed environments. Two main settings: the **Wave Platform** (external/internal mix, water-surrounded, Moray eels in water) and the classified **Crystal Complex** -- Egyptian-themed (sarcophagi), crystalline, restricted facility where humans undergo **Polymorph** transformation. Combat is the dominant focus, returning to and expanding the base-game FPS formula with CHANCE-module flexibility.
+Crystal and Egyptian-themed environments. Two main settings: the **Wave Platform** (external/internal mix, water-surrounded) and the classified **Crystal Complex** -- Egyptian-themed (sarcophagi), crystalline, restricted facility where humans undergo **Polymorph** transformation. Combat is the dominant focus, returning to and expanding the base-game FPS formula with CHANCE-module flexibility.
 [Confirmed: 2 languages]
+
+Enemies in the water around the Wave Platform: Moray eels.
+
+_source: Deep Research 2026-05-27 · capture: web_fetch · confidence: high · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: dlc:blood-on-crystal_
 
 ## Optional content registry
 
