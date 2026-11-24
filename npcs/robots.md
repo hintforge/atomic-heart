@@ -308,6 +308,8 @@ Boss icon rows and the boss part of the not-in-set list (boss names from enemy-t
 | `sprites/icons/T_Ejiha.png` | Hedgie (HOG-7) | "Ёж" = hedgehog (RU) |
 | `sprites/icons/T_Natasha.png` | Natasha (NA-T256) | Direct |
 
+_source: web images + FModel extracts 2026-05-13 · capture: web_fetch · confidence: high · enemy-tier: 3 · puzzle-tier: 0 · category: mainline · spoiler: story_
+
 Also not in the InfoIcons set: Dewdrop, Twins.
 
 _source: web images + FModel extracts 2026-05-13 · capture: web_fetch · confidence: high · enemy-tier: 3 · puzzle-tier: 0 · category: mainline · spoiler: story_
