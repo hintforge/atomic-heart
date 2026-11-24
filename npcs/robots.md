@@ -19,7 +19,7 @@ _source: EN Fandom, High Ground Gaming · capture: web_fetch · confidence: high
 ## VOV-A6 Lab Tech (Vova / Cockroach / Skinny / Mustache)
 *Solnechnaya open world, Computational Center, all underground complexes — most common robot in the game.*
 
-_source: EN Fandom (VOV-A6 page), High Ground Gaming, NamuWiki mirror · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
+_source: EN Fandom (VOV-A6 page), High Ground Gaming, NamuWiki mirror · capture: web_fetch · confidence: high · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: progression_
 [Confirmed: 3 sources]
 
 - **Visual ID:** `sprites/lab_tech.jpg` | Icons: `sprites/icons/T_Vov.png` (white/melee), `sprites/icons/T_BlackVov.png` (black/laser), `sprites/icons/T_ShieldVov.png` (shield) | Backup: `sprites/lab_tech_2.jpg`
@@ -29,15 +29,19 @@ _source: EN Fandom (VOV-A6 page), High Ground Gaming, NamuWiki mirror · capture
 - **Drops:** Metal Parts, Synthetic Material (frequent); Advanced variant additionally drops Superconductor and rarely Microelectronics.
 - **Quirk:** **Railgun disintegrates Lab Techs cleanly — no loot drop AND permanently removes them from the map.** Pchela cannot restore a Railgun-killed robot. Save Railgun for boss-tier targets if you need crafting parts from kills, or if you want the farming loop to keep working.
 
+_source: EN Fandom, High Ground Gaming, NamuWiki · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
+
 > **Cross-system dependency** — see `dependencies.md` DEP-017: Railgun on Lab Techs destroys the Metal Parts / Synthetic Material farming loop -- no loot drops from disintegrated bodies, and Pchela cannot restore permanently-removed robots.
 _[Permanent map removal confirmed: r/atomicheart community thread 2026-05-19]_
+
+_source: EN Fandom, High Ground Gaming, NamuWiki · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
 
 ---
 
 ## ARU-31/6 Rotorobot (Rotobot)
 *Wheat fields, Solnechnaya outskirts, Forester forest — open-world.*
 
-_source: EN Fandom, High Ground Gaming, NamuWiki · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
+_source: EN Fandom, High Ground Gaming, NamuWiki · capture: web_fetch · confidence: high · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: progression_
 [Confirmed: 3 sources]
 
 - **Visual ID:** `sprites/rotorobot.jpg` | Icon: `sprites/icons/T_Rotorobot.png` | Backup: `sprites/rotorobot_2.jpg`
@@ -47,12 +51,14 @@ _source: EN Fandom, High Ground Gaming, NamuWiki · capture: web_fetch · confid
 - **Drops:** Metal Parts, Synthetic Material (frequent); Superconductor, Chemistry (frequent); Microelectronics (rare). Primary Synthetic source.
 - **Quirk:** Repaired by nearby Pchela nests in the open world — destroy the Pchela first if farming. Susceptible to NG+ auras "Daredevil," "Master of the Elements," "Kamikaze," "Lightning Rod."
 
+_source: EN Fandom, High Ground Gaming · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
+
 ---
 
 ## MFU-68 Laborer
 *Open-world Solnechnaya and Forester forest, often in pairs.*
 
-_source: EN Fandom, High Ground Gaming · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
+_source: EN Fandom, High Ground Gaming · capture: web_fetch · confidence: high · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: progression_
 [Confirmed: 2 sources]
 
 - **Visual ID:** `sprites/laborer.jpg` | No InfoIcon found (may be in DLC paks or a different icon set)
@@ -61,6 +67,8 @@ _source: EN Fandom, High Ground Gaming · capture: web_fetch · confidence: high
 - **Weaknesses:** Polymer Shield negates melee well. Freeze + heavy melee combo is efficient. Standard variant has modest HP.
 - **Drops:** Metal Parts, Synthetic Material.
 - **Quirk:** Almost always in pairs; isolate one with Polymer Jet / Telekinesis before engaging.
+
+_source: NamuWiki mirror · capture: web_fetch · confidence: medium · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
 
 ## MFU-68/CP "Duck"
 *Variant of MFU-68 carrying a firearm.*
@@ -75,7 +83,7 @@ _source: NamuWiki mirror · capture: web_fetch · confidence: medium · enemy-ti
 ## RAF-9 Engineer
 *Algae Workshop and Hot Workshop hallways, open-world repair points.*
 
-_source: EN Fandom, High Ground Gaming, Steam 100% achievement guide · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
+_source: EN Fandom, High Ground Gaming, Steam 100% achievement guide · capture: web_fetch · confidence: high · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: progression_
 [Confirmed: 3 sources]
 
 - **Visual ID:** `sprites/engineer.jpg` | Icon: `sprites/icons/T_Raf.png` (internal: T_Raf)
@@ -85,12 +93,14 @@ _source: EN Fandom, High Ground Gaming, Steam 100% achievement guide · capture:
 - **Drops:** Superconductor (frequent — primary farming target), Chemistry (rare), Microelectronics (rare), Energy Module (rare).
 - **Quirk:** Killing a passive Engineer can flag other Engineers in the area hostile. Listed in NG+ aura table.
 
+_source: TechRaptor TG12 guide, EN Fandom, NamuWiki mirror · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
+
 ---
 
 ## LUC-1 Owl (Laser Owl)
 *Ceilings of Vavilov Seed Vault, Theater interior, TG12.*
 
-_source: TechRaptor TG12 guide, EN Fandom, NamuWiki mirror · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
+_source: TechRaptor TG12 guide, EN Fandom, NamuWiki mirror · capture: web_fetch · confidence: high · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: progression_
 [Confirmed: 3 sources]
 
 - **Visual ID:** `sprites/owl.jpg` | Icon: `sprites/icons/T_Chicken.png` (internal: T_Chicken -- dev codename)
@@ -114,7 +124,7 @@ _source: TechRaptor TG12 guide, EN Fandom, NamuWiki mirror · capture: web_fetch
 ## GMC-69 Vatrushka (VShK-69 Vatrushka)
 *Mid-game onward; mobile turret deployments in indoor and open-world combat.*
 
-_source: High Ground Gaming, EN Fandom, NamuWiki · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
+_source: High Ground Gaming, EN Fandom, NamuWiki · capture: web_fetch · confidence: high · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: progression_
 [Confirmed: 3 sources]
 
 - **Visual ID:** `sprites/vatrushka.jpg` | Icon: `sprites/icons/T_Vatrushka.png` | Three color variants (shooting / flamethrower / laser)
@@ -123,12 +133,14 @@ _source: High Ground Gaming, EN Fandom, NamuWiki · capture: web_fetch · confid
 - **Weaknesses:** Relatively low HP. Shok stuns instantly. Hit during reposition.
 - **Drops:** Metal Parts, Synthetic Material; rarely Microelectronics.
 
+_source: High Ground Gaming, EN Fandom, NamuWiki · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
+
 ---
 
 ## DOC
 *Pavlov Complex and later linear sections; uncommon.*
 
-_source: High Ground Gaming, EN Fandom, NamuWiki · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
+_source: High Ground Gaming, EN Fandom, NamuWiki · capture: web_fetch · confidence: high · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: progression_
 [Confirmed: 3 sources]
 
 - **Visual ID:** `sprites/doc.jpg` | Icon: `sprites/icons/T_Medic.png` (internal: T_Medic)
@@ -142,7 +154,7 @@ _source: High Ground Gaming, EN Fandom, NamuWiki · capture: web_fetch · confid
 ## WSP-9 Pchela (Pchala — repair/security drone)
 *Open-world Solnechnaya, all complexes — nests are persistent infinite-respawn sources.*
 
-_source: EN Fandom, High Ground Gaming · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
+_source: EN Fandom, High Ground Gaming · capture: web_fetch · confidence: high · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: progression_
 [Confirmed: 2 sources]
 
 - **Visual ID:** `sprites/pchela.jpg` | Icon: `sprites/icons/T_Bee.png` (internal: T_Bee)
@@ -152,14 +164,18 @@ _source: EN Fandom, High Ground Gaming · capture: web_fetch · confidence: high
 - **Drops:** Metal Parts, Synthetic Material (small amounts).
 - **Quirk:** **Repair Pchelas will resurrect downed robots in seconds.** Always destroy the Pchela nest or disable the Hawk relay before farming repeat kills — otherwise the farm becomes a damage sink. Core mechanic behind the Vova-cluster farm.
 
+_source: GamePretty Polygons Guide, High Ground Gaming · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
+
 > **Cross-system dependency** -- see `dependencies.md` DEP-022: Pchela repairing a destroyed Dandelion camera is the reset mechanism for the camera-kill farming loop in `items/crafting_materials.md`. HAWK relay must stay active (not overloaded) for this loop to function.
+
+_source: GamePretty Polygons Guide, High Ground Gaming · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
 
 ---
 
 ## Dandelion (Security Camera)
 *Open-world hubs and complex interiors.*
 
-_source: GamePretty Polygons Guide, High Ground Gaming · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
+_source: GamePretty Polygons Guide, High Ground Gaming · capture: web_fetch · confidence: high · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: progression_
 [Confirmed: 2 sources]
 
 - **Visual ID:** `sprites/dandelion_camera.jpg` | No InfoIcon (stationary object, not an AI enemy)
@@ -168,12 +184,14 @@ _source: GamePretty Polygons Guide, High Ground Gaming · capture: web_fetch · 
 - **Weaknesses:** Single Shok pulse disables temporarily; physical destruction is permanent until a Pchela repairs it. Disabling the Hawk relay disables ALL Dandelions in the ecosystem at once.
 - **Drops:** Negligible.
 
+_source: High Ground Gaming · capture: web_fetch · confidence: medium · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
+
 ---
 
 ## Mother (Sprout Nest)
 *Indoor mutant zones — Pavlov, Algae/Pesticide Workshops, VDNH interiors.*
 
-_source: High Ground Gaming · capture: web_fetch · confidence: medium · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
+_source: High Ground Gaming · capture: web_fetch · confidence: medium · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: progression_
 [Single source — verify]
 
 - **Visual ID:** `sprites/mother.jpg` | Icon: `sprites/icons/T_Mutant.png` (naming quirk -- nest uses "Mutant" icon internally) | Backup: `sprites/mother_2.jpg`
@@ -182,14 +200,18 @@ _source: High Ground Gaming · capture: web_fetch · confidence: medium · enemy
 - **Weaknesses:** Very low HP; any weapon kills it in 1-2 hits. **Scan rooms for Mothers FIRST** — kill them before engaging mutants, otherwise Sprouts keep reanimating any corpse.
 - **Drops:** Biomaterials.
 
+_source: High Ground Gaming · capture: web_fetch · confidence: medium · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
+
 > **Cross-system dependency** — see `dependencies.md` DEP-019: Kill Mothers first, then Sprouts, then Mutants — Sprouts reanimate corpses until Mothers are gone.
+
+_source: High Ground Gaming · capture: web_fetch · confidence: medium · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
 
 ---
 
 ## MTU-7 Bumblebee
 *Open-world only (no interior spawns observed).*
 
-_source: High Ground Gaming · capture: web_fetch · confidence: medium · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
+_source: High Ground Gaming · capture: web_fetch · confidence: medium · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: progression_
 [Single source — verify]
 
 - **Visual ID:** `sprites/bumblebee.jpg` | Icon: `sprites/icons/T_Rosa.png` (internal: T_Rosa -- dev codename)
@@ -198,12 +220,14 @@ _source: High Ground Gaming · capture: web_fetch · confidence: medium · enemy
 - **Weaknesses:** Open fire during the vent window. Kalash bursts to the core, Fat Boy if grouped with other bots.
 - **Drops:** Metal Parts, Synthetic Material.
 
+_source: High Ground Gaming · capture: web_fetch · confidence: medium · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
+
 ---
 
 ## Drofa
 *Open-world, airborne cargo-class drone; mid-to-late game.*
 
-_source: High Ground Gaming · capture: web_fetch · confidence: medium · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
+_source: High Ground Gaming · capture: web_fetch · confidence: medium · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: progression_
 [Single source — verify]
 
 - **Visual ID:** `sprites/drofa.jpg` | Icon: `sprites/icons/T_Drofa.png`
@@ -212,6 +236,8 @@ _source: High Ground Gaming · capture: web_fetch · confidence: medium · enemy
 - **Weaknesses:** Fully upgraded Shok with chain damage shreds them; Electro is also strong.
 - **Drops:** Metal Parts, Microelectronics (rare).
 
+_source: EN Fandom BEA-D page, Steam DLC 100% guide 3020368999, GamingBolt DLC review · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: dlc:Annihilation Instinct_
+
 ---
 
 ## DLC — Annihilation Instinct
@@ -219,7 +245,7 @@ _source: High Ground Gaming · capture: web_fetch · confidence: medium · enemy
 ### BEA-D (base unit)
 *Mendeleev Complex — DLC only.*
 
-_source: EN Fandom BEA-D page, Steam DLC 100% guide 3020368999, GamingBolt DLC review · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: dlc:Annihilation Instinct_
+_source: EN Fandom BEA-D page, Steam DLC 100% guide 3020368999, GamingBolt DLC review · capture: web_fetch · confidence: high · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: dlc:Annihilation Instinct_
 [Confirmed: 3 sources]
 
 - **Class:** Magnetic-walker transport robot. Cylindrical cargo container with spherical control unit and hinged bipedal magnetic chassis.
@@ -231,14 +257,18 @@ _source: EN Fandom BEA-D page, Steam DLC 100% guide 3020368999, GamingBolt DLC r
 - **Drops:** Energy Modules.
 - **Quirk:** "Ostrich" variant carries Energy Modules needed to fully upgrade Klusha and Secateur. [Single source — verify in-game by reading BEA-D tooltips after scan.]
 
+_source: EN Fandom M4D-5 page, Steam DLC 100% guide 3020368999 · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: dlc:Annihilation Instinct_
+
 > **Cross-system dependency** — see `dependencies.md` DEP-021: Farm ostrich BEA-Ds for Energy Modules before DLC completion — "Maximum Strength" requires both DLC weapons fully upgraded.
+
+_source: EN Fandom M4D-5 page, Steam DLC 100% guide 3020368999 · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: dlc:Annihilation Instinct_
 
 ---
 
 ### M4D-5 Dummy X (Mads)
 *Mendeleev Complex — DLC only. Controlled by Baba Zina.*
 
-_source: EN Fandom M4D-5 page, Steam DLC 100% guide 3020368999 · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: dlc:Annihilation Instinct_
+_source: EN Fandom M4D-5 page, Steam DLC 100% guide 3020368999 · capture: web_fetch · confidence: high · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: dlc:Annihilation Instinct_
 [Confirmed: 2 sources]
 
 - **Class:** Humanoid combat robot disguised as testing-dummy mannequins.
@@ -247,15 +277,19 @@ _source: EN Fandom M4D-5 page, Steam DLC 100% guide 3020368999 · capture: web_f
 - **Drops:** Metal Parts, Synthetic Material.
 - **Quirk:** Static dummies in the Mendeleev hotel area are easy to mistake for set dressing — scan rooms before relaxing.
 
+_source: Steam DLC 100% guide 3020368999 (achievement "Lord of the Flies") · capture: web_fetch · confidence: medium · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: dlc:Annihilation Instinct_
+
 ---
 
 ### Strekoza (Dragonfly)
 *Mendeleev Complex — DLC only. Flying/airborne unit.*
 
-_source: Steam DLC 100% guide 3020368999 (achievement "Lord of the Flies") · capture: web_fetch · confidence: medium · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: dlc:Annihilation Instinct_
+_source: Steam DLC 100% guide 3020368999 (achievement "Lord of the Flies") · capture: web_fetch · confidence: medium · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: dlc:Annihilation Instinct_
 [Single source — verify on first DLC run]
 
 - Flying/airborne unit in Annihilation Instinct. Referenced by the **"Lord of the Flies"** achievement (use a Strekoza for the first time). Full attack profile and weaknesses not documented in surveyed text-form sources; confirm on first DLC run.
+
+_source: GamingBolt DLC review · capture: web_fetch · confidence: low · enemy-tier: 0 · puzzle-tier: 0 · category: easter-egg · spoiler: dlc:Annihilation Instinct_
 
 ---
 

@@ -14,6 +14,8 @@ _source: Compass/Deep Research 2026-05-08 (P1) · capture: web_fetch · confiden
 > - `[std-variant: unknown]` -- no information on whether a standard farmable variant exists
 > Drop sources in `crafting_materials.md` that list these enemy names likely refer to the standard variant, not the boss encounter.
 
+_source: Compass/Deep Research 2026-05-08 (P1) · capture: web_fetch · confidence: high · enemy-tier: 2 · puzzle-tier: 0 · category: mainline · spoiler: late-game_
+
 > **Cross-system dependency** -- see `dependencies.md` DEP-023: This taxonomy governs how the reader interprets every premium-material drop source in `items/crafting_materials.md`. The flags here are the authoritative source; `crafting_materials.md` mirrors them per-material.
 
 Boss entries are ordered by story encounter. Each entry includes: zone, weaknesses, phase breakdown, and any missable achievement tied to the fight.
@@ -214,6 +216,8 @@ _source: r/atomicheart/comments/1tkw1i0 (score 122, 0.94 ratio; 42 comments; red
 _source: r/atomicheart/comments/1tkw1i0 (comments by nate_mcrock91 score 4, Cyberbreaker2004 score 10, TheFurtivePhysician score 4; reddit_spoiler_tag: yes) · capture: manual_paste · confidence: medium · enemy-tier: 3 · puzzle-tier: 0 · category: mainline · spoiler: dlc:blood_on_crystal_
 
 > **[boss identity name withheld at story tier -- deliver name only when player reaches DLC 4]**
+
+_source: r/atomicheart/comments/1suhzwz (OP report); r/atomicheart/comments/1tkw1i0 · capture: manual_paste · confidence: medium · enemy-tier: 5 · puzzle-tier: 0 · category: mainline · spoiler: dlc:blood_on_crystal_
 
 - Final boss of Blood on Crystal (DLC 4).
 - **Community verdict:** considered significantly easier than Moray despite being the narrative climax boss. Described as "anticlimactic" by multiple commenters.

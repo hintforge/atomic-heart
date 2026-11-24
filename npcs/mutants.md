@@ -11,7 +11,7 @@
 ## Mutant (Standard)
 *Pavlov Complex, Algae Workshop, VDNH, Solnechnaya forest in patches.*
 
-_source: High Ground Gaming, GameRevolution drop list, RU PlayGround tips · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
+_source: High Ground Gaming, GameRevolution drop list, RU PlayGround tips · capture: web_fetch · confidence: high · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: progression_
 [Confirmed: 3 sources]
 
 - **Visual ID:** `sprites/mutant.jpg` | Icon: `sprites/icons/T_Nurse.png` (internal: T_Nurse) | Backup: `sprites/mutant_2.jpg`
@@ -21,12 +21,14 @@ _source: High Ground Gaming, GameRevolution drop list, RU PlayGround tips · cap
 - **Drops:** Biomaterials (primary), Chemistry.
 - **Quirk:** Always paired with Mother nests — destroy Mothers first or kills don't stick. Includes Poison Mutant and Fire Mutant variants with different elemental affinity; switch cartridge accordingly before engaging.
 
+_source: High Ground Gaming, EN Fandom · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
+
 ---
 
 ## Sprout (Sprout-spore)
 *Indoor mutant zones; airborne, paired with Mother nests.*
 
-_source: High Ground Gaming, EN Fandom · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
+_source: High Ground Gaming, EN Fandom · capture: web_fetch · confidence: high · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: progression_
 [Confirmed: 2 sources]
 
 - **Visual ID:** `sprites/sprout.jpg` | Icon: `sprites/icons/T_Pobeg.png` (internal: T_Pobeg -- "побег" = sprout/shoot, RU)
@@ -36,7 +38,11 @@ _source: High Ground Gaming, EN Fandom · capture: web_fetch · confidence: high
 - **Drops:** Biomaterials (small).
 - **Quirk:** **Kill mutants only after Mothers are destroyed and Sprouts cleared** — otherwise kills produce new mutants in seconds. Burning mutant corpses removes the reanimation target.
 
+_source: GameRant Plyusch guide, High Ground Gaming; segmentnext atomic-heart-plyusch, wotpack.ru Plyusch boss page (later encounters described as repeat boss fights) · capture: web_fetch · confidence: medium · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
+
 > **Cross-system dependency** — see `dependencies.md` DEP-019: Kill-order prerequisite — Mother → Sprout → Mutant. Kills do not stick until Mothers are cleared.
+
+_source: GameRant Plyusch guide, High Ground Gaming; segmentnext atomic-heart-plyusch, wotpack.ru Plyusch boss page (later encounters described as repeat boss fights) · capture: web_fetch · confidence: medium · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
 
 ---
 
@@ -71,29 +77,35 @@ _source: GameRant Plyusch guide, High Ground Gaming · capture: web_fetch · con
 ## Poison Mutant
 *Algae Workshop and Pesticide areas.*
 
-_source: Steam 100% achievement guide (scanner #12) · capture: web_fetch · confidence: medium · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
+_source: Steam 100% achievement guide (scanner #12) · capture: web_fetch · confidence: medium · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: progression_
 [Single source — verify]
 
 - Variant of standard Mutant; signature poison spray attack. Same weakness profile (Fire) but ranged threat is higher. Biomaterials drop.
+
+_source: Steam 100% achievement guide (scanner #13) · capture: web_fetch · confidence: medium · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: progression_
 
 ---
 
 ## Fire Mutant
 *Pesticide Workshop.*
 
-_source: Steam 100% achievement guide (scanner #13) · capture: web_fetch · confidence: medium · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
+_source: Steam 100% achievement guide (scanner #13) · capture: web_fetch · confidence: medium · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: progression_
 [Single source — verify]
 
 - Variant found in Pesticide Workshop. Fire-aligned; **switch to Ice cartridge against this variant** — do NOT use Fire (it's the standard weakness for normal Mutants but reverses here). Biomaterials drop.
 
+_source: EN Fandom, NamuWiki mirror · capture: web_fetch · confidence: medium · enemy-tier: 1 · puzzle-tier: 0 · category: mainline · spoiler: progression_
+
 > **Cross-system dependency** — see `dependencies.md` DEP-020: abilities.md recommends Fire for all organics; Fire Mutant reverses this — use Ice instead.
+
+_source: EN Fandom, NamuWiki mirror · capture: web_fetch · confidence: medium · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
 
 ---
 
 ## Mutant (Large)
 *Indoor mutant zones — larger variant of standard Mutant.*
 
-_source: EN Fandom, NamuWiki mirror · capture: web_fetch · confidence: medium · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_
+_source: EN Fandom, NamuWiki mirror · capture: web_fetch · confidence: medium · enemy-tier: 3 · puzzle-tier: 0 · category: mainline · spoiler: story_
 [Merged from sprites/index.md per zipper 2026-05-22 -- verify attack profile on encounter]
 
 - **Visual ID:** No jpg. | Icon: `sprites/icons/T_BigMutant.png` (internal: T_BigMutant)
@@ -101,3 +113,5 @@ _source: EN Fandom, NamuWiki mirror · capture: web_fetch · confidence: medium 
 - **Attacks:** Ranged Sprout projectile; close-range melee.
 - **Weaknesses:** Same as standard Mutant (Fire). Higher HP pool.
 - **Drops:** Biomaterials, Chemicals, Neuropolymer.
+
+_source: EN Fandom, NamuWiki mirror · capture: web_fetch · confidence: medium · enemy-tier: 3 · puzzle-tier: 0 · category: mainline · spoiler: story_
